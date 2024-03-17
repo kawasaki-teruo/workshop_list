@@ -34,7 +34,10 @@ jobs:
 
     - name: Run Scraper
       run: python scraper.py
-      
+
+    - name: Run Scraper
+      run: python link_scraper.py
+
     - name: Commit and Push if Changes Exist
       run: |
         git config --global user.name 'KAWASAKI Teruo'
