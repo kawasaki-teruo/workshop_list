@@ -42,6 +42,10 @@ jobs:
       run: |
         sed -e 's/en-US\/*$//' -e 's/ja-JP\/*$//' -e 's/\/$//' links.txt | sort | uniq > links_uniq.txt
 
+    - name: filter tag and category
+      run: |
+        cat links_uniq.txt| grep -v '?tag=' | grep -v 'workshops.aws/categories/' | grep -v 'mailto:' > links_filter.txt
+
     - name: Commit and Push if Changes Exist
       run: |
         git config --global user.name 'KAWASAKI Teruo'
