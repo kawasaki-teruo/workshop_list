@@ -38,6 +38,9 @@ jobs:
     - name: Run Scraper
       run: python link_scraper.py
 
+    - name: Run Workshop List
+      run: python workshop_list.py
+
     - name: Replace text
       run: |
         sed -e 's/en-US\/*$//' -e 's/ja-JP\/*$//' -e 's/\/$//' links.txt | sort | uniq > links_uniq.txt
