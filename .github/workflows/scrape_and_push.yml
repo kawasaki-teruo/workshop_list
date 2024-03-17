@@ -38,6 +38,10 @@ jobs:
     - name: Run Scraper
       run: python link_scraper.py
 
+    - name: Replace text
+      run: |
+        sed -e 's/en-US\/*$//' -e 's/ja-JP\/*$//' -e 's/\/$//' links.txt | sort | uniq > links_uniq.txt
+
     - name: Commit and Push if Changes Exist
       run: |
         git config --global user.name 'KAWASAKI Teruo'
