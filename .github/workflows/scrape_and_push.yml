@@ -3,6 +3,11 @@ name: Scrape Web Page and Push
 on:
   workflow_dispatch:
 
+permissions:
+  actions: write
+  checks: write
+  contents: write
+
 jobs:
   scrape_and_push:
     runs-on: ubuntu-latest
