@@ -135,6 +135,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b8a4050-893e-40f3-9788-8256025024b4
 https://catalog.us-east-1.prod.workshops.aws/workshops/4d04d703-4ea1-4848-8798-cf1b5c828842
+https://catalog.us-east-1.prod.workshops.aws/workshops/4de5236e-7226-47ca-bef9-7497b531dd98
 https://catalog.us-east-1.prod.workshops.aws/workshops/4eba7957-dfde-44d3-9997-127c7e4bc416
 https://catalog.us-east-1.prod.workshops.aws/workshops/4ff2d034-dee1-4570-93d9-11a54cc5d60c
 https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-775300717f42
@@ -237,6 +238,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/e0b7a071-a7f1-485b-a1c2-a
 https://catalog.us-east-1.prod.workshops.aws/workshops/e1fe5958-0970-4aba-b336-a6cd3919e4e4
 https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e
 https://catalog.us-east-1.prod.workshops.aws/workshops/e2873015-ae1e-43cc-9ab7-4c87cf28aa30
+https://catalog.us-east-1.prod.workshops.aws/workshops/e31afbdf-ee40-41fa-a6c9-6ba2cb55fc1e
 https://catalog.us-east-1.prod.workshops.aws/workshops/e36277ba-4094-4df4-b62f-d1e655800123
 https://catalog.us-east-1.prod.workshops.aws/workshops/e4a4aa26-fb17-45eb-9edf-77b7f8b6035f
 https://catalog.us-east-1.prod.workshops.aws/workshops/e507e74d-d816-4808-94c5-58abc598c40b
@@ -254,6 +256,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/f36e426f-e8a6-467e-97d3-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02
 https://catalog.us-east-1.prod.workshops.aws/workshops/f866d059-8d90-49fa-bf15-15676cc9a74f
 https://catalog.us-east-1.prod.workshops.aws/workshops/f8d2c175-634d-4c5d-94cb-d83bbc656c6a
+https://catalog.us-east-1.prod.workshops.aws/workshops/fa91011f-2da1-4cd9-a3ba-57891dcaa6f5
 https://catalog.us-east-1.prod.workshops.aws/workshops/faccf570-3e91-44ad-b90e-3228ec815645
 https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-258ffdd76ed6
 https://catalog.us-east-1.prod.workshops.aws/workshops/fdf5673a-d606-4876-ab14-9a1d25545895
@@ -298,6 +301,7 @@ https://catalog.workshops.aws/control-tower
 https://catalog.workshops.aws/db4devs
 https://catalog.workshops.aws/dbt-cli-and-amazon-redshift
 https://catalog.workshops.aws/ecs-finhack
+https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/eks-blueprints-for-cdk
 https://catalog.workshops.aws/eks-immersionday
 https://catalog.workshops.aws/eks-saas-gitops
@@ -503,6 +507,7 @@ https://workshops.aws/?tag=AWS%20Blu%20Age
 https://workshops.aws/?tag=AWS%20CDK
 https://workshops.aws/?tag=AWS%20Client%20VPN
 https://workshops.aws/?tag=AWS%20Cloud%20Development%20Kit%20(AWS%20CDK)
+https://workshops.aws/?tag=AWS%20Cloud%20Map
 https://workshops.aws/?tag=AWS%20Cloud9
 https://workshops.aws/?tag=AWS%20CloudFormation
 https://workshops.aws/?tag=AWS%20CloudTrail
@@ -1415,6 +1420,7 @@ https://workshops.aws/categories/CloudFormation
 https://workshops.aws/categories/CloudFront
 https://workshops.aws/categories/CloudNative
 https://workshops.aws/categories/CloudWatch
+https://workshops.aws/categories/CodeWhisperer
 https://workshops.aws/categories/Cognito
 https://workshops.aws/categories/Communication%20Applications
 https://workshops.aws/categories/Compliance
@@ -1455,6 +1461,7 @@ https://workshops.aws/categories/Digital%20Twins
 https://workshops.aws/categories/Disaster%20Recovery
 https://workshops.aws/categories/EBS
 https://workshops.aws/categories/EC2
+https://workshops.aws/categories/ECS
 https://workshops.aws/categories/EKS
 https://workshops.aws/categories/EMR
 https://workshops.aws/categories/ETL
@@ -1468,6 +1475,7 @@ https://workshops.aws/categories/Enterprise%20Applications
 https://workshops.aws/categories/Events
 https://workshops.aws/categories/FIS
 https://workshops.aws/categories/Face%20Detection
+https://workshops.aws/categories/Fargate
 https://workshops.aws/categories/Financial%20Services
 https://workshops.aws/categories/Firewalls
 https://workshops.aws/categories/Flux
@@ -1514,6 +1522,7 @@ https://workshops.aws/categories/IoT
 https://workshops.aws/categories/IoT%20Core
 https://workshops.aws/categories/IoT%20Greengrass
 https://workshops.aws/categories/IoT%20TwinMaker
+https://workshops.aws/categories/Java%20SpringBoot
 https://workshops.aws/categories/Kafka
 https://workshops.aws/categories/Karpenter
 https://workshops.aws/categories/Knowledge%20Graph

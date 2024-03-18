@@ -2266,6 +2266,21 @@
     "schedule": "2 hours",
     "description": "re:Invent 23023 session AUT301 Automotive software development: The virtual engineering workbench"
   },
+  "https://catalog.us-east-1.prod.workshops.aws/workshops/4de5236e-7226-47ca-bef9-7497b531dd98": {
+    "title": "Service Discovery Options for Amazon ECS & AWS Fargate",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Serverless"
+    ],
+    "tags": [
+      "Amazon ECS",
+      "AWS Cloud Map",
+      "AWS Fargate"
+    ],
+    "schedule": "2 hours",
+    "description": "Service discovery plays a crucial role in building resilient and scalable microservices. Amazon ECS with AWS Fargate offers multiple service discovery options, each with its own unique features and trade-offs. In this workshop, dive deep into the various service discovery options available, providing a comparative analysis to help you make informed decisions. Explore Amazon ECS Service Connect, AWS Cloud Map, and Application Load Balancer, considering their benefits, limitations, and use cases."
+  },
   "https://catalog.us-east-1.prod.workshops.aws/workshops/4eba7957-dfde-44d3-9997-127c7e4bc416": {
     "title": "RTB Intelligence Kit Workshop",
     "level": "300",
@@ -3925,6 +3940,24 @@
     "schedule": "6 hours",
     "description": "The AWS Supply Chain workshop offers supply chain professionals and their IT support staff hands-on experience with creating an AWS Supply Chain instance, ingesting data, navigating the user interface, creating insights, mitigating inventory risks, collaborating with other users, and generating demand plans."
   },
+  "https://catalog.us-east-1.prod.workshops.aws/workshops/e31afbdf-ee40-41fa-a6c9-6ba2cb55fc1e": {
+    "title": "Cloud DevSecOps with Hashicorp, Palo Alto Networks & AWS",
+    "level": "200",
+    "categories": [
+      "Security",
+      "Identity",
+      "and Compliance",
+      "AWS Cloud9"
+    ],
+    "tags": [
+      "AWS Cloud9",
+      "AWS Identity & Access Management (IAM)",
+      "DevSecOps",
+      "Terraform"
+    ],
+    "schedule": "2 hours",
+    "description": "In this 2 hours workshop, you’ll learn how to leverage infrastructure as code (IaC) and DevSecOps to automate, scale, and improve the security posture of your cloud infrastructure. We’ll create a pipeline that provides frequent, easy-to-digest improvements to ensure our configurations are secure and compliant from the build-time to runtime"
+  },
   "https://catalog.us-east-1.prod.workshops.aws/workshops/e36277ba-4094-4df4-b62f-d1e655800123": {
     "title": "Application deployment in Amazon EKS using ArgoCD and ACK",
     "level": "400",
@@ -4195,6 +4228,20 @@
     ],
     "schedule": "1.5 hours",
     "description": "In this workshop you'll get hands on with Amazon OpenSearch Serverless. You will walk through setting up a new Amazon OpenSearch Serverless domain in the AWS console. You'll explore the different types of search queries available. You'll design eye-catching visualizations, and learn how you can secure your domain and documents based on assigned user privileges."
+  },
+  "https://catalog.us-east-1.prod.workshops.aws/workshops/fa91011f-2da1-4cd9-a3ba-57891dcaa6f5": {
+    "title": "Amazon CodeWhisperer Workshop - Build enterprise Java application with Spring Boot",
+    "level": "400",
+    "categories": [
+      "CodeWhisperer",
+      "Java SpringBoot"
+    ],
+    "tags": [
+      "CodeWhisperer",
+      "Java"
+    ],
+    "schedule": "7 hours",
+    "description": "In this workshop, you will learn the how to build enterprise Java application using CodeWhisperer. You will be developing a moderately complex micro services application which will help you understand how you can use CodeWhisperer in real life projects. This workshop doesn't stop just at code generation but lets you integrate with multiple AWS services and test the application end to end."
   },
   "https://catalog.us-east-1.prod.workshops.aws/workshops/faccf570-3e91-44ad-b90e-3228ec815645": {
     "title": "Asset tracking using location-based services and Amazon Sidewalk",
@@ -4896,6 +4943,24 @@
     ],
     "schedule": "3 hours",
     "description": "In the current economic climate, customers are looking for ways to optimize their AWS spend, which includes containers as well. The purpose of the Finhack for ECS is to introduce series of labs that enables customers to understand what levers they have to optimize their compute and operational costs tied to their container infrastructure."
+  },
+  "https://catalog.workshops.aws/ecs-solution-blueprints": {
+    "title": "ECS Blueprints Workshop",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute",
+      "Fargate",
+      "ECS",
+      "Modernization"
+    ],
+    "tags": [
+      "Fargate",
+      "ECS",
+      "Containers"
+    ],
+    "schedule": "2 hours",
+    "description": "A workshop to help users build a well architected Infrastructure as Code stack using Terraform and CDK, and ECS Blueprints to provision and deploy complete ECS solutions following best practices. We walk you through the baseline setup of an ECS cluster and gradually add load balancing, auto-scaling, self-healing, observability, security, and cost efficiency."
   },
   "https://catalog.workshops.aws/eks-blueprints-for-cdk": {
     "title": "EKS Blueprints for CDK Workshop",
