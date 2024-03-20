@@ -3522,10 +3522,6 @@ https://workshops.aws/categories/Analytics
 https://workshops.aws/categories/Databases
 https://workshops.aws/?tag=Kinesis
 https://real-time-streaming-with-kinesis.workshop.aws/
-https://workshops.aws/categories/DevOps
-https://workshops.aws/?tag=DevOps%20Guru
-https://workshops.aws/?tag=DevOps
-https://aiops-using-devops-guru.workshop.aws/
 https://workshops.aws/categories/MQ
 https://workshops.aws/categories/Application%20Integration
 https://workshops.aws/categories/AMQP

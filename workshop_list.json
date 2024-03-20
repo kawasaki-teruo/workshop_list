@@ -85,19 +85,6 @@
     "schedule": "4 hours",
     "description": "A guide to deploying Active Direcoty(AD) on AWS, set up hybrid solutions, integrate with Azure AD and setting up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered."
   },
-  "https://aiops-using-devops-guru.workshop.aws": {
-    "title": "Gaining operational insights with AIOps using Amazon DevOps Guru",
-    "level": "300",
-    "categories": [
-      "DevOps"
-    ],
-    "tags": [
-      "DevOps Guru",
-      "DevOps"
-    ],
-    "schedule": "3 hours",
-    "description": "In this workshop, you will learn how to enable DevOps Guru for your account in a typical serverless environment, and observe the insights and recommendations generated for various activities."
-  },
   "https://alienattack.workshop.aws": {
     "title": "AWS Alien Attack Workshop",
     "level": "300",

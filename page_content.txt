@@ -4648,17 +4648,6 @@ schedule
 A Kinesis Immersion Day provides our customers with hands-on experience building a real-time data streaming and processing application right from capturing real-time data, acting on the insights in realtime to persisting processed data in their ecosystems.
 Get Started
 arrow_forward
-Gaining operational insights with AIOps using Amazon DevOps Guru
-Level: 300
-checkmark
-Categories: DevOps
-checkmark
-Tags: DevOps Guru, DevOps
-schedule
-3 hours
-In this workshop, you will learn how to enable DevOps Guru for your account in a typical serverless environment, and observe the insights and recommendations generated for various activities.
-Get Started
-arrow_forward
 App Integration With AmazonMQ
 Level: 300
 checkmark

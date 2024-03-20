@@ -1,7 +1,6 @@
 https://360-degree-customer-view.workshop.aws/en
 https://activate-next.workshop.aws
 https://ad-immersionday.workshop.aws
-https://aiops-using-devops-guru.workshop.aws
 https://alienattack.workshop.aws
 https://amazon-dynamodb-labs.workshop.aws
 https://amazon-mq-intro.workshop.aws
