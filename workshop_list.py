@@ -61,7 +61,7 @@ for title, href, links, text in link_details:
 
     list1.append(
         {
-            "href": href,
+            "url": href,
             "title": title,
             "level": level,
             "categories": categories,
@@ -76,7 +76,7 @@ for title, href, links, text in link_details:
 sorted_list = sorted(list1 , key=get_list , reverse=False)
 
 # リンク先のURLとリンクテキストをファイルに保存
-with open('workshop_list2.json', 'w', encoding='utf-8') as file:
+with open('workshop_list3.json', 'w', encoding='utf-8') as file:
     #json.dump(sorted_dict_by_key, file, ensure_ascii=False, indent=2)
     json.dump(sorted_list, file, ensure_ascii=False, indent=2)
 
