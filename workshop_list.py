@@ -7,6 +7,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 import re
 import json
 
+def get_list(list1):
+    return list1['href']
+
 # headlessモードでブラウザを起動（ブラウザのGUIを表示しない）
 options = Options()
 options.add_argument('--headless')
@@ -32,7 +35,8 @@ link_details = [(card.find_element(By.CLASS_NAME, 'mat-headline').text,
                  )
                  for card in cards]
 
-d = {}
+#d = {}
+list1 = []
 for title, href, links, text in link_details:
     href = re.sub('\n','',href)
     href = re.sub('/en-US/*$','',href)
@@ -55,21 +59,27 @@ for title, href, links, text in link_details:
     schedule = line[7].strip()
     description = line[8].strip()
 
-    d[href] = {
-        "title":  title,
-        "level": level,
-        "categories": categories,
-        "tags": tags,
-        "schedule": schedule,
-        "description": description
-    }
-    
-sorted_keys = sorted(d)
-sorted_dict_by_key = {k: d[k] for k in sorted_keys}
+    list1.append(
+        {
+            "href": href,
+            "title": title,
+            "level": level,
+            "categories": categories,
+            "tags": tags,
+            "schedule": schedule,
+            "description": description
+        }
+    )
+
+#sorted_keys = sorted(d)
+#sorted_dict_by_key = {k: d[k] for k in sorted_keys}
+sorted_list = sorted(list1 , key=get_list , reverse=False)
 
 # リンク先のURLとリンクテキストをファイルに保存
-with open('workshop_list.json', 'w', encoding='utf-8') as file:
-    json.dump(sorted_dict_by_key, file, ensure_ascii=False, indent=2)
+with open('workshop_list2.json', 'w', encoding='utf-8') as file:
+    #json.dump(sorted_dict_by_key, file, ensure_ascii=False, indent=2)
+    json.dump(sorted_list, file, ensure_ascii=False, indent=2)
 
 # ブラウザを閉じる
 driver.quit()
+
