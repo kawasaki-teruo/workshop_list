@@ -8,7 +8,7 @@ import re
 import json
 
 def get_list(list1):
-    return list1['href']
+    return list1['url']
 
 # headlessモードでブラウザを起動（ブラウザのGUIを表示しない）
 options = Options()
