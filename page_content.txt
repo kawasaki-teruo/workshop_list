@@ -61,6 +61,28 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Control Design Workshop
+Level: 300
+checkmark
+Categories: Security, AWS Key Management Service (KMS), AWS Identity and Access Management (IAM), AWS Systems Manager (SSM) - Patch Manager, AWS Config, Amazon CloudWatch, Amazon Simple Notification Service (SNS), AWS Secrets Manager
+checkmark
+Tags: Security, AWS Key Management Service (KMS), AWS Identity and Access Management (IAM), AWS Systems Manager (SSM) - Patch Manager, AWS Config, Amazon CloudWatch, Amazon Simple Notification Service (SNS), AWS Secrets Manager
+schedule
+2 hours
+Learn the methodology to identify, design and implement security controls for your AWS Accounts
+Get Started
+arrow_forward
+Automating Incident Response Workshop
+Level: 300
+checkmark
+Categories: Security, Incident Response, AWS Lambda
+checkmark
+Tags: Security, Incident Response, AWS Lambda
+schedule
+2 hours
+In this workshop you will learn how can you automate incident response tasks using AWS Lambda.
+Get Started
+arrow_forward
 ECS Blueprints Workshop
 Level: 300
 checkmark
@@ -2512,17 +2534,6 @@ Tags: Amazon Connect, Resiliency, Disaster Recovery
 schedule
 1 hour
 The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover
-Get Started
-arrow_forward
-Amazon Connect Wisdom
-Level: 300
-checkmark
-Categories: Communication Applications, Contact Center
-checkmark
-Tags: Wisdom, S3, Amazon Connect
-schedule
-2 hours
-Creating a Wisdom domain and add data integrations from Salesforce using prebuilt connectors in the Amazon Connect console. Also, ingesting content to power real-time recommendations and search with Amazon Connect Wisdom and S3.
 Get Started
 arrow_forward
 Defect Detection System for Smart Factory

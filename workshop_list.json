@@ -4445,21 +4445,6 @@
     "schedule": "1 hour",
     "description": "In this 1-hour workshop, you’ll be walked through the process of building a smart yet simple order inquiry contact center for Shopify with Amazon Connect."
   },
-  "https://catalog.workshops.aws/amazon-connect-wisdom": {
-    "title": "Amazon Connect Wisdom",
-    "level": "300",
-    "categories": [
-      "Communication Applications",
-      "Contact Center"
-    ],
-    "tags": [
-      "Wisdom",
-      "S3",
-      "Amazon Connect"
-    ],
-    "schedule": "2 hours",
-    "description": "Creating a Wisdom domain and add data integrations from Salesforce using prebuilt connectors in the Amazon Connect console. Also, ingesting content to power real-time recommendations and search with Amazon Connect Wisdom and S3."
-  },
   "https://catalog.workshops.aws/amazon-connect-zendesk-integration": {
     "title": "Zendesk Integration with Amazon Connect",
     "level": "200",
@@ -4546,6 +4531,22 @@
     ],
     "schedule": "3 hours",
     "description": "In this workshop, explore successful design templates for architecting and deploying applications at the edge. Dive deep into successful reference patterns as well as business drivers and best practices for deploying edge applications with AWS services like AWS Local Zones and AWS Wavelength Zones. Discover how to deploy a real-time online game, hybrid cloud financial service application, and Industrial IoT digital twin to the edge."
+  },
+  "https://catalog.workshops.aws/auto-incident-response": {
+    "title": "Automating Incident Response Workshop",
+    "level": "300",
+    "categories": [
+      "Security",
+      "Incident Response",
+      "AWS Lambda"
+    ],
+    "tags": [
+      "Security",
+      "Incident Response",
+      "AWS Lambda"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop you will learn how can you automate incident response tasks using AWS Lambda."
   },
   "https://catalog.workshops.aws/aws-batch-deep-dive": {
     "title": "AWS Batch Deep Dive",
@@ -4870,6 +4871,32 @@
     ],
     "schedule": "8 hours",
     "description": "In this Workshop, we demonstrate how you can implement CICD Deployment pipeline for your Amazon Connect Contact Flow. This workshop walks you through how you can deploy Amazon Connect Contact Flows that consist of Lambda functions, Lex bots, Connect Queue, etc. across various environments (Dev, QA, STG, Prod) through CICD pipeline leveraging CloudFormation, Code Commit repository, CodePipeline, etc."
+  },
+  "https://catalog.workshops.aws/control-design": {
+    "title": "Control Design Workshop",
+    "level": "300",
+    "categories": [
+      "Security",
+      "AWS Key Management Service (KMS)",
+      "AWS Identity and Access Management (IAM)",
+      "AWS Systems Manager (SSM) - Patch Manager",
+      "AWS Config",
+      "Amazon CloudWatch",
+      "Amazon Simple Notification Service (SNS)",
+      "AWS Secrets Manager"
+    ],
+    "tags": [
+      "Security",
+      "AWS Key Management Service (KMS)",
+      "AWS Identity and Access Management (IAM)",
+      "AWS Systems Manager (SSM) - Patch Manager",
+      "AWS Config",
+      "Amazon CloudWatch",
+      "Amazon Simple Notification Service (SNS)",
+      "AWS Secrets Manager"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn the methodology to identify, design and implement security controls for your AWS Accounts"
   },
   "https://catalog.workshops.aws/control-tower": {
     "title": "AWS Control Tower Workshop",

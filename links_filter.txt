@@ -270,12 +270,12 @@ https://catalog.workshops.aws/amazon-connect-introduction
 https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent
 https://catalog.workshops.aws/amazon-connect-shopify-order-inquiry
-https://catalog.workshops.aws/amazon-connect-wisdom
 https://catalog.workshops.aws/amazon-connect-zendesk-integration
 https://catalog.workshops.aws/amazon-location-101
 https://catalog.workshops.aws/amplify-with-terraform
 https://catalog.workshops.aws/applying-abac
 https://catalog.workshops.aws/architecting-edge-applications
+https://catalog.workshops.aws/auto-incident-response
 https://catalog.workshops.aws/aws-batch-deep-dive
 https://catalog.workshops.aws/aws-iot-expresslink-demo-badge
 https://catalog.workshops.aws/aws-iot-immersionday-workshop
@@ -296,6 +296,7 @@ https://catalog.workshops.aws/cidforazure
 https://catalog.workshops.aws/cognito-jwt-deep-dive
 https://catalog.workshops.aws/connect-lex-voice-id-and-task-automation
 https://catalog.workshops.aws/contact-flow-deployment-workshop
+https://catalog.workshops.aws/control-design
 https://catalog.workshops.aws/control-tower
 https://catalog.workshops.aws/db4devs
 https://catalog.workshops.aws/dbt-cli-and-amazon-redshift
