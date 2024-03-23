@@ -9,6 +9,7 @@ import re
 import json
 import sys
 import time
+import psutil
 
 
 def get_list(list1):
@@ -17,27 +18,28 @@ def get_list(list1):
 def checkURL(url):
     try:
         print(url)
-        driver2 = webdriver.Chrome(service=service, options=options)
-        # ページアクセス
-        driver2.get(url)
-        # ページが完全にロードされるまで待機
-        #driver2.implicitly_wait(30)
-        time.sleep(3)
-        #WebDriverWait(driver2, 20).until(EC.none_of(EC.visibility_of_all_elements_located((By.XPATH,"//body/descendant::*[contains(text(),'Loading')]"))))
-        #WebDriverWait(driver2, 20).until(EC.none_of(WebDriverWait(driver2, 20).until(EC.visibility_of_all_elements_located((By.XPATH, "//body/descendant::*[contains(text(),'Loading')]")))))
+        with webdriver.Chrome(service=service, options=options) as driver2:
+            # ページアクセス
+            driver2.get(url)
+            # ページが完全にロードされるまで待機
+            #driver2.implicitly_wait(30)
+            time.sleep(5)
+            #WebDriverWait(driver2, 20).until(EC.none_of(EC.visibility_of_all_elements_located((By.XPATH,"//body/descendant::*[contains(text(),'Loading')]"))))
+            #WebDriverWait(driver2, 20).until(EC.none_of(WebDriverWait(driver2, 20).until(EC.visibility_of_all_elements_located((By.XPATH, "//body/descendant::*[contains(text(),'Loading')]")))))
 
-        page_text = driver2.find_element(By.TAG_NAME, 'body').text
-        pattern_result = re.search("Page not found", page_text)
-        #print(driver2.title)
-        #print(driver2.page_source)
-        #print(page_text)
-        #print(pattern_result)
-        driver2.quit()
+            page_text = driver2.find_element(By.TAG_NAME, 'body').text
+            pattern_result = re.search("Page not found", page_text)
+            #print(driver2.title)
+            #print(driver2.page_source)
+            #print(page_text)
+            #print(pattern_result)
+            driver2.quit()
     except Exception as e:
         pattern_result = "Error"
         print(e)
         print(type(e))
 
+    print(pattern_result)
     if pattern_result:
         # Page not found の場合
         return False
@@ -52,12 +54,25 @@ options.add_argument('--headless')
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
-"""
-href='https://catalog.us-east-1.prod.workshops.aws/workshops/60f8268e-0cf8-4de3-8a67-d574f595f13e'
+
+href='https://catalog.us-east-1.prod.workshops.aws/workshops/e0495073-29eb-4a62-9cab-114511462198'
 valid_url = checkURL(href)
 print(valid_url)
+
+#driver3 = webdriver.Chrome(service=service, options=options)
+exists_chromedriver = False
+for proc in psutil.process_iter():
+    if proc.name() == "chromedriver":
+        print(proc)
+        exists_chromedriver = True
+        break
+
+if exists_chromedriver:
+    print("chromedriver プロセスが存在します。")
+else:
+    print("chromedriver プロセスが存在しません。")
 sys.exit()
-"""
+
 
 # スクレイピングしたいWebページのURL
 url = 'https://workshops.aws/'
