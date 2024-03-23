@@ -1,29 +1,48 @@
-# scraper.py
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import re
 import json
+import sys
+import time
 
 
 def get_list(list1):
     return list1['url']
 
 def checkURL(url):
-    driver2 = webdriver.Chrome(service=service, options=options)
-    # ページアクセス
-    driver2.get(url)
-    # ページが完全にロードされるまで待機
-    driver2.implicitly_wait(5)
-    page_text = driver2.find_element(By.TAG_NAME, 'body').text
-    result = re.search("Page not found", page_text)
-    if result:
+    try:
+        print(url)
+        driver2 = webdriver.Chrome(service=service, options=options)
+        # ページアクセス
+        driver2.get(url)
+        # ページが完全にロードされるまで待機
+        #driver2.implicitly_wait(30)
+        time.sleep(3)
+        #WebDriverWait(driver2, 20).until(EC.none_of(EC.visibility_of_all_elements_located((By.XPATH,"//body/descendant::*[contains(text(),'Loading')]"))))
+        #WebDriverWait(driver2, 20).until(EC.none_of(WebDriverWait(driver2, 20).until(EC.visibility_of_all_elements_located((By.XPATH, "//body/descendant::*[contains(text(),'Loading')]")))))
+
+        page_text = driver2.find_element(By.TAG_NAME, 'body').text
+        pattern_result = re.search("Page not found", page_text)
+        #print(driver2.title)
+        #print(driver2.page_source)
+        #print(page_text)
+        #print(pattern_result)
+        driver2.quit()
+    except Exception as e:
+        pattern_result = "Error"
+        print(e)
+        print(type(e))
+
+    if pattern_result:
+        # Page not found の場合
         return False
     else:
         return True
-
 
 # headlessモードでブラウザを起動（ブラウザのGUIを表示しない）
 options = Options()
@@ -32,6 +51,13 @@ options.add_argument('--headless')
 # WebDriverのセットアップ
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
+
+"""
+href='https://catalog.us-east-1.prod.workshops.aws/workshops/60f8268e-0cf8-4de3-8a67-d574f595f13e'
+valid_url = checkURL(href)
+print(valid_url)
+sys.exit()
+"""
 
 # スクレイピングしたいWebページのURL
 url = 'https://workshops.aws/'
