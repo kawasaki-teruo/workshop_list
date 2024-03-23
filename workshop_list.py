@@ -12,11 +12,12 @@ def get_list(list1):
     return list1['url']
 
 def checkURL(url):
+    driver2 = webdriver.Chrome(service=service, options=options)
     # ページアクセス
-    driver.get(url)
+    driver2.get(url)
     # ページが完全にロードされるまで待機
-    driver.implicitly_wait(5)
-    page_text = driver.find_element(By.TAG_NAME, 'body').text
+    driver2.implicitly_wait(5)
+    page_text = driver2.find_element(By.TAG_NAME, 'body').text
     result = re.search("Page not found", page_text)
     if result:
         return False
