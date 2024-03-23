@@ -7,8 +7,22 @@ from webdriver_manager.chrome import ChromeDriverManager
 import re
 import json
 
+
 def get_list(list1):
     return list1['url']
+
+def checkURL(url):
+    # ページアクセス
+    driver.get(url)
+    # ページが完全にロードされるまで待機
+    driver.implicitly_wait(5)
+    page_text = driver.find_element(By.TAG_NAME, 'body').text
+    result = re.search("Page not found", page_text)
+    if result:
+        return False
+    else:
+        return True
+
 
 # headlessモードでブラウザを起動（ブラウザのGUIを表示しない）
 options = Options()
@@ -35,7 +49,6 @@ link_details = [(card.find_element(By.CLASS_NAME, 'mat-headline').text,
                  )
                  for card in cards]
 
-#d = {}
 list1 = []
 for title, href, links, text in link_details:
     href = re.sub('\n','',href)
@@ -59,9 +72,11 @@ for title, href, links, text in link_details:
     schedule = line[7].strip()
     description = line[8].strip()
 
+    valid_url = checkURL(href)
     list1.append(
         {
             "url": href,
+            "valid_url": valid_url,
             "title": title,
             "level": level,
             "categories": categories,
@@ -71,15 +86,11 @@ for title, href, links, text in link_details:
         }
     )
 
-#sorted_keys = sorted(d)
-#sorted_dict_by_key = {k: d[k] for k in sorted_keys}
 sorted_list = sorted(list1 , key=get_list , reverse=False)
 
 # リンク先のURLとリンクテキストをファイルに保存
-with open('workshop_list3.json', 'w', encoding='utf-8') as file:
-    #json.dump(sorted_dict_by_key, file, ensure_ascii=False, indent=2)
+with open('workshop_list4.json', 'w', encoding='utf-8') as file:
     json.dump(sorted_list, file, ensure_ascii=False, indent=2)
 
 # ブラウザを閉じる
 driver.quit()
-
