@@ -3423,7 +3423,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/94d4af75-8780-42e9-acf2-bd3009aaef90",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Service Cloud Voice Series: Creating AI-Powered Interactions",
     "level": "200",
     "categories": [
