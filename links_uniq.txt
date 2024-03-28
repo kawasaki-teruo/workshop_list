@@ -8,7 +8,6 @@ https://amazon-mwaa-for-analytics.workshop.aws
 https://amazon-rds-purpose-built.workshop.aws
 https://amazonlex.workshop.aws
 https://amazonmsk-labs.workshop.aws
-https://amplify-analytics.workshop.aws
 https://amplify-photo-sharing.workshop.aws
 https://app-int-with-amazonmq.workshop.aws
 https://app-modernization.workshop.aws
@@ -298,6 +297,7 @@ https://catalog.workshops.aws/connect-lex-voice-id-and-task-automation
 https://catalog.workshops.aws/contact-flow-deployment-workshop
 https://catalog.workshops.aws/control-design
 https://catalog.workshops.aws/control-tower
+https://catalog.workshops.aws/databasemigration
 https://catalog.workshops.aws/db4devs
 https://catalog.workshops.aws/dbt-cli-and-amazon-redshift
 https://catalog.workshops.aws/ecs-finhack
@@ -378,7 +378,6 @@ https://databrew.workshop.aws
 https://ddos-protection-best-practices.workshop.aws
 https://deploy-server-side-rendered-app-on-amplify.workshop.aws
 https://disaster-recovery.workshop.aws
-https://dms-immersionday.workshop.aws/en
 https://documentdb-immersionday.workshop.aws
 https://dotnet-app-modernization.workshop.aws
 https://dotnet-developer-dojo.workshop.aws
@@ -657,13 +656,11 @@ https://workshops.aws/?tag=Amazon%20Managed%20Service%20for%20Prometheus
 https://workshops.aws/?tag=Amazon%20Managed%20Workflows%20for%20Apache%20Airflow
 https://workshops.aws/?tag=Amazon%20Neptune
 https://workshops.aws/?tag=Amazon%20OpenSearch%20Service
-https://workshops.aws/?tag=Amazon%20Personalize
 https://workshops.aws/?tag=Amazon%20PinPoint
 https://workshops.aws/?tag=Amazon%20Pinpoint
 https://workshops.aws/?tag=Amazon%20Polly
 https://workshops.aws/?tag=Amazon%20Q
 https://workshops.aws/?tag=Amazon%20QuickSight
-https://workshops.aws/?tag=Amazon%20Quicksight
 https://workshops.aws/?tag=Amazon%20RDS
 https://workshops.aws/?tag=Amazon%20Redshift
 https://workshops.aws/?tag=Amazon%20Rekognition

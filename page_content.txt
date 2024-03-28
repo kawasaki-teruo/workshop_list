@@ -4802,17 +4802,6 @@ schedule
 A collection of hands-on workshop lab content to help you gain understanding of Amazon Aurora PostgreSQL features and advanced capabilities
 Get Started
 arrow_forward
-Web Analytics with Amplify
-Level: 300
-checkmark
-Categories: Amplify, Front End, Serverless, Analytics, AI/ML
-checkmark
-Tags: AWS Amplify, Amazon Cognito, AWS AppSync, Amazon DynamoDB, AWS Lambda, Amazon Pinpoint, Amazon Personalize, Amazon Athena, Amazon S3, Amazon Kinesis, AWS Glue, Amazon Quicksight
-schedule
-6 hours
-This workshop is designed for Web Developers, Product Managers and Analysts, who want to learn how to create and deploy React web application and backend services with authentication and GraphQL API using AWS Amplify; set up web analytics and send event-based email campaigns with Amazon Pinpoint; set up recommendations and use them in email campaigns and in web application with Amazon Personalize; create custom analytics pipeline to collect events and create custom dashboards to analyze these events with Amazon Kinesis and Amazon QuickSight
-Get Started
-arrow_forward
 Gametech workshop
 Level: 200
 checkmark
