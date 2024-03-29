@@ -45,7 +45,7 @@ https://workshops.aws/categories/Amazon%20DocumentDB
 https://workshops.aws/categories/Amazon%20EC2
 https://workshops.aws/categories/Amazon%20EKS
 https://workshops.aws/categories/Amazon%20Elastic%20Compute%20Cloud%20%28Amazon%20EC2%29
-https://workshops.aws/categories/Amazon%20Finspace
+https://workshops.aws/categories/Amazon%20FinSpace
 https://workshops.aws/categories/Amazon%20Lex
 https://workshops.aws/categories/Amazon%20Managed%20Grafana
 https://workshops.aws/categories/Amazon%20Managed%20Service%20for%20Prometheus
@@ -1096,7 +1096,7 @@ https://workshops.aws/categories/Artificial%20Intelligence
 https://workshops.aws/?tag=Amazon%20Bedrock
 https://workshops.aws/?tag=AI%2FML
 https://catalog.workshops.aws/genai-on-aws
-https://workshops.aws/categories/Amazon%20Finspace
+https://workshops.aws/categories/Amazon%20FinSpace
 https://workshops.aws/?tag=Financial%20Services
 https://workshops.aws/?tag=Amazon%20FinSpace
 https://catalog.us-east-1.prod.workshops.aws/workshops/a1575309-1f43-4945-a5fa-a4d62d5e821d/en-US

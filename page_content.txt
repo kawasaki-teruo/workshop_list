@@ -1186,7 +1186,7 @@ arrow_forward
 Amazon FinSpace With Managed kdb Insights Foundations Workshop
 Level: 300
 checkmark
-Categories: Amazon Finspace
+Categories: Amazon FinSpace
 checkmark
 Tags: Financial Services, Amazon FinSpace
 schedule
