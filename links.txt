@@ -3775,10 +3775,6 @@ https://workshops.aws/?tag=RDS
 https://workshops.aws/?tag=ElastiCache
 https://workshops.aws/?tag=EFS
 https://ha-webapp.workshop.aws/
-https://workshops.aws/categories/Networking
-https://workshops.aws/categories/Security
-https://workshops.aws/?tag=WAF
-https://introduction-to-waf.workshop.aws/
 https://workshops.aws/categories/Blockchain
 https://workshops.aws/categories/GraphQL
 https://workshops.aws/categories/Applications

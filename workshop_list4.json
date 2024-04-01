@@ -7831,21 +7831,6 @@
     "description": "The Introduction to Analytics on AWS workshop has been designed to help you achieve familiarity with the different analytics services that are part of the AWS Analytics portfolio. The workshop will go over a sequence of modules, covering various aspects of building an analytics platform on AWS. You will learn to ingest, store, transform and consume data using several analytics services such as AWS Glue, Amazon Athena, Amazon EMR, Amazon QuickSight as well as AWS Lambda and Amazon Redshift."
   },
   {
-    "url": "https://introduction-to-waf.workshop.aws",
-    "valid_url": false,
-    "title": "Introduction to WAF",
-    "level": "300",
-    "categories": [
-      "Networking",
-      "Security"
-    ],
-    "tags": [
-      "WAF"
-    ],
-    "schedule": "2 hours",
-    "description": "An introduction to the features and usage of AWS WAF V2"
-  },
-  {
     "url": "https://iot-device-defender.workshop.aws",
     "valid_url": true,
     "title": "AWS IoT Device Defender workshop (Japanese)",

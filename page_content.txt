@@ -4945,17 +4945,6 @@ schedule
 This workshop walks you through building a web application that is highly available through the use of regional AWS services and availability zones.
 Get Started
 arrow_forward
-Introduction to WAF
-Level: 300
-checkmark
-Categories: Networking, Security
-checkmark
-Tags: WAF
-schedule
-2 hours
-An introduction to the features and usage of AWS WAF V2
-Get Started
-arrow_forward
 AWS Track-and-trace Blockchain Workshop
 Level: 400
 checkmark

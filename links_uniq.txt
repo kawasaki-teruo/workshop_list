@@ -410,7 +410,6 @@ https://identity-round-robin.awssecworkshops.com/permission-boundaries-advanced
 https://identity-round-robin.awssecworkshops.com/serverless
 https://idm-infrastructure.awssecworkshops.com
 https://intro-to-analytics-on-aws.workshop.aws
-https://introduction-to-waf.workshop.aws
 https://iot-device-defender.workshop.aws
 https://iot-device-management.workshop.aws
 https://iot-esp32.workshop.aws
