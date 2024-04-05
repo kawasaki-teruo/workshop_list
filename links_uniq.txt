@@ -77,6 +77,7 @@ https://catalog.us-east-1.prod.workshops.aws/v2/workshops/example-1234-1234-abcd
 https://catalog.us-east-1.prod.workshops.aws/v2/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68
 https://catalog.us-east-1.prod.workshops.aws/workshops/013df096-dacc-4da7-8a38-a16a6c709f75
 https://catalog.us-east-1.prod.workshops.aws/workshops/0436a9a9-18f2-4707-a629-021358df997e
+https://catalog.us-east-1.prod.workshops.aws/workshops/0644c9e9-5b82-45f2-8835-3b5aa30b1848
 https://catalog.us-east-1.prod.workshops.aws/workshops/06f17ada-6ae0-4be7-a771-8a37ab7ca3bb
 https://catalog.us-east-1.prod.workshops.aws/workshops/070a93a2-3373-4736-8af0-f7a08c9eb08a
 https://catalog.us-east-1.prod.workshops.aws/workshops/0c7e49a5-b5c4-4f6d-b26b-9b2d8b5cbd2f
@@ -226,6 +227,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/d2b662ae-e9d7-4b31-b68b-6
 https://catalog.us-east-1.prod.workshops.aws/workshops/d58d8989-b91c-4c5c-8f4d-3838a051fc59
 https://catalog.us-east-1.prod.workshops.aws/workshops/d6c7ecdc-c75f-4ad1-910f-fdd994cc4aed
 https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2320f17af14b
+https://catalog.us-east-1.prod.workshops.aws/workshops/d82f18b5-cf4d-4a83-b840-d7c445026615
 https://catalog.us-east-1.prod.workshops.aws/workshops/d903ff2b-f043-4126-a4f5-64a7cc2922ec
 https://catalog.us-east-1.prod.workshops.aws/workshops/dba26a47-d8bc-4df8-bb31-b92dd758a997
 https://catalog.us-east-1.prod.workshops.aws/workshops/dc70f5b4-a400-4c33-9a8e-c1b2baebbea4
@@ -286,6 +288,7 @@ https://catalog.workshops.aws/awsiotforautomotive
 https://catalog.workshops.aws/build-a-knowledge-graph
 https://catalog.workshops.aws/build-sms-program
 https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws
+https://catalog.workshops.aws/building-gen-ai-apps
 https://catalog.workshops.aws/building-with-amazon-bedrock
 https://catalog.workshops.aws/building-your-first-serverless-application-with-aws-sam
 https://catalog.workshops.aws/buildweb3
@@ -686,6 +689,7 @@ https://workshops.aws/?tag=Amplify
 https://workshops.aws/?tag=Analytics
 https://workshops.aws/?tag=Anomalies
 https://workshops.aws/?tag=AnomalyDetection
+https://workshops.aws/?tag=Anthropic
 https://workshops.aws/?tag=Apache%20Kafka
 https://workshops.aws/?tag=App%20Runner
 https://workshops.aws/?tag=AppConfig
@@ -748,6 +752,7 @@ https://workshops.aws/?tag=Chaos%20engineering
 https://workshops.aws/?tag=Chart
 https://workshops.aws/?tag=Chat
 https://workshops.aws/?tag=Chatbot
+https://workshops.aws/?tag=Claude
 https://workshops.aws/?tag=Client%20VPN
 https://workshops.aws/?tag=Cloud%20Desktop
 https://workshops.aws/?tag=Cloud%20Financial%20Management
@@ -1114,6 +1119,7 @@ https://workshops.aws/?tag=Outposts
 https://workshops.aws/?tag=PSTN
 https://workshops.aws/?tag=ParallelCluster
 https://workshops.aws/?tag=ParallelProcessing
+https://workshops.aws/?tag=PartyRock
 https://workshops.aws/?tag=Performance%20Insights
 https://workshops.aws/?tag=Perimeter%20protection
 https://workshops.aws/?tag=Permissions%20Boundary
@@ -1134,6 +1140,7 @@ https://workshops.aws/?tag=PromptEngineering
 https://workshops.aws/?tag=Providers
 https://workshops.aws/?tag=Provisioning%20and%20Orchestration
 https://workshops.aws/?tag=Python
+https://workshops.aws/?tag=Q
 https://workshops.aws/?tag=QLDB
 https://workshops.aws/?tag=QNX
 https://workshops.aws/?tag=Quick
@@ -1381,6 +1388,7 @@ https://workshops.aws/categories/Amazon%20Managed%20Service%20for%20Prometheus
 https://workshops.aws/categories/Amazon%20Managed%20Workflows%20for%20Apache%20Airflow
 https://workshops.aws/categories/Amazon%20Neptune
 https://workshops.aws/categories/Amazon%20OpenSearch%20Service
+https://workshops.aws/categories/Amazon%20Q
 https://workshops.aws/categories/Amazon%20QuickSight
 https://workshops.aws/categories/Amazon%20RDS
 https://workshops.aws/categories/Amazon%20Redshift
@@ -1583,6 +1591,7 @@ https://workshops.aws/categories/Observability
 https://workshops.aws/categories/Open%20Source
 https://workshops.aws/categories/OpenCost
 https://workshops.aws/categories/Operations
+https://workshops.aws/categories/PartyRock
 https://workshops.aws/categories/Pinpoint
 https://workshops.aws/categories/Postgres
 https://workshops.aws/categories/Privacy

@@ -1459,6 +1459,25 @@
     "description": "The workshop walks a user through how they can integrate an existing identity provider such as Okta/AzureAD to manage users and permissions within an Amazon Connect instance."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/0644c9e9-5b82-45f2-8835-3b5aa30b1848",
+    "valid_url": true,
+    "title": "Prompt Engineering with Anthropic Claude v3",
+    "level": "300",
+    "categories": [
+      "Amazon Bedrock",
+      "AI/ML"
+    ],
+    "tags": [
+      "Generative AI",
+      "AI",
+      "Bedrock",
+      "Anthropic",
+      "Claude"
+    ],
+    "schedule": "3 hours",
+    "description": "In this comprehensive workshop, you'll gain the skills and knowledge needed to design, test, and refine prompts that optimize Anthropic Claude's performance for your specific use case. This workshop will guide you through a structured, test-driven approach to prompt development, equipping you with the tools and techniques to achieve unparalleled results."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/06f17ada-6ae0-4be7-a771-8a37ab7ca3bb",
     "valid_url": true,
     "title": "Service Cloud Voice Series: Reporting in Service Cloud Voice",
@@ -4242,6 +4261,21 @@
     "description": "In today’s data-driven world, businesses are constantly seeking ways to harness the power of data to gain insights, make informed decisions, and stay ahead of the competition. However, setting up a data lake traditionally requires technical expertise and extensive coding knowledge. Enter the era of low-code/no-code data lakes, offering a fast start for businesses to tap into the potential of their data without the need for complex coding. In this session, explore a sample architecture that shows how AWS lowers the barrier to entry for creating and using a data lake solution."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d82f18b5-cf4d-4a83-b840-d7c445026615",
+    "valid_url": true,
+    "title": "Securing Your Code with Amazon CodeWhisperer",
+    "level": "200",
+    "categories": [
+      "CodeWhisperer",
+      "Security"
+    ],
+    "tags": [
+      "CodeWhisperer"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn how to use CodeWhisperer to write more secure code and reduce the number of security findings present in it. CodeWhisperer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d903ff2b-f043-4126-a4f5-64a7cc2922ec",
     "valid_url": true,
     "title": "Setting up remote access to Amazon VPC resources",
@@ -5343,6 +5377,26 @@
     ],
     "schedule": "2 hours",
     "description": "Build well-architected refactored mainframe applications on the AWS Cloud using AWS Mainframe Modernization Service"
+  },
+  {
+    "url": "https://catalog.workshops.aws/building-gen-ai-apps",
+    "valid_url": true,
+    "title": "Building with Generative AI on AWS using PartyRock, Amazon Bedrock, and Amazon Q",
+    "level": "300",
+    "categories": [
+      "Generative AI",
+      "Amazon Bedrock",
+      "Amazon Q",
+      "PartyRock"
+    ],
+    "tags": [
+      "Bedrock",
+      "Generative AI",
+      "Q",
+      "PartyRock"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn to build generative AI applications using PartyRock and Amazon Bedrock. Gain skills in prompt engineering and using the Bedrock API. We will also explore how to 'chat with your documents' through knowledge bases, retrieval augmented generation (RAG), embeddings, and agents. We will also use next generation developer tools Amazon Q and Amazon CodeWhisperer to assist in coding and debugging."
   },
   {
     "url": "https://catalog.workshops.aws/building-with-amazon-bedrock",

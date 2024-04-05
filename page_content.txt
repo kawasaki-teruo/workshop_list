@@ -61,6 +61,39 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Prompt Engineering with Anthropic Claude v3
+Level: 300
+checkmark
+Categories: Amazon Bedrock, AI/ML
+checkmark
+Tags: Generative AI, AI, Bedrock, Anthropic, Claude
+schedule
+3 hours
+In this comprehensive workshop, you'll gain the skills and knowledge needed to design, test, and refine prompts that optimize Anthropic Claude's performance for your specific use case. This workshop will guide you through a structured, test-driven approach to prompt development, equipping you with the tools and techniques to achieve unparalleled results.
+Get Started
+arrow_forward
+Building with Generative AI on AWS using PartyRock, Amazon Bedrock, and Amazon Q
+Level: 300
+checkmark
+Categories: Generative AI, Amazon Bedrock, Amazon Q, PartyRock
+checkmark
+Tags: Bedrock, Generative AI, Q, PartyRock
+schedule
+2 hours
+Learn to build generative AI applications using PartyRock and Amazon Bedrock. Gain skills in prompt engineering and using the Bedrock API. We will also explore how to 'chat with your documents' through knowledge bases, retrieval augmented generation (RAG), embeddings, and agents. We will also use next generation developer tools Amazon Q and Amazon CodeWhisperer to assist in coding and debugging.
+Get Started
+arrow_forward
+Securing Your Code with Amazon CodeWhisperer
+Level: 200
+checkmark
+Categories: CodeWhisperer, Security
+checkmark
+Tags: CodeWhisperer
+schedule
+2 hours
+Learn how to use CodeWhisperer to write more secure code and reduce the number of security findings present in it. CodeWhisperer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code.
+Get Started
+arrow_forward
 Control Design Workshop
 Level: 300
 checkmark
