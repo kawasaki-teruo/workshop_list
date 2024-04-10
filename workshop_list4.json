@@ -3153,7 +3153,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/77214281-b298-48f4-a7ce-e6cc745bf4f2",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Checking Order Status with Amazon Connect",
     "level": "300",
     "categories": [
@@ -5052,38 +5052,6 @@
     ],
     "schedule": "3 hours",
     "description": "Utilize Amazon Connect Contact Lens to obtain customer consent for promotional messages and engage with them via email using Amazon Pinpoint."
-  },
-  {
-    "url": "https://catalog.workshops.aws/amazon-connect-shopify-order-inquiry",
-    "valid_url": true,
-    "title": "Build an order inquiry contact center for Shopify with Amazon Connect",
-    "level": "300",
-    "categories": [
-      "Communication Applications",
-      "Contact Center"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Shopify"
-    ],
-    "schedule": "1 hour",
-    "description": "In this 1-hour workshop, you’ll be walked through the process of building a smart yet simple order inquiry contact center for Shopify with Amazon Connect."
-  },
-  {
-    "url": "https://catalog.workshops.aws/amazon-connect-zendesk-integration",
-    "valid_url": true,
-    "title": "Zendesk Integration with Amazon Connect",
-    "level": "200",
-    "categories": [
-      "Communication Applications",
-      "Contact Center"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Zendesk"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop demonstrates how Zendesk can be integrated with Amazon Connect."
   },
   {
     "url": "https://catalog.workshops.aws/amazon-location-101",

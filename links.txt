@@ -2036,16 +2036,6 @@ https://workshops.aws/categories/Contact%20Center
 https://workshops.aws/?tag=Amazon%20Connect
 https://workshops.aws/?tag=Survey
 https://catalog.workshops.aws/amazon-connect-contact-survey
-https://workshops.aws/categories/Communication%20Applications
-https://workshops.aws/categories/Contact%20Center
-https://workshops.aws/?tag=Amazon%20Connect
-https://workshops.aws/?tag=Shopify
-https://catalog.workshops.aws/amazon-connect-shopify-order-inquiry
-https://workshops.aws/categories/Communication%20Applications
-https://workshops.aws/categories/Contact%20Center
-https://workshops.aws/?tag=Amazon%20Connect
-https://workshops.aws/?tag=Zendesk
-https://catalog.workshops.aws/amazon-connect-zendesk-integration
 https://workshops.aws/categories/Serverless
 https://workshops.aws/categories/Compute
 https://workshops.aws/categories/Analytics

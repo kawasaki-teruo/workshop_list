@@ -2525,28 +2525,6 @@ schedule
 In this workshop, we will discover how to create a powerful and flexible post contact survey with Amazon Connect, using DynamoDB and Lambda to support the solution.
 Get Started
 arrow_forward
-Build an order inquiry contact center for Shopify with Amazon Connect
-Level: 300
-checkmark
-Categories: Communication Applications, Contact Center
-checkmark
-Tags: Amazon Connect, Shopify
-schedule
-1 hour
-In this 1-hour workshop, you’ll be walked through the process of building a smart yet simple order inquiry contact center for Shopify with Amazon Connect.
-Get Started
-arrow_forward
-Zendesk Integration with Amazon Connect
-Level: 200
-checkmark
-Categories: Communication Applications, Contact Center
-checkmark
-Tags: Amazon Connect, Zendesk
-schedule
-2 hours
-This workshop demonstrates how Zendesk can be integrated with Amazon Connect.
-Get Started
-arrow_forward
 EMR Serverless Workshop
 Level: 200
 checkmark

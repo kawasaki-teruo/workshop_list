@@ -270,8 +270,6 @@ https://catalog.workshops.aws/amazon-connect-global-resiliency
 https://catalog.workshops.aws/amazon-connect-introduction
 https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent
-https://catalog.workshops.aws/amazon-connect-shopify-order-inquiry
-https://catalog.workshops.aws/amazon-connect-zendesk-integration
 https://catalog.workshops.aws/amazon-location-101
 https://catalog.workshops.aws/amplify-with-terraform
 https://catalog.workshops.aws/applying-abac
