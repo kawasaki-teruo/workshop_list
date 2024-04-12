@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Tagging Workshop
+Level: 200
+checkmark
+Categories: Management & Governance, Governance, Cloud Operations, CI/CD, Infrastructure as Code
+checkmark
+Tags: Tagging, Tags, Tag Editor, CI/CD, IaC, Resource Groups, AWS CloudFormation, AWS CodePipeline
+schedule
+4 hours
+This workshop will detail different tagging options in Amazon Web Services (AWS). The goal of this workshop is to walk through the various ways in which you can tag AWS resources & query said tags. By the end of this workshop you would have an understanding on how to tag, and govern the tags of different AWS resources.
+Get Started
+arrow_forward
 Prompt Engineering with Anthropic Claude v3
 Level: 300
 checkmark

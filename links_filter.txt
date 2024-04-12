@@ -349,6 +349,7 @@ https://catalog.workshops.aws/startup-security-baseline
 https://catalog.workshops.aws/startup-security-stay-secure-while-building-quickly
 https://catalog.workshops.aws/suse-linux-on-aws
 https://catalog.workshops.aws/svsmindsetapps
+https://catalog.workshops.aws/tagging
 https://catalog.workshops.aws/terraform101
 https://catalog.workshops.aws/threatmodel
 https://catalog.workshops.aws/troubleshooting-contact-flow-errors
