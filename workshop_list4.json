@@ -3324,7 +3324,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8d1c3528-8abb-4674-a2b9-d15fa593c392",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Machine Learning Operations with AWS IoT Greengrass v2 and Amazon SageMaker Edge Manager",
     "level": "400",
     "categories": [
