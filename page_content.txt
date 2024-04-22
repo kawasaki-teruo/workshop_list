@@ -3944,17 +3944,6 @@ schedule
 An introduction to the features and usage of Amazon Lookout For Metrics
 Get Started
 arrow_forward
-Getting Hands on with Amazon GuardDuty
-Level: 300
-checkmark
-Categories: Security, Threat Detection, Detective, Incident Response
-checkmark
-Tags: GurdDuty, Security, Threat Detection
-schedule
-2 hours
-In this hands-on builder session, you will walk through a scenario covering threat detection and remediation using Amazon GuardDuty; a managed threat detection service. The scenario simulates an attack that spans a few threat vectors, representing just a small sample of the threats that GuardDuty is able to detect. In addition, you will look at how to view and analyze GuardDuty findings, how to send alerts based on the findings, and, finally, how to remediate findings.
-Get Started
-arrow_forward
 AWS Client VPN Basic workshop (Japanese)
 Level: 200
 checkmark
@@ -5099,17 +5088,6 @@ schedule
 In this workshop you will create a project with multiple channels in Amazon Pinpoint, and create journeys to guide your customers through workflows to achieve desired outcomes.
 Get Started
 arrow_forward
-Protecting workloads on AWS from the instance to the edge
-Level: 300
-checkmark
-Categories: Security, IAM, Networking
-checkmark
-Tags: VPC, WAF, Systems Manager
-schedule
-2 hours
-Your mission in this workshop is to use AWS Web Application Firewall (WAF), Inspector and Amazon Systems Manager to help build an effective set of controls around your AWS workloads. You will learn to use AWS WAF to mitigate common attack vectors against web applications such as SQL injection and Cross Site Scripting. You will also learn how to use Amazon Inspector and Amazon Systems Manager to automate security assessments and operational tasks such as patching and configuration management across your EC2 fleet.
-Get Started
-arrow_forward
 Live Streaming with Amazon Interactive Video Service
 Level: 200
 checkmark
@@ -5220,39 +5198,6 @@ schedule
 In this workshop, you learn how to build a serverless customer-facing microservices application demonstrating end-to-end authentication and authorization using Amazon Cognito, Amazon API Gateway, AWS Lambda, and all things AWS Identity and Access Management (IAM). You have the opportunity to build an end-to-end functional app with a secure identity provider showcasing user authentication patterns.
 Get Started
 arrow_forward
-Infrastructure Identity on AWS
-Level: 300
-checkmark
-Categories: Security, Identity
-checkmark
-Tags: IAM, Systems Manager
-schedule
-2 hours
-This workshop is designed to help you get familiar with AWS Security services and learn how to use them to securely administer systems in your environment. You'll be working with services such as AWS Systems Manager Session Manager, Amazon EC2 Instance Connect, and AWS Identity and Access Management. You will learn how to use these services to securely connect and administer your Amazon EC2 instances as well as systems on-premises, you will setup tagged based access, and configure logging which will enable auditing of administrative activities and improve the security posture of your environment.
-Get Started
-arrow_forward
-Finding and addressing Network Misconfigurations on AWS
-Level: 300
-checkmark
-Categories: Security, Networking
-checkmark
-Tags: IAM, VPC
-schedule
-2 hours
-In this workshop you will learn how to use the Amazon Inspector Network Reachability report to validate your network configuration without needing a deep background in networking. You will use this report to find misconfigurations that may result in unintended behaviors and unexpected vulnerabilities. You will finish the workshop by remediating these vulnerabilities by integrating the findings of Amazon Inspector with other AWS services.
-Get Started
-arrow_forward
-Scaling threat detection and response on AWS
-Level: 300
-checkmark
-Categories: Security, IAM, Networking
-checkmark
-Tags: VPC, CloudTrail, Amazon Macie, Amazon Inspector, Amazon GuardDuty
-schedule
-2 hours
-This hands-on workshop is where you will learn about a number of AWS services involved with threat detection and response as we walk through real-world threat scenarios. Learn about the threat detection capabilities of Amazon GuardDuty, Amazon Macie and AWS Security Hub and the available response options. For each hands-on scenario, we review methods to detect and respond to threats using the following services: AWS CloudTrail, Amazon VPC flow logs, Amazon CloudWatch Events, Amazon Macie, AWS Lambda, Amazon Inspector, Amazon GuardDuty and Amazon Security Hub.
-Get Started
-arrow_forward
 Amazon RDS for SQL Server Workshop
 Level: 200
 checkmark
@@ -5361,39 +5306,6 @@ Tags: DynamoDB
 schedule
 3 hours
 This site includes a workshop (“Advanced Design Patterns for DynamoDB”) that is a collection of easy-to-follow instructions, scripts, and tutorial data. This site also includes a collection of data model design challenge scenarios to help you understand the decisions and tradeoffs made while building efficient data models.
-Get Started
-arrow_forward
-Access Delegation
-Level: 200
-checkmark
-Categories: Security, Identity
-checkmark
-Tags: IAM, GuardDuty, Macie, Inspector
-schedule
-2 hours
-In this workshop you will learn how to use Amazon IAM to delegate access to these services to AWS Security Administrators and AWS Security Operators. AWS Security Administrators require full access to AWS security services while AWS Security Operators only require 'read only' access to the services. You will use AWS IAM roles to do this and thereby promote the Principle of Least Privilege - giving users the minimum level of privilege they need to do their tasks.
-Get Started
-arrow_forward
-Permissions boundaries: how to delegate permissions on AWS
-Level: 400
-checkmark
-Categories: Security, Identity
-checkmark
-Tags: IAM, Permissions boundary, Lambda
-schedule
-2 hours
-In this workshop, you learn how to secure access permissions for multiple teams operating in a single AWS account. We provide an example three-tier web application running in production, and you practice delegating permissions to web administrators so they can modify only their own resources without impacting the permissions needed to do their job.All attendees need a laptop, an active AWS Account, an AWS IAM Administrator, and a familiarity with core AWS services.
-Get Started
-arrow_forward
-Serverless Identity
-Level: 300
-checkmark
-Categories: Security, Identity
-checkmark
-Tags: IAM, Cognito, S3, CloudFront
-schedule
-2 hours
-In this workshop you will be focused on improving the identity controls of the a serverless application. You will get exposed to different identity concepts through the use of a variety of services such as AWS IAM, Amazon S3, Amazon CloudFront, and Amazon Cognito. Upon completion you should have a better idea of how to use native AWS identity controls to improve the security posture of a serverless application.
 Get Started
 arrow_forward
 Migrating Microsoft Workloads to AWS

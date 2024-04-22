@@ -405,12 +405,7 @@ https://graviton2-workshop.workshop.aws
 https://greengrass-cicd.workshop.aws
 https://greengrassv2.workshop.aws
 https://ha-webapp.workshop.aws
-https://hands-on-guardduty.awssecworkshops.com
 https://hands-on-network-firewall.workshop.aws
-https://identity-round-robin.awssecworkshops.com/delegation
-https://identity-round-robin.awssecworkshops.com/permission-boundaries-advanced
-https://identity-round-robin.awssecworkshops.com/serverless
-https://idm-infrastructure.awssecworkshops.com
 https://intro-to-analytics-on-aws.workshop.aws
 https://iot-device-defender.workshop.aws
 https://iot-device-management.workshop.aws
@@ -438,7 +433,6 @@ https://observability.workshop.aws
 https://operational-machine-learning-pipeline.workshop.aws
 https://personalization-immersionday.workshop.aws
 https://pinpoint-jumpstart.workshop.aws
-https://protecting-workloads.awssecworkshops.com/workshop
 https://qldb-immersionday.workshop.aws
 https://quicksight-security-dashboard.workshop.aws
 https://rdsora.workshop.aws
@@ -456,7 +450,6 @@ https://s12d.com/aws-idp-scale-workshop
 https://sagemaker-101-workshop.workshop.aws
 https://sagemaker-immersionday.workshop.aws
 https://scalable-webapp-on-ec2.workshop.aws
-https://scaling-threat-detection.awssecworkshops.com
 https://sdlf.workshop.aws
 https://self-service-kyc.workshop.aws
 https://serverless-bi-system-from-scratch.workshop.aws
@@ -474,7 +467,6 @@ https://studio.us-east-1.prod.workshops.aws/workshops/public/b1719f45-e622-43df-
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
-https://validating-network-reachability.awssecworkshops.com
 https://volume-gateway-performance.workshop.aws
 https://wellarchitectedlabs.com/reliability/300_labs/300_health_checks_and_dependencies
 https://workshops.aws

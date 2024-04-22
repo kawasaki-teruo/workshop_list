@@ -405,12 +405,7 @@ https://graviton2-workshop.workshop.aws
 https://greengrass-cicd.workshop.aws
 https://greengrassv2.workshop.aws
 https://ha-webapp.workshop.aws
-https://hands-on-guardduty.awssecworkshops.com
 https://hands-on-network-firewall.workshop.aws
-https://identity-round-robin.awssecworkshops.com/delegation
-https://identity-round-robin.awssecworkshops.com/permission-boundaries-advanced
-https://identity-round-robin.awssecworkshops.com/serverless
-https://idm-infrastructure.awssecworkshops.com
 https://intro-to-analytics-on-aws.workshop.aws
 https://iot-device-defender.workshop.aws
 https://iot-device-management.workshop.aws
@@ -438,7 +433,6 @@ https://observability.workshop.aws
 https://operational-machine-learning-pipeline.workshop.aws
 https://personalization-immersionday.workshop.aws
 https://pinpoint-jumpstart.workshop.aws
-https://protecting-workloads.awssecworkshops.com/workshop
 https://qldb-immersionday.workshop.aws
 https://quicksight-security-dashboard.workshop.aws
 https://rdsora.workshop.aws
@@ -456,7 +450,6 @@ https://s12d.com/aws-idp-scale-workshop
 https://sagemaker-101-workshop.workshop.aws
 https://sagemaker-immersionday.workshop.aws
 https://scalable-webapp-on-ec2.workshop.aws
-https://scaling-threat-detection.awssecworkshops.com
 https://sdlf.workshop.aws
 https://self-service-kyc.workshop.aws
 https://serverless-bi-system-from-scratch.workshop.aws
@@ -474,7 +467,6 @@ https://studio.us-east-1.prod.workshops.aws/workshops/public/b1719f45-e622-43df-
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
-https://validating-network-reachability.awssecworkshops.com
 https://volume-gateway-performance.workshop.aws
 https://wellarchitectedlabs.com/reliability/300_labs/300_health_checks_and_dependencies
 https://workshops.aws
@@ -634,7 +626,6 @@ https://workshops.aws/?tag=Amazon%20Gamelift
 https://workshops.aws/?tag=Amazon%20Gamelift%20FleetIQ
 https://workshops.aws/?tag=Amazon%20Gamelift%20FlexMatch
 https://workshops.aws/?tag=Amazon%20GuardDuty
-https://workshops.aws/?tag=Amazon%20Inspector
 https://workshops.aws/?tag=Amazon%20Interactive%20Video%20Service
 https://workshops.aws/?tag=Amazon%20Kendra
 https://workshops.aws/?tag=Amazon%20Kinesis
@@ -649,7 +640,6 @@ https://workshops.aws/?tag=Amazon%20Lightsail
 https://workshops.aws/?tag=Amazon%20Location%20Service
 https://workshops.aws/?tag=Amazon%20Lookout%20for%20Vision
 https://workshops.aws/?tag=Amazon%20MSK
-https://workshops.aws/?tag=Amazon%20Macie
 https://workshops.aws/?tag=Amazon%20Managed%20Blockchain
 https://workshops.aws/?tag=Amazon%20Managed%20Grafana
 https://workshops.aws/?tag=Amazon%20Managed%20Service%20for%20Grafana
@@ -940,7 +930,6 @@ https://workshops.aws/?tag=Greengrass
 https://workshops.aws/?tag=Greengrass%20Group
 https://workshops.aws/?tag=Greengrass%20V2
 https://workshops.aws/?tag=GuardDuty
-https://workshops.aws/?tag=GurdDuty
 https://workshops.aws/?tag=HCLS
 https://workshops.aws/?tag=HPC
 https://workshops.aws/?tag=HealthScribe
@@ -976,7 +965,6 @@ https://workshops.aws/?tag=Industry%204.0
 https://workshops.aws/?tag=Inferentia
 https://workshops.aws/?tag=Infrastructure%20Event%20Management
 https://workshops.aws/?tag=Infrastructure%20as%20Code
-https://workshops.aws/?tag=Inspector
 https://workshops.aws/?tag=Internet%20of%20Things
 https://workshops.aws/?tag=IoT
 https://workshops.aws/?tag=IoT%20Application%20Kit
@@ -1122,7 +1110,6 @@ https://workshops.aws/?tag=PartyRock
 https://workshops.aws/?tag=Performance%20Insights
 https://workshops.aws/?tag=Perimeter%20protection
 https://workshops.aws/?tag=Permissions%20Boundary
-https://workshops.aws/?tag=Permissions%20boundary
 https://workshops.aws/?tag=Personalize
 https://workshops.aws/?tag=PingOne
 https://workshops.aws/?tag=Pinpoint
@@ -1245,7 +1232,6 @@ https://workshops.aws/?tag=Tags
 https://workshops.aws/?tag=Terraform
 https://workshops.aws/?tag=Testing
 https://workshops.aws/?tag=Textract
-https://workshops.aws/?tag=Threat%20Detection
 https://workshops.aws/?tag=TimeStream
 https://workshops.aws/?tag=Tomcat
 https://workshops.aws/?tag=Tracing
