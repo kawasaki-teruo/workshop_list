@@ -225,7 +225,7 @@
   },
   {
     "url": "https://amplify-photo-sharing.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amplify Photo Sharing Workshop",
     "level": "200",
     "categories": [
@@ -3323,6 +3323,21 @@
     "description": "In this workshop we will learn how create a centralized containers monitoring from any kubernetes cluster to Amazon Managed Service for Prometheus. This workshop included: AWS Distro for Opentelemetry Introduction Amazon Managed Service for Prometheus and Amazon Managed Service for Grafana for Terraform. Minikube Integration Example (Simulating OnPrem or Another Cloud Provider environment) IAM Role Anywhere integrated with Sigv4 Proxy Opentelemetry Collector for Prometheus."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8c8f65e2-3d33-443d-9865-6d8f1d6d1a91",
+    "valid_url": true,
+    "title": "Amazon Connect CTI Adapter for Salesforce Series: Prerequisites and Preparation",
+    "level": "300",
+    "categories": [
+      "Contact Center"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "Salesforce"
+    ],
+    "schedule": "2 hours",
+    "description": "An introduction to Amazon Connect and Salesforce with a focus on the Amazon Connect CTI Adapter for Salesforce. This workshop module is a prerequisite for the remaining Amazon Connect CTI Adapter for Salesforce Series modules."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8d1c3528-8abb-4674-a2b9-d15fa593c392",
     "valid_url": false,
     "title": "Machine Learning Operations with AWS IoT Greengrass v2 and Amazon SageMaker Edge Manager",
@@ -4205,6 +4220,21 @@
     "description": "This workshop helps you build a shared platform (Kubernetes multi-tenant) where multiple developer groups at an organization can consume and deploy workloads freely without the platform team being the bottleneck. We walk through the baseline setup of an EKS cluster, and gradually add add-ons to easily enhance its capabilities such as enabling ArgoCD, Rollouts, GitOps and other common open-source add-ons. We then deploy a static website with proper SSL and domain via GitOps using ArgoCD"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d44644b5-a9f3-4a77-a45a-8486bf64120c",
+    "valid_url": true,
+    "title": "Amazon Connect CTI Adapter for Salesforce Series: Architecture and Key Integration Points",
+    "level": "300",
+    "categories": [
+      "Contact Center"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "Salesforce"
+    ],
+    "schedule": "2 hours",
+    "description": "Part of Amazon Connect CTI Adapter for Salesforce Series, provides design and architectural insights into Amazon Connect integration with Salesforce using CTI adaptor"
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d58d8989-b91c-4c5c-8f4d-3838a051fc59",
     "valid_url": true,
     "title": "Build a cloud- and AI-powered dancing robot",
@@ -4347,6 +4377,21 @@
     ],
     "schedule": "2 hours",
     "description": "The intent of this workshop is to educate users about the use of Graviton processor with AWS container services and architectures. In the labs you will build multi-architecture container images using native builds and Docker buildx, run EKS with Karpenter and amd64 and introduce Graviton as part of the fleet, run ECS with amd64 and introduce Graviton as part of the fleet, create a pipeline to build multi-architecture container images with Jenkins."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/de1d9a5a-a38c-4e3c-a870-5d467cdcce5a",
+    "valid_url": true,
+    "title": "Amazon Connect CTI Adapter for Salesforce Series: Integrating with Data in Salesforce",
+    "level": "400",
+    "categories": [
+      "Contact Center"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "Salesforce"
+    ],
+    "schedule": "2 hours",
+    "description": "This module is part of the Amazon Connect CTI Adapter for Salesforce workshop series and focuses on integrating with data residing with a Salesforce organization."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/df9e16ec-dc96-43e7-aed6-a1c26a2c6899",

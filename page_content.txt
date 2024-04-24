@@ -61,6 +61,39 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Amazon Connect CTI Adapter for Salesforce Series: Integrating with Data in Salesforce
+Level: 400
+checkmark
+Categories: Contact Center
+checkmark
+Tags: Amazon Connect, Salesforce
+schedule
+2 hours
+This module is part of the Amazon Connect CTI Adapter for Salesforce workshop series and focuses on integrating with data residing with a Salesforce organization.
+Get Started
+arrow_forward
+Amazon Connect CTI Adapter for Salesforce Series: Architecture and Key Integration Points
+Level: 300
+checkmark
+Categories: Contact Center
+checkmark
+Tags: Amazon Connect, Salesforce
+schedule
+2 hours
+Part of Amazon Connect CTI Adapter for Salesforce Series, provides design and architectural insights into Amazon Connect integration with Salesforce using CTI adaptor
+Get Started
+arrow_forward
+Amazon Connect CTI Adapter for Salesforce Series: Prerequisites and Preparation
+Level: 300
+checkmark
+Categories: Contact Center
+checkmark
+Tags: Amazon Connect, Salesforce
+schedule
+2 hours
+An introduction to Amazon Connect and Salesforce with a focus on the Amazon Connect CTI Adapter for Salesforce. This workshop module is a prerequisite for the remaining Amazon Connect CTI Adapter for Salesforce Series modules.
+Get Started
+arrow_forward
 Tagging Workshop
 Level: 200
 checkmark
