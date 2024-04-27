@@ -206,6 +206,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/b5512635-063d-4256-8fcd-f
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5b776fe-bf8b-4f51-a09d-880d39210619
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5f6926a-6264-4d93-ad6b-732bba415b85
 https://catalog.us-east-1.prod.workshops.aws/workshops/b7702b59-acbf-4cef-8f14-921350830cba
+https://catalog.us-east-1.prod.workshops.aws/workshops/b85843d4-a5e4-40fc-9a96-de0a99312a4b
 https://catalog.us-east-1.prod.workshops.aws/workshops/bbbcd7a4-5fe8-4858-8401-c43be3a9c499
 https://catalog.us-east-1.prod.workshops.aws/workshops/bbc63046-2f56-4d59-917b-d5ebc63bdcee
 https://catalog.us-east-1.prod.workshops.aws/workshops/bcfb7b70-a090-4563-a058-496c1a4fbf32
@@ -483,6 +484,7 @@ https://workshops.aws/?tag=AI%2FML
 https://workshops.aws/?tag=AIML
 https://workshops.aws/?tag=AMS
 https://workshops.aws/?tag=ANFW
+https://workshops.aws/?tag=APC
 https://workshops.aws/?tag=API
 https://workshops.aws/?tag=API%20Gateway
 https://workshops.aws/?tag=APIGateway
@@ -793,6 +795,7 @@ https://workshops.aws/?tag=Copilot
 https://workshops.aws/?tag=Cost%20Explorer
 https://workshops.aws/?tag=Cost%20Management
 https://workshops.aws/?tag=Cost%20Optimization
+https://workshops.aws/?tag=Cryptography
 https://workshops.aws/?tag=Custom%20blueprint
 https://workshops.aws/?tag=Customer%20Profiles
 https://workshops.aws/?tag=Customer%20Sentiment%20Analysis

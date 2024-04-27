@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+AWS Payments Security
+Level: 400
+checkmark
+Categories: Containers, Serverless
+checkmark
+Tags: APC, Cryptography
+schedule
+2 hours
+This workshop familiarizes attendees with AWS Payment Cryptography service and demonstrates how to use the service for common FSI use cases related payments acceptance.
+Get Started
+arrow_forward
 Amazon Connect CTI Adapter for Salesforce Series: Integrating with Data in Salesforce
 Level: 400
 checkmark

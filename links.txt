@@ -345,6 +345,11 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Containers
+https://workshops.aws/categories/Serverless
+https://workshops.aws/?tag=APC
+https://workshops.aws/?tag=Cryptography
+https://catalog.us-east-1.prod.workshops.aws/workshops/b85843d4-a5e4-40fc-9a96-de0a99312a4b
 https://workshops.aws/categories/Contact%20Center
 https://workshops.aws/?tag=Amazon%20Connect
 https://workshops.aws/?tag=Salesforce

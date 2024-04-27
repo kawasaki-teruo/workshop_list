@@ -766,7 +766,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/067af2a2-109d-41ed-9170-4b5f0813fece",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Fundamentals of Windows on AWS Workshop",
     "level": "100",
     "categories": [
@@ -2823,7 +2823,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/60498ce8-d502-4423-b433-12ab94aa822e",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Protect your application security perimeter with AWS WAF",
     "level": "300",
     "categories": [
@@ -3863,6 +3863,22 @@
     ],
     "schedule": "2 hours",
     "description": "Learn how to assess operational readiness and resilience and quickly react to events using example workloads based on real-world scenarios. In this workshop, use AWS best practices, including the AWS Infrastructure Event Management (IEM) process and the AWS Well-Architected Framework, to identify and mitigate risks and operational issues. Discover how to plan for a successful launch and implement an effective observability, including CloudWatch anomaly detection leveraging statistical and AI/ML"
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b85843d4-a5e4-40fc-9a96-de0a99312a4b",
+    "valid_url": true,
+    "title": "AWS Payments Security",
+    "level": "400",
+    "categories": [
+      "Containers",
+      "Serverless"
+    ],
+    "tags": [
+      "APC",
+      "Cryptography"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop familiarizes attendees with AWS Payment Cryptography service and demonstrates how to use the service for common FSI use cases related payments acceptance."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bbbcd7a4-5fe8-4858-8401-c43be3a9c499",
@@ -6261,7 +6277,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/running-batch-on-eks",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Running batch workloads on Amazon EKS with AWS Batch",
     "level": "200",
     "categories": [
@@ -8505,7 +8521,7 @@
   },
   {
     "url": "https://research-fits-datalake.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Data lake for Astronomy FITS Data",
     "level": "400",
     "categories": [
