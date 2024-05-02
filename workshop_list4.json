@@ -1294,7 +1294,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/da6f9534-ec7e-40b0-8ec4-35e2b92a1fa7",
-    "valid_url": true,
+    "valid_url": false,
     "title": "VMware Cloud on AWS Immersion Day",
     "level": "200",
     "categories": [
