@@ -114,7 +114,7 @@
   },
   {
     "url": "https://amazon-dynamodb-labs.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon DynamoDB Workshop & Labs",
     "level": "400",
     "categories": [
