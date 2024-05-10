@@ -61,6 +61,39 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+AWS Instant Payments with Finzly
+Level: 300
+checkmark
+Categories: Payments, Financial Services
+checkmark
+Tags: Lambda, API Gateway, Serverless
+schedule
+2 hours
+This workshop will provide hands-on experience to use Payment Galaxy (Finzly’s payment hub) on AWS to connect to FedNow and RTP networks to provide instant payment services between bank accounts.
+Get Started
+arrow_forward
+Build a Serverless Text-to-Speech Application with Amazon Polly
+Level: 200
+checkmark
+Categories: Serverless, AI/ML
+checkmark
+Tags: Polly, Lambda
+schedule
+2 hours
+In this workshop, you create a basic, serverless application that uses Amazon Polly to convert text to speech. The application has a simple user interface that accepts text in many different languages and then converts it into audio files that you can play from a web browser. Amazon Polly turns text into life-like speech. It lets you create applications that talk naturally, enabling you to build entirely new categories of speech-enabled products. Amazon Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It currently includes dozens of lifelike voices in over 20 languages, so you can select the ideal voice and build speech-enabled applications that work in many different countries.
+Get Started
+arrow_forward
+SMART on FHIR with AWS HealthLake: Secure with Amazon Cognito or Keycloak
+Level: 300
+checkmark
+Categories: Analytics, Security, Identity, and Compliance
+checkmark
+Tags: AWS HealthLake, Amazon Cognito, FHIR, SMART on FHIR
+schedule
+4 hours
+SMART-on-FHIR enabled AWS HealthLake data store allows FHIR compliant applications to access data stored in a HealthLake data store. HealthLake data is accessed by authenticating and authorizing requests using an authorization server. In this workshop, we showcase how to secure the FHIR API access to a SMART-on-FHIR enabled HealthLake data store with two IdP solutions: native AWS service - Amazon Cognito user pool - and an open source solution - Keycloak.
+Get Started
+arrow_forward
 AWS Payments Security
 Level: 400
 checkmark
@@ -2052,17 +2085,6 @@ schedule
 Learn best practices for deploying, configuring, securing, and operating application on Amazon Lightsail
 Get Started
 arrow_forward
-Chaos Engineering with Fault Injection Simulator (FIS) Workshop
-Level: 300
-checkmark
-Categories: FIS, Chaos Engineering, Development, Operations, Observability
-checkmark
-Tags: FIS, Chaos Engineering, Development, Operations, Observability, CloudWatch, DevOps Guru, ECS, EKS, EC2, RDS, Aurora
-schedule
-8 hours
-This workshop provides an introduction to Chaos Engineering using AWS tooling, with a focus on AWS Fault Injection Simulator. It introduces the Chaos Engineering cycle: steady state, hypothesis, stress, observe, improve. You will learn how to use FIS to stress / disrupt infrastructure to validate resilience in your system setup and demonstrates how to use other AWS tools to observe and improve your system resilience.
-Get Started
-arrow_forward
 Amazon Connect User Provisioning
 Level: 400
 checkmark
@@ -2963,17 +2985,6 @@ Tags: SageMaker, Data Wrangler, Data Processing
 schedule
 4 hours
 The Amazon SageMaker Data Wrangler workshop dives deep into Data Wrangler, by importing a hotel booking dataset and navigates the user through the processes of exploratory data analysis, data preparation, feature engineering with the dataset. The workshop also walks through the various integration patterns for Data Wrangler to bridge with other SageMaker components. In addition the workshop covers other topics like security, permissions and architectural design patterns.
-Get Started
-arrow_forward
-Building a Secure Contact Center with Amazon Connect
-Level: 200
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon PinPoint, Amazon Connect
-schedule
-1 hour
-This workshop is designed for public sector organizations, that require a confirmation that the inbound phone number is a valid caller. The end-customer is engaging the organization for public services, such as health information, financial assistance, or other provided services, and may need to provide sensitive data, such as social security number, date of birth, or similar information.
 Get Started
 arrow_forward
 Amazon Connect Chat

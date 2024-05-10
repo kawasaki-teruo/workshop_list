@@ -2296,6 +2296,22 @@
     "description": "Customers often encounters exhaustion of IPv4 addresses available in their VPC leading to scalability challenges when running large scale application(s) on Amazon EKS cluster which demands frequently launching hundreds or thousands of workloads (pods) in their cluster. In this workshop, learn how you can make an existing IPv4 VPC to dual-stack VPC with IPv6 address space and deploy an IPv6 enabled Amazon EKS cluster thereby implementing a long-term solution."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3be7b9f7-146c-4112-94bd-444dd7cc5556",
+    "valid_url": true,
+    "title": "Build a Serverless Text-to-Speech Application with Amazon Polly",
+    "level": "200",
+    "categories": [
+      "Serverless",
+      "AI/ML"
+    ],
+    "tags": [
+      "Polly",
+      "Lambda"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop, you create a basic, serverless application that uses Amazon Polly to convert text to speech. The application has a simple user interface that accepts text in many different languages and then converts it into audio files that you can play from a web browser. Amazon Polly turns text into life-like speech. It lets you create applications that talk naturally, enabling you to build entirely new categories of speech-enabled products. Amazon Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It currently includes dozens of lifelike voices in over 20 languages, so you can select the ideal voice and build speech-enabled applications that work in many different countries."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3c892c47-5c1d-4ea5-b38f-86e624aa2ea9",
     "valid_url": true,
     "title": "Service Cloud Voice Series: Creating Dynamic Customer Experiences",
@@ -2620,6 +2636,26 @@
     "description": "In this workshop, you will enrich Security Hub findings with the corresponding resource metadata, export findings to Amazon S3 and build a security & compliance leaderboard with Amazon Athena and Amazon QuickSight. the leaderboard helps business, SecOps and technical teams to scale by providing an effective way to understand the current state of security and compliance as well as identifying the outliers that require immediate attention."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26",
+    "valid_url": true,
+    "title": "SMART on FHIR with AWS HealthLake: Secure with Amazon Cognito or Keycloak",
+    "level": "300",
+    "categories": [
+      "Analytics",
+      "Security",
+      "Identity",
+      "and Compliance"
+    ],
+    "tags": [
+      "AWS HealthLake",
+      "Amazon Cognito",
+      "FHIR",
+      "SMART on FHIR"
+    ],
+    "schedule": "4 hours",
+    "description": "SMART-on-FHIR enabled AWS HealthLake data store allows FHIR compliant applications to access data stored in a HealthLake data store. HealthLake data is accessed by authenticating and authorizing requests using an authorization server. In this workshop, we showcase how to secure the FHIR API access to a SMART-on-FHIR enabled HealthLake data store with two IdP solutions: native AWS service - Amazon Cognito user pool - and an open source solution - Keycloak."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/57b6024b-0dba-4d45-a0f2-6662a2dbbdef",
     "valid_url": true,
     "title": "DeepRacer Car 400L Workshop",
@@ -2673,6 +2709,23 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop is designed to help you get familiar with IAM Identity Center (successor to AWS Single Sign-On) for managing your organization's workforce identity at scale across a multi-account AWS deployment."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/595ee110-a12e-4645-b629-cbf6b6dd6dd0",
+    "valid_url": true,
+    "title": "AWS Instant Payments with Finzly",
+    "level": "300",
+    "categories": [
+      "Payments",
+      "Financial Services"
+    ],
+    "tags": [
+      "Lambda",
+      "API Gateway",
+      "Serverless"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop will provide hands-on experience to use Payment Galaxy (Finzly’s payment hub) on AWS to connect to FedNow and RTP networks to provide instant payment services between bank accounts."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5b7fe737-7ea2-4c4d-b572-76df6adabd47",
@@ -2791,35 +2844,6 @@
     ],
     "schedule": "1 hour",
     "description": "This workshop introduces how to use AWS AppFabric that quickly connects SaaS applications across the organization, so IT and security teams can easily manage and secure applications using a standard schema and use Amazon Athena to query for data across applications and use Amazon Quicksight for quick visualization."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5fc0039f-9f15-47f8-aff0-09dc7b1779ee",
-    "valid_url": false,
-    "title": "Chaos Engineering with Fault Injection Simulator (FIS) Workshop",
-    "level": "300",
-    "categories": [
-      "FIS",
-      "Chaos Engineering",
-      "Development",
-      "Operations",
-      "Observability"
-    ],
-    "tags": [
-      "FIS",
-      "Chaos Engineering",
-      "Development",
-      "Operations",
-      "Observability",
-      "CloudWatch",
-      "DevOps Guru",
-      "ECS",
-      "EKS",
-      "EC2",
-      "RDS",
-      "Aurora"
-    ],
-    "schedule": "8 hours",
-    "description": "This workshop provides an introduction to Chaos Engineering using AWS tooling, with a focus on AWS Fault Injection Simulator. It introduces the Chaos Engineering cycle: steady state, hypothesis, stress, observe, improve. You will learn how to use FIS to stress / disrupt infrastructure to validate resilience in your system setup and demonstrates how to use other AWS tools to observe and improve your system resilience."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/60498ce8-d502-4423-b433-12ab94aa822e",
@@ -3479,22 +3503,6 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop simulates unauthorized data deletion events on an Amazon RDS instance and walks through some of the detection mechanisms employed by the AWS CIRT (Customer Incident Response Team) to respond to such security events."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/99d1f52e-bac3-466f-9afc-b379416bbe33",
-    "valid_url": false,
-    "title": "Building a Secure Contact Center with Amazon Connect",
-    "level": "200",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon PinPoint",
-      "Amazon Connect"
-    ],
-    "schedule": "1 hour",
-    "description": "This workshop is designed for public sector organizations, that require a confirmation that the inbound phone number is a valid caller. The end-customer is engaging the organization for public services, such as health information, financial assistance, or other provided services, and may need to provide sensitive data, such as social security number, date of birth, or similar information."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/9a6b5bae-6ee2-4704-9f84-ff9705435834",
