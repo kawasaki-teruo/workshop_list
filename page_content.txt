@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Next Generation Developer Experience with Amazon Q
+Level: 300
+checkmark
+Categories: Generative AI, Builder Experience, Analytics
+checkmark
+Tags: Q, Redshift, Generative AI
+schedule
+2 hours
+Step into the next generation of developer experience powered by Amazon Q a generative AI–powered assistant. This workshop is designed to teach you how to effectively use Amazon Q to assist in coding, debugging, and enhancing your data analytics capabilities.
+Get Started
+arrow_forward
 AWS Instant Payments with Finzly
 Level: 300
 checkmark
@@ -2369,17 +2380,6 @@ Tags: Analytics
 schedule
 8 hours
 This workshop is prepared to guide participants on how to use AWS serverless services to build a cloud-native and future-proof serverless data lake architecture. We will use AWS Glue for ETL and data catalog management, Amazon S3 for data lake storage, Amazon Athena to query data and Amazon QuickSight to visualize data.
-Get Started
-arrow_forward
-AWS Lambda Workshop
-Level: 300
-checkmark
-Categories: Compute, Lambda, Serverless
-checkmark
-Tags: AWS Lambda, Serverless
-schedule
-4 hours
-Workshop showcasing how Lambda works. You will see cold-start, scaling, traffic shift, and some of the common tools to help develop and optimize Lambda functions. More to come in future:)
 Get Started
 arrow_forward
 Determining donor or stakeholder sentiment with AWS

@@ -113,20 +113,6 @@
     "description": "A workshop that uses the broken AWS Alien Attack game as a way to provide hands-on experience in building near serverless real-time data processing pipelines on AWS"
   },
   {
-    "url": "https://amazon-dynamodb-labs.workshop.aws",
-    "valid_url": false,
-    "title": "Amazon DynamoDB Workshop & Labs",
-    "level": "400",
-    "categories": [
-      "Databases"
-    ],
-    "tags": [
-      "DynamoDB"
-    ],
-    "schedule": "3 hours",
-    "description": "This site includes a workshop (“Advanced Design Patterns for DynamoDB”) that is a collection of easy-to-follow instructions, scripts, and tutorial data. This site also includes a collection of data model design challenge scenarios to help you understand the decisions and tradeoffs made while building efficient data models."
-  },
-  {
     "url": "https://amazon-mq-intro.workshop.aws",
     "valid_url": true,
     "title": "AmazonMQ Workshop For ActiveMQ",
@@ -2921,23 +2907,6 @@
     "description": "Many organizations choose to build event-driven application architectures in which subscribers or target services automatically perform in response to events triggered by publisher or source services. This pattern can help development teams operate more independently to release new features faster and make their applications more scalable. In this workshop, learn about the basics of event-driven design using examples involving Amazon SNS, Amazon SQS, AWS Lambda, Amazon EventBridge, and more. Find out how to choose the right AWS service for the job and how you can optimize cost and performance. You must bring your laptop to participate."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/66943748-f648-4a43-8b44-da8cfcc53286",
-    "valid_url": false,
-    "title": "AWS Lambda Workshop",
-    "level": "300",
-    "categories": [
-      "Compute",
-      "Lambda",
-      "Serverless"
-    ],
-    "tags": [
-      "AWS Lambda",
-      "Serverless"
-    ],
-    "schedule": "4 hours",
-    "description": "Workshop showcasing how Lambda works. You will see cold-start, scaling, traffic shift, and some of the common tools to help develop and optimize Lambda functions. More to come in future:)"
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357",
     "valid_url": true,
     "title": "Amazon CodeWhisperer",
@@ -5705,6 +5674,20 @@
     "description": "Learn how to use dbt CLI to manage data transformations in Amazon Redshift with features including modular programming and data lineage."
   },
   {
+    "url": "https://catalog.workshops.aws/dynamodb-labs",
+    "valid_url": true,
+    "title": "Amazon DynamoDB Workshop & Labs",
+    "level": "400",
+    "categories": [
+      "Databases"
+    ],
+    "tags": [
+      "DynamoDB"
+    ],
+    "schedule": "3 hours",
+    "description": "This site includes a workshop (“Advanced Design Patterns for DynamoDB”) that is a collection of easy-to-follow instructions, scripts, and tutorial data. This site also includes a collection of data model design challenge scenarios to help you understand the decisions and tradeoffs made while building efficient data models."
+  },
+  {
     "url": "https://catalog.workshops.aws/ecs-finhack",
     "valid_url": true,
     "title": "Amazon ECS Finhack Workshop",
@@ -6097,6 +6080,24 @@
     ],
     "schedule": "2 hours",
     "description": "Using multiple providers to manage cloud resources with Terraform. Terraform is an open source Infrastructure as Code (IaC) tool that allows you to manage your infrastructure in a declarative way. IaC is the practice of defining your infrastructure requirements declaratively, and using a GitOps approach to iterate and modify those declarations. This provides predictability, repeatability, and safety mechanisms such as peer review and preventative controls."
+  },
+  {
+    "url": "https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q",
+    "valid_url": true,
+    "title": "Next Generation Developer Experience with Amazon Q",
+    "level": "300",
+    "categories": [
+      "Generative AI",
+      "Builder Experience",
+      "Analytics"
+    ],
+    "tags": [
+      "Q",
+      "Redshift",
+      "Generative AI"
+    ],
+    "schedule": "2 hours",
+    "description": "Step into the next generation of developer experience powered by Amazon Q a generative AI–powered assistant. This workshop is designed to teach you how to effectively use Amazon Q to assist in coding, debugging, and enhancing your data analytics capabilities."
   },
   {
     "url": "https://catalog.workshops.aws/nitrowallet",
