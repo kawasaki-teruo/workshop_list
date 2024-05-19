@@ -1159,7 +1159,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/a1101fcc-c7cf-4dd5-98c4-f599a65056d5",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Web Application Hosts on EKS Workshop",
     "level": "300",
     "categories": [
