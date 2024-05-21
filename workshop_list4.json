@@ -1783,7 +1783,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1fd0a2ae-bd67-47a9-8ce3-a1f37396d6bc",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Extract and Convert ICD-10 Codes Using Comprehend Medical",
     "level": "200",
     "categories": [
@@ -3576,7 +3576,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a6d1b5c0-90c6-47a3-bfa7-ed816c6f60ac",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Monitron Digital Twin Workshop",
     "level": "300",
     "categories": [
@@ -3690,7 +3690,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ad10df02-3006-4e52-a073-21005cdc860e",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Getting started with Amazon WorkMail",
     "level": "200",
     "categories": [
@@ -4016,7 +4016,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c9cd344a-0d0b-42cb-8734-09667433f89c",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS IoT TwinMaker Advanced Workshop",
     "level": "400",
     "categories": [
@@ -4944,7 +4944,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/amazon-chime-sdk-meetings-with-transcribe-and-translate",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building an Amazon Chime SDK Meeting with Transcribe and Translate",
     "level": "300",
     "categories": [
@@ -5476,7 +5476,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/chime-sdk-click-to-call",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building a Click to Call Demo with Amazon Chime SDK",
     "level": "300",
     "categories": [
