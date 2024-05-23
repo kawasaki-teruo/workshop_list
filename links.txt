@@ -1896,10 +1896,6 @@ https://workshops.aws/?tag=SageMaker%20Pipelines
 https://workshops.aws/?tag=Machine%20Learning%20Workflows
 https://workshops.aws/?tag=Startups
 https://catalog.workshops.aws/sagemaker-fraud-detection
-https://workshops.aws/categories/Security
-https://workshops.aws/categories/Networking
-https://workshops.aws/?tag=AWS%20WAF
-https://catalog.us-east-1.prod.workshops.aws/workshops/60498ce8-d502-4423-b433-12ab94aa822e
 https://workshops.aws/categories/AWS%20Glue
 https://workshops.aws/categories/Amazon%20QuickSight
 https://workshops.aws/categories/Amazon%20Athena

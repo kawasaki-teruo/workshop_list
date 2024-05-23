@@ -2360,17 +2360,6 @@ schedule
 In this workshop, you will learn how to build, train, and deploy an end-to-end Machine Learning (ML) fraud detection solution using Amazon SageMaker. You will gain in-depth understanding of how to leverage SageMaker for ML lifecycle and enhance your effectiveness as a data scientist and ML engineer. You will experiment with auto insurance claims data, transform and pre-process datasets, train and tune your ML models, audit and mitigate training bias, and run ML pipeline using automated workflows. Data used in this workshop is synthetically generated and consists of customer biographical data, including auto insurance claims data. Techniques learned here can be applied to other fraud detection use cases too.
 Get Started
 arrow_forward
-Protect your application security perimeter with AWS WAF
-Level: 300
-checkmark
-Categories: Security, Networking
-checkmark
-Tags: AWS WAF
-schedule
-1 hour
-In this workshop, get hands-on experience building rules in AWS WAF to protect your applications against common web events. Also learn about some of the recent feature launches in AWS WAF.
-Get Started
-arrow_forward
 AWS Serverless Data Lake Jumpstart
 Level: 300
 checkmark

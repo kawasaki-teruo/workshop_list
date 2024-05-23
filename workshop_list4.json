@@ -1783,7 +1783,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1fd0a2ae-bd67-47a9-8ce3-a1f37396d6bc",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Extract and Convert ICD-10 Codes Using Comprehend Medical",
     "level": "200",
     "categories": [
@@ -2830,21 +2830,6 @@
     ],
     "schedule": "1 hour",
     "description": "This workshop introduces how to use AWS AppFabric that quickly connects SaaS applications across the organization, so IT and security teams can easily manage and secure applications using a standard schema and use Amazon Athena to query for data across applications and use Amazon Quicksight for quick visualization."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/60498ce8-d502-4423-b433-12ab94aa822e",
-    "valid_url": false,
-    "title": "Protect your application security perimeter with AWS WAF",
-    "level": "300",
-    "categories": [
-      "Security",
-      "Networking"
-    ],
-    "tags": [
-      "AWS WAF"
-    ],
-    "schedule": "1 hour",
-    "description": "In this workshop, get hands-on experience building rules in AWS WAF to protect your applications against common web events. Also learn about some of the recent feature launches in AWS WAF."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72",
