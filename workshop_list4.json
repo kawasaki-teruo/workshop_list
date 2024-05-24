@@ -4908,6 +4908,24 @@
     "description": "In this workshop, choose your preferred domain (Compute/Networking, Databases, Containers and Serverless/DevOps), and then work on triaging an issue using techniques and best practices shared during the session. Come learn how to securely approach troubleshooting at scale on AWS. You must bring your laptop to participate."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73",
+    "valid_url": true,
+    "title": "Secure Your Code With Amazon Q Developer Info",
+    "level": "200",
+    "categories": [
+      "Security",
+      "Identity",
+      "and Compliance",
+      "Amazon Q"
+    ],
+    "tags": [
+      "Amazon Q",
+      "CodeWhisperer"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop will help you learn how to use Amazon Q Developer to write more secure code and reduce the number of security findings present in it. Amazon Q Developer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code."
+  },
+  {
     "url": "https://catalog.workshops.aws/5g-edge-compute",
     "valid_url": true,
     "title": "Mobile Edge Compute (MEC) with AWS Wavelength Workshop",

@@ -343,6 +343,11 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Security,%20Identity,%20and%20Compliance
+https://workshops.aws/categories/Amazon%20Q
+https://workshops.aws/?tag=Amazon%20Q
+https://workshops.aws/?tag=CodeWhisperer
+https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73/en-US
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/categories/Builder%20Experience
 https://workshops.aws/categories/Analytics

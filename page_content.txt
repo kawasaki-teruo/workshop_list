@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Secure Your Code With Amazon Q Developer Info
+Level: 200
+checkmark
+Categories: Security, Identity, and Compliance, Amazon Q
+checkmark
+Tags: Amazon Q, CodeWhisperer
+schedule
+2 hours
+This workshop will help you learn how to use Amazon Q Developer to write more secure code and reduce the number of security findings present in it. Amazon Q Developer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code.
+Get Started
+arrow_forward
 Next Generation Developer Experience with Amazon Q
 Level: 300
 checkmark
