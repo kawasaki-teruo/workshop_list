@@ -4001,7 +4001,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c9cd344a-0d0b-42cb-8734-09667433f89c",
-    "valid_url": false,
+    "valid_url": true,
     "title": "AWS IoT TwinMaker Advanced Workshop",
     "level": "400",
     "categories": [
@@ -4910,7 +4910,7 @@
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73",
     "valid_url": true,
-    "title": "Secure Your Code With Amazon Q Developer Info",
+    "title": "Secure Your Code With Amazon Q Developer",
     "level": "200",
     "categories": [
       "Security",

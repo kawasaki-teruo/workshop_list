@@ -61,7 +61,7 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
-Secure Your Code With Amazon Q Developer Info
+Secure Your Code With Amazon Q Developer
 Level: 200
 checkmark
 Categories: Security, Identity, and Compliance, Amazon Q
