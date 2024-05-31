@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Data Strategy: Generative AI in Action
+Level: 200
+checkmark
+Categories: Amazon Bedrock, AWS Lambda, Amazon QuickSight
+checkmark
+Tags: Genearative AI, Analytics, Machine Learning, Databases
+schedule
+8 hours
+Through a captivating real-world business use case, participants will witness firsthand how generative AI can redefine the way you approach problem-solving and innovation. This workshop consists of step-by-step comprehensive guides and presentation material detailing how they might use generative AI to solve real business problems.
+Get Started
+arrow_forward
 Secure Your Code With Amazon Q Developer
 Level: 200
 checkmark

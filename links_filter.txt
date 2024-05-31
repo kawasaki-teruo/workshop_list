@@ -118,6 +118,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/30bd753c-9563-4c7c-8d1a-7
 https://catalog.us-east-1.prod.workshops.aws/workshops/327375b8-425b-49d4-b0da-241da0595ecf
 https://catalog.us-east-1.prod.workshops.aws/workshops/329ca80d-a33a-43fe-8aaf-d996a258adfe
 https://catalog.us-east-1.prod.workshops.aws/workshops/32f3e732-d67d-4c63-b967-c8c5eabd9ebf
+https://catalog.us-east-1.prod.workshops.aws/workshops/373a8112-5432-4d40-bff9-bafcb3203d58
 https://catalog.us-east-1.prod.workshops.aws/workshops/377bafee-4f96-4d5f-b8cc-ef24e8d080e0
 https://catalog.us-east-1.prod.workshops.aws/workshops/38565e8c-3a5f-4e93-8412-5fdec23744ca
 https://catalog.us-east-1.prod.workshops.aws/workshops/3b06259f-8e17-4f2f-811a-75c9b06a2807

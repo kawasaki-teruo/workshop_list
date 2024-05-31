@@ -2228,6 +2228,25 @@
     "description": "Modern data strategies acknowledge the idea that taking a one-size-fits-all approach to analytics eventually leads to compromises. It is not simply about integrating a data lake with a data warehouse, but rather about integrating a data lake, a data warehouse, and purpose-built stores, enabling unified governance and easy data movement. In a modern data architecture on AWS, you can store data in a data lake and use a ring of purpose-built data services around the lake allowing them to make decisions with speed and agility, at scale and with price/performance that is unmatched in the market. The workshops provided here will guide you through creating a modern data platform on AWS and will demonstrate the key principles, namely: Scalable Data Lakes, Purpose Built Data Services, Seamless Data Movement, Unified Governance, Performant and Cost Effective."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/373a8112-5432-4d40-bff9-bafcb3203d58",
+    "valid_url": true,
+    "title": "Data Strategy: Generative AI in Action",
+    "level": "200",
+    "categories": [
+      "Amazon Bedrock",
+      "AWS Lambda",
+      "Amazon QuickSight"
+    ],
+    "tags": [
+      "Genearative AI",
+      "Analytics",
+      "Machine Learning",
+      "Databases"
+    ],
+    "schedule": "8 hours",
+    "description": "Through a captivating real-world business use case, participants will witness firsthand how generative AI can redefine the way you approach problem-solving and innovation. This workshop consists of step-by-step comprehensive guides and presentation material detailing how they might use generative AI to solve real business problems."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/377bafee-4f96-4d5f-b8cc-ef24e8d080e0",
     "valid_url": true,
     "title": "Amazon Connect Profiles",

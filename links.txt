@@ -343,6 +343,14 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Amazon%20Bedrock
+https://workshops.aws/categories/AWS%20Lambda
+https://workshops.aws/categories/Amazon%20QuickSight
+https://workshops.aws/?tag=Genearative%20AI
+https://workshops.aws/?tag=Analytics
+https://workshops.aws/?tag=Machine%20Learning
+https://workshops.aws/?tag=Databases
+https://catalog.us-east-1.prod.workshops.aws/workshops/373a8112-5432-4d40-bff9-bafcb3203d58
 https://workshops.aws/categories/Security,%20Identity,%20and%20Compliance
 https://workshops.aws/categories/Amazon%20Q
 https://workshops.aws/?tag=Amazon%20Q
