@@ -2912,7 +2912,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon CodeWhisperer",
     "level": "300",
     "categories": [
