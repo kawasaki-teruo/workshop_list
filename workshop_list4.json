@@ -1803,7 +1803,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/20804013-587c-464d-97e9-02b03c7f2bd0",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build an iOS-native app with a cloud-based backend",
     "level": "300",
     "categories": [
@@ -2546,6 +2546,24 @@
     ],
     "schedule": "2 hours",
     "description": "re:Invent 23023 session AUT301 Automotive software development: The virtual engineering workbench"
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4db05a4c-f22f-4d24-8800-932626a8c197",
+    "valid_url": true,
+    "title": "Generative AI for Energy, Power & Utilities and Manufacturing Workshop",
+    "level": "300",
+    "categories": [
+      "Amazon Bedrock",
+      "Amazon OpenSearch Service",
+      "Amazon QuickSight"
+    ],
+    "tags": [
+      "Internet of Things (IoT)",
+      "Machine Learning (ML/AI)",
+      "Generative AI"
+    ],
+    "schedule": "6 hours",
+    "description": "This workshop is designed to inspire and educate professionals in the industry, attendees will learn best practices for leveraging the vast potential of generative AI models and use of and GenAI in Predictive maintenance, root cause analysis of equipments using manufacturer specs, generate shift handover report, analyzing RFP documents, disappearing workforce and unlocking new opportunities."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4de5236e-7226-47ca-bef9-7497b531dd98",
@@ -4464,19 +4482,17 @@
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e",
     "valid_url": true,
-    "title": "A Deep Dive into Amazon CodeWhisperer",
+    "title": "Developer Experience - Amazon Q Developer - Deep Dive",
     "level": "400",
     "categories": [
-      "Developer Tools",
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Containers",
+      "Compute"
     ],
     "tags": [
-      "AI/ML",
-      "CodeWhisperer"
+      "Amazon Q Developer"
     ],
     "schedule": "4 hours",
-    "description": "This workshop will help you learn how to use CodeWhisperer to write code faster and with fewer errors. CodeWhisperer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code. However, CodeWhisperer can limit the suggested code to open source code based on the license type that is not restrictive."
+    "description": "A 400+ level Developer Experience workshop covering: - Simple & complex prompts - AWS services (DynamoDB, S3, SQS) - Class creation - Fake Data - SQL Generation - Regular expressions - Unit Testing - End to end solutions - Amazon Q Developer For the following languages: - Python - JavaScript - TypeScript - Java"
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e2873015-ae1e-43cc-9ab7-4c87cf28aa30",
@@ -5162,7 +5178,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/applying-abac",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Applying Attribute-Based Access Control within AWS",
     "level": "300",
     "categories": [
@@ -5824,6 +5840,26 @@
     ],
     "schedule": "4 hours",
     "description": "Ensuring your applications deployed on AWS allows only right protocol and port access to/from known network ranges is a foundation to security in the cloud. As the number of AWS Accounts and resources increases you need a centralized mechanism to audit and manage these firewall rules across your AWS Accounts. In this workshop, you will learn and use AWS Firewall Manager to centrally manage and audit VPC security groups for overly permissive rules and distributed deployment of AWS Network Firewall rules across VPCs and Accounts."
+  },
+  {
+    "url": "https://catalog.workshops.aws/genai-for-sap",
+    "valid_url": true,
+    "title": "New insight from your business data stored in SAP HANA Cloud using Generative AI capability and Amazon Sagemaker",
+    "level": "300",
+    "categories": [
+      "Bedrock",
+      "AI/ML",
+      "SAP",
+      "Sagemaker"
+    ],
+    "tags": [
+      "Bedrock",
+      "SAP",
+      "Sagemaker",
+      "Generative AI"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn to integrate a Generative AI and Large Language Model (LLM) to improve the user's experience to get insight from their business data stored in SAP HANA Cloud. We will use Amazon Bedrock, Python language, Langchain, PandasAI and SQLAlchemy to orchestrate this solution."
   },
   {
     "url": "https://catalog.workshops.aws/genai-on-aws",

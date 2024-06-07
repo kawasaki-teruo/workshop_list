@@ -135,6 +135,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b8a4050-893e-40f3-9788-8256025024b4
 https://catalog.us-east-1.prod.workshops.aws/workshops/4d04d703-4ea1-4848-8798-cf1b5c828842
+https://catalog.us-east-1.prod.workshops.aws/workshops/4db05a4c-f22f-4d24-8800-932626a8c197
 https://catalog.us-east-1.prod.workshops.aws/workshops/4de5236e-7226-47ca-bef9-7497b531dd98
 https://catalog.us-east-1.prod.workshops.aws/workshops/4eba7957-dfde-44d3-9997-127c7e4bc416
 https://catalog.us-east-1.prod.workshops.aws/workshops/4ff2d034-dee1-4570-93d9-11a54cc5d60c
@@ -312,6 +313,7 @@ https://catalog.workshops.aws/eks-blueprints-for-cdk
 https://catalog.workshops.aws/eks-immersionday
 https://catalog.workshops.aws/eks-saas-gitops
 https://catalog.workshops.aws/firewall-manager
+https://catalog.workshops.aws/genai-for-sap
 https://catalog.workshops.aws/genai-on-aws
 https://catalog.workshops.aws/general-immersionday
 https://catalog.workshops.aws/gromacs-on-aws-parallelcluster
@@ -658,6 +660,7 @@ https://workshops.aws/?tag=Amazon%20PinPoint
 https://workshops.aws/?tag=Amazon%20Pinpoint
 https://workshops.aws/?tag=Amazon%20Polly
 https://workshops.aws/?tag=Amazon%20Q
+https://workshops.aws/?tag=Amazon%20Q%20Developer
 https://workshops.aws/?tag=Amazon%20QuickSight
 https://workshops.aws/?tag=Amazon%20RDS
 https://workshops.aws/?tag=Amazon%20Redshift
@@ -975,6 +978,7 @@ https://workshops.aws/?tag=Inferentia
 https://workshops.aws/?tag=Infrastructure%20Event%20Management
 https://workshops.aws/?tag=Infrastructure%20as%20Code
 https://workshops.aws/?tag=Internet%20of%20Things
+https://workshops.aws/?tag=Internet%20of%20Things%20(IoT)
 https://workshops.aws/?tag=IoT
 https://workshops.aws/?tag=IoT%20Application%20Kit
 https://workshops.aws/?tag=IoT%20Core
@@ -1034,6 +1038,7 @@ https://workshops.aws/?tag=MQTT
 https://workshops.aws/?tag=MSK
 https://workshops.aws/?tag=MWAA
 https://workshops.aws/?tag=Machine%20Learning
+https://workshops.aws/?tag=Machine%20Learning%20(ML%2FAI)
 https://workshops.aws/?tag=Machine%20Learning%20Use%20Cases
 https://workshops.aws/?tag=Machine%20Learning%20Workflows
 https://workshops.aws/?tag=Machine%20learning
@@ -1198,6 +1203,7 @@ https://workshops.aws/?tag=SageMaker%20Pipelines
 https://workshops.aws/?tag=SageMaker%20Projects
 https://workshops.aws/?tag=SageMaker%20Studio
 https://workshops.aws/?tag=SageMaker%20Studio%20Notebooks
+https://workshops.aws/?tag=Sagemaker
 https://workshops.aws/?tag=Salesforce
 https://workshops.aws/?tag=Savings%20Plans
 https://workshops.aws/?tag=Scalability

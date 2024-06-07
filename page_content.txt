@@ -61,6 +61,28 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+New insight from your business data stored in SAP HANA Cloud using Generative AI capability and Amazon Sagemaker
+Level: 300
+checkmark
+Categories: Bedrock, AI/ML, SAP, Sagemaker
+checkmark
+Tags: Bedrock, SAP, Sagemaker, Generative AI
+schedule
+2 hours
+Learn to integrate a Generative AI and Large Language Model (LLM) to improve the user's experience to get insight from their business data stored in SAP HANA Cloud. We will use Amazon Bedrock, Python language, Langchain, PandasAI and SQLAlchemy to orchestrate this solution.
+Get Started
+arrow_forward
+Generative AI for Energy, Power & Utilities and Manufacturing Workshop
+Level: 300
+checkmark
+Categories: Amazon Bedrock, Amazon OpenSearch Service, Amazon QuickSight
+checkmark
+Tags: Internet of Things (IoT), Machine Learning (ML/AI), Generative AI
+schedule
+6 hours
+This workshop is designed to inspire and educate professionals in the industry, attendees will learn best practices for leveraging the vast potential of generative AI models and use of and GenAI in Predictive maintenance, root cause analysis of equipments using manufacturer specs, generate shift handover report, analyzing RFP documents, disappearing workforce and unlocking new opportunities.
+Get Started
+arrow_forward
 Data Strategy: Generative AI in Action
 Level: 200
 checkmark
@@ -1216,15 +1238,15 @@ schedule
 Learn how to assess operational readiness and resilience and quickly react to events using example workloads based on real-world scenarios. In this workshop, use AWS best practices, including the AWS Infrastructure Event Management (IEM) process and the AWS Well-Architected Framework, to identify and mitigate risks and operational issues. Discover how to plan for a successful launch and implement an effective observability, including CloudWatch anomaly detection leveraging statistical and AI/ML
 Get Started
 arrow_forward
-A Deep Dive into Amazon CodeWhisperer
+Developer Experience - Amazon Q Developer - Deep Dive
 Level: 400
 checkmark
-Categories: Developer Tools, Artificial Intelligence, Machine Learning
+Categories: Containers, Compute
 checkmark
-Tags: AI/ML, CodeWhisperer
+Tags: Amazon Q Developer
 schedule
 4 hours
-This workshop will help you learn how to use CodeWhisperer to write code faster and with fewer errors. CodeWhisperer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code. However, CodeWhisperer can limit the suggested code to open source code based on the license type that is not restrictive.
+A 400+ level Developer Experience workshop covering: - Simple & complex prompts - AWS services (DynamoDB, S3, SQS) - Class creation - Fake Data - SQL Generation - Regular expressions - Unit Testing - End to end solutions - Amazon Q Developer For the following languages: - Python - JavaScript - TypeScript - Java
 Get Started
 arrow_forward
 AWS HealthScribe Workshop
