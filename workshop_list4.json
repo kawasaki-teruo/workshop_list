@@ -2133,7 +2133,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/30043722-0362-4859-bc6f-c28836a2d7ac",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Develop AWS IoT projects on Arm Virtual Hardware with FreeRTOS and CMSIS packs",
     "level": "200",
     "categories": [
