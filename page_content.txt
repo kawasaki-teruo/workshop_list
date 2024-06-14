@@ -61,6 +61,61 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Agents for Amazon Bedrock Workshop
+Level: 300
+checkmark
+Categories: Amazon Bedrock, Agents for Amazon Bedrock
+checkmark
+Tags: Amazon Bedrock, Bedrock, Agents for Amazon Bedrock, LLM Agents, GenAI, Generative AI
+schedule
+6 hours
+This workshop gives you hands-on experience working with Agents for Amazon Bedrock, the easiest way to create Generative AI applications. It provides examples of how to connect with existent APIs and Knowledge Bases. It cover various topics from action group definition with Lambda execution or Return of Control, Knowledge Bases Integration, Session State definition and Advanced Prompts.
+Get Started
+arrow_forward
+Amazon Bedrock Workshop
+Level: 300
+checkmark
+Categories: Amazon Bedrock
+checkmark
+Tags: Amazon Bedrock, Bedrock, GenAI, Generative AI
+schedule
+3 hours
+This workshop gives you hands-on experience on Amazon Bedrock, the easiest way to build and scale generative AI applications with foundation models. It provides examples for prompt engineering, text generation, Knowledge Bases for Amazon Bedrock and RAG, model customization, image and multi-modal applications, Agents for Amazon Bedrock and Open source integration with Amazon Bedrock.
+Get Started
+arrow_forward
+Building Generative AI Apps on AWS with CDK and Amazon Bedrock
+Level: 300
+checkmark
+Categories: AI/ML, Amazon Bedrock, Generative AI
+checkmark
+Tags: Bedrock, Amazon SageMaker, GenAI, LLM, CDK, Chatbot
+schedule
+1 hour
+In this workshop, you will build a sample generative AI document chatbot app on AWS using Amazon Bedrock and Generative AI CDK Constructs. You will learn the common infrastructure patterns for generative AI apps on AWS, and take advantage of the AWS CDK (Cloud Development Kit) to easily deploy the required architecture while avoiding the undifferentiated heavy lifting of reinventing common architectural patterns from scratch.
+Get Started
+arrow_forward
+Hands-on with Generative AI on AWS Hybrid & Edge Services
+Level: 300
+checkmark
+Categories: Compute, Edge Services, Hybrid Cloud
+checkmark
+Tags: EC2, Lambda, Bedrock
+schedule
+2 hours
+As governments and standards bodies develop data protection and privacy regulations, organizations increasingly need to combine the use of generative AI tooling in the cloud with regulated data that needs to remain on premises to meet data sovereignty requirements. In this builders’ session, learn how to extend Agents for Amazon Bedrock to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed Retrieval Augmented Generation (RAG) applications with on-premises data for improved model outcomes.
+Get Started
+arrow_forward
+Simulate, Monitor and Optimize a Bottling Plant in the AWS cloud
+Level: 300
+checkmark
+Categories: IoT, SiteWise
+checkmark
+Tags: EC2, ParallelProcessing
+schedule
+2 hours
+Deploy a complete simulation of a bottling plant, starting with the actual PLC controls, including the Codesys IDE and HMI on a Windows EC2 instance, Edge to collect the machine data and securely ingest into the cloud, and compute and monitor KPIs like OEE (Overall Equipment Effectiveness) and alarms in a cloud based dashboard with a digital twin of the plant. You'll be able to interact with the machines through the web base HMI and see the results in the real-time dashboard
+Get Started
+arrow_forward
 New insight from your business data stored in SAP HANA Cloud using Generative AI capability and Amazon Sagemaker
 Level: 300
 checkmark

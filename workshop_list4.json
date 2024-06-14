@@ -3569,6 +3569,23 @@
     "title": "Amazon Bedrock Workshop",
     "level": "300",
     "categories": [
+      "Amazon Bedrock"
+    ],
+    "tags": [
+      "Amazon Bedrock",
+      "Bedrock",
+      "GenAI",
+      "Generative AI"
+    ],
+    "schedule": "3 hours",
+    "description": "This workshop gives you hands-on experience on Amazon Bedrock, the easiest way to build and scale generative AI applications with foundation models. It provides examples for prompt engineering, text generation, Knowledge Bases for Amazon Bedrock and RAG, model customization, image and multi-modal applications, Agents for Amazon Bedrock and Open source integration with Amazon Bedrock."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518",
+    "valid_url": true,
+    "title": "Amazon Bedrock Workshop",
+    "level": "300",
+    "categories": [
       "Machine Learning",
       "Artificial Intelligence"
     ],
@@ -3878,6 +3895,22 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop familiarizes attendees with AWS Payment Cryptography service and demonstrates how to use the service for common FSI use cases related payments acceptance."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b9049f6d-bcbb-41fa-9ed4-db51a6f8cb72",
+    "valid_url": true,
+    "title": "Simulate, Monitor and Optimize a Bottling Plant in the AWS cloud",
+    "level": "300",
+    "categories": [
+      "IoT",
+      "SiteWise"
+    ],
+    "tags": [
+      "EC2",
+      "ParallelProcessing"
+    ],
+    "schedule": "2 hours",
+    "description": "Deploy a complete simulation of a bottling plant, starting with the actual PLC controls, including the Codesys IDE and HMI on a Windows EC2 instance, Edge to collect the machine data and securely ingest into the cloud, and compute and monitor KPIs like OEE (Overall Equipment Effectiveness) and alarms in a cloud based dashboard with a digital twin of the plant. You'll be able to interact with the machines through the web base HMI and see the results in the real-time dashboard"
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bbbcd7a4-5fe8-4858-8401-c43be3a9c499",
@@ -4981,6 +5014,26 @@
     "description": "In this workshop, learn the fundamentals of AWS Wavelength alongside a step-by-step guide to deploying your first application at the network edge. Moreover, learn how to measure application performance and troubleshoot popular FAQs and configurations."
   },
   {
+    "url": "https://catalog.workshops.aws/agents-for-amazon-bedrock",
+    "valid_url": true,
+    "title": "Agents for Amazon Bedrock Workshop",
+    "level": "300",
+    "categories": [
+      "Amazon Bedrock",
+      "Agents for Amazon Bedrock"
+    ],
+    "tags": [
+      "Amazon Bedrock",
+      "Bedrock",
+      "Agents for Amazon Bedrock",
+      "LLM Agents",
+      "GenAI",
+      "Generative AI"
+    ],
+    "schedule": "6 hours",
+    "description": "This workshop gives you hands-on experience working with Agents for Amazon Bedrock, the easiest way to create Generative AI applications. It provides examples of how to connect with existent APIs and Knowledge Bases. It cover various topics from action group definition with Lambda execution or Return of Control, Knowledge Bases Integration, Session State definition and Advanced Prompts."
+  },
+  {
     "url": "https://catalog.workshops.aws/amazon-chime-sdk-meetings-with-transcribe-and-translate",
     "valid_url": false,
     "title": "Building an Amazon Chime SDK Meeting with Transcribe and Translate",
@@ -5441,6 +5494,27 @@
     ],
     "schedule": "2 hours",
     "description": "Learn to build generative AI applications using PartyRock and Amazon Bedrock. Gain skills in prompt engineering and using the Bedrock API. We will also explore how to 'chat with your documents' through knowledge bases, retrieval augmented generation (RAG), embeddings, and agents. We will also use next generation developer tools Amazon Q and Amazon CodeWhisperer to assist in coding and debugging."
+  },
+  {
+    "url": "https://catalog.workshops.aws/building-genai-apps",
+    "valid_url": true,
+    "title": "Building Generative AI Apps on AWS with CDK and Amazon Bedrock",
+    "level": "300",
+    "categories": [
+      "AI/ML",
+      "Amazon Bedrock",
+      "Generative AI"
+    ],
+    "tags": [
+      "Bedrock",
+      "Amazon SageMaker",
+      "GenAI",
+      "LLM",
+      "CDK",
+      "Chatbot"
+    ],
+    "schedule": "1 hour",
+    "description": "In this workshop, you will build a sample generative AI document chatbot app on AWS using Amazon Bedrock and Generative AI CDK Constructs. You will learn the common infrastructure patterns for generative AI apps on AWS, and take advantage of the AWS CDK (Cloud Development Kit) to easily deploy the required architecture while avoiding the undifferentiated heavy lifting of reinventing common architectural patterns from scratch."
   },
   {
     "url": "https://catalog.workshops.aws/building-with-amazon-bedrock",
@@ -5934,6 +6008,24 @@
     ],
     "schedule": "3 hours",
     "description": "Learn how to set up an Inspection VPC using AWS Gateway Load Balancer, Transit Gateway, and third-party firewalls such as Cisco, Fortinet, and more."
+  },
+  {
+    "url": "https://catalog.workshops.aws/hybrid-and-edge-generative-ai",
+    "valid_url": false,
+    "title": "Hands-on with Generative AI on AWS Hybrid & Edge Services",
+    "level": "300",
+    "categories": [
+      "Compute",
+      "Edge Services",
+      "Hybrid Cloud"
+    ],
+    "tags": [
+      "EC2",
+      "Lambda",
+      "Bedrock"
+    ],
+    "schedule": "2 hours",
+    "description": "As governments and standards bodies develop data protection and privacy regulations, organizations increasingly need to combine the use of generative AI tooling in the cloud with regulated data that needs to remain on premises to meet data sovereignty requirements. In this builders’ session, learn how to extend Agents for Amazon Bedrock to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed Retrieval Augmented Generation (RAG) applications with on-premises data for improved model outcomes."
   },
   {
     "url": "https://catalog.workshops.aws/iac-and-tdir",

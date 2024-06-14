@@ -207,6 +207,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/b5b776fe-bf8b-4f51-a09d-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5f6926a-6264-4d93-ad6b-732bba415b85
 https://catalog.us-east-1.prod.workshops.aws/workshops/b7702b59-acbf-4cef-8f14-921350830cba
 https://catalog.us-east-1.prod.workshops.aws/workshops/b85843d4-a5e4-40fc-9a96-de0a99312a4b
+https://catalog.us-east-1.prod.workshops.aws/workshops/b9049f6d-bcbb-41fa-9ed4-db51a6f8cb72
 https://catalog.us-east-1.prod.workshops.aws/workshops/bbbcd7a4-5fe8-4858-8401-c43be3a9c499
 https://catalog.us-east-1.prod.workshops.aws/workshops/bbc63046-2f56-4d59-917b-d5ebc63bdcee
 https://catalog.us-east-1.prod.workshops.aws/workshops/bcfb7b70-a090-4563-a058-496c1a4fbf32
@@ -266,6 +267,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/fdf5673a-d606-4876-ab14-9a1d25545895
 https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73
 https://catalog.workshops.aws/5g-edge-compute
+https://catalog.workshops.aws/agents-for-amazon-bedrock
 https://catalog.workshops.aws/amazon-chime-sdk-meetings-with-transcribe-and-translate
 https://catalog.workshops.aws/amazon-connect-agent-empowerment
 https://catalog.workshops.aws/amazon-connect-barge-in
@@ -292,6 +294,7 @@ https://catalog.workshops.aws/build-a-knowledge-graph
 https://catalog.workshops.aws/build-sms-program
 https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws
 https://catalog.workshops.aws/building-gen-ai-apps
+https://catalog.workshops.aws/building-genai-apps
 https://catalog.workshops.aws/building-with-amazon-bedrock
 https://catalog.workshops.aws/building-your-first-serverless-application-with-aws-sam
 https://catalog.workshops.aws/buildweb3
@@ -318,6 +321,7 @@ https://catalog.workshops.aws/genai-on-aws
 https://catalog.workshops.aws/general-immersionday
 https://catalog.workshops.aws/gromacs-on-aws-parallelcluster
 https://catalog.workshops.aws/gwlb-networking
+https://catalog.workshops.aws/hybrid-and-edge-generative-ai
 https://catalog.workshops.aws/iac-and-tdir
 https://catalog.workshops.aws/iam-policy-types
 https://catalog.workshops.aws/iot-puppy-park
@@ -595,6 +599,7 @@ https://workshops.aws/?tag=ActiveMQ
 https://workshops.aws/?tag=Advertising
 https://workshops.aws/?tag=Agent%20Empowerment
 https://workshops.aws/?tag=Agent%20Enablement
+https://workshops.aws/?tag=Agents%20for%20Amazon%20Bedrock
 https://workshops.aws/?tag=Airflow
 https://workshops.aws/?tag=Alerting
 https://workshops.aws/?tag=Alerts
@@ -1007,6 +1012,7 @@ https://workshops.aws/?tag=Knowledge%20Graph
 https://workshops.aws/?tag=Kubernetes
 https://workshops.aws/?tag=LDM
 https://workshops.aws/?tag=LLM
+https://workshops.aws/?tag=LLM%20Agents
 https://workshops.aws/?tag=LPWAN
 https://workshops.aws/?tag=Lake%20Formation
 https://workshops.aws/?tag=LakeFormation
@@ -1370,6 +1376,7 @@ https://workshops.aws/categories/AWS%20Wavelength
 https://workshops.aws/categories/AWS%20X-Ray
 https://workshops.aws/categories/AWS%20for%20Industrial
 https://workshops.aws/categories/Active%20Directory
+https://workshops.aws/categories/Agents%20for%20Amazon%20Bedrock
 https://workshops.aws/categories/Alerts
 https://workshops.aws/categories/Amazon%20API%20Gateway
 https://workshops.aws/categories/Amazon%20Athena
@@ -1519,6 +1526,7 @@ https://workshops.aws/categories/HealthScribe
 https://workshops.aws/categories/Healthcare%20&%20Life%20Sciences
 https://workshops.aws/categories/High%20Performance%20Computing%20%28HPC%29
 https://workshops.aws/categories/Hybrid
+https://workshops.aws/categories/Hybrid%20Cloud
 https://workshops.aws/categories/IAM
 https://workshops.aws/categories/IDE
 https://workshops.aws/categories/IOT
@@ -1628,6 +1636,7 @@ https://workshops.aws/categories/Serverless
 https://workshops.aws/categories/Serverless%20Application%20Model
 https://workshops.aws/categories/Serverless%20Compute
 https://workshops.aws/categories/Serverless%2FDevOps
+https://workshops.aws/categories/SiteWise
 https://workshops.aws/categories/Spatial%20Computing
 https://workshops.aws/categories/Spot
 https://workshops.aws/categories/Startups
