@@ -6011,7 +6011,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/hybrid-and-edge-generative-ai",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Hands-on with Generative AI on AWS Hybrid & Edge Services",
     "level": "300",
     "categories": [
@@ -6436,7 +6436,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/running-batch-on-eks",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Running batch workloads on Amazon EKS with AWS Batch",
     "level": "200",
     "categories": [
