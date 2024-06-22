@@ -61,6 +61,83 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Streamline workforce access to AWS Analytics services using AWS IAM Identity Center
+Level: 300
+checkmark
+Categories: IAM Identity Center, Analytics, Trusted Identity Propagation
+checkmark
+Tags: IAM Identity Center, Analytics
+schedule
+2 hours
+In this hands-on workshop you will learn how to streamline single sign-on experience for workforce users to perform interactive analytics with fine grained access controls. You will work on a use case to analyze the top trending products based on the data available in data lake. You will configure AWS IAM Identity Center to create users and groups, AWS Lake Formation to implement fine grained access controls and Amazon EMR to run your analytics queries and identify the top trending products. Finally, you will audit data access for compliance. As part of building this use case, you will learn about AWS IAM Identity Center and it feature Trusted Identity Propagation that enables this experience.
+Get Started
+arrow_forward
+Advanced machine-to-machine access with IAM Roles Anywhere & IAM Unused Access Analyzer
+Level: 300
+checkmark
+Categories: Security, AWS Identity and Access Management (IAM), Unused Access Analyzer
+checkmark
+Tags: Least Privilege, Security, AWS Identity and Access Management (IAM), Unused Access Analyzer
+schedule
+1 hour
+This workshop is designed to introduce participants to IAM Roles Anywhere advanced features such as fine grained authentication and authorisation using certificate fields for ABAC, combined with IAM Unused Access Analyzer to implement least privilege to show how they can migrate from static (and overly permissioned) credentials to properly scoped IAM roles for modern machine-to-machine access
+Get Started
+arrow_forward
+Contributing to the AWS Provider
+Level: 300
+checkmark
+Categories: Terraform, Infrastructure as Code, DevOps, Open Source
+checkmark
+Tags: Terraform, Infrastructure as Code, DevOps, Providers
+schedule
+8 hours
+In this workshop you will learn how to add new features and services to the AWS Provider for Terraform. This workshop teaches how to add features, services, and fix bugs in the provider. It covers the full contribution process, including writing acceptance tests and documentation updates.
+Get Started
+arrow_forward
+IAM permissions for workloads on Amazon EKS
+Level: 300
+checkmark
+Categories: Containers, Identity
+checkmark
+Tags: EKS, IAM
+schedule
+1 hour
+Do you have workloads running on EKS that need to access other AWS services? This session is for you. Amazon EKS provides two ways to grant AWS Identity and Access Management permissions to workloads that run in Amazon EKS clusters: IAM roles for service accounts, and the newer EKS Pod Identities. In this workshop, you will learn about the differences and best practices of these two, while getting hands-on on how to configure them.
+Get Started
+arrow_forward
+Terraform CI/CD and Testing on AWS
+Level: 300
+checkmark
+Categories: Containers, Compute
+checkmark
+Tags: Terraform, CI/CD, DevOps, Testing, Automation, IaC, Infrastructure as Code
+schedule
+3 hours
+In this workshop, you will learn how to leverage the new Terraform Testing Framework introduced in v1.6.0 to perform manual as well as automated unit, integration, and security tests for your Terraform projects. You will then learn how to build a basic Terraform CI/CD pipeline on AWS to automate these tests and deploy your infrastructure safely and securely.
+Get Started
+arrow_forward
+Automating IAM policy validation and analysis using GitHub Actions
+Level: 400
+checkmark
+Categories: Security, AWS Identity and Access Management (IAM), GitHub
+checkmark
+Tags: AWS Identity and Access Management (IAM), Security, GitHub
+schedule
+2 hours
+Learn how GitHub Actions can automatically validate and analyze IAM policies when permitting developer policy authoring abilities without compromising security.
+Get Started
+arrow_forward
+Hands-on with Generative AI on AWS Hybrid & Edge Services
+Level: 300
+checkmark
+Categories: Compute, Edge Services, Hybrid Cloud
+checkmark
+Tags: EC2, Lambda, Bedrock
+schedule
+2 hours
+As governments and standards bodies develop data protection and privacy regulations, organizations increasingly need to combine the use of generative AI tooling in the cloud with regulated data that needs to remain on premises to meet data sovereignty requirements. In this builders’ session, learn how to extend Agents for Amazon Bedrock to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed Retrieval Augmented Generation (RAG) applications with on-premises data for improved model outcomes.
+Get Started
+arrow_forward
 Agents for Amazon Bedrock Workshop
 Level: 300
 checkmark

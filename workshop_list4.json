@@ -3219,6 +3219,22 @@
     "description": "This is a workshop directly used for holding AWS Educate Work Placement Workshops. It is aimed to allow students to create an image search web application which incorporates Amazon Rekognition, Amazon Lex, CloudFront and Amazon S3."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/7c41ed45-0120-4af8-bd23-420f9f0f5eb1",
+    "valid_url": true,
+    "title": "IAM permissions for workloads on Amazon EKS",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Identity"
+    ],
+    "tags": [
+      "EKS",
+      "IAM"
+    ],
+    "schedule": "1 hour",
+    "description": "Do you have workloads running on EKS that need to access other AWS services? This session is for you. Amazon EKS provides two ways to grant AWS Identity and Access Management permissions to workloads that run in Amazon EKS clusters: IAM roles for service accounts, and the newer EKS Pod Identities. In this workshop, you will learn about the differences and best practices of these two, while getting hands-on on how to configure them."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/7d2d52a0-7568-4b24-be49-08dab4bfa128",
     "valid_url": true,
     "title": "AWS Client VPN",
@@ -3805,6 +3821,24 @@
     "description": "This workshop focuses on accelerating Advertising and Marketing Industry usecases by applying AWS Generative AI and Machine Learning services. The workshop has modules focusing on - Advertising Moodboard Generation using AIML services - Ad Copy Generation using AIML services"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5083f86-f4e1-4712-8015-ae1549eb2971",
+    "valid_url": true,
+    "title": "Automating IAM policy validation and analysis using GitHub Actions",
+    "level": "400",
+    "categories": [
+      "Security",
+      "AWS Identity and Access Management (IAM)",
+      "GitHub"
+    ],
+    "tags": [
+      "AWS Identity and Access Management (IAM)",
+      "Security",
+      "GitHub"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn how GitHub Actions can automatically validate and analyze IAM policies when permitting developer policy authoring abilities without compromising security."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5512635-063d-4256-8fcd-f7f9b6335ab2",
     "valid_url": false,
     "title": "Amazon Connect Operational Applications",
@@ -4068,6 +4102,23 @@
     ],
     "schedule": "2 hours",
     "description": "Deploy Stable Diffusion models and fine-tune vision transformers in AWS Inferentia2 or Trainium hosted by EC2 instance"
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c93b473e-436e-45be-80e8-322b90c7024f",
+    "valid_url": true,
+    "title": "Streamline workforce access to AWS Analytics services using AWS IAM Identity Center",
+    "level": "300",
+    "categories": [
+      "IAM Identity Center",
+      "Analytics",
+      "Trusted Identity Propagation"
+    ],
+    "tags": [
+      "IAM Identity Center",
+      "Analytics"
+    ],
+    "schedule": "2 hours",
+    "description": "In this hands-on workshop you will learn how to streamline single sign-on experience for workforce users to perform interactive analytics with fine grained access controls. You will work on a use case to analyze the top trending products based on the data available in data lake. You will configure AWS IAM Identity Center to create users and groups, AWS Lake Formation to implement fine grained access controls and Amazon EMR to run your analytics queries and identify the top trending products. Finally, you will audit data access for compliance. As part of building this use case, you will learn about AWS IAM Identity Center and it feature Trusted Identity Propagation that enables this experience."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c9cd344a-0d0b-42cb-8734-09667433f89c",
@@ -5687,6 +5738,26 @@
     "description": "In this Workshop, we demonstrate how you can implement CICD Deployment pipeline for your Amazon Connect Contact Flow. This workshop walks you through how you can deploy Amazon Connect Contact Flows that consist of Lambda functions, Lex bots, Connect Queue, etc. across various environments (Dev, QA, STG, Prod) through CICD pipeline leveraging CloudFormation, Code Commit repository, CodePipeline, etc."
   },
   {
+    "url": "https://catalog.workshops.aws/contributing-to-the-terraform-provider",
+    "valid_url": true,
+    "title": "Contributing to the AWS Provider",
+    "level": "300",
+    "categories": [
+      "Terraform",
+      "Infrastructure as Code",
+      "DevOps",
+      "Open Source"
+    ],
+    "tags": [
+      "Terraform",
+      "Infrastructure as Code",
+      "DevOps",
+      "Providers"
+    ],
+    "schedule": "8 hours",
+    "description": "In this workshop you will learn how to add new features and services to the AWS Provider for Terraform. This workshop teaches how to add features, services, and fix bugs in the provider. It covers the full contribution process, including writing acceptance tests and documentation updates."
+  },
+  {
     "url": "https://catalog.workshops.aws/control-design",
     "valid_url": true,
     "title": "Control Design Workshop",
@@ -6008,6 +6079,24 @@
     ],
     "schedule": "3 hours",
     "description": "Learn how to set up an Inspection VPC using AWS Gateway Load Balancer, Transit Gateway, and third-party firewalls such as Cisco, Fortinet, and more."
+  },
+  {
+    "url": "https://catalog.workshops.aws/hybrid-and-edge-generative-ai",
+    "valid_url": true,
+    "title": "Hands-on with Generative AI on AWS Hybrid & Edge Services",
+    "level": "300",
+    "categories": [
+      "Compute",
+      "Edge Services",
+      "Hybrid Cloud"
+    ],
+    "tags": [
+      "EC2",
+      "Lambda",
+      "Bedrock"
+    ],
+    "schedule": "2 hours",
+    "description": "As governments and standards bodies develop data protection and privacy regulations, organizations increasingly need to combine the use of generative AI tooling in the cloud with regulated data that needs to remain on premises to meet data sovereignty requirements. In this builders’ session, learn how to extend Agents for Amazon Bedrock to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed Retrieval Augmented Generation (RAG) applications with on-premises data for improved model outcomes."
   },
   {
     "url": "https://catalog.workshops.aws/hybrid-and-edge-generative-ai",
@@ -6922,6 +7011,27 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop will detail different tagging options in Amazon Web Services (AWS). The goal of this workshop is to walk through the various ways in which you can tag AWS resources & query said tags. By the end of this workshop you would have an understanding on how to tag, and govern the tags of different AWS resources."
+  },
+  {
+    "url": "https://catalog.workshops.aws/terraform-cicd-on-aws",
+    "valid_url": true,
+    "title": "Terraform CI/CD and Testing on AWS",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute"
+    ],
+    "tags": [
+      "Terraform",
+      "CI/CD",
+      "DevOps",
+      "Testing",
+      "Automation",
+      "IaC",
+      "Infrastructure as Code"
+    ],
+    "schedule": "3 hours",
+    "description": "In this workshop, you will learn how to leverage the new Terraform Testing Framework introduced in v1.6.0 to perform manual as well as automated unit, integration, and security tests for your Terraform projects. You will then learn how to build a basic Terraform CI/CD pipeline on AWS to automate these tests and deploy your infrastructure safely and securely."
   },
   {
     "url": "https://catalog.workshops.aws/terraform101",
@@ -9049,6 +9159,25 @@
     ],
     "schedule": "2 hours",
     "description": "Workshop for PyTorch Best Practices for Generative AI & Large Language Model Inference Architecture on Amazon EKS. GitHub Source code repo: https://github.com/aws-solutions-library-samples/guidance-for-machine-learning-inference-on-aws"
+  },
+  {
+    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/f81841e0-b033-4355-8b6c-b2a404d544a4",
+    "valid_url": true,
+    "title": "Advanced machine-to-machine access with IAM Roles Anywhere & IAM Unused Access Analyzer",
+    "level": "300",
+    "categories": [
+      "Security",
+      "AWS Identity and Access Management (IAM)",
+      "Unused Access Analyzer"
+    ],
+    "tags": [
+      "Least Privilege",
+      "Security",
+      "AWS Identity and Access Management (IAM)",
+      "Unused Access Analyzer"
+    ],
+    "schedule": "1 hour",
+    "description": "This workshop is designed to introduce participants to IAM Roles Anywhere advanced features such as fine grained authentication and authorisation using certificate fields for ABAC, combined with IAM Unused Access Analyzer to implement least privilege to show how they can migrate from static (and overly permissioned) credentials to properly scoped IAM roles for modern machine-to-machine access"
   },
   {
     "url": "https://tao.workshop.aws",
