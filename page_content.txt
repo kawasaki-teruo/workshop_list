@@ -61,6 +61,61 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Data Perimeter in Action
+Level: 300
+checkmark
+Categories: IAM, Security
+checkmark
+Tags: IAM, Security
+schedule
+1 hour
+This workshop enables participants to go through common scenarios and how to mitigate them using data perimeters.
+Get Started
+arrow_forward
+Amazon Managed Service for Apache Flink workshop
+Level: 300
+checkmark
+Categories: Analytics, Streaming
+checkmark
+Tags: Stream Processing, Flink, Kinesis
+schedule
+4 hours
+This workshop covers the entire lifecycle of an Amazon Managed Service for Apache Flink application, from development and debugging to deployment and running at scale on AWS. You will learn how to implement an Apache Flink application, experiencing hands-on the development lifecycle of an end-to-end solution, analyzing streaming data from Amazon Kinesis, and feeding it in real-time into Amazon OpenSearch Service, with results displayed in an OpenSearch Dashboard. You will dive deep into deploying, monitoring, and troubleshooting your production application in Amazon Managed Service for Apache Flink.
+Get Started
+arrow_forward
+Migrating x86-based applications to AWS Graviton Processors
+Level: 300
+checkmark
+Categories: Containers, Compute
+checkmark
+Tags: EC2, Spot, Graviton, EKS, Performance, Cost Optimization, Karpenter, Amazon EC2 Auto Scaling
+schedule
+2 hours
+A key business goal of customers is to improve operational efficiency and drive down costs, while also lowering their carbon emissions. One of the easiest way to make progress towards a sustainability goal is to adopt AWS Graviton instances for compute workloads. AWS Graviton-based Amazon EC2 instances use up to 60% less energy than comparable EC2 instances for the same performance. They also provide the best price performance for cloud workloads running on Amazon EC2.
+Get Started
+arrow_forward
+Karpenter: Amazon EKS Best Practice and Cloud Cost Optimization
+Level: 300
+checkmark
+Categories: Containers, Compute
+checkmark
+Tags: EC2, Spot, Graviton, EKS, Cost Optimization, Karpenter
+schedule
+2 hours
+In this workshop, you will learn how to provision, manage, and maintain your Kubernetes clusters with Amazon Elastic Kubernetes Service (Amazon EKS) scaling optimally using Karpenter. Karpenter is a node lifecycle management solution used to scale your Kubernetes cluster. Karpenter observes incoming pods and launches the right-sized Amazon EC2 Instance appropriately for the workload. Instance selection decisions are intent based and driven by the specification of incoming pods, including resource requests and scheduling constraints.
+Get Started
+arrow_forward
+Get hands-on with IPv6
+Level: 300
+checkmark
+Categories: Amazon Elastic Compute Cloud (Amazon EC2), Amazon VPC, Elastic Load Balancing, Network Load Balancer, Application Load Balancer, AWS Private Link, AWS Transit Gateway
+checkmark
+Tags: EC2, IPv6, IPV6, Networking, ELB, NLB, TGW, PrivateLink
+schedule
+2 hours
+In this workshop, you will learn how to create, configure, and test dual-stack VPC, dual-stack and IPv6-only subnets and how to launch IPv6 resources within it. You will also learn how to expose Internet-facing applications using Application Load Balancer (ALB) or Network Load Balancer (NLB) and build end-to-end connectivity using IPv6.
+Get Started
+arrow_forward
 Streamline workforce access to AWS Analytics services using AWS IAM Identity Center
 Level: 300
 checkmark

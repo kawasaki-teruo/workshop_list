@@ -1724,6 +1724,22 @@
     "description": "The integration of embeddings generated from LLMs for Amazon Aurora PostgreSQL-Compatible Edition and Amazon RDS for PostgreSQL presents a powerful and efficient solution for optimizing the product catalog search experience. LLMs and vector embeddings help businesses enhance the accuracy and speed of similarity searches by using Retrieval Augmented Generation (RAG). In this workshop, build your own generative AI applications with Amazon Bedrock using Aurora PostgreSQL as your vector database."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1ca880ca-5039-48df-a097-b164baa696aa",
+    "valid_url": true,
+    "title": "Data Perimeter in Action",
+    "level": "300",
+    "categories": [
+      "IAM",
+      "Security"
+    ],
+    "tags": [
+      "IAM",
+      "Security"
+    ],
+    "schedule": "1 hour",
+    "description": "This workshop enables participants to go through common scenarios and how to mitigate them using data perimeters."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1d50f8ef-5030-42c9-9488-a2187472c9e6",
     "valid_url": true,
     "title": "AWS IoT Zero Trust workshop",
@@ -2083,6 +2099,28 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop we'll explore how to simplify the process of selecting the right tools to mitigate your data protection risks. We'll kick off the data protection lifecycle by conducting a risk assessment and then explore Cloud Native capabilities to protect sensitive data at scale. We'll help you learn how to achieve your PCI, HIPAA and GDPR compliance and data protection requirements using services including Amazon Macie, Amazon EventBridge, AWS Step Functions, AWS Lambda, AWS Config and AWS Audit Manager."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2d8b3460-3bff-49a0-a6af-cb4c7460e70c",
+    "valid_url": true,
+    "title": "Migrating x86-based applications to AWS Graviton Processors",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute"
+    ],
+    "tags": [
+      "EC2",
+      "Spot",
+      "Graviton",
+      "EKS",
+      "Performance",
+      "Cost Optimization",
+      "Karpenter",
+      "Amazon EC2 Auto Scaling"
+    ],
+    "schedule": "2 hours",
+    "description": "A key business goal of customers is to improve operational efficiency and drive down costs, while also lowering their carbon emissions. One of the easiest way to make progress towards a sustainability goal is to adopt AWS Graviton instances for compute workloads. AWS Graviton-based Amazon EC2 instances use up to 60% less energy than comparable EC2 instances for the same performance. They also provide the best price performance for cloud workloads running on Amazon EC2."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2d960419-7d15-44e7-b540-fd3ebeb7ce2e",
@@ -4898,6 +4936,26 @@
     "description": "In this workshop focusing on industry verticals (Financial Services, and Healthcare and Life Sciences), you will learn how the Low-Code / No-Code ML capabilities found in Amazon SageMaker Data Wrangler, Autopilot and Jumpstart, make it easier to experiment faster and bring highly accurate models to production more quickly and efficiently."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/f6b4587e-b8a5-4a43-be87-26bd85a70aba",
+    "valid_url": true,
+    "title": "Karpenter: Amazon EKS Best Practice and Cloud Cost Optimization",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute"
+    ],
+    "tags": [
+      "EC2",
+      "Spot",
+      "Graviton",
+      "EKS",
+      "Cost Optimization",
+      "Karpenter"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop, you will learn how to provision, manage, and maintain your Kubernetes clusters with Amazon Elastic Kubernetes Service (Amazon EKS) scaling optimally using Karpenter. Karpenter is a node lifecycle management solution used to scale your Kubernetes cluster. Karpenter observes incoming pods and launches the right-sized Amazon EC2 Instance appropriately for the workload. Instance selection decisions are intent based and driven by the specification of incoming pods, including resource requests and scheduling constraints."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/f866d059-8d90-49fa-bf15-15676cc9a74f",
     "valid_url": true,
     "title": "NetDevOps in AWS",
@@ -6319,6 +6377,23 @@
     ],
     "schedule": "2 hours",
     "description": "Using multiple providers to manage cloud resources with Terraform. Terraform is an open source Infrastructure as Code (IaC) tool that allows you to manage your infrastructure in a declarative way. IaC is the practice of defining your infrastructure requirements declaratively, and using a GitOps approach to iterate and modify those declarations. This provides predictability, repeatability, and safety mechanisms such as peer review and preventative controls."
+  },
+  {
+    "url": "https://catalog.workshops.aws/managed-flink",
+    "valid_url": true,
+    "title": "Amazon Managed Service for Apache Flink workshop",
+    "level": "300",
+    "categories": [
+      "Analytics",
+      "Streaming"
+    ],
+    "tags": [
+      "Stream Processing",
+      "Flink",
+      "Kinesis"
+    ],
+    "schedule": "4 hours",
+    "description": "This workshop covers the entire lifecycle of an Amazon Managed Service for Apache Flink application, from development and debugging to deployment and running at scale on AWS. You will learn how to implement an Apache Flink application, experiencing hands-on the development lifecycle of an end-to-end solution, analyzing streaming data from Amazon Kinesis, and feeding it in real-time into Amazon OpenSearch Service, with results displayed in an OpenSearch Dashboard. You will dive deep into deploying, monitoring, and troubleshooting your production application in Amazon Managed Service for Apache Flink."
   },
   {
     "url": "https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q",
@@ -9140,6 +9215,33 @@
     ],
     "schedule": "1 hour",
     "description": "In this lab you will learn how to utilize the EUC Toolkit to centrally manage Amazon WorkSpaces and Amazon AppStream 2.0 at scale."
+  },
+  {
+    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/f23b1f8d-58a5-40cb-87b1-821ef4d47df8",
+    "valid_url": true,
+    "title": "Get hands-on with IPv6",
+    "level": "300",
+    "categories": [
+      "Amazon Elastic Compute Cloud (Amazon EC2)",
+      "Amazon VPC",
+      "Elastic Load Balancing",
+      "Network Load Balancer",
+      "Application Load Balancer",
+      "AWS Private Link",
+      "AWS Transit Gateway"
+    ],
+    "tags": [
+      "EC2",
+      "IPv6",
+      "IPV6",
+      "Networking",
+      "ELB",
+      "NLB",
+      "TGW",
+      "PrivateLink"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop, you will learn how to create, configure, and test dual-stack VPC, dual-stack and IPv6-only subnets and how to launch IPv6 resources within it. You will also learn how to expose Internet-facing applications using Application Load Balancer (ALB) or Network Load Balancer (NLB) and build end-to-end connectivity using IPv6."
   },
   {
     "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/b1719f45-e622-43df-bb3b-72ce15e1e0ac",
