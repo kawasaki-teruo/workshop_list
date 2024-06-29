@@ -7253,7 +7253,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/workshops/06e0fca9-b0c4-4ff8-add5-4f27b55aadab",
-    "valid_url": true,
+    "valid_url": false,
     "title": "EMR Observability",
     "level": "300",
     "categories": [
@@ -7485,7 +7485,7 @@
   },
   {
     "url": "https://codequality.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Code Quality Workshop",
     "level": "300",
     "categories": [
