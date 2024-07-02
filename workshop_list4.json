@@ -6620,7 +6620,7 @@
   {
     "url": "https://catalog.workshops.aws/s3-data-protection",
     "valid_url": true,
-    "title": "Amazon S3 Data Protection workshop",
+    "title": "Amazon S3 data protection and global resilience workshop",
     "level": "300",
     "categories": [
       "Data Protection",
@@ -6638,7 +6638,7 @@
       "Replication"
     ],
     "schedule": "2 hours",
-    "description": "This workshop covers all S3-native data protection features. Level 2-300, with 3-400 'extra credit' sections for those wanting to dive deeper. 90-120 minute duration depending on depth and speed. Covers Versioning, Object Lock, Replication, Multi-Region Access Points, and Cross-account Multi-Region Access Points, with the majority of time spent at the command line."
+    "description": "This workshop covers all S3-native data protection and resilience features. Level 2-300, with 3-400 'extra credit' sections for those wanting to dive deeper. Covers S3 Versioning, S3 Object Lock, S3 Replication, S3 Multi-Region Access Points (including cross-account). The majority of time is spent at the command line."
   },
   {
     "url": "https://catalog.workshops.aws/saas-microservices",

@@ -926,7 +926,7 @@ https://workshops.aws/?tag=Multi-account
 https://workshops.aws/?tag=Versioning
 https://workshops.aws/?tag=Object%20Lock
 https://workshops.aws/?tag=Replication
-https://catalog.workshops.aws/s3-data-protection
+https://catalog.workshops.aws/s3-data-protection/
 https://workshops.aws/categories/Containers
 https://workshops.aws/categories/Compute
 https://workshops.aws/categories/Serverless

@@ -886,7 +886,7 @@ schedule
 Smart video cameras are everywhere—in homes for security, in cars for driving assistance, and in factories for anomaly detection. However, using video data can be challenging because it is often not searchable and may require time-consuming manual analysis. In this workshop, you'll learn how to use Amazon Kinesis Video Streams (Amazon KVS) to ingest data from your laptop camera, Amazon Rekognition to analyze the video, and Amazon OpenSearch Service to index the inferences. Learn how to make specific objects searchable in the recorded video and get timestamps of their occurrence.
 Get Started
 arrow_forward
-Amazon S3 Data Protection workshop
+Amazon S3 data protection and global resilience workshop
 Level: 300
 checkmark
 Categories: Data Protection, Disaster Recovery, Resilience, S3, Storage
@@ -894,7 +894,7 @@ checkmark
 Tags: S3, Multi-Region, Multi-account, Versioning, Object Lock, Replication
 schedule
 2 hours
-This workshop covers all S3-native data protection features. Level 2-300, with 3-400 'extra credit' sections for those wanting to dive deeper. 90-120 minute duration depending on depth and speed. Covers Versioning, Object Lock, Replication, Multi-Region Access Points, and Cross-account Multi-Region Access Points, with the majority of time spent at the command line.
+This workshop covers all S3-native data protection and resilience features. Level 2-300, with 3-400 'extra credit' sections for those wanting to dive deeper. Covers S3 Versioning, S3 Object Lock, S3 Replication, S3 Multi-Region Access Points (including cross-account). The majority of time is spent at the command line.
 Get Started
 arrow_forward
 Navigate the storm: Unleashing controlled chaos for resilient systems
