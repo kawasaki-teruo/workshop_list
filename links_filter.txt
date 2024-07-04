@@ -481,7 +481,6 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
-https://streaming-analytics.workshop.aws
 https://studio.us-east-1.prod.workshops.aws/workshops/04e6e6c8-c19b-40f9-8cc7-945669ca86b4
 https://studio.us-east-1.prod.workshops.aws/workshops/e7cfe8c8-ef23-4044-872b-318dd7633fb9
 https://studio.us-east-1.prod.workshops.aws/workshops/f23b1f8d-58a5-40cb-87b1-821ef4d47df8

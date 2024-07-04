@@ -3935,14 +3935,6 @@ https://workshops.aws/?tag=AWS%20IoT%20Device%20Defender
 https://workshops.aws/?tag=AWS%20IoT%20Device%20Management
 https://iot-device-defender.workshop.aws/
 https://workshops.aws/categories/Analytics
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Streams
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Firehose
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Analytics
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Analytics%20for%20Apache%20Flink
-https://workshops.aws/?tag=Amazon%20Elasticsearch%20Service
-https://workshops.aws/?tag=Amazon%20Elastic%20Map%20Reduce
-https://streaming-analytics.workshop.aws/
-https://workshops.aws/categories/Analytics
 https://workshops.aws/categories/Databases
 https://workshops.aws/categories/Business%20Intelligence
 https://workshops.aws/categories/Data%20Lake

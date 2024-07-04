@@ -5176,17 +5176,6 @@ schedule
 AWS IoT Device Defender is a fully managed service that helps you secure your fleet of IoT devices. You can learn about the service and how to use it thru this workshop.
 Get Started
 arrow_forward
-Streaming Analytics Workshop
-Level: 300
-checkmark
-Categories: Analytics
-checkmark
-Tags: Amazon Kinesis Data Streams, Amazon Kinesis Data Firehose, Amazon Kinesis Data Analytics, Amazon Kinesis Data Analytics for Apache Flink, Amazon Elasticsearch Service, Amazon Elastic Map Reduce
-schedule
-2 hours
-This is a collection of workshops and resources for running streaming analytics workloads on AWS. In these workshops you will learn how to build, operate, and scale end-to-end streaming architectures leveraging different open source technologies and AWS services, including, Apache Flink, Apache Beam, and Amazon Kinesis Data Analytics.
-Get Started
-arrow_forward
 Bring Your Own Data Labs
 Level: 300
 checkmark

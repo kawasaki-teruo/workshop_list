@@ -481,7 +481,6 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
-https://streaming-analytics.workshop.aws
 https://studio.us-east-1.prod.workshops.aws/workshops/04e6e6c8-c19b-40f9-8cc7-945669ca86b4
 https://studio.us-east-1.prod.workshops.aws/workshops/e7cfe8c8-ef23-4044-872b-318dd7633fb9
 https://studio.us-east-1.prod.workshops.aws/workshops/f23b1f8d-58a5-40cb-87b1-821ef4d47df8
@@ -642,9 +641,7 @@ https://workshops.aws/?tag=Amazon%20EMR%20Studio
 https://workshops.aws/?tag=Amazon%20Elastic%20Compute%20Cloud%20(Amazon%20EC2)
 https://workshops.aws/?tag=Amazon%20Elastic%20Container%20Service%20(Amazon%20ECS)
 https://workshops.aws/?tag=Amazon%20Elastic%20Kubernetes%20Service%20(Amazon%20EKS)
-https://workshops.aws/?tag=Amazon%20Elastic%20Map%20Reduce
 https://workshops.aws/?tag=Amazon%20Elastic%20Map%20Reduce%20(Amazon%20EMR)
-https://workshops.aws/?tag=Amazon%20Elasticsearch%20Service
 https://workshops.aws/?tag=Amazon%20EventBridge
 https://workshops.aws/?tag=Amazon%20FSx%20for%20Windows%20File%20Server
 https://workshops.aws/?tag=Amazon%20FinSpace
@@ -655,10 +652,6 @@ https://workshops.aws/?tag=Amazon%20GuardDuty
 https://workshops.aws/?tag=Amazon%20Interactive%20Video%20Service
 https://workshops.aws/?tag=Amazon%20Kendra
 https://workshops.aws/?tag=Amazon%20Kinesis
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Analytics
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Analytics%20for%20Apache%20Flink
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Firehose
-https://workshops.aws/?tag=Amazon%20Kinesis%20Data%20Streams
 https://workshops.aws/?tag=Amazon%20Kinesis%20Video%20Streams
 https://workshops.aws/?tag=Amazon%20Kinesis%20data%20streams
 https://workshops.aws/?tag=Amazon%20Lex

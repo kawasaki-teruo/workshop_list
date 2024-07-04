@@ -9164,25 +9164,6 @@
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
   },
   {
-    "url": "https://streaming-analytics.workshop.aws",
-    "valid_url": false,
-    "title": "Streaming Analytics Workshop",
-    "level": "300",
-    "categories": [
-      "Analytics"
-    ],
-    "tags": [
-      "Amazon Kinesis Data Streams",
-      "Amazon Kinesis Data Firehose",
-      "Amazon Kinesis Data Analytics",
-      "Amazon Kinesis Data Analytics for Apache Flink",
-      "Amazon Elasticsearch Service",
-      "Amazon Elastic Map Reduce"
-    ],
-    "schedule": "2 hours",
-    "description": "This is a collection of workshops and resources for running streaming analytics workloads on AWS. In these workshops you will learn how to build, operate, and scale end-to-end streaming architectures leveraging different open source technologies and AWS services, including, Apache Flink, Apache Beam, and Amazon Kinesis Data Analytics."
-  },
-  {
     "url": "https://studio.us-east-1.prod.workshops.aws/workshops/04e6e6c8-c19b-40f9-8cc7-945669ca86b4",
     "valid_url": true,
     "title": "Approaches to layered security on Amazon VPC",
