@@ -281,6 +281,7 @@ https://catalog.workshops.aws/amazon-connect-contact-survey
 https://catalog.workshops.aws/amazon-connect-evaluation-forms
 https://catalog.workshops.aws/amazon-connect-global-resiliency
 https://catalog.workshops.aws/amazon-connect-introduction
+https://catalog.workshops.aws/amazon-connect-operational-workshop
 https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent
 https://catalog.workshops.aws/amazon-location-101

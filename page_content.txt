@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Amazon Connect Operational Workshop
+Level: 300
+checkmark
+Categories: Communication Applications, Contact Center
+checkmark
+Tags: Amazon Connect, Amazon CloudWatch
+schedule
+8 hours
+The Amazon Connect Operational Workshop help you learn to operate Amazon Connect workloads in Production. It provides guidance and best practices to monitor and diagnose technical issues and how to mitigate and resolve them quickly.
+Get Started
+arrow_forward
 Data Perimeter in Action
 Level: 300
 checkmark

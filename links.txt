@@ -355,6 +355,11 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Communication%20Applications
+https://workshops.aws/categories/Contact%20Center
+https://workshops.aws/?tag=Amazon%20Connect
+https://workshops.aws/?tag=Amazon%20CloudWatch
+https://catalog.workshops.aws/amazon-connect-operational-workshop
 https://workshops.aws/categories/IAM
 https://workshops.aws/categories/Security
 https://workshops.aws/?tag=IAM

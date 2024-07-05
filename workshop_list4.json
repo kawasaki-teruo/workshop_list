@@ -5258,6 +5258,22 @@
     "description": "The purpose of this workshop is to provide you with an introduction to Amazon Connect, Amazon Web Services cloud-based virtual contact center offering. This workshop is best suited for those new to Amazon Connect, IT decision makers, line of business stakeholders, or those responsible for contact center configuration and management."
   },
   {
+    "url": "https://catalog.workshops.aws/amazon-connect-operational-workshop",
+    "valid_url": true,
+    "title": "Amazon Connect Operational Workshop",
+    "level": "300",
+    "categories": [
+      "Communication Applications",
+      "Contact Center"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "Amazon CloudWatch"
+    ],
+    "schedule": "8 hours",
+    "description": "The Amazon Connect Operational Workshop help you learn to operate Amazon Connect workloads in Production. It provides guidance and best practices to monitor and diagnose technical issues and how to mitigate and resolve them quickly."
+  },
+  {
     "url": "https://catalog.workshops.aws/amazon-connect-optimization",
     "valid_url": true,
     "title": "Amazon Connect forecasting, capacity planning and scheduling",
