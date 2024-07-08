@@ -3205,26 +3205,6 @@
     "description": "Due to lack of time/resources, DevSecOps Engineers are often not able to triage quickly enough. What if you had a chatbot customized for your environment’s use case? This would help you find a solution quickly and give you back valuable development hours. With more time on your hands, you can rapidly innovate for your business. In this workshop, we will demonstrate how you can create a chatbot using AI-powered AWS services that will help engineers solve common challenges like how to securely store your application’s secrets or how to create a new Disaster Recovery environment."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/77214281-b298-48f4-a7ce-e6cc745bf4f2",
-    "valid_url": false,
-    "title": "Checking Order Status with Amazon Connect",
-    "level": "300",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon Lex",
-      "Amazon Cloudwatch",
-      "AWS Identity and Access Management (IAM)",
-      "Amazon DyanmoDB",
-      "Amazon Pinpoint"
-    ],
-    "schedule": "3 hours",
-    "description": "In this workshop, you will learn how to launch and set up a modernized cloud based Call Center through a series of hands-on labs. Using Amazon Connect you will provision a phone number for your call center, set up users (Agent and Call Center Supervisor), set up call and chat experiences, and integrate Amazon Connect with other AWS Services."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/78554b88-0cd8-45a1-b9ee-2c1078aa6995",
     "valid_url": true,
     "title": "IBM Maximo Application Suite on AWS",
@@ -3798,25 +3778,6 @@
     ],
     "schedule": "2 hours",
     "description": "ou will learn how to support people who use Amazon WorkMail to get their work done, how Amazon WorkMail can be used for system integration use cases, and how you can leverage AWS services to accomplish objectives common in large enterprise environments."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ad380240-c060-4439-afbf-72915b3c0844",
-    "valid_url": false,
-    "title": "Amazon Connect APIs",
-    "level": "300",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon Cloudwatch",
-      "Amazon Cloudfront",
-      "AWS Lambda",
-      "Amazon Connect APIs"
-    ],
-    "schedule": "3 hours",
-    "description": "Amazon Connect now provides APIs that allow customers to address functions programmatically. These APIs allow customers to manage their contact center operations at scale. During these labs you will have the opportunity to see how different APIs can be used to programmatically manage different areas of Amazon Connect including managing Queues, Contact Flows, Quick Connects, User Hierarchies, Routing Profiles and Call Recording."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b28f3502-ca9f-4e12-8b84-59e454c1ed53",

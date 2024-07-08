@@ -169,7 +169,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/73c4025f-d971-40b8-92d1-0
 https://catalog.us-east-1.prod.workshops.aws/workshops/741835d3-a2bf-4cb6-81f0-d0bb4a62edca
 https://catalog.us-east-1.prod.workshops.aws/workshops/749b7207-f290-4c8a-a135-f0bff25cae51
 https://catalog.us-east-1.prod.workshops.aws/workshops/75a20314-5e15-4246-9352-3643d9dafc43
-https://catalog.us-east-1.prod.workshops.aws/workshops/77214281-b298-48f4-a7ce-e6cc745bf4f2
 https://catalog.us-east-1.prod.workshops.aws/workshops/78554b88-0cd8-45a1-b9ee-2c1078aa6995
 https://catalog.us-east-1.prod.workshops.aws/workshops/7a6f690d-91aa-44d1-8a2f-0b1fc318c2bf
 https://catalog.us-east-1.prod.workshops.aws/workshops/7c41ed45-0120-4af8-bd23-420f9f0f5eb1
@@ -202,7 +201,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/a9661c42-97f6-400a-8dee-a
 https://catalog.us-east-1.prod.workshops.aws/workshops/ab24ff8d-090a-4287-88dd-a04d03a440c1
 https://catalog.us-east-1.prod.workshops.aws/workshops/ab3610a3-ebcb-48ee-9f9d-be5a37bfe6a8
 https://catalog.us-east-1.prod.workshops.aws/workshops/ad10df02-3006-4e52-a073-21005cdc860e
-https://catalog.us-east-1.prod.workshops.aws/workshops/ad380240-c060-4439-afbf-72915b3c0844
 https://catalog.us-east-1.prod.workshops.aws/workshops/b28f3502-ca9f-4e12-8b84-59e454c1ed53
 https://catalog.us-east-1.prod.workshops.aws/workshops/b2ca0de0-3117-4024-9bed-3326a2baeae9
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5083f86-f4e1-4712-8015-ae1549eb2971

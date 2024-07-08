@@ -3471,28 +3471,6 @@ schedule
 Customers expect a fast, frictionless, and personalized customer service experience. However, agents spend on average 2 minutes navigating multiple applications to find important customer data leading to poor experiences and high costs. Amazon Connect Customer Profiles automatically brings together customer information from multiple applications into a unified customer profile, delivering the profile directly to the agent as soon as the support call or interaction begins.
 Get Started
 arrow_forward
-Checking Order Status with Amazon Connect
-Level: 300
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect, Amazon Lex, Amazon Cloudwatch, AWS Identity and Access Management (IAM), Amazon DyanmoDB, Amazon Pinpoint
-schedule
-3 hours
-In this workshop, you will learn how to launch and set up a modernized cloud based Call Center through a series of hands-on labs. Using Amazon Connect you will provision a phone number for your call center, set up users (Agent and Call Center Supervisor), set up call and chat experiences, and integrate Amazon Connect with other AWS Services.
-Get Started
-arrow_forward
-Amazon Connect APIs
-Level: 300
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect, Amazon Cloudwatch, Amazon Cloudfront, AWS Lambda, Amazon Connect APIs
-schedule
-3 hours
-Amazon Connect now provides APIs that allow customers to address functions programmatically. These APIs allow customers to manage their contact center operations at scale. During these labs you will have the opportunity to see how different APIs can be used to programmatically manage different areas of Amazon Connect including managing Queues, Contact Flows, Quick Connects, User Hierarchies, Routing Profiles and Call Recording.
-Get Started
-arrow_forward
 Amazon Connect Softphone Controls
 Level: 200
 checkmark
