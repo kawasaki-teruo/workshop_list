@@ -284,7 +284,6 @@ https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent
 https://catalog.workshops.aws/amazon-location-101
 https://catalog.workshops.aws/amplify-with-terraform
-https://catalog.workshops.aws/applying-abac
 https://catalog.workshops.aws/architecting-edge-applications
 https://catalog.workshops.aws/auto-incident-response
 https://catalog.workshops.aws/aws-batch-deep-dive
@@ -387,7 +386,6 @@ https://catalog.workshops.aws/wyld-pets-cognito
 https://cfd-on-pcluster.workshop.aws
 https://cfn101.workshop.aws
 https://cicd-for-ecs.workshop.aws
-https://cicd-pipeline-cdk-eks-bluegreen.workshop.aws
 https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws
 https://client-vpn-basic.workshop.aws
 https://cloudtrail-with-cloudwatch.workshop.aws

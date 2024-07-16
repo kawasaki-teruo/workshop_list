@@ -3020,17 +3020,6 @@ schedule
 In this workshop you will learn how to bring your traditional Java Spring application to AWS Lambda with minimal effort and iteratively apply optimizations to get the best out of your Serverless Java experience. You will get an overview of best practices, performance trade-offs and the design considerations for each step to be able to make well-informed decisions when bringing enterprise Java applications to AWS Lambda.
 Get Started
 arrow_forward
-Applying Attribute-Based Access Control within AWS
-Level: 300
-checkmark
-Categories: Security, Identity
-checkmark
-Tags: IAM, S3, ABAC
-schedule
-2 hours
-This workshop provides hands-on experience in applying Attribute Based Access Control(ABAC) mechanisms to achieve a secure and scalable authorization model within AWS. Learn to apply ABAC which is native to AWS Identity and Access Management(IAM) and additionally, learn how to use resource tag evaluation and session tagging techniques to scale your authorization model cross region and accounts within AWS.
-Get Started
-arrow_forward
 IAM Identity Center - Workforce Identity management at scale
 Level: 200
 checkmark
@@ -5097,17 +5086,6 @@ Tags: RIs, Savings Plans, RDS, Aurora, DynamoDB, RDS, EBS, EFS, S3, Comprehend, 
 schedule
 10 hours
 Discover recipes that will help you scale your infrastructure in a cost effective way
-Get Started
-arrow_forward
-CI/CD Pipeline CDK EKS BlueGreen
-Level: 300
-checkmark
-Categories: DevOps
-checkmark
-Tags: AWS Cloud9, AWS CodeBuild, AWS CodePipeline, Amazon EKS, AWS CDK, AWS CodeDeploy
-schedule
-3 hours
-In this workshop you'll learn how to build a CI/CD pipeline using CDK, to develop, containerize and deploy a web-based application on Amazon EKS using blue/green deployment method. Later we will also deploy the same application on ECS with B/G method
 Get Started
 arrow_forward
 Analytics on AWS - Build BI System from Scratch

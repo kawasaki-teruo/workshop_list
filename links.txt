@@ -2368,12 +2368,6 @@ https://workshops.aws/?tag=Micronaut
 https://workshops.aws/?tag=Lambda
 https://catalog.workshops.aws/java-on-aws-lambda/
 https://workshops.aws/categories/Security
-https://workshops.aws/categories/Identity
-https://workshops.aws/?tag=IAM
-https://workshops.aws/?tag=S3
-https://workshops.aws/?tag=ABAC
-https://catalog.workshops.aws/applying-abac
-https://workshops.aws/categories/Security
 https://workshops.aws/categories/Identity%20and%20Access%20Management
 https://workshops.aws/?tag=IAM
 https://workshops.aws/?tag=IAM%20Identity%20Center
@@ -3881,14 +3875,6 @@ https://workshops.aws/?tag=ComputeOptimizer
 https://workshops.aws/?tag=Cost%20Explorer
 https://workshops.aws/?tag=Startups
 https://activate-next.workshop.aws/
-https://workshops.aws/categories/DevOps
-https://workshops.aws/?tag=AWS%20Cloud9
-https://workshops.aws/?tag=AWS%20CodeBuild
-https://workshops.aws/?tag=AWS%20CodePipeline
-https://workshops.aws/?tag=Amazon%20EKS
-https://workshops.aws/?tag=AWS%20CDK
-https://workshops.aws/?tag=AWS%20CodeDeploy
-https://cicd-pipeline-cdk-eks-bluegreen.workshop.aws/
 https://workshops.aws/categories/Analytics
 https://workshops.aws/categories/Lambda%20Architecture%20Pattern
 https://workshops.aws/?tag=Aws%20Elasticsearch

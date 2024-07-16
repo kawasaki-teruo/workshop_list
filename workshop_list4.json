@@ -5316,23 +5316,6 @@
     "description": "This workshop shows how you can use Terraform and the Amplify Client Libraries to deploy and manage full stack Amplify Apps at scale."
   },
   {
-    "url": "https://catalog.workshops.aws/applying-abac",
-    "valid_url": false,
-    "title": "Applying Attribute-Based Access Control within AWS",
-    "level": "300",
-    "categories": [
-      "Security",
-      "Identity"
-    ],
-    "tags": [
-      "IAM",
-      "S3",
-      "ABAC"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop provides hands-on experience in applying Attribute Based Access Control(ABAC) mechanisms to achieve a secure and scalable authorization model within AWS. Learn to apply ABAC which is native to AWS Identity and Access Management(IAM) and additionally, learn how to use resource tag evaluation and session tagging techniques to scale your authorization model cross region and accounts within AWS."
-  },
-  {
     "url": "https://catalog.workshops.aws/architecting-edge-applications",
     "valid_url": true,
     "title": "HYB-302: Architecting and deploying applications at the edge",
@@ -7391,25 +7374,6 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop provides an in-depth introduction to building CI/CD pipelines for ECS using AWS developer tools. It starts with a simple single-stage rolling update pipeline, and then builds on this to cover multi-stage pipelines, a variety of deployment strategies, and GitOps. Also includes optional modules on pipeline templating, and using Terraform for GitOps."
-  },
-  {
-    "url": "https://cicd-pipeline-cdk-eks-bluegreen.workshop.aws",
-    "valid_url": false,
-    "title": "CI/CD Pipeline CDK EKS BlueGreen",
-    "level": "300",
-    "categories": [
-      "DevOps"
-    ],
-    "tags": [
-      "AWS Cloud9",
-      "AWS CodeBuild",
-      "AWS CodePipeline",
-      "Amazon EKS",
-      "AWS CDK",
-      "AWS CodeDeploy"
-    ],
-    "schedule": "3 hours",
-    "description": "In this workshop you'll learn how to build a CI/CD pipeline using CDK, to develop, containerize and deploy a web-based application on Amazon EKS using blue/green deployment method. Later we will also deploy the same application on ECS with B/G method"
   },
   {
     "url": "https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws",

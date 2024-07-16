@@ -284,7 +284,6 @@ https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent
 https://catalog.workshops.aws/amazon-location-101
 https://catalog.workshops.aws/amplify-with-terraform
-https://catalog.workshops.aws/applying-abac
 https://catalog.workshops.aws/architecting-edge-applications
 https://catalog.workshops.aws/auto-incident-response
 https://catalog.workshops.aws/aws-batch-deep-dive
@@ -387,7 +386,6 @@ https://catalog.workshops.aws/wyld-pets-cognito
 https://cfd-on-pcluster.workshop.aws
 https://cfn101.workshop.aws
 https://cicd-for-ecs.workshop.aws
-https://cicd-pipeline-cdk-eks-bluegreen.workshop.aws
 https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws
 https://client-vpn-basic.workshop.aws
 https://cloudtrail-with-cloudwatch.workshop.aws
@@ -494,7 +492,6 @@ https://workshops.aws
 https://workshops.aws/?tag=%20Amazon%20Cognito
 https://workshops.aws/?tag=.NET
 https://workshops.aws/?tag=.NET%20Core
-https://workshops.aws/?tag=ABAC
 https://workshops.aws/?tag=AD
 https://workshops.aws/?tag=AI
 https://workshops.aws/?tag=AI%2FML
@@ -518,7 +515,6 @@ https://workshops.aws/?tag=AWS%20AppSync
 https://workshops.aws/?tag=AWS%20Application%20Migration%20Service%20(MGN)
 https://workshops.aws/?tag=AWS%20Batch
 https://workshops.aws/?tag=AWS%20Blu%20Age
-https://workshops.aws/?tag=AWS%20CDK
 https://workshops.aws/?tag=AWS%20Client%20VPN
 https://workshops.aws/?tag=AWS%20Cloud%20Development%20Kit%20(AWS%20CDK)
 https://workshops.aws/?tag=AWS%20Cloud%20Map
