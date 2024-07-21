@@ -1029,7 +1029,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/73584592-51c4-43b3-9c25-53b1a8dcdbba",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS Singleplay Workshop",
     "level": "300",
     "categories": [
@@ -1303,7 +1303,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/de1c7d2d-6826-44db-a678-ff7a62747ec4",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building with Amazon Chime SDK using React",
     "level": "200",
     "categories": [
@@ -2140,7 +2140,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2ee2fc71-0618-479c-86dd-1d5fb168eb20",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Learn to Use AWS AppConfig Feature Flags",
     "level": "200",
     "categories": [
@@ -4423,7 +4423,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dba26a47-d8bc-4df8-bb31-b92dd758a997",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Service Cloud Voice Series: Prerequisites and Preparation",
     "level": "100",
     "categories": [
@@ -4741,7 +4741,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ea35946b-afe7-4f1d-9dc7-b5ed471db3d8",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Best Practices for Growing Your Business on Amazon Lightsail",
     "level": "200",
     "categories": [
@@ -6063,7 +6063,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/gromacs-on-aws-parallelcluster",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Gromacs on AWS ParallelCluster",
     "level": "400",
     "categories": [
@@ -6152,7 +6152,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/iam-policy-types",
-    "valid_url": true,
+    "valid_url": false,
     "title": "How and when to use different IAM policy types",
     "level": "300",
     "categories": [
@@ -7410,7 +7410,7 @@
   },
   {
     "url": "https://cloudtrail-with-cloudwatch.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS CloudTrail Monitoring with Amazon CloudWatch",
     "level": "300",
     "categories": [
@@ -7462,7 +7462,7 @@
   },
   {
     "url": "https://cudos.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "CUDOS Workshop",
     "level": "200",
     "categories": [
@@ -7559,7 +7559,7 @@
   },
   {
     "url": "https://deploy-server-side-rendered-app-on-amplify.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Deploy and host a server-side rendered Next.js app on Amplify hosting",
     "level": "300",
     "categories": [
@@ -7656,7 +7656,7 @@
   },
   {
     "url": "https://dotnet-developer-dojo.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": ".NET Developer Dojo",
     "level": "200",
     "categories": [
@@ -7913,7 +7913,7 @@
   },
   {
     "url": "https://gamelift-persistent-workshop.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "GameLift_Persistent_Workshop",
     "level": "300",
     "categories": [
@@ -8169,7 +8169,7 @@
   },
   {
     "url": "https://iot-esp32.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "IoT ESP32 Workshop",
     "level": "200",
     "categories": [
@@ -8379,7 +8379,7 @@
   },
   {
     "url": "https://lookoutformetrics.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "General Lookout For Metrics Workshop",
     "level": "200",
     "categories": [
@@ -8398,7 +8398,7 @@
   },
   {
     "url": "https://managing-iotgreengrass.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Managing AWS IoT Greengrass with AWS SDK for Python",
     "level": "400",
     "categories": [
@@ -9395,7 +9395,7 @@
   },
   {
     "url": "https://zero-downtime-migrations.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Near-zero-downtime migrations to AWS",
     "level": "300",
     "categories": [
