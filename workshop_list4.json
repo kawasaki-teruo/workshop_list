@@ -6152,7 +6152,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/iam-policy-types",
-    "valid_url": false,
+    "valid_url": true,
     "title": "How and when to use different IAM policy types",
     "level": "300",
     "categories": [
@@ -7426,7 +7426,7 @@
   },
   {
     "url": "https://codequality.workshop.aws",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Code Quality Workshop",
     "level": "300",
     "categories": [
