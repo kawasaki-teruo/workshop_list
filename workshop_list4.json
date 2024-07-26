@@ -4423,7 +4423,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dba26a47-d8bc-4df8-bb31-b92dd758a997",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Service Cloud Voice Series: Prerequisites and Preparation",
     "level": "100",
     "categories": [
