@@ -355,6 +355,15 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/AI%2FML
+https://workshops.aws/categories/HealthScribe
+https://workshops.aws/categories/Generative%20AI
+https://workshops.aws/?tag=HCLS
+https://workshops.aws/?tag=AI%2FML
+https://workshops.aws/?tag=HealthScribe
+https://workshops.aws/?tag=Bedrock
+https://workshops.aws/?tag=Comprehend%20Medical
+https://studio.us-east-1.prod.workshops.aws/preview/989c3aad-3f3e-405f-8519-13552cdd98eb/builds/c595bc30-dc78-47c5-920a-b880f9ff0856/en-US
 https://workshops.aws/categories/Communication%20Applications
 https://workshops.aws/categories/Contact%20Center
 https://workshops.aws/?tag=Amazon%20Connect
@@ -420,7 +429,7 @@ https://workshops.aws/?tag=Least%20Privilege
 https://workshops.aws/?tag=Security
 https://workshops.aws/?tag=AWS%20Identity%20and%20Access%20Management%20(IAM)
 https://workshops.aws/?tag=Unused%20Access%20Analyzer
-https://studio.us-east-1.prod.workshops.aws/workshops/public/f81841e0-b033-4355-8b6c-b2a404d544a4
+https://catalog.us-east-1.prod.workshops.aws/workshops/f81841e0-b033-4355-8b6c-b2a404d544a4/
 https://workshops.aws/categories/Terraform
 https://workshops.aws/categories/Infrastructure%20as%20Code
 https://workshops.aws/categories/DevOps

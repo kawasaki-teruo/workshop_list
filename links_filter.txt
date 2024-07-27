@@ -263,6 +263,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/example-1234-1234-abcd-12
 https://catalog.us-east-1.prod.workshops.aws/workshops/f36e426f-e8a6-467e-97d3-2223bd5f0c49
 https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02
 https://catalog.us-east-1.prod.workshops.aws/workshops/f6b4587e-b8a5-4a43-be87-26bd85a70aba
+https://catalog.us-east-1.prod.workshops.aws/workshops/f81841e0-b033-4355-8b6c-b2a404d544a4
 https://catalog.us-east-1.prod.workshops.aws/workshops/f866d059-8d90-49fa-bf15-15676cc9a74f
 https://catalog.us-east-1.prod.workshops.aws/workshops/f8d2c175-634d-4c5d-94cb-d83bbc656c6a
 https://catalog.us-east-1.prod.workshops.aws/workshops/fa91011f-2da1-4cd9-a3ba-57891dcaa6f5
@@ -478,11 +479,11 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
+https://studio.us-east-1.prod.workshops.aws/preview/989c3aad-3f3e-405f-8519-13552cdd98eb/builds/c595bc30-dc78-47c5-920a-b880f9ff0856
 https://studio.us-east-1.prod.workshops.aws/workshops/04e6e6c8-c19b-40f9-8cc7-945669ca86b4
 https://studio.us-east-1.prod.workshops.aws/workshops/e7cfe8c8-ef23-4044-872b-318dd7633fb9
 https://studio.us-east-1.prod.workshops.aws/workshops/f23b1f8d-58a5-40cb-87b1-821ef4d47df8
 https://studio.us-east-1.prod.workshops.aws/workshops/public/b1719f45-e622-43df-bb3b-72ce15e1e0ac
-https://studio.us-east-1.prod.workshops.aws/workshops/public/f81841e0-b033-4355-8b6c-b2a404d544a4
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws

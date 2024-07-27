@@ -4917,6 +4917,25 @@
     "description": "In this workshop, you will learn how to provision, manage, and maintain your Kubernetes clusters with Amazon Elastic Kubernetes Service (Amazon EKS) scaling optimally using Karpenter. Karpenter is a node lifecycle management solution used to scale your Kubernetes cluster. Karpenter observes incoming pods and launches the right-sized Amazon EC2 Instance appropriately for the workload. Instance selection decisions are intent based and driven by the specification of incoming pods, including resource requests and scheduling constraints."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/f81841e0-b033-4355-8b6c-b2a404d544a4",
+    "valid_url": true,
+    "title": "Advanced machine-to-machine access with IAM Roles Anywhere & IAM Unused Access Analyzer",
+    "level": "300",
+    "categories": [
+      "Security",
+      "AWS Identity and Access Management (IAM)",
+      "Unused Access Analyzer"
+    ],
+    "tags": [
+      "Least Privilege",
+      "Security",
+      "AWS Identity and Access Management (IAM)",
+      "Unused Access Analyzer"
+    ],
+    "schedule": "1 hour",
+    "description": "This workshop is designed to introduce participants to IAM Roles Anywhere advanced features such as fine grained authentication and authorisation using certificate fields for ABAC, combined with IAM Unused Access Analyzer to implement least privilege to show how they can migrate from static (and overly permissioned) credentials to properly scoped IAM roles for modern machine-to-machine access"
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/f866d059-8d90-49fa-bf15-15676cc9a74f",
     "valid_url": true,
     "title": "NetDevOps in AWS",
@@ -9105,6 +9124,26 @@
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
   },
   {
+    "url": "https://studio.us-east-1.prod.workshops.aws/preview/989c3aad-3f3e-405f-8519-13552cdd98eb/builds/c595bc30-dc78-47c5-920a-b880f9ff0856",
+    "valid_url": true,
+    "title": "Generate Clinical Notes with AI",
+    "level": "300",
+    "categories": [
+      "AI/ML",
+      "HealthScribe",
+      "Generative AI"
+    ],
+    "tags": [
+      "HCLS",
+      "AI/ML",
+      "HealthScribe",
+      "Bedrock",
+      "Comprehend Medical"
+    ],
+    "schedule": "4 hours",
+    "description": "This workshop utilizes AWS HealthScribe and integrates with Comprehend Medical and Bedrock for a comprehensive solution that generates output json files that can be integrated with EHR/EMR systems. Furthermore, Amazon Bedrock can be utilized to ask natural language Q&A about the data generated from the call transcript."
+  },
+  {
     "url": "https://studio.us-east-1.prod.workshops.aws/workshops/04e6e6c8-c19b-40f9-8cc7-945669ca86b4",
     "valid_url": true,
     "title": "Approaches to layered security on Amazon VPC",
@@ -9183,25 +9222,6 @@
     ],
     "schedule": "2 hours",
     "description": "Workshop for PyTorch Best Practices for Generative AI & Large Language Model Inference Architecture on Amazon EKS. GitHub Source code repo: https://github.com/aws-solutions-library-samples/guidance-for-machine-learning-inference-on-aws"
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/f81841e0-b033-4355-8b6c-b2a404d544a4",
-    "valid_url": true,
-    "title": "Advanced machine-to-machine access with IAM Roles Anywhere & IAM Unused Access Analyzer",
-    "level": "300",
-    "categories": [
-      "Security",
-      "AWS Identity and Access Management (IAM)",
-      "Unused Access Analyzer"
-    ],
-    "tags": [
-      "Least Privilege",
-      "Security",
-      "AWS Identity and Access Management (IAM)",
-      "Unused Access Analyzer"
-    ],
-    "schedule": "1 hour",
-    "description": "This workshop is designed to introduce participants to IAM Roles Anywhere advanced features such as fine grained authentication and authorisation using certificate fields for ABAC, combined with IAM Unused Access Analyzer to implement least privilege to show how they can migrate from static (and overly permissioned) credentials to properly scoped IAM roles for modern machine-to-machine access"
   },
   {
     "url": "https://tao.workshop.aws",
