@@ -9225,7 +9225,7 @@
   },
   {
     "url": "https://tao.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "TAO Workshop",
     "level": "200",
     "categories": [
