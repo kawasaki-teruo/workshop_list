@@ -69,7 +69,7 @@ checkmark
 Tags: HCLS, AI/ML, HealthScribe, Bedrock, Comprehend Medical
 schedule
 4 hours
-This workshop utilizes AWS HealthScribe and integrates with Comprehend Medical and Bedrock for a comprehensive solution that generates output json files that can be integrated with EHR/EMR systems. Furthermore, Amazon Bedrock can be utilized to ask natural language Q&A about the data generated from the call transcript.
+This workshop utilizes AWS HealthScribe and integrates with Amazon Transcribe and Amazon Bedrock for a comprehensive solution that generates output json files that can be integrated with EHR/EMR systems. Furthermore, Amazon Bedrock can be utilized to ask natural language Q&A about the data generated from the call transcript.
 Get Started
 arrow_forward
 Amazon Connect Operational Workshop
@@ -655,17 +655,6 @@ schedule
 This workshop simulates unauthorized data deletion events on an Amazon RDS instance and walks through some of the detection mechanisms employed by the AWS CIRT (Customer Incident Response Team) to respond to such security events.
 Get Started
 arrow_forward
-Automate management of Amazon WorkSpaces and Amazon AppStream 2.0
-Level: 300
-checkmark
-Categories: End User Compute
-checkmark
-Tags: WorkSpaces, AppStream 2.0
-schedule
-1 hour
-In this lab you will learn how to utilize the EUC Toolkit to centrally manage Amazon WorkSpaces and Amazon AppStream 2.0 at scale.
-Get Started
-arrow_forward
 InsuranceLake Quickstart
 Level: 200
 checkmark
@@ -1238,7 +1227,7 @@ schedule
 This workshop demonstrates how to continually integrate, continually deploy, and continuously tune a generative AI application using Large Language Model Operations (LLMOps) on AWS.
 Get Started
 arrow_forward
-PyTorch Best Practices for Generative AI & Large Language Model Inference Architecture on Amazon EKS
+Best Practices for Generative AI & Machine Learning Inference Architecture on Amazon EKS
 Level: 400
 checkmark
 Categories: Containers, Compute, AI/ML

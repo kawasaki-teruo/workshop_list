@@ -363,7 +363,7 @@ https://workshops.aws/?tag=AI%2FML
 https://workshops.aws/?tag=HealthScribe
 https://workshops.aws/?tag=Bedrock
 https://workshops.aws/?tag=Comprehend%20Medical
-https://studio.us-east-1.prod.workshops.aws/preview/989c3aad-3f3e-405f-8519-13552cdd98eb/builds/c595bc30-dc78-47c5-920a-b880f9ff0856/en-US
+https://catalog.us-east-1.prod.workshops.aws/workshops/989c3aad-3f3e-405f-8519-13552cdd98eb
 https://workshops.aws/categories/Communication%20Applications
 https://workshops.aws/categories/Contact%20Center
 https://workshops.aws/?tag=Amazon%20Connect
@@ -415,7 +415,7 @@ https://workshops.aws/?tag=ELB
 https://workshops.aws/?tag=NLB
 https://workshops.aws/?tag=TGW
 https://workshops.aws/?tag=PrivateLink
-https://studio.us-east-1.prod.workshops.aws/workshops/f23b1f8d-58a5-40cb-87b1-821ef4d47df8
+https://catalog.workshops.aws/ipv6-on-aws
 https://workshops.aws/categories/IAM%20Identity%20Center
 https://workshops.aws/categories/Analytics
 https://workshops.aws/categories/Trusted%20Identity%20Propagation
@@ -764,10 +764,6 @@ https://workshops.aws/?tag=AWS%20CloudTrail
 https://workshops.aws/?tag=Amazon%20Relational%20Database%20Service%20(Amazon%20RDS)
 https://workshops.aws/?tag=Amazon%20Athena
 https://catalog.us-east-1.prod.workshops.aws/workshops/97f74700-cd76-4093-b1bb-4484f564d911
-https://workshops.aws/categories/End%20User%20Compute
-https://workshops.aws/?tag=WorkSpaces
-https://workshops.aws/?tag=AppStream%202.0
-https://studio.us-east-1.prod.workshops.aws/workshops/e7cfe8c8-ef23-4044-872b-318dd7633fb9
 https://workshops.aws/categories/Financial%20Services
 https://workshops.aws/categories/Analytics
 https://workshops.aws/categories/Big%20Data
@@ -1054,7 +1050,7 @@ https://workshops.aws/?tag=VPC
 https://workshops.aws/?tag=AWS%20Network%20Firewall
 https://workshops.aws/?tag=AWS%20GLWB
 https://workshops.aws/?tag=AWS%20WAF
-https://studio.us-east-1.prod.workshops.aws/workshops/04e6e6c8-c19b-40f9-8cc7-945669ca86b4
+https://catalog.workshops.aws/layered-vpc-security
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://workshops.aws/?tag=RDS
@@ -1167,7 +1163,7 @@ https://workshops.aws/?tag=AI%2FML
 https://workshops.aws/?tag=Amazon%20EKS
 https://workshops.aws/?tag=Generative%20AI
 https://workshops.aws/?tag=AWS%20Open%20Source
-https://studio.us-east-1.prod.workshops.aws/workshops/public/b1719f45-e622-43df-bb3b-72ce15e1e0ac
+https://catalog.workshops.aws/low-latency-high-throughput-inference-on-amazon-eks
 https://workshops.aws/categories/Compliance
 https://workshops.aws/categories/Data%20Protection
 https://workshops.aws/?tag=Compliance
