@@ -4436,7 +4436,7 @@ checkmark
 Tags: EC2, Windows, Migrations, Active Directory, NTLM, Directory Service
 schedule
 4 hours
-A guide to deploying Active Direcoty(AD) on AWS, set up hybrid solutions, integrate with Azure AD and setting up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered.
+A guide to deploying Active Directory(AD) on AWS, set up hybrid solutions, integrate with Azure AD and setting up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered.
 Get Started
 arrow_forward
 Work Placement Workshop

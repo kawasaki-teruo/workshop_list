@@ -89,7 +89,7 @@
       "Directory Service"
     ],
     "schedule": "4 hours",
-    "description": "A guide to deploying Active Direcoty(AD) on AWS, set up hybrid solutions, integrate with Azure AD and setting up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered."
+    "description": "A guide to deploying Active Directory(AD) on AWS, set up hybrid solutions, integrate with Azure AD and setting up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered."
   },
   {
     "url": "https://alienattack.workshop.aws",
