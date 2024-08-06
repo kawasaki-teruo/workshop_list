@@ -180,6 +180,7 @@ https://workshops.aws/categories/Gluon
 https://workshops.aws/categories/Governance
 https://workshops.aws/categories/GraphQL
 https://workshops.aws/categories/Greengrass
+https://workshops.aws/categories/Guardrails
 https://workshops.aws/categories/HA
 https://workshops.aws/categories/HPC
 https://workshops.aws/categories/HealthScribe
@@ -355,6 +356,12 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Bedrock
+https://workshops.aws/categories/Guardrails
+https://workshops.aws/categories/GenAI
+https://workshops.aws/?tag=Bedrock
+https://workshops.aws/?tag=Guardrails
+https://catalog.us-east-1.prod.workshops.aws/workshops/62977871-9ea0-4d95-83c7-492944c96357
 https://workshops.aws/categories/AI%2FML
 https://workshops.aws/categories/HealthScribe
 https://workshops.aws/categories/Generative%20AI

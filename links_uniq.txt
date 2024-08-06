@@ -156,6 +156,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/5ecc2416-f956-4273-b729-d
 https://catalog.us-east-1.prod.workshops.aws/workshops/5eef6b5e-7cf0-427b-85fc-1c6ad173db14
 https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72
 https://catalog.us-east-1.prod.workshops.aws/workshops/60f8268e-0cf8-4de3-8a67-d574f595f13e
+https://catalog.us-east-1.prod.workshops.aws/workshops/62977871-9ea0-4d95-83c7-492944c96357
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb
 https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357
 https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
@@ -946,6 +947,7 @@ https://workshops.aws/?tag=Greengrass
 https://workshops.aws/?tag=Greengrass%20Group
 https://workshops.aws/?tag=Greengrass%20V2
 https://workshops.aws/?tag=GuardDuty
+https://workshops.aws/?tag=Guardrails
 https://workshops.aws/?tag=HCLS
 https://workshops.aws/?tag=HPC
 https://workshops.aws/?tag=HealthScribe
@@ -1530,6 +1532,7 @@ https://workshops.aws/categories/Gluon
 https://workshops.aws/categories/Governance
 https://workshops.aws/categories/GraphQL
 https://workshops.aws/categories/Greengrass
+https://workshops.aws/categories/Guardrails
 https://workshops.aws/categories/HA
 https://workshops.aws/categories/HPC
 https://workshops.aws/categories/HealthScribe

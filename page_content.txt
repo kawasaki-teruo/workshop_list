@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Creating Responsible AI With Amazon Bedrock Guardrails
+Level: 200
+checkmark
+Categories: Bedrock, Guardrails, GenAI
+checkmark
+Tags: Bedrock, Guardrails
+schedule
+2 hours
+In this workshop, participants will learn how to use Guardrails for Amazon Bedrock. Users can use guardrails to evaluate user inputs and Foundation Model responses based on use case specific policies. Guardrails for Amazon Bedrock provides an additional layer of safeguards regardless of the underlying FM.
+Get Started
+arrow_forward
 Generate Clinical Notes with AI
 Level: 300
 checkmark

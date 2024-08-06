@@ -2951,6 +2951,23 @@
     "description": "This workshop will guide you through the process of adding PSTN connectivity to an Amazon Lex Bot using the Amazon Chime SDK."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/62977871-9ea0-4d95-83c7-492944c96357",
+    "valid_url": true,
+    "title": "Creating Responsible AI With Amazon Bedrock Guardrails",
+    "level": "200",
+    "categories": [
+      "Bedrock",
+      "Guardrails",
+      "GenAI"
+    ],
+    "tags": [
+      "Bedrock",
+      "Guardrails"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop, participants will learn how to use Guardrails for Amazon Bedrock. Users can use guardrails to evaluate user inputs and Foundation Model responses based on use case specific policies. Guardrails for Amazon Bedrock provides an additional layer of safeguards regardless of the underlying FM."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb",
     "valid_url": true,
     "title": "Building event-driven architectures on AWS",
