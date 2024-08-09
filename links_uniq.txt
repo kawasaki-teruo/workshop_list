@@ -156,7 +156,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/5ecc2416-f956-4273-b729-d
 https://catalog.us-east-1.prod.workshops.aws/workshops/5eef6b5e-7cf0-427b-85fc-1c6ad173db14
 https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72
 https://catalog.us-east-1.prod.workshops.aws/workshops/60f8268e-0cf8-4de3-8a67-d574f595f13e
-https://catalog.us-east-1.prod.workshops.aws/workshops/62977871-9ea0-4d95-83c7-492944c96357
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb
 https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357
 https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
@@ -239,6 +238,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/d82f18b5-cf4d-4a83-b840-d7c445026615
 https://catalog.us-east-1.prod.workshops.aws/workshops/d903ff2b-f043-4126-a4f5-64a7cc2922ec
 https://catalog.us-east-1.prod.workshops.aws/workshops/dba26a47-d8bc-4df8-bb31-b92dd758a997
+https://catalog.us-east-1.prod.workshops.aws/workshops/dba98fc9-0cac-4498-9d5a-c001b08ea27f
 https://catalog.us-east-1.prod.workshops.aws/workshops/dc70f5b4-a400-4c33-9a8e-c1b2baebbea4
 https://catalog.us-east-1.prod.workshops.aws/workshops/dcab7555-32fc-42d2-97e5-2b7a35cd008f
 https://catalog.us-east-1.prod.workshops.aws/workshops/de1d9a5a-a38c-4e3c-a870-5d467cdcce5a
@@ -292,11 +292,13 @@ https://catalog.workshops.aws/auto-incident-response
 https://catalog.workshops.aws/aws-batch-deep-dive
 https://catalog.workshops.aws/aws-iot-expresslink-demo-badge
 https://catalog.workshops.aws/aws-iot-immersionday-workshop
+https://catalog.workshops.aws/aws-local-zones-immersion-day
 https://catalog.workshops.aws/aws-openshift-workshop
 https://catalog.workshops.aws/awscff
 https://catalog.workshops.aws/awscid
 https://catalog.workshops.aws/awsgamebackendframework
 https://catalog.workshops.aws/awsiotforautomotive
+https://catalog.workshops.aws/bedrockguard
 https://catalog.workshops.aws/build-a-knowledge-graph
 https://catalog.workshops.aws/build-sms-program
 https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws
@@ -484,6 +486,7 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
+https://studio.us-east-1.prod.workshops.aws/workshops/public/578da574-492d-439f-8f20-f14a782e3701
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
@@ -920,6 +923,7 @@ https://workshops.aws/?tag=Forecast
 https://workshops.aws/?tag=Fraud%20Detection
 https://workshops.aws/?tag=FreeRTOS
 https://workshops.aws/?tag=Front%20End
+https://workshops.aws/?tag=GCP
 https://workshops.aws/?tag=GDPR
 https://workshops.aws/?tag=Game
 https://workshops.aws/?tag=Game%20Analytics%20Pipeline
@@ -937,6 +941,7 @@ https://workshops.aws/?tag=Geospatial
 https://workshops.aws/?tag=GitHub
 https://workshops.aws/?tag=GitOps
 https://workshops.aws/?tag=Glue
+https://workshops.aws/?tag=Google%20Cloud
 https://workshops.aws/?tag=Google%20Workspace
 https://workshops.aws/?tag=GraalVM
 https://workshops.aws/?tag=Graph
@@ -955,6 +960,7 @@ https://workshops.aws/?tag=Healthcare
 https://workshops.aws/?tag=High%20Availability
 https://workshops.aws/?tag=Hive
 https://workshops.aws/?tag=Hudi
+https://workshops.aws/?tag=Hybrid%20Cloud
 https://workshops.aws/?tag=Hybrid%20Search
 https://workshops.aws/?tag=IAC
 https://workshops.aws/?tag=IAM
@@ -1091,6 +1097,7 @@ https://workshops.aws/?tag=Monitron
 https://workshops.aws/?tag=Monolith
 https://workshops.aws/?tag=Multi-Region
 https://workshops.aws/?tag=Multi-account
+https://workshops.aws/?tag=Multicloud
 https://workshops.aws/?tag=Multimodal%20Search
 https://workshops.aws/?tag=MySQL
 https://workshops.aws/?tag=NFT
@@ -1372,6 +1379,7 @@ https://workshops.aws/categories/AWS%20IoT%20Core
 https://workshops.aws/categories/AWS%20IoT%20Greengrass
 https://workshops.aws/categories/AWS%20Key%20Management%20Service%20%28KMS%29
 https://workshops.aws/categories/AWS%20Lambda
+https://workshops.aws/categories/AWS%20Local%20Zone
 https://workshops.aws/categories/AWS%20Local%20Zones
 https://workshops.aws/categories/AWS%20Mainframe%20Modernization
 https://workshops.aws/categories/AWS%20Private%20Link
@@ -1604,6 +1612,7 @@ https://workshops.aws/categories/Modernization
 https://workshops.aws/categories/Molecular-Dynamics
 https://workshops.aws/categories/Monitoring
 https://workshops.aws/categories/Monitron
+https://workshops.aws/categories/Multicloud
 https://workshops.aws/categories/NLP
 https://workshops.aws/categories/Neptune
 https://workshops.aws/categories/Network%20Load%20Balancer
