@@ -404,7 +404,6 @@ https://data-expert-path.workshop.aws
 https://data-perimeter.workshop.aws
 https://databrew.workshop.aws
 https://ddos-protection-best-practices.workshop.aws
-https://deploy-server-side-rendered-app-on-amplify.workshop.aws
 https://disaster-recovery.workshop.aws
 https://documentdb-immersionday.workshop.aws
 https://dotnet-app-modernization.workshop.aws

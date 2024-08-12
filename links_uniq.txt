@@ -404,7 +404,6 @@ https://data-expert-path.workshop.aws
 https://data-perimeter.workshop.aws
 https://databrew.workshop.aws
 https://ddos-protection-best-practices.workshop.aws
-https://deploy-server-side-rendered-app-on-amplify.workshop.aws
 https://disaster-recovery.workshop.aws
 https://documentdb-immersionday.workshop.aws
 https://dotnet-app-modernization.workshop.aws
@@ -1427,7 +1426,6 @@ https://workshops.aws/categories/Amazon%20Transcribe
 https://workshops.aws/categories/Amazon%20Translate
 https://workshops.aws/categories/Amazon%20VPC
 https://workshops.aws/categories/Amazon%20WorkMail
-https://workshops.aws/categories/Amplify
 https://workshops.aws/categories/Analytics
 https://workshops.aws/categories/Apache%20Airflow
 https://workshops.aws/categories/AppSync

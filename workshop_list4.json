@@ -7715,28 +7715,6 @@
     "description": "Building for DDoS resiliency on AWS by incorporating best practices and techniques into architecture. In this workshop you will learn how to use services like AWS Shield, WAF, Firewall Manager and Amazon CloudFront and CloudWatch to architect for DDoS resiliency and maintain robust operational capabilities that allow for rapid detection and engagement during high-severity events. You will learn how to detect and filter out malicious web requests, reduce attack surface and protect web-facing workloads at scale with maximum automation."
   },
   {
-    "url": "https://deploy-server-side-rendered-app-on-amplify.workshop.aws",
-    "valid_url": false,
-    "title": "Deploy and host a server-side rendered Next.js app on Amplify hosting",
-    "level": "300",
-    "categories": [
-      "Mobile",
-      "Development",
-      "Front End",
-      "Serverless",
-      "Amplify"
-    ],
-    "tags": [
-      "Mobile",
-      "Development",
-      "Front End",
-      "Serverless",
-      "Amplify"
-    ],
-    "schedule": "2 hours",
-    "description": "This guide will show steps to deploy and host a server-side rendered Next.js application on AWS with Amplify hosting"
-  },
-  {
     "url": "https://disaster-recovery.workshop.aws",
     "valid_url": true,
     "title": "Disaster Recovery on AWS",

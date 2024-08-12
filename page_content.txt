@@ -4208,17 +4208,6 @@ schedule
 A workshop to explore tools and functionalities that are available for Amazon EMR Studio users.
 Get Started
 arrow_forward
-Deploy and host a server-side rendered Next.js app on Amplify hosting
-Level: 300
-checkmark
-Categories: Mobile, Development, Front End, Serverless, Amplify
-checkmark
-Tags: Mobile, Development, Front End, Serverless, Amplify
-schedule
-2 hours
-This guide will show steps to deploy and host a server-side rendered Next.js application on AWS with Amplify hosting
-Get Started
-arrow_forward
 AWS IoT SiteWise Edge Workshop
 Level: 300
 checkmark
