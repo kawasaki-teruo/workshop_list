@@ -890,7 +890,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Secure Hybrid Access to S3 using VPC Endpoints",
     "level": "300",
     "categories": [
@@ -1176,7 +1176,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/a4388438-6573-40a5-86ed-4ba5da252897",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Detecting Ransomware using AWS Services",
     "level": "300",
     "categories": [
@@ -2356,7 +2356,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3c892c47-5c1d-4ea5-b38f-86e624aa2ea9",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Service Cloud Voice Series: Creating Dynamic Customer Experiences",
     "level": "200",
     "categories": [
@@ -3585,7 +3585,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/9e92e223-2987-4c77-8a80-02d66f452d60",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Service Cloud Voice Series: Architecture & Key Integration Points",
     "level": "100",
     "categories": [
@@ -3896,7 +3896,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5f6926a-6264-4d93-ad6b-732bba415b85",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Using AWS Local Zone for latency sensitive applications",
     "level": "300",
     "categories": [
