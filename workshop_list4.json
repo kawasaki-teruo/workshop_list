@@ -537,7 +537,7 @@
   },
   {
     "url": "https://aws-iot-analytics-for-beginners.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS IoT Analytics for Beginners workshop",
     "level": "300",
     "categories": [
