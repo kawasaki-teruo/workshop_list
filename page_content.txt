@@ -61,6 +61,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Amazon Q in Connect
+Level: 300
+checkmark
+Categories: Communication Applications, Contact Center
+checkmark
+Tags: Amazon Connect, Amazon Q for Connect
+schedule
+2 hours
+In this hands-on workshop, you'll learn how to harness the power of generative AI to empower your contact center agents. We'll explore how to enable your agents to leverage AI-powered assistance and workflows
+Get Started
+arrow_forward
 Enhance security in machine learning workflows
 Level: 300
 checkmark

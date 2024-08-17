@@ -5345,6 +5345,22 @@
     "description": "This lab provides an introduction to the features and capabilities of Amazon Location Service, through an easy to deploy web application and command line interface."
   },
   {
+    "url": "https://catalog.workshops.aws/amazon-q-in-connect",
+    "valid_url": true,
+    "title": "Amazon Q in Connect",
+    "level": "300",
+    "categories": [
+      "Communication Applications",
+      "Contact Center"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "Amazon Q for Connect"
+    ],
+    "schedule": "2 hours",
+    "description": "In this hands-on workshop, you'll learn how to harness the power of generative AI to empower your contact center agents. We'll explore how to enable your agents to leverage AI-powered assistance and workflows"
+  },
+  {
     "url": "https://catalog.workshops.aws/amplify-with-terraform",
     "valid_url": true,
     "title": "Automating Deployment of AWS Amplify Apps with Terraform",

@@ -286,6 +286,7 @@ https://catalog.workshops.aws/amazon-connect-operational-workshop
 https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent
 https://catalog.workshops.aws/amazon-location-101
+https://catalog.workshops.aws/amazon-q-in-connect
 https://catalog.workshops.aws/amplify-with-terraform
 https://catalog.workshops.aws/architecting-edge-applications
 https://catalog.workshops.aws/auto-incident-response
