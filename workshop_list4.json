@@ -7807,7 +7807,7 @@
   },
   {
     "url": "https://dotnet-developer-dojo.workshop.aws",
-    "valid_url": false,
+    "valid_url": true,
     "title": ".NET Developer Dojo",
     "level": "200",
     "categories": [
