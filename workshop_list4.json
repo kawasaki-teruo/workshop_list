@@ -2140,7 +2140,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2ee2fc71-0618-479c-86dd-1d5fb168eb20",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Learn to Use AWS AppConfig Feature Flags",
     "level": "200",
     "categories": [
