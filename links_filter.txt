@@ -147,6 +147,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-6
 https://catalog.us-east-1.prod.workshops.aws/workshops/57b6024b-0dba-4d45-a0f2-6662a2dbbdef
 https://catalog.us-east-1.prod.workshops.aws/workshops/59005b2b-47a6-4342-891a-3b9b0ff575c6
 https://catalog.us-east-1.prod.workshops.aws/workshops/590f8439-42c7-46a1-8e70-28ee41498b3a
+https://catalog.us-east-1.prod.workshops.aws/workshops/5947f74f-c896-48ff-85bc-e822bc5e5ead
 https://catalog.us-east-1.prod.workshops.aws/workshops/595ee110-a12e-4645-b629-cbf6b6dd6dd0
 https://catalog.us-east-1.prod.workshops.aws/workshops/5b7fe737-7ea2-4c4d-b572-76df6adabd47
 https://catalog.us-east-1.prod.workshops.aws/workshops/5c638386-482b-4a90-b4f9-14b6b7de041f
@@ -347,6 +348,7 @@ https://catalog.workshops.aws/mag01
 https://catalog.workshops.aws/mag02
 https://catalog.workshops.aws/manage-cloud-resources-with-terraform
 https://catalog.workshops.aws/managed-flink
+https://catalog.workshops.aws/multi-az-gray-failures
 https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q
 https://catalog.workshops.aws/nitrowallet
 https://catalog.workshops.aws/one-media-workshop

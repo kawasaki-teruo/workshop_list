@@ -2356,7 +2356,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3c892c47-5c1d-4ea5-b38f-86e624aa2ea9",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Service Cloud Voice Series: Creating Dynamic Customer Experiences",
     "level": "200",
     "categories": [
@@ -2770,6 +2770,22 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop is designed to help you get familiar with IAM Identity Center (successor to AWS Single Sign-On) for managing your organization's workforce identity at scale across a multi-account AWS deployment."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5947f74f-c896-48ff-85bc-e822bc5e5ead",
+    "valid_url": true,
+    "title": "Automated code conversion from Assembler to COBOL",
+    "level": "300",
+    "categories": [
+      "Mainframe",
+      "Compute"
+    ],
+    "tags": [
+      "M2",
+      "Mainframe Modernization"
+    ],
+    "schedule": "1 hour",
+    "description": "In this workshop, you will use AWS Mainframe Modernization Code Conversion with mLogica service to analyze and convert a mainframe application containing Assembler components. The mainframe application is an AWS open-source mainframe application named CardDemo."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/595ee110-a12e-4645-b629-cbf6b6dd6dd0",
@@ -6529,6 +6545,26 @@
     "description": "This workshop covers the entire lifecycle of an Amazon Managed Service for Apache Flink application, from development and debugging to deployment and running at scale on AWS. You will learn how to implement an Apache Flink application, experiencing hands-on the development lifecycle of an end-to-end solution, analyzing streaming data from Amazon Kinesis, and feeding it in real-time into Amazon OpenSearch Service, with results displayed in an OpenSearch Dashboard. You will dive deep into deploying, monitoring, and troubleshooting your production application in Amazon Managed Service for Apache Flink."
   },
   {
+    "url": "https://catalog.workshops.aws/multi-az-gray-failures",
+    "valid_url": true,
+    "title": "Advanced Multi-AZ Resilience Patterns",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute",
+      "Resilience"
+    ],
+    "tags": [
+      "EKS",
+      "FIS",
+      "EC2",
+      "Multi-AZ",
+      "Resilience"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop you will get hands-on experience building, operating, and testing a resilient multi-AZ application. You will use CloudWatch dashboards, Insights Rules, and composite alarms to observe the health of your application. You'll inject faults using the AWS Fault Injection Service (FIS) to simulate a variety of single AZ impairments. You'll also learn how to leverage AWS CodeDeploy to perform zonal deployments and experience deployment failures. Finally, you'll leverage Amazon Route 53 zonal shift to recover from these failures and protect your customer experience. These patterns can help be more resilient to single-AZ failures in an AWS Region."
+  },
+  {
     "url": "https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q",
     "valid_url": true,
     "title": "Next Generation Developer Experience with Amazon Q",
@@ -8772,7 +8808,7 @@
   },
   {
     "url": "https://qldb-immersionday.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon QLDB Immersion Day Workshops",
     "level": "100",
     "categories": [

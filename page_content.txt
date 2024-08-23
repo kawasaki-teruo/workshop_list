@@ -61,6 +61,28 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Advanced Multi-AZ Resilience Patterns
+Level: 300
+checkmark
+Categories: Containers, Compute, Resilience
+checkmark
+Tags: EKS, FIS, EC2, Multi-AZ, Resilience
+schedule
+2 hours
+In this workshop you will get hands-on experience building, operating, and testing a resilient multi-AZ application. You will use CloudWatch dashboards, Insights Rules, and composite alarms to observe the health of your application. You'll inject faults using the AWS Fault Injection Service (FIS) to simulate a variety of single AZ impairments. You'll also learn how to leverage AWS CodeDeploy to perform zonal deployments and experience deployment failures. Finally, you'll leverage Amazon Route 53 zonal shift to recover from these failures and protect your customer experience. These patterns can help be more resilient to single-AZ failures in an AWS Region.
+Get Started
+arrow_forward
+Automated code conversion from Assembler to COBOL
+Level: 300
+checkmark
+Categories: Mainframe, Compute
+checkmark
+Tags: M2, Mainframe Modernization
+schedule
+1 hour
+In this workshop, you will use AWS Mainframe Modernization Code Conversion with mLogica service to analyze and convert a mainframe application containing Assembler components. The mainframe application is an AWS open-source mainframe application named CardDemo.
+Get Started
+arrow_forward
 Amazon Q in Connect
 Level: 300
 checkmark
