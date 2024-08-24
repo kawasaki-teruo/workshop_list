@@ -3601,7 +3601,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/9e92e223-2987-4c77-8a80-02d66f452d60",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Service Cloud Voice Series: Architecture & Key Integration Points",
     "level": "100",
     "categories": [
@@ -4108,7 +4108,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c85a4d91-2b80-4155-948d-bbdc200567a6",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon S3 Select - Querying data without servers or databases",
     "level": "200",
     "categories": [
