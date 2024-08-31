@@ -3303,7 +3303,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/7ffc4ed9-d4b3-44dc-bade-676162b427cd",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon ECS Basic Workshop (Japanese)",
     "level": "200",
     "categories": [
@@ -3668,7 +3668,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a549739b-1680-4e97-b55e-94cd0d4d2542",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building a Multi-Tenant Architecture with AWS IoT Core",
     "level": "200",
     "categories": [
@@ -7363,7 +7363,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/visualize-amazon-connect-data-and-events-via-quicksight",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Visualizing Amazon Connect Data and Events using Amazon QuickSight",
     "level": "300",
     "categories": [
