@@ -79,6 +79,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/0436a9a9-18f2-4707-a629-0
 https://catalog.us-east-1.prod.workshops.aws/workshops/0644c9e9-5b82-45f2-8835-3b5aa30b1848
 https://catalog.us-east-1.prod.workshops.aws/workshops/06f17ada-6ae0-4be7-a771-8a37ab7ca3bb
 https://catalog.us-east-1.prod.workshops.aws/workshops/070a93a2-3373-4736-8af0-f7a08c9eb08a
+https://catalog.us-east-1.prod.workshops.aws/workshops/0720c7c4-fb23-4e43-aa9f-036fc07f46b2
 https://catalog.us-east-1.prod.workshops.aws/workshops/0c7e49a5-b5c4-4f6d-b26b-9b2d8b5cbd2f
 https://catalog.us-east-1.prod.workshops.aws/workshops/0cd5851b-5253-4a65-b351-70d0d80a7fb5
 https://catalog.us-east-1.prod.workshops.aws/workshops/0d92c778-50be-4e40-bc2c-53095d921690
@@ -100,6 +101,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/20804013-587c-464d-97e9-0
 https://catalog.us-east-1.prod.workshops.aws/workshops/20c56f9e-9c0a-4174-a661-9f40d9f063ac
 https://catalog.us-east-1.prod.workshops.aws/workshops/20c57d32-162e-4ad5-86a6-dff1f8de4b3c
 https://catalog.us-east-1.prod.workshops.aws/workshops/20f7b273-ed55-411f-8c9c-4dc9e5ff8677
+https://catalog.us-east-1.prod.workshops.aws/workshops/2152e18c-e770-44d0-b2a0-6da48d136ec8
 https://catalog.us-east-1.prod.workshops.aws/workshops/21c996a7-8ec9-42a5-9fd6-00949d151bc2
 https://catalog.us-east-1.prod.workshops.aws/workshops/23c3858d-e5aa-4bf6-ba83-fada90ff0732
 https://catalog.us-east-1.prod.workshops.aws/workshops/23e6326b-58ee-4ab0-9bc7-3c8d730eb851
@@ -230,6 +232,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/cf2ecaa4-e4be-4f40-b93f-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/cf45bce8-f0a0-4c0d-83e6-ae510931c091
 https://catalog.us-east-1.prod.workshops.aws/workshops/d03316be-3c29-49db-8dc3-eb196c1778c9
 https://catalog.us-east-1.prod.workshops.aws/workshops/d088ea5e-3c48-4fff-bcc5-0806035aba98
+https://catalog.us-east-1.prod.workshops.aws/workshops/d0f163d8-d0df-4d21-931d-7946a00f2c51
 https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660
 https://catalog.us-east-1.prod.workshops.aws/workshops/d2b662ae-e9d7-4b31-b68b-64ade19d5dcc
 https://catalog.us-east-1.prod.workshops.aws/workshops/d44644b5-a9f3-4a77-a45a-8486bf64120c
@@ -304,6 +307,7 @@ https://catalog.workshops.aws/bedrockguard
 https://catalog.workshops.aws/build-a-knowledge-graph
 https://catalog.workshops.aws/build-sms-program
 https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws
+https://catalog.workshops.aws/building-agentic-workflows
 https://catalog.workshops.aws/building-gen-ai-apps
 https://catalog.workshops.aws/building-genai-apps
 https://catalog.workshops.aws/building-with-amazon-bedrock
@@ -488,7 +492,9 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
+https://studio.us-east-1.prod.workshops.aws/workshops/c301d974-0991-4ac3-923b-edd92cd9207a
 https://studio.us-east-1.prod.workshops.aws/workshops/public/578da574-492d-439f-8f20-f14a782e3701
+https://studio.us-east-1.prod.workshops.aws/workshops/public/fc5abf5b-b40e-49ba-b8fa-c8606ce13a7c
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws

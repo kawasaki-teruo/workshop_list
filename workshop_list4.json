@@ -1498,6 +1498,27 @@
     "description": "An on-boarding workshop for Amazon Pinpoint, which highlights its versatility and capabilities when used with other AWS services. Throughout the workshop participants will deploy three solutions in their AWS accounts using CloudFormation and experience the synergy of AWS services."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/0720c7c4-fb23-4e43-aa9f-036fc07f46b2",
+    "valid_url": true,
+    "title": "Guardrails for Amazon Bedrock Workshop",
+    "level": "200",
+    "categories": [
+      "Amazon Bedrock",
+      "Generative AI",
+      "Security"
+    ],
+    "tags": [
+      "Amazon Bedrock",
+      "Bedrock",
+      "Generative AI",
+      "GenAI",
+      "Guardrails",
+      "Security"
+    ],
+    "schedule": "1 hour",
+    "description": "Throughout this workshop, you'll learn how to leverage Guardrails for Amazon Bedrock to consistently apply AI safety measures across your applications, including blocking undesirable topics, filtering harmful content, redacting sensitive information, and detecting hallucinations through contextual grounding checks. By the end of this workshop, you'll have gained hands-on experience in configuring and applying Guardrails to align your generative AI applications with your organization's responsible AI policies."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/0c7e49a5-b5c4-4f6d-b26b-9b2d8b5cbd2f",
     "valid_url": true,
     "title": "Build an automated video monitoring system with AWS IoT and AI/ML",
@@ -1890,6 +1911,22 @@
     ],
     "schedule": "2 hours",
     "description": "GitOps simplifies both application deployments and operations tasks with Kubernetes. In this workshop, learn how to build a scalable, complete GitOps system that addresses the needs of both application teams and platform teams. The workshop covers application deployment, associated infrastructure resources, and Amazon EKS clusters into which the applications are deployed at scale via GitOps. Learn how to manage multiple Amazon EKS clusters, environments, and workloads with GitOps."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2152e18c-e770-44d0-b2a0-6da48d136ec8",
+    "valid_url": true,
+    "title": "AWS SDK Workshop",
+    "level": "100",
+    "categories": [
+      "SDKs",
+      "Software Development Kits"
+    ],
+    "tags": [
+      "SDKs",
+      "Software Development Kits"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop is designed to give you an introduction to building applications with Amazon Web Services. This workshop focuses on using the core AWS Software Development Kits (SDKs)"
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/21c996a7-8ec9-42a5-9fd6-00949d151bc2",
@@ -4318,6 +4355,24 @@
     "description": "Introduces users to the key concepts of how routing works in Amazon Connect. Includes priorities, queues, routing profiles, and other key factors to consider when configuring routing. Lab section builds out a routing baseline."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d0f163d8-d0df-4d21-931d-7946a00f2c51",
+    "valid_url": true,
+    "title": "Build a Payment Gateway with Hyperswitch",
+    "level": "400",
+    "categories": [
+      "Payment Gateway",
+      "EKS",
+      "Analytics"
+    ],
+    "tags": [
+      "EKS",
+      "PCI",
+      "Payment Gateway"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop learn how customers can rapidly set up a compliant payment gateway that connects to multiple processors just in few minutes. With Hyperswitch, customers can quickly integrate and manage over 50 payment processors, eliminating the need for time-consuming individual integrations and reducing development effort by up to 90%. This unified platform allows businesses to start processing payments securely and efficiently across various processors, while also providing features like intelligent routing, seamless failover, and a customizable checkout experience, all within a PCI-compliant framework"
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660",
     "valid_url": true,
     "title": "IAM policy learning experience",
@@ -5667,6 +5722,26 @@
     ],
     "schedule": "2 hours",
     "description": "Build well-architected refactored mainframe applications on the AWS Cloud using AWS Mainframe Modernization Service"
+  },
+  {
+    "url": "https://catalog.workshops.aws/building-agentic-workflows",
+    "valid_url": true,
+    "title": "Building Agentic Workflows on AWS",
+    "level": "300",
+    "categories": [
+      "Generative AI",
+      "Agents",
+      "Amazon Bedrock",
+      "Amazon Q"
+    ],
+    "tags": [
+      "Generative AI",
+      "Agents",
+      "Amazon Bedrock",
+      "Amazon Q"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn how to build Agentic Workflows, where large language models (LLMs) act autonomously to perform tasks or provide assistance on behalf of users. Participants will learn to leverage capabilities in AWS Bedrock to create both chatbot and non-chatbot workflows, incorporating features such as code interpretation and memory. We will also use Amazon Q Developer to assist in coding and debugging."
   },
   {
     "url": "https://catalog.workshops.aws/building-gen-ai-apps",
@@ -9292,6 +9367,28 @@
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
   },
   {
+    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/c301d974-0991-4ac3-923b-edd92cd9207a",
+    "valid_url": true,
+    "title": "Bulk Electric System Cyber System Information(BCSI) in the Cloud",
+    "level": "300",
+    "categories": [
+      "Security",
+      "BCSI Compliance",
+      "IAM",
+      "S3",
+      "EC2"
+    ],
+    "tags": [
+      "Security",
+      "BCSI Compliance",
+      "IAM",
+      "S3",
+      "EC2"
+    ],
+    "schedule": "4 hours",
+    "description": "An immersive demonstration of how electric utility customers and partners can achieve Bulk Electric System Cyber System Information(BCSI) compliance in the AWS Cloud."
+  },
+  {
     "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/578da574-492d-439f-8f20-f14a782e3701",
     "valid_url": true,
     "title": "Enhance security in machine learning workflows",
@@ -9306,6 +9403,24 @@
     ],
     "schedule": "2 hours",
     "description": "Ensuring security is a critical priority when developing and deploying generative AI applications for sensitive use cases. By prioritizing security from the initial design phase through development, testing, and eventual deployment of AI-ML systems, misuse can be prevented while still enabling innovation. This session aims to equip customers with techniques to make their machine learning workflows more secure, using familiar security controls. Overall, building security considerations into every stage of ML development and deployment allows for responsible AI innovation."
+  },
+  {
+    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/fc5abf5b-b40e-49ba-b8fa-c8606ce13a7c",
+    "valid_url": true,
+    "title": "Real-time Event Driven Decisions with Amazon Redshift Streaming and Amazon MSK",
+    "level": "300",
+    "categories": [
+      "Analytics"
+    ],
+    "tags": [
+      "MSK",
+      "Redshift",
+      "QuickSight",
+      "Real-time",
+      "Event-driven"
+    ],
+    "schedule": "2 hours",
+    "description": "In this hands-on workshop, customers will learn how to build real-time, event-driven decision making solutions using AWS services. Participants will use Amazon Managed Streaming for Apache Kafka (MSK), Amazon Redshift, and Amazon QuickSight to construct a real-time data processing solution. Through practical exercises, customers will learn how to ingest and process streaming data, perform advanced analytics, and create dynamic visualizations using QuickSight. The workshop will guide attendees through setting up scalable data pipelines, transforming realtime data into actionable insights, and making data-driven decisions in response to events as they unfold. By the end of the session, customers will have gained valuable skills in using AWS services, enabling them to leverage real-time information for their organizations' advantage."
   },
   {
     "url": "https://tao.workshop.aws",

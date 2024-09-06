@@ -61,6 +61,72 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+AWS SDK Workshop
+Level: 100
+checkmark
+Categories: SDKs, Software Development Kits
+checkmark
+Tags: SDKs, Software Development Kits
+schedule
+2 hours
+This workshop is designed to give you an introduction to building applications with Amazon Web Services. This workshop focuses on using the core AWS Software Development Kits (SDKs)
+Get Started
+arrow_forward
+Building Agentic Workflows on AWS
+Level: 300
+checkmark
+Categories: Generative AI, Agents, Amazon Bedrock, Amazon Q
+checkmark
+Tags: Generative AI, Agents, Amazon Bedrock, Amazon Q
+schedule
+2 hours
+Learn how to build Agentic Workflows, where large language models (LLMs) act autonomously to perform tasks or provide assistance on behalf of users. Participants will learn to leverage capabilities in AWS Bedrock to create both chatbot and non-chatbot workflows, incorporating features such as code interpretation and memory. We will also use Amazon Q Developer to assist in coding and debugging.
+Get Started
+arrow_forward
+Build a Payment Gateway with Hyperswitch
+Level: 400
+checkmark
+Categories: Payment Gateway, EKS, Analytics
+checkmark
+Tags: EKS, PCI, Payment Gateway
+schedule
+2 hours
+In this workshop learn how customers can rapidly set up a compliant payment gateway that connects to multiple processors just in few minutes. With Hyperswitch, customers can quickly integrate and manage over 50 payment processors, eliminating the need for time-consuming individual integrations and reducing development effort by up to 90%. This unified platform allows businesses to start processing payments securely and efficiently across various processors, while also providing features like intelligent routing, seamless failover, and a customizable checkout experience, all within a PCI-compliant framework
+Get Started
+arrow_forward
+Guardrails for Amazon Bedrock Workshop
+Level: 200
+checkmark
+Categories: Amazon Bedrock, Generative AI, Security
+checkmark
+Tags: Amazon Bedrock, Bedrock, Generative AI, GenAI, Guardrails, Security
+schedule
+1 hour
+Throughout this workshop, you'll learn how to leverage Guardrails for Amazon Bedrock to consistently apply AI safety measures across your applications, including blocking undesirable topics, filtering harmful content, redacting sensitive information, and detecting hallucinations through contextual grounding checks. By the end of this workshop, you'll have gained hands-on experience in configuring and applying Guardrails to align your generative AI applications with your organization's responsible AI policies.
+Get Started
+arrow_forward
+Real-time Event Driven Decisions with Amazon Redshift Streaming and Amazon MSK
+Level: 300
+checkmark
+Categories: Analytics
+checkmark
+Tags: MSK, Redshift, QuickSight, Real-time, Event-driven
+schedule
+2 hours
+In this hands-on workshop, customers will learn how to build real-time, event-driven decision making solutions using AWS services. Participants will use Amazon Managed Streaming for Apache Kafka (MSK), Amazon Redshift, and Amazon QuickSight to construct a real-time data processing solution. Through practical exercises, customers will learn how to ingest and process streaming data, perform advanced analytics, and create dynamic visualizations using QuickSight. The workshop will guide attendees through setting up scalable data pipelines, transforming realtime data into actionable insights, and making data-driven decisions in response to events as they unfold. By the end of the session, customers will have gained valuable skills in using AWS services, enabling them to leverage real-time information for their organizations' advantage.
+Get Started
+arrow_forward
+Bulk Electric System Cyber System Information(BCSI) in the Cloud
+Level: 300
+checkmark
+Categories: Security, BCSI Compliance, IAM, S3, EC2
+checkmark
+Tags: Security, BCSI Compliance, IAM, S3, EC2
+schedule
+4 hours
+An immersive demonstration of how electric utility customers and partners can achieve Bulk Electric System Cyber System Information(BCSI) compliance in the AWS Cloud.
+Get Started
+arrow_forward
 Advanced Multi-AZ Resilience Patterns
 Level: 300
 checkmark
