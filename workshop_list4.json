@@ -3705,7 +3705,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a549739b-1680-4e97-b55e-94cd0d4d2542",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Building a Multi-Tenant Architecture with AWS IoT Core",
     "level": "200",
     "categories": [
