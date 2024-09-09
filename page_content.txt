@@ -116,7 +116,7 @@ schedule
 In this hands-on workshop, customers will learn how to build real-time, event-driven decision making solutions using AWS services. Participants will use Amazon Managed Streaming for Apache Kafka (MSK), Amazon Redshift, and Amazon QuickSight to construct a real-time data processing solution. Through practical exercises, customers will learn how to ingest and process streaming data, perform advanced analytics, and create dynamic visualizations using QuickSight. The workshop will guide attendees through setting up scalable data pipelines, transforming realtime data into actionable insights, and making data-driven decisions in response to events as they unfold. By the end of the session, customers will have gained valuable skills in using AWS services, enabling them to leverage real-time information for their organizations' advantage.
 Get Started
 arrow_forward
-Bulk Electric System Cyber System Information(BCSI) in the Cloud
+Bulk Electric System Cyber System Information(BCSI) on AWS
 Level: 300
 checkmark
 Categories: Security, BCSI Compliance, IAM, S3, EC2

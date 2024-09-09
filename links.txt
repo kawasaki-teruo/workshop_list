@@ -400,7 +400,7 @@ https://workshops.aws/?tag=Redshift
 https://workshops.aws/?tag=QuickSight
 https://workshops.aws/?tag=Real-time
 https://workshops.aws/?tag=Event-driven
-https://studio.us-east-1.prod.workshops.aws/workshops/public/fc5abf5b-b40e-49ba-b8fa-c8606ce13a7c
+https://catalog.us-east-1.prod.workshops.aws/workshops/fc5abf5b-b40e-49ba-b8fa-c8606ce13a7c
 https://workshops.aws/categories/Security
 https://workshops.aws/categories/BCSI%20Compliance
 https://workshops.aws/categories/IAM
@@ -411,7 +411,7 @@ https://workshops.aws/?tag=BCSI%20Compliance
 https://workshops.aws/?tag=IAM
 https://workshops.aws/?tag=S3
 https://workshops.aws/?tag=EC2
-https://studio.us-east-1.prod.workshops.aws/workshops/c301d974-0991-4ac3-923b-edd92cd9207a
+https://catalog.us-east-1.prod.workshops.aws/workshops/c301d974-0991-4ac3-923b-edd92cd9207a
 https://workshops.aws/categories/Containers
 https://workshops.aws/categories/Compute
 https://workshops.aws/categories/Resilience

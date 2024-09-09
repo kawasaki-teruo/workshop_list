@@ -219,6 +219,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/bbc63046-2f56-4d59-917b-d
 https://catalog.us-east-1.prod.workshops.aws/workshops/bcfb7b70-a090-4563-a058-496c1a4fbf32
 https://catalog.us-east-1.prod.workshops.aws/workshops/c125f3c7-95e8-4e24-9819-6d085664a507
 https://catalog.us-east-1.prod.workshops.aws/workshops/c2af04b2-54ab-4b3d-be73-c7dd39074b20
+https://catalog.us-east-1.prod.workshops.aws/workshops/c301d974-0991-4ac3-923b-edd92cd9207a
 https://catalog.us-east-1.prod.workshops.aws/workshops/c556569f-5a26-494f-88e1-bac5a55adf2a
 https://catalog.us-east-1.prod.workshops.aws/workshops/c85a4d91-2b80-4155-948d-bbdc200567a6
 https://catalog.us-east-1.prod.workshops.aws/workshops/c93ada51-f6db-4c36-a88c-47cc47e1cc60
@@ -274,6 +275,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/f866d059-8d90-49fa-bf15-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/f8d2c175-634d-4c5d-94cb-d83bbc656c6a
 https://catalog.us-east-1.prod.workshops.aws/workshops/fa91011f-2da1-4cd9-a3ba-57891dcaa6f5
 https://catalog.us-east-1.prod.workshops.aws/workshops/faccf570-3e91-44ad-b90e-3228ec815645
+https://catalog.us-east-1.prod.workshops.aws/workshops/fc5abf5b-b40e-49ba-b8fa-c8606ce13a7c
 https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-258ffdd76ed6
 https://catalog.us-east-1.prod.workshops.aws/workshops/fdf5673a-d606-4876-ab14-9a1d25545895
 https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73
@@ -492,9 +494,7 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
-https://studio.us-east-1.prod.workshops.aws/workshops/c301d974-0991-4ac3-923b-edd92cd9207a
 https://studio.us-east-1.prod.workshops.aws/workshops/public/578da574-492d-439f-8f20-f14a782e3701
-https://studio.us-east-1.prod.workshops.aws/workshops/public/fc5abf5b-b40e-49ba-b8fa-c8606ce13a7c
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
