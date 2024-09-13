@@ -702,7 +702,7 @@
   },
   {
     "url": "https://build-ms-exch-on-aws.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building Microsoft Exchange on AWS_Workshop",
     "level": "400",
     "categories": [
