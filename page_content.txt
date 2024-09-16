@@ -61,6 +61,50 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Threat Detection and Response [Arabic] (اكتشاف التهديدات والاستجابة لها)
+Level: 300
+checkmark
+Categories: Security, Identity, and Compliance
+checkmark
+Tags: Security, Identity, and Compliance, Amazon Detective, Amazon GuardDuty, AWS Security Hub
+schedule
+8 hours
+هذه الورشة مُصممة لتعريفك بخدمات اكتشاف التهديدات والاستجابة لها في AWS، وأفضل الممارسات، وحالات الاستخدام، ثم استخدام ما تعلمته للتعمق أكثر في السيناريوهات. كل هذا مُصمم لإعدادك ومساعدتك على العمل بشكل أكثر أمانًا على AWS. تمر هذه الورشة بلمحات عامة وتشغيل وتنصيب كل من الخدمات التالية: Amazon GuardDuty و Amazon Inspector و AWS Security Hub و Amazon Macie و Amazon Detective.
+Get Started
+arrow_forward
+CrowdStrike Falcon Cloud Security Lab (Fal.con)
+Level: 300
+checkmark
+Categories: Security, Identity, Compliance
+checkmark
+Tags: EC2, EKS, CrowdStrike Falcon, AWS Lambda
+schedule
+1 hour
+CrowdStrike Falcon Cloud Security (FCS) Lab on AWS builds a foundational AWS environment for testing FCS deployment mechanisms, and for launching a Metasploit-based attack against vulnerable systems.
+Get Started
+arrow_forward
+Getting Started with CloudFormation
+Level: 200
+checkmark
+Categories: CloudFormation, Management & Governance
+checkmark
+Tags: CloudFormation, IaC
+schedule
+2 hours
+Labs and guidance that will lead you through the fundamentals of CloudFormation in an approachable way. The labs progress from simple to more complex. With the skills you'll learn, you can begin developing templates to support your own projects.
+Get Started
+arrow_forward
+Build a CipherTrust Tokenization with AWS
+Level: 300
+checkmark
+Categories: Payments, Financial Services
+checkmark
+Tags: Tokenization, Payments, EKS
+schedule
+2 hours
+CipherTrust Vaultless Tokenization with Dynamic Data Masking dramatically reduces the cost and effort required to comply with security policies and regulatory mandates like PCI DSS, HIPAA and GDPR. The solution delivers capabilities for database tokenization and dynamic display security.
+Get Started
+arrow_forward
 AWS SDK Workshop
 Level: 100
 checkmark

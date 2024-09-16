@@ -3290,6 +3290,25 @@
     "description": "This is a workshop directly used for holding AWS Educate Work Placement Workshops. It is aimed to allow students to create an image search web application which incorporates Amazon Rekognition, Amazon Lex, CloudFront and Amazon S3."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/7b8d42aa-f005-44e0-b6f0-d37a26fab556",
+    "valid_url": true,
+    "title": "CrowdStrike Falcon Cloud Security Lab (Fal.con)",
+    "level": "300",
+    "categories": [
+      "Security",
+      "Identity",
+      "Compliance"
+    ],
+    "tags": [
+      "EC2",
+      "EKS",
+      "CrowdStrike Falcon",
+      "AWS Lambda"
+    ],
+    "schedule": "1 hour",
+    "description": "CrowdStrike Falcon Cloud Security (FCS) Lab on AWS builds a foundational AWS environment for testing FCS deployment mechanisms, and for launching a Metasploit-based attack against vulnerable systems."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/7c41ed45-0120-4af8-bd23-420f9f0f5eb1",
     "valid_url": true,
     "title": "IAM permissions for workloads on Amazon EKS",
@@ -3835,6 +3854,23 @@
     "description": "This workshop presents the architecture and technique to build IoT data analytics pipeline. Many MFG companies have been suffering from IoT data analysis, caused by multi-level nested json data and schema change. Also, IoT data needs to be updated to track the condition of sensor devices on a real-time basis. To solve these challenges, three main solutions are proposed: (1) Glue Spark code to flatten multi-level nested json data and enable to analyze of the IoT data as data frame format, (2) Apache Hudi to keep IoT sensor data up-to-date on a real-time basis, and (3) EventBridge, Lambda, and SNS to inspect IOT data schema change and send an alarm to users."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ac24b387-1a9f-4f8a-bd19-c2be81ea2390",
+    "valid_url": true,
+    "title": "Build a CipherTrust Tokenization with AWS",
+    "level": "300",
+    "categories": [
+      "Payments",
+      "Financial Services"
+    ],
+    "tags": [
+      "Tokenization",
+      "Payments",
+      "EKS"
+    ],
+    "schedule": "2 hours",
+    "description": "CipherTrust Vaultless Tokenization with Dynamic Data Masking dramatically reduces the cost and effort required to comply with security policies and regulatory mandates like PCI DSS, HIPAA and GDPR. The solution delivers capabilities for database tokenization and dynamic display security."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ad10df02-3006-4e52-a073-21005cdc860e",
     "valid_url": false,
     "title": "Getting started with Amazon WorkMail",
@@ -3967,6 +4003,27 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop takes you through an actual deployment of a distributed application in both an AWS Local Zone and parent AWS Region. Learn how to deploy a network function in a Local Zone and what to consider in your VPC architecture for traffic flow within the Local Zone and the Region. The workshop deploys network functions on Amazon EKS using CI/CD pipeline automation"
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b6713449-71c5-4199-a9f8-ac1f584fc1c7",
+    "valid_url": true,
+    "title": "Threat Detection and Response [Arabic] (اكتشاف التهديدات والاستجابة لها)",
+    "level": "300",
+    "categories": [
+      "Security",
+      "Identity",
+      "and Compliance"
+    ],
+    "tags": [
+      "Security",
+      "Identity",
+      "and Compliance",
+      "Amazon Detective",
+      "Amazon GuardDuty",
+      "AWS Security Hub"
+    ],
+    "schedule": "8 hours",
+    "description": "هذه الورشة مُصممة لتعريفك بخدمات اكتشاف التهديدات والاستجابة لها في AWS، وأفضل الممارسات، وحالات الاستخدام، ثم استخدام ما تعلمته للتعمق أكثر في السيناريوهات. كل هذا مُصمم لإعدادك ومساعدتك على العمل بشكل أكثر أمانًا على AWS. تمر هذه الورشة بلمحات عامة وتشغيل وتنصيب كل من الخدمات التالية: Amazon GuardDuty و Amazon Inspector و AWS Security Hub و Amazon Macie و Amazon Detective."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b7702b59-acbf-4cef-8f14-921350830cba",
@@ -4622,6 +4679,22 @@
     ],
     "schedule": "2 hours",
     "description": "This module is part of the Amazon Connect CTI Adapter for Salesforce workshop series and focuses on integrating with data residing with a Salesforce organization."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/df7f72cf-4f10-4664-acb6-b30dc8d4bcf0",
+    "valid_url": true,
+    "title": "Getting Started with CloudFormation",
+    "level": "200",
+    "categories": [
+      "CloudFormation",
+      "Management & Governance"
+    ],
+    "tags": [
+      "CloudFormation",
+      "IaC"
+    ],
+    "schedule": "2 hours",
+    "description": "Labs and guidance that will lead you through the fundamentals of CloudFormation in an approachable way. The labs progress from simple to more complex. With the skills you'll learn, you can begin developing templates to support your own projects."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/df9e16ec-dc96-43e7-aed6-a1c26a2c6899",
