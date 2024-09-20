@@ -3856,7 +3856,7 @@
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ac24b387-1a9f-4f8a-bd19-c2be81ea2390",
     "valid_url": true,
-    "title": "Build a CipherTrust Tokenization with AWS",
+    "title": "Build a Thales CipherTrust Tokenization with AWS",
     "level": "300",
     "categories": [
       "Payments",

@@ -94,7 +94,7 @@ schedule
 Labs and guidance that will lead you through the fundamentals of CloudFormation in an approachable way. The labs progress from simple to more complex. With the skills you'll learn, you can begin developing templates to support your own projects.
 Get Started
 arrow_forward
-Build a CipherTrust Tokenization with AWS
+Build a Thales CipherTrust Tokenization with AWS
 Level: 300
 checkmark
 Categories: Payments, Financial Services
