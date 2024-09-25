@@ -769,7 +769,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/071bbc60-6c1f-47b6-8c66-e84f5dc96b3f",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Extended CDK Workshop",
     "level": "400",
     "categories": [
@@ -1107,7 +1107,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/7bed597e-98dc-48d7-88a5-b0bc87d1a459",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Running WRF on AWS ParallelCluster",
     "level": "300",
     "categories": [
@@ -1390,7 +1390,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Integrating IAM Access Analyzer into a CI/CD Pipeline",
     "level": "300",
     "categories": [
@@ -2230,7 +2230,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/30bd753c-9563-4c7c-8d1a-75460642550c",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building Telephony-Powered Applications with the Amazon Chime SDK PSTN Audio Service",
     "level": "100",
     "categories": [
@@ -2503,7 +2503,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Continuous cost and sustainability optimization",
     "level": "300",
     "categories": [
@@ -4306,7 +4306,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/cca09af3-8716-46dc-9ee6-491fde3f61e2",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Cloud-Native Development of Synthetic Sensors with BlackBerry IVY on QNX",
     "level": "300",
     "categories": [
@@ -7774,7 +7774,7 @@
   },
   {
     "url": "https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "CI/CD Pipeline Cfn ECS Fargate BlueGreen",
     "level": "300",
     "categories": [
@@ -8418,7 +8418,7 @@
   },
   {
     "url": "https://greengrass-cicd.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "CI/CD with AWS Greengrass",
     "level": "300",
     "categories": [
