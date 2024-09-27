@@ -2060,6 +2060,24 @@
     "description": "In this workshop, participants will gain insights into the RAG technique and acquire the skills to construct a chatbot. This chatbot allows users to pose questions, bot utilizing a Foundation Model (FM) using Amazon Bedrock, responds based on pre-indexed content with choice of large language model (LLM). Amazon Bedrock is a fully managed service, offering access to foundation models from Amazon and leading AI startups through an API. This allows users to select from a range of FMs, tailoring the model to their specific use case. For the storage, indexing, and retrieval of content, the workshop incorporates Amazon Kendra an intelligent enterprise search service powered by machine learning. To execute the application code in an event-driven manner, AWS Lambda is employed as the serverless compute. Lastly, the solution integrates the LangChain agent to orchestrate the RAG flow."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/28e7066a-b0bb-42ad-a0e9-8e8eeeb51133",
+    "valid_url": true,
+    "title": "Serverlesspresso",
+    "level": "200",
+    "categories": [
+      "Serverless",
+      "Application Integration",
+      "AWS Step Functions",
+      "Amazon EventBridge"
+    ],
+    "tags": [
+      "AWS Step Functions",
+      "Amazon EventBridge"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop, you will build your own Serverlesspresso. You build and event-driven, serverless backend that supports a pop-up coffee shop using Amazon EventBridge and AWS Step Functions."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2a22e604-2f2e-4d7b-85a8-33b38c999234",
     "valid_url": true,
     "title": "large scale data processing with AWS Step Functions",
@@ -3929,6 +3947,32 @@
     "description": "This workshop focuses on accelerating Advertising and Marketing Industry usecases by applying AWS Generative AI and Machine Learning services. The workshop has modules focusing on - Advertising Moodboard Generation using AIML services - Ad Copy Generation using AIML services"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b4121556-d9b0-4c59-99e1-7effffa729a1",
+    "valid_url": true,
+    "title": "AWS Industrial IoT (IIoT) Edge Workshop",
+    "level": "400",
+    "categories": [
+      "IoT",
+      "IIoT",
+      "Internet of Things",
+      "Edge Gateway",
+      "AWS IoT Sitewise",
+      "AWS IoT Sitewise Edge",
+      "Cloud Dashboard"
+    ],
+    "tags": [
+      "IoT",
+      "IIoT",
+      "Internet of Things",
+      "Edge Gateway",
+      "AWS IoT Sitewise",
+      "AWS IoT Sitewise Edge",
+      "Cloud Dashboard"
+    ],
+    "schedule": "3 hours",
+    "description": "AWS IoT SiteWise Edge software makes it easy to collect, organize, process, and monitor equipment data on-premises. SiteWise Edge is installed on local hardware such as third-party industrial gateways and computers, or on AWS Outposts and AWS Snow Family compute devices. This workshop focuses on a simple IIoT Use case but on the edge."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5083f86-f4e1-4712-8015-ae1549eb2971",
     "valid_url": true,
     "title": "Automating IAM policy validation and analysis using GitHub Actions",
@@ -5665,7 +5709,7 @@
     "level": "400",
     "categories": [
       "Compute",
-      "AWS Local Zone",
+      "AWS Local Zones",
       "Amazon VPC"
     ],
     "tags": [
@@ -7856,22 +7900,6 @@
     ],
     "schedule": "7 hours",
     "description": "A Containers Immersion Day provides AWS customers with hands-on experience building, deploying and running applications using AWS container services, including Amazon ECS, Amazon EKS and Amazon ECR."
-  },
-  {
-    "url": "https://cudos.workshop.aws",
-    "valid_url": false,
-    "title": "CUDOS Workshop",
-    "level": "200",
-    "categories": [
-      "QuickSight",
-      "Cost Management"
-    ],
-    "tags": [
-      "Quicksight",
-      "Cost Management"
-    ],
-    "schedule": "4 hours",
-    "description": "A workshop to build Cost Intelligence dashboards in Quicksight for common AWS services"
   },
   {
     "url": "https://data-expert-path.workshop.aws",

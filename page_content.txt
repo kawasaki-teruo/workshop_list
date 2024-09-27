@@ -61,6 +61,28 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Serverlesspresso
+Level: 200
+checkmark
+Categories: Serverless, Application Integration, AWS Step Functions, Amazon EventBridge
+checkmark
+Tags: AWS Step Functions, Amazon EventBridge
+schedule
+2 hours
+In this workshop, you will build your own Serverlesspresso. You build and event-driven, serverless backend that supports a pop-up coffee shop using Amazon EventBridge and AWS Step Functions.
+Get Started
+arrow_forward
+AWS Industrial IoT (IIoT) Edge Workshop
+Level: 400
+checkmark
+Categories: IoT, IIoT, Internet of Things, Edge Gateway, AWS IoT Sitewise, AWS IoT Sitewise Edge, Cloud Dashboard
+checkmark
+Tags: IoT, IIoT, Internet of Things, Edge Gateway, AWS IoT Sitewise, AWS IoT Sitewise Edge, Cloud Dashboard
+schedule
+3 hours
+AWS IoT SiteWise Edge software makes it easy to collect, organize, process, and monitor equipment data on-premises. SiteWise Edge is installed on local hardware such as third-party industrial gateways and computers, or on AWS Outposts and AWS Snow Family compute devices. This workshop focuses on a simple IIoT Use case but on the edge.
+Get Started
+arrow_forward
 Threat Detection and Response [Arabic] (اكتشاف التهديدات والاستجابة لها)
 Level: 300
 checkmark
@@ -229,7 +251,7 @@ arrow_forward
 AWS Local Zones - Run low-latency application at the edge
 Level: 400
 checkmark
-Categories: Compute, AWS Local Zone, Amazon VPC
+Categories: Compute, AWS Local Zones, Amazon VPC
 checkmark
 Tags: EC2, Hybrid Cloud
 schedule
@@ -4679,17 +4701,6 @@ Tags: AppStream 2.0, Computer Lab, Application Streaming
 schedule
 4 hours
 In this lab, you will learn how to deploy and stream desktop applications using Amazon AppStream 2.0. A fully managed, secure application streaming service that runs on AWS.
-Get Started
-arrow_forward
-CUDOS Workshop
-Level: 200
-checkmark
-Categories: QuickSight, Cost Management
-checkmark
-Tags: Quicksight, Cost Management
-schedule
-4 hours
-A workshop to build Cost Intelligence dashboards in Quicksight for common AWS services
 Get Started
 arrow_forward
 EMR Workshop

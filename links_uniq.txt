@@ -109,6 +109,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/262d4203-9742-4620-a373-5
 https://catalog.us-east-1.prod.workshops.aws/workshops/268f5ac0-1e94-4aa6-a767-d2ed4b4901d4
 https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194
 https://catalog.us-east-1.prod.workshops.aws/workshops/27eb3134-4f33-4689-bb73-269e4273947a
+https://catalog.us-east-1.prod.workshops.aws/workshops/28e7066a-b0bb-42ad-a0e9-8e8eeeb51133
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a22e604-2f2e-4d7b-85a8-33b38c999234
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a54eaaf-51ee-4373-a3da-2bf4e8bb6dd3
 https://catalog.us-east-1.prod.workshops.aws/workshops/2b03e299-c30f-4144-b452-483356cc5267
@@ -209,6 +210,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/ac24b387-1a9f-4f8a-bd19-c
 https://catalog.us-east-1.prod.workshops.aws/workshops/ad10df02-3006-4e52-a073-21005cdc860e
 https://catalog.us-east-1.prod.workshops.aws/workshops/b28f3502-ca9f-4e12-8b84-59e454c1ed53
 https://catalog.us-east-1.prod.workshops.aws/workshops/b2ca0de0-3117-4024-9bed-3326a2baeae9
+https://catalog.us-east-1.prod.workshops.aws/workshops/b4121556-d9b0-4c59-99e1-7effffa729a1
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5083f86-f4e1-4712-8015-ae1549eb2971
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5512635-063d-4256-8fcd-f7f9b6335ab2
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5b776fe-bf8b-4f51-a09d-880d39210619
@@ -412,7 +414,6 @@ https://client-vpn-basic.workshop.aws
 https://cloudtrail-with-cloudwatch.workshop.aws
 https://codequality.workshop.aws
 https://containers-immersionday.workshop.aws
-https://cudos.workshop.aws
 https://data-expert-path.workshop.aws
 https://data-perimeter.workshop.aws
 https://databrew.workshop.aws
@@ -583,6 +584,8 @@ https://workshops.aws/?tag=AWS%20IoT%20Jobs
 https://workshops.aws/?tag=AWS%20IoT%20Rules
 https://workshops.aws/?tag=AWS%20IoT%20Secure%20Tunneling
 https://workshops.aws/?tag=AWS%20IoT%20SiteWise
+https://workshops.aws/?tag=AWS%20IoT%20Sitewise
+https://workshops.aws/?tag=AWS%20IoT%20Sitewise%20Edge
 https://workshops.aws/?tag=AWS%20Key%20Management%20Service%20(KMS)
 https://workshops.aws/?tag=AWS%20Lake%20Formation
 https://workshops.aws/?tag=AWS%20Lambda
@@ -777,6 +780,7 @@ https://workshops.aws/?tag=Chat
 https://workshops.aws/?tag=Chatbot
 https://workshops.aws/?tag=Claude
 https://workshops.aws/?tag=Client%20VPN
+https://workshops.aws/?tag=Cloud%20Dashboard
 https://workshops.aws/?tag=Cloud%20Desktop
 https://workshops.aws/?tag=Cloud%20Financial%20Management
 https://workshops.aws/?tag=Cloud%20Foundations
@@ -893,6 +897,7 @@ https://workshops.aws/?tag=EMR
 https://workshops.aws/?tag=EMR%20on%20EKS
 https://workshops.aws/?tag=ETL
 https://workshops.aws/?tag=Edge
+https://workshops.aws/?tag=Edge%20Gateway
 https://workshops.aws/?tag=Edge%20Services
 https://workshops.aws/?tag=Edge%20compute
 https://workshops.aws/?tag=ElastiCache
@@ -1409,9 +1414,10 @@ https://workshops.aws/categories/AWS%20Identity%20and%20Access%20Management%20%2
 https://workshops.aws/categories/AWS%20IoT
 https://workshops.aws/categories/AWS%20IoT%20Core
 https://workshops.aws/categories/AWS%20IoT%20Greengrass
+https://workshops.aws/categories/AWS%20IoT%20Sitewise
+https://workshops.aws/categories/AWS%20IoT%20Sitewise%20Edge
 https://workshops.aws/categories/AWS%20Key%20Management%20Service%20%28KMS%29
 https://workshops.aws/categories/AWS%20Lambda
-https://workshops.aws/categories/AWS%20Local%20Zone
 https://workshops.aws/categories/AWS%20Local%20Zones
 https://workshops.aws/categories/AWS%20Mainframe%20Modernization
 https://workshops.aws/categories/AWS%20Private%20Link
@@ -1441,6 +1447,7 @@ https://workshops.aws/categories/Amazon%20DocumentDB
 https://workshops.aws/categories/Amazon%20EC2
 https://workshops.aws/categories/Amazon%20EKS
 https://workshops.aws/categories/Amazon%20Elastic%20Compute%20Cloud%20%28Amazon%20EC2%29
+https://workshops.aws/categories/Amazon%20EventBridge
 https://workshops.aws/categories/Amazon%20FinSpace
 https://workshops.aws/categories/Amazon%20Lex
 https://workshops.aws/categories/Amazon%20Managed%20Grafana
@@ -1487,6 +1494,7 @@ https://workshops.aws/categories/Business%20Intelligence
 https://workshops.aws/categories/CDK
 https://workshops.aws/categories/CI%2FCD
 https://workshops.aws/categories/Chat
+https://workshops.aws/categories/Cloud%20Dashboard
 https://workshops.aws/categories/Cloud%20Foundations
 https://workshops.aws/categories/Cloud%20Native
 https://workshops.aws/categories/Cloud%20Operations
@@ -1542,6 +1550,7 @@ https://workshops.aws/categories/ETL
 https://workshops.aws/categories/ETL%20Developer
 https://workshops.aws/categories/Edge
 https://workshops.aws/categories/Edge%20Compute
+https://workshops.aws/categories/Edge%20Gateway
 https://workshops.aws/categories/Edge%20Services
 https://workshops.aws/categories/Elastic%20Load%20Balancing
 https://workshops.aws/categories/Encryption
@@ -1584,6 +1593,7 @@ https://workshops.aws/categories/Hybrid%20Cloud
 https://workshops.aws/categories/IAM
 https://workshops.aws/categories/IAM%20Identity%20Center
 https://workshops.aws/categories/IDE
+https://workshops.aws/categories/IIoT
 https://workshops.aws/categories/IOT
 https://workshops.aws/categories/IaC
 https://workshops.aws/categories/Identity
