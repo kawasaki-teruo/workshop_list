@@ -3641,7 +3641,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/9a6b5bae-6ee2-4704-9f84-ff9705435834",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Designing for Matter in IoT products",
     "level": "300",
     "categories": [
