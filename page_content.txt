@@ -61,6 +61,50 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Amazon Connect in-app, web, and video calling
+Level: 300
+checkmark
+Categories: Communication Applications, Contact Center
+checkmark
+Tags: Amazon Connect, in-app, web, and video calling
+schedule
+3 hours
+This workshop will enable you to learn about setting up in-app, web and video calling within your Amazon Connect instance, and deploy a communications widget onto your website so customers can reach out to their specialist portfolio managers.
+Get Started
+arrow_forward
+Deploy ArcGIS Enterprise with CloudFormation
+Level: 400
+checkmark
+Categories: GIS, Compute
+checkmark
+Tags: GIS, EC2, Cloudformation
+schedule
+2 hours
+This workshop details the steps required to launch ArcGIS enterprise components onto EC2 instances via Cloudformation. It uses AWS CloudShell to run command line arguments that will create required networking components and initiate a Cloudformation stack creation. This workshop is designed to only be run at AWS facilitated events all resources will be deleted at the end of the workshop.
+Get Started
+arrow_forward
+ESRI ArcGIS Pro on Amazon Appstream 2.0
+Level: 300
+checkmark
+Categories: Geospatial, Compute, RDS, Power & Utilities
+checkmark
+Tags: EC2, RDS, EUC, GIS
+schedule
+2 hours
+Build an Amazon AppStream 2.0 environment to stream ESRI ArcGIS Pro to your users.
+Get Started
+arrow_forward
+AWS Hybrid Cloud Immersion Day
+Level: 300
+checkmark
+Categories: Containers, Compute, AWS Local Zones, AWS Outposts
+checkmark
+Tags: HybridCloud, Outposts, Local Zones, EKS
+schedule
+2 hours
+The Hybrid Cloud Immersion Day lab illustrates extending Amazon EKS across AWS Local Zones and Outposts, emphasizing AWS's consistent hybrid cloud capabilities. This configuration highlights uniform security, management, and connectivity, utilizing the same tools and APIs across various environments. It demonstrates how enterprises can meet data residency requirements, achieve low latency and local data processing while maintaining centralized management of the EKS control plane.
+Get Started
+arrow_forward
 Serverlesspresso
 Level: 200
 checkmark

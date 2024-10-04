@@ -1913,22 +1913,6 @@
     "description": "GitOps simplifies both application deployments and operations tasks with Kubernetes. In this workshop, learn how to build a scalable, complete GitOps system that addresses the needs of both application teams and platform teams. The workshop covers application deployment, associated infrastructure resources, and Amazon EKS clusters into which the applications are deployed at scale via GitOps. Learn how to manage multiple Amazon EKS clusters, environments, and workloads with GitOps."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2152e18c-e770-44d0-b2a0-6da48d136ec8",
-    "valid_url": true,
-    "title": "AWS SDK Workshop",
-    "level": "100",
-    "categories": [
-      "SDKs",
-      "Software Development Kits"
-    ],
-    "tags": [
-      "SDKs",
-      "Software Development Kits"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop is designed to give you an introduction to building applications with Amazon Web Services. This workshop focuses on using the core AWS Software Development Kits (SDKs)"
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/21c996a7-8ec9-42a5-9fd6-00949d151bc2",
     "valid_url": true,
     "title": "Running Computational Fluid Dynamics (CFD) on AWS ParallelCluster",
@@ -2772,6 +2756,22 @@
     "description": "SMART-on-FHIR enabled AWS HealthLake data store allows FHIR compliant applications to access data stored in a HealthLake data store. HealthLake data is accessed by authenticating and authorizing requests using an authorization server. In this workshop, we showcase how to secure the FHIR API access to a SMART-on-FHIR enabled HealthLake data store with two IdP solutions: native AWS service - Amazon Cognito user pool - and an open source solution - Keycloak."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/578da574-492d-439f-8f20-f14a782e3701",
+    "valid_url": true,
+    "title": "Enhance security in machine learning workflows",
+    "level": "300",
+    "categories": [
+      "Security",
+      "GenAI"
+    ],
+    "tags": [
+      "Security",
+      "GenAI"
+    ],
+    "schedule": "2 hours",
+    "description": "Ensuring security is a critical priority when developing and deploying generative AI applications for sensitive use cases. By prioritizing security from the initial design phase through development, testing, and eventual deployment of AI-ML systems, misuse can be prevented while still enabling innovation. This session aims to equip customers with techniques to make their machine learning workflows more secure, using familiar security controls. Overall, building security considerations into every stage of ML development and deployment allows for responsible AI innovation."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/57b6024b-0dba-4d45-a0f2-6662a2dbbdef",
     "valid_url": true,
     "title": "DeepRacer Car 400L Workshop",
@@ -3374,6 +3374,26 @@
     ],
     "schedule": "1 hour",
     "description": "In this module, students will be introduced to the Omni-Supervisor experience within Salesforce. They will learn how to monitor and interact with agents."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/7f1e393b-c2fd-4cc4-b4f9-8e75db2326eb",
+    "valid_url": true,
+    "title": "ESRI ArcGIS Pro on Amazon Appstream 2.0",
+    "level": "300",
+    "categories": [
+      "Geospatial",
+      "Compute",
+      "RDS",
+      "Power & Utilities"
+    ],
+    "tags": [
+      "EC2",
+      "RDS",
+      "EUC",
+      "GIS"
+    ],
+    "schedule": "2 hours",
+    "description": "Build an Amazon AppStream 2.0 environment to stream ESRI ArcGIS Pro to your users."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/7ffc4ed9-d4b3-44dc-bade-676162b427cd",
@@ -4316,6 +4336,23 @@
     "description": "In this hands-on workshop you will learn how to streamline single sign-on experience for workforce users to perform interactive analytics with fine grained access controls. You will work on a use case to analyze the top trending products based on the data available in data lake. You will configure AWS IAM Identity Center to create users and groups, AWS Lake Formation to implement fine grained access controls and Amazon EMR to run your analytics queries and identify the top trending products. Finally, you will audit data access for compliance. As part of building this use case, you will learn about AWS IAM Identity Center and it feature Trusted Identity Propagation that enables this experience."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c9b296ec-d3e9-4084-b365-47781c4c865b",
+    "valid_url": true,
+    "title": "Deploy ArcGIS Enterprise with CloudFormation",
+    "level": "400",
+    "categories": [
+      "GIS",
+      "Compute"
+    ],
+    "tags": [
+      "GIS",
+      "EC2",
+      "Cloudformation"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop details the steps required to launch ArcGIS enterprise components onto EC2 instances via Cloudformation. It uses AWS CloudShell to run command line arguments that will create required networking components and initiate a Cloudformation stack creation. This workshop is designed to only be run at AWS facilitated events all resources will be deleted at the end of the workshop."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c9cd344a-0d0b-42cb-8734-09667433f89c",
     "valid_url": true,
     "title": "AWS IoT TwinMaker Advanced Workshop",
@@ -4634,6 +4671,26 @@
     ],
     "schedule": "2 hours",
     "description": "Join this workshop to learn how you can access resources in your VPC privately without having to deploy an internet gateway and connect your resources to the internet. Learn by setting up different connectivity options like AWS Verified Access, Amazon EC2 Instance Connect endpoint, and AWS Client VPN to access resources inside your VPC."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d9c9f028-ee0d-4186-a976-41948c61024f",
+    "valid_url": true,
+    "title": "AWS Hybrid Cloud Immersion Day",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute",
+      "AWS Local Zones",
+      "AWS Outposts"
+    ],
+    "tags": [
+      "HybridCloud",
+      "Outposts",
+      "Local Zones",
+      "EKS"
+    ],
+    "schedule": "2 hours",
+    "description": "The Hybrid Cloud Immersion Day lab illustrates extending Amazon EKS across AWS Local Zones and Outposts, emphasizing AWS's consistent hybrid cloud capabilities. This configuration highlights uniform security, management, and connectivity, utilizing the same tools and APIs across various environments. It demonstrates how enterprises can meet data residency requirements, achieve low latency and local data processing while maintaining centralized management of the EKS control plane."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dba26a47-d8bc-4df8-bb31-b92dd758a997",
@@ -5490,6 +5547,24 @@
     "description": "The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover"
   },
   {
+    "url": "https://catalog.workshops.aws/amazon-connect-inapp-calling",
+    "valid_url": true,
+    "title": "Amazon Connect in-app, web, and video calling",
+    "level": "300",
+    "categories": [
+      "Communication Applications",
+      "Contact Center"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "in-app",
+      "web",
+      "and video calling"
+    ],
+    "schedule": "3 hours",
+    "description": "This workshop will enable you to learn about setting up in-app, web and video calling within your Amazon Connect instance, and deploy a communications widget onto your website so customers can reach out to their specialist portfolio managers."
+  },
+  {
     "url": "https://catalog.workshops.aws/amazon-connect-introduction",
     "valid_url": true,
     "title": "Introduction to Amazon Connect",
@@ -5735,6 +5810,22 @@
     ],
     "schedule": "4 hours",
     "description": "Hands-on workshop for architects, infrastructure specialists and developers to gain skills in Red Hat OpenShift on AWS (ROSA)"
+  },
+  {
+    "url": "https://catalog.workshops.aws/aws-sdk",
+    "valid_url": true,
+    "title": "AWS SDK Workshop",
+    "level": "100",
+    "categories": [
+      "SDKs",
+      "Software Development Kits"
+    ],
+    "tags": [
+      "SDKs",
+      "Software Development Kits"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop is designed to give you an introduction to building applications with Amazon Web Services. This workshop focuses on using the core AWS Software Development Kits (SDKs)"
   },
   {
     "url": "https://catalog.workshops.aws/awscff",
@@ -9506,22 +9597,6 @@
     ],
     "schedule": "4 hours",
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/578da574-492d-439f-8f20-f14a782e3701",
-    "valid_url": true,
-    "title": "Enhance security in machine learning workflows",
-    "level": "300",
-    "categories": [
-      "Security",
-      "GenAI"
-    ],
-    "tags": [
-      "Security",
-      "GenAI"
-    ],
-    "schedule": "2 hours",
-    "description": "Ensuring security is a critical priority when developing and deploying generative AI applications for sensitive use cases. By prioritizing security from the initial design phase through development, testing, and eventual deployment of AI-ML systems, misuse can be prevented while still enabling innovation. This session aims to equip customers with techniques to make their machine learning workflows more secure, using familiar security controls. Overall, building security considerations into every stage of ML development and deployment allows for responsible AI innovation."
   },
   {
     "url": "https://tao.workshop.aws",

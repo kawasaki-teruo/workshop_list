@@ -101,7 +101,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/20804013-587c-464d-97e9-0
 https://catalog.us-east-1.prod.workshops.aws/workshops/20c56f9e-9c0a-4174-a661-9f40d9f063ac
 https://catalog.us-east-1.prod.workshops.aws/workshops/20c57d32-162e-4ad5-86a6-dff1f8de4b3c
 https://catalog.us-east-1.prod.workshops.aws/workshops/20f7b273-ed55-411f-8c9c-4dc9e5ff8677
-https://catalog.us-east-1.prod.workshops.aws/workshops/2152e18c-e770-44d0-b2a0-6da48d136ec8
 https://catalog.us-east-1.prod.workshops.aws/workshops/21c996a7-8ec9-42a5-9fd6-00949d151bc2
 https://catalog.us-east-1.prod.workshops.aws/workshops/23c3858d-e5aa-4bf6-ba83-fada90ff0732
 https://catalog.us-east-1.prod.workshops.aws/workshops/23e6326b-58ee-4ab0-9bc7-3c8d730eb851
@@ -147,6 +146,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4ff2d034-dee1-4570-93d9-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-775300717f42
 https://catalog.us-east-1.prod.workshops.aws/workshops/51c37f4d-f2be-441b-b30f-5fa17b10042e
 https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26
+https://catalog.us-east-1.prod.workshops.aws/workshops/578da574-492d-439f-8f20-f14a782e3701
 https://catalog.us-east-1.prod.workshops.aws/workshops/57b6024b-0dba-4d45-a0f2-6662a2dbbdef
 https://catalog.us-east-1.prod.workshops.aws/workshops/59005b2b-47a6-4342-891a-3b9b0ff575c6
 https://catalog.us-east-1.prod.workshops.aws/workshops/590f8439-42c7-46a1-8e70-28ee41498b3a
@@ -179,6 +179,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/7b8d42aa-f005-44e0-b6f0-d
 https://catalog.us-east-1.prod.workshops.aws/workshops/7c41ed45-0120-4af8-bd23-420f9f0f5eb1
 https://catalog.us-east-1.prod.workshops.aws/workshops/7d2d52a0-7568-4b24-be49-08dab4bfa128
 https://catalog.us-east-1.prod.workshops.aws/workshops/7d9bda36-2208-484d-a721-e1266cfdce25
+https://catalog.us-east-1.prod.workshops.aws/workshops/7f1e393b-c2fd-4cc4-b4f9-8e75db2326eb
 https://catalog.us-east-1.prod.workshops.aws/workshops/7ffc4ed9-d4b3-44dc-bade-676162b427cd
 https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766
@@ -229,6 +230,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/c556569f-5a26-494f-88e1-b
 https://catalog.us-east-1.prod.workshops.aws/workshops/c85a4d91-2b80-4155-948d-bbdc200567a6
 https://catalog.us-east-1.prod.workshops.aws/workshops/c93ada51-f6db-4c36-a88c-47cc47e1cc60
 https://catalog.us-east-1.prod.workshops.aws/workshops/c93b473e-436e-45be-80e8-322b90c7024f
+https://catalog.us-east-1.prod.workshops.aws/workshops/c9b296ec-d3e9-4084-b365-47781c4c865b
 https://catalog.us-east-1.prod.workshops.aws/workshops/c9cd344a-0d0b-42cb-8734-09667433f89c
 https://catalog.us-east-1.prod.workshops.aws/workshops/cc368000-bc1b-44d5-b096-f73714de460c
 https://catalog.us-east-1.prod.workshops.aws/workshops/cca09af3-8716-46dc-9ee6-491fde3f61e2
@@ -247,6 +249,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/d6c7ecdc-c75f-4ad1-910f-f
 https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2320f17af14b
 https://catalog.us-east-1.prod.workshops.aws/workshops/d82f18b5-cf4d-4a83-b840-d7c445026615
 https://catalog.us-east-1.prod.workshops.aws/workshops/d903ff2b-f043-4126-a4f5-64a7cc2922ec
+https://catalog.us-east-1.prod.workshops.aws/workshops/d9c9f028-ee0d-4186-a976-41948c61024f
 https://catalog.us-east-1.prod.workshops.aws/workshops/dba26a47-d8bc-4df8-bb31-b92dd758a997
 https://catalog.us-east-1.prod.workshops.aws/workshops/dba98fc9-0cac-4498-9d5a-c001b08ea27f
 https://catalog.us-east-1.prod.workshops.aws/workshops/dc70f5b4-a400-4c33-9a8e-c1b2baebbea4
@@ -293,6 +296,7 @@ https://catalog.workshops.aws/amazon-connect-barge-in
 https://catalog.workshops.aws/amazon-connect-contact-survey
 https://catalog.workshops.aws/amazon-connect-evaluation-forms
 https://catalog.workshops.aws/amazon-connect-global-resiliency
+https://catalog.workshops.aws/amazon-connect-inapp-calling
 https://catalog.workshops.aws/amazon-connect-introduction
 https://catalog.workshops.aws/amazon-connect-operational-workshop
 https://catalog.workshops.aws/amazon-connect-optimization
@@ -307,6 +311,7 @@ https://catalog.workshops.aws/aws-iot-expresslink-demo-badge
 https://catalog.workshops.aws/aws-iot-immersionday-workshop
 https://catalog.workshops.aws/aws-local-zones-immersion-day
 https://catalog.workshops.aws/aws-openshift-workshop
+https://catalog.workshops.aws/aws-sdk
 https://catalog.workshops.aws/awscff
 https://catalog.workshops.aws/awscid
 https://catalog.workshops.aws/awsgamebackendframework
@@ -499,7 +504,6 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
-https://studio.us-east-1.prod.workshops.aws/workshops/public/578da574-492d-439f-8f20-f14a782e3701
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
@@ -896,6 +900,7 @@ https://workshops.aws/?tag=EMP
 https://workshops.aws/?tag=EMR
 https://workshops.aws/?tag=EMR%20on%20EKS
 https://workshops.aws/?tag=ETL
+https://workshops.aws/?tag=EUC
 https://workshops.aws/?tag=Edge
 https://workshops.aws/?tag=Edge%20Gateway
 https://workshops.aws/?tag=Edge%20Services
@@ -950,6 +955,7 @@ https://workshops.aws/?tag=FreeRTOS
 https://workshops.aws/?tag=Front%20End
 https://workshops.aws/?tag=GCP
 https://workshops.aws/?tag=GDPR
+https://workshops.aws/?tag=GIS
 https://workshops.aws/?tag=Game
 https://workshops.aws/?tag=Game%20Analytics%20Pipeline
 https://workshops.aws/?tag=GameBackend
@@ -987,6 +993,7 @@ https://workshops.aws/?tag=Hive
 https://workshops.aws/?tag=Hudi
 https://workshops.aws/?tag=Hybrid%20Cloud
 https://workshops.aws/?tag=Hybrid%20Search
+https://workshops.aws/?tag=HybridCloud
 https://workshops.aws/?tag=IAC
 https://workshops.aws/?tag=IAM
 https://workshops.aws/?tag=IAM%20Identity%20Center
@@ -1368,6 +1375,7 @@ https://workshops.aws/?tag=generativeAI
 https://workshops.aws/?tag=graphql
 https://workshops.aws/?tag=graviton
 https://workshops.aws/?tag=helm
+https://workshops.aws/?tag=in-app,%20web,%20and%20video%20calling
 https://workshops.aws/?tag=ios
 https://workshops.aws/?tag=kNN
 https://workshops.aws/?tag=kibana
@@ -1420,6 +1428,7 @@ https://workshops.aws/categories/AWS%20Key%20Management%20Service%20%28KMS%29
 https://workshops.aws/categories/AWS%20Lambda
 https://workshops.aws/categories/AWS%20Local%20Zones
 https://workshops.aws/categories/AWS%20Mainframe%20Modernization
+https://workshops.aws/categories/AWS%20Outposts
 https://workshops.aws/categories/AWS%20Private%20Link
 https://workshops.aws/categories/AWS%20SAM
 https://workshops.aws/categories/AWS%20Secrets%20Manager
@@ -1569,6 +1578,7 @@ https://workshops.aws/categories/Front%20End
 https://workshops.aws/categories/Front%20End%20Web%20and%20Mobile
 https://workshops.aws/categories/Front-End%20Web%20&%20Mobile
 https://workshops.aws/categories/Front-end%20wed%20hosting
+https://workshops.aws/categories/GIS
 https://workshops.aws/categories/Game%20Development
 https://workshops.aws/categories/Games
 https://workshops.aws/categories/GenAI
@@ -1672,6 +1682,7 @@ https://workshops.aws/categories/Payment%20Gateway
 https://workshops.aws/categories/Payments
 https://workshops.aws/categories/Pinpoint
 https://workshops.aws/categories/Postgres
+https://workshops.aws/categories/Power%20&%20Utilities
 https://workshops.aws/categories/Privacy
 https://workshops.aws/categories/Prompt%20Engineering
 https://workshops.aws/categories/QuickSight
