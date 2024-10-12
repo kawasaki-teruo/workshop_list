@@ -658,7 +658,7 @@
   },
   {
     "url": "https://bringyourowndatalabs.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Bring Your Own Data Labs",
     "level": "300",
     "categories": [
@@ -786,7 +786,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/0d424f45-a4df-4818-ab35-5cf4fad6a66a",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Contact Lens for Amazon Connect",
     "level": "200",
     "categories": [
@@ -976,7 +976,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/607718a8-cddd-416a-97b4-4fc9dc93ff7a",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Visualize Amazon Connect Contact Trace Records using Amazon QuickSight",
     "level": "300",
     "categories": [
@@ -2919,7 +2919,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5ea3c65f-555c-45c2-b878-4f1a45efb7e2",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Transit Gateway Flow Analyzer",
     "level": "300",
     "categories": [
@@ -4409,7 +4409,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ce07a3c0-69f7-44a0-9556-9d49032f90b1",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon Connect Tasks",
     "level": "200",
     "categories": [
@@ -4955,7 +4955,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e507e74d-d816-4808-94c5-58abc598c40b",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon Connect Softphone Controls",
     "level": "200",
     "categories": [
@@ -7816,7 +7816,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/workshops/ee7e5447-cddc-4871-8734-c36db3611425",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Event Driven Architecture for FinTechs",
     "level": "200",
     "categories": [
