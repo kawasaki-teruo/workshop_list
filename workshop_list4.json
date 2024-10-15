@@ -786,7 +786,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/0d424f45-a4df-4818-ab35-5cf4fad6a66a",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Contact Lens for Amazon Connect",
     "level": "200",
     "categories": [
