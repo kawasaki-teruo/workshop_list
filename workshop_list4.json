@@ -890,7 +890,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Secure Hybrid Access to S3 using VPC Endpoints",
     "level": "300",
     "categories": [
