@@ -785,23 +785,6 @@
     "description": "This is an extension lab to https://cdkworkshop.com/ where CDK-V2 migration is explored, we also build out pipelines with CDK, Import exciting Cloudformation, leverage JSII to expose our constructs to differnt supported languages, setup and publish those constructs to AWS CodeArtifact and create a Python CDK v2 project based on these constructs."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/0d424f45-a4df-4818-ab35-5cf4fad6a66a",
-    "valid_url": true,
-    "title": "Contact Lens for Amazon Connect",
-    "level": "200",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon EventBridge",
-      "Amazon Simple Notification Service (SNS)"
-    ],
-    "schedule": "3 hours",
-    "description": "In this workshop you will learn how to launch and set up a modernized cloud based Call Center through a series of hands-on labs. You will set up Contact Lens for Amazon Connect to start gaining insights on your calls, and explore the different features of Contact Lens for Amazon Connect."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/12f31c93-5926-4477-996c-d47f4524905d",
     "valid_url": true,
     "title": "Cloud Native Automotive Development",
@@ -973,23 +956,6 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop aims to help customers and partners understand the concepts of Amazon SageMaker Feature Store including creation of feature groups, ingest data into offline and online store, query it, train a model using feature sets from offline store, use a record from online store to perform an inference and also transform and ingest features into feature store using SageMaker processing jobs."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/607718a8-cddd-416a-97b4-4fc9dc93ff7a",
-    "valid_url": false,
-    "title": "Visualize Amazon Connect Contact Trace Records using Amazon QuickSight",
-    "level": "300",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon QuickSight",
-      "Amazon Kinesis"
-    ],
-    "schedule": "2 hours",
-    "description": "Although Amazon Connect has built-in reports, some customers need more flexibility or need to use a Business Intelligence (BI) Tool to visualize Amazon Connect data. In this workshop, you will learn how to visualize Amazon Connect Contact Trace Records (CTR) using Amazon QuickSight."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8",
@@ -1387,28 +1353,6 @@
     ],
     "schedule": "2 hours",
     "description": "How to use HuggingFace models for document summarization and other LLM models for document summarization"
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68",
-    "valid_url": false,
-    "title": "Integrating IAM Access Analyzer into a CI/CD Pipeline",
-    "level": "300",
-    "categories": [
-      "Identity",
-      "Security",
-      "IAM",
-      "DevOps"
-    ],
-    "tags": [
-      "CI/CD",
-      "CodePipeline",
-      "Access Analyzer",
-      "CloudFormation",
-      "IAM",
-      "Security"
-    ],
-    "schedule": "2 hours",
-    "description": "Want to analyze IAM policies at scale? Want your developers to write secure IAM policies? In this hands-on workshop, you are given the opportunity to build a CI/CD pipeline that validates IAM policies using IAM Access Analyzer and the IAM Policy Validator for AWS CloudFormation."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/013df096-dacc-4da7-8a38-a16a6c709f75",
@@ -3088,6 +3032,24 @@
     "description": "This workshop simulates a common type of security event where CloudFormation is used to create EC2 instances for the purposes of mining cryptocurrency, and walks through some of the detection processes employed by the AWS CIRT (Customer Incident Response Team) to respond to such security events."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6c88d70d-b69d-435f-9990-3a651cdf5311",
+    "valid_url": true,
+    "title": "Running and Auto Scaling Geoserver and PostgreSQL/PostGIS without managing servers",
+    "level": "200",
+    "categories": [
+      "Serverless",
+      "Compute"
+    ],
+    "tags": [
+      "ECS",
+      "Aurora",
+      "Containers",
+      "EFS"
+    ],
+    "schedule": "3 hours",
+    "description": "An introduction to running GeoServer on AWS. The workshop will walk you through the steps to launch the Geoserver standard docker distribution and host on AWS Fargate. With AWS support for PostgreSQL/PostGIS available in Aurora Serverless we explore connecting GeoServer to a PostgreSQL source. We will explore scaling out the GeoServer web tier and including a shared file service using Elastic File Service (EFS)."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6d30487a-48e1-4631-b6bc-5602582800b5",
     "valid_url": true,
     "title": "Get Started with AWS IoT",
@@ -4011,25 +3973,6 @@
     "description": "Learn how GitHub Actions can automatically validate and analyze IAM policies when permitting developer policy authoring abilities without compromising security."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5512635-063d-4256-8fcd-f7f9b6335ab2",
-    "valid_url": false,
-    "title": "Amazon Connect Operational Applications",
-    "level": "200",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon S3",
-      "AWS Lambda",
-      "Amazon SES",
-      "Amazon CloudWatch"
-    ],
-    "schedule": "5 hours",
-    "description": "In this workshop, you will learn how to extend a modernized cloud based Call Center through a series of hands-on labs. Using Amazon Connect you will add and update agents in bulk, create a wallboard for monitoring call center health, email scheduled reports, receive alerts via phone calls, and perform advanced analytics to gain deeper insights into your call center operations."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5b776fe-bf8b-4f51-a09d-880d39210619",
     "valid_url": true,
     "title": "Amazon Athena for Apache Spark Workshop",
@@ -4408,23 +4351,6 @@
     "description": "In this workshop, learn how to use a novel automotive-native software development infrastructure that can run binary equivalent workloads —with environmental parity — to targeted compute elements. Discover how BlackBerry IVY synthetic sensors which include machine learning can be developed in the cloud environment and deployed at the embedded edge seamlessly."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ce07a3c0-69f7-44a0-9556-9d49032f90b1",
-    "valid_url": false,
-    "title": "Amazon Connect Tasks",
-    "level": "200",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon Connect Tasks",
-      "AWS Cloudformation"
-    ],
-    "schedule": "3 hours",
-    "description": "Amazon Connect is a self-service, cloud-based contact center service that makes it easy for any business to provide reliable customer service at lower cost. Amazon Connect is based on the same contact center technology used by Amazon customer service associates around the world to power millions of customer conversations. In this workshop, you will learn how to enable Tasks in Amazon Connect."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/cec80d03-1df1-4ec5-b623-3cdcdd13710c",
     "valid_url": true,
     "title": "Babelfish App Modernization Immersion Day",
@@ -4693,6 +4619,21 @@
     "description": "The Hybrid Cloud Immersion Day lab illustrates extending Amazon EKS across AWS Local Zones and Outposts, emphasizing AWS's consistent hybrid cloud capabilities. This configuration highlights uniform security, management, and connectivity, utilizing the same tools and APIs across various environments. It demonstrates how enterprises can meet data residency requirements, achieve low latency and local data processing while maintaining centralized management of the EKS control plane."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dab69e1d-1a81-476f-8653-1d36dabbea7b",
+    "valid_url": true,
+    "title": "Automated Incident management of modern workloads using ChatOps",
+    "level": "300",
+    "categories": [
+      "Management & Governance"
+    ],
+    "tags": [
+      "AWS Chatbot",
+      "ECS"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn how to implement ChatOps using AWS services, including AWS Chatbot, and popular communication and collaboration platforms, such as Microsoft Teams and Slack. Explore how you can implement chat-driven operational workflows to assist in diagnosing and remediating operational issues of modern workloads"
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dba26a47-d8bc-4df8-bb31-b92dd758a997",
     "valid_url": true,
     "title": "Service Cloud Voice Series: Prerequisites and Preparation",
@@ -4729,6 +4670,22 @@
     ],
     "schedule": "2 hours",
     "description": "This is a hands-on workshop where you learn to use existing build tools and coding best practices to build cloud native (no containers needed) multicloud applications from the same application repository that run on AWS, GCP, and Azure."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dbf95611-8e36-449b-a99b-c2f303d7e1ee",
+    "valid_url": true,
+    "title": "ArcGIS on EKS",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute",
+      "GIS"
+    ],
+    "tags": [
+      "EKS"
+    ],
+    "schedule": "3 hours",
+    "description": "Deploy ArcGIS Enterprise on Amazon Elastic Kubernetes Service. This lab will walk through deploying the components of ArcGIS Enterprise in a kubernetes cluster. This will be the ArcGIS Kubernetes Official Distribution and not traditional Enterprise."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dc70f5b4-a400-4c33-9a8e-c1b2baebbea4",
@@ -4952,23 +4909,6 @@
     ],
     "schedule": "6 hours",
     "description": "In this workshop, you will learn how to set up and use Amazon Simple Email Service (SES) to send secure and successful emails. You will learn how to configure SES settings, send personalized emails, manage email sending, use advanced features, secure emails, and troubleshoot common issues. The workshop will provide a scenario-based approach to help you understand how to use SES in real-life situations."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e507e74d-d816-4808-94c5-58abc598c40b",
-    "valid_url": false,
-    "title": "Amazon Connect Softphone Controls",
-    "level": "200",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Streams SDK",
-      "Customer Profiles"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop shows the basics about the Streams API to control agent CCP in an Amazon Connect environment by using Streams SDK."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e5122482-ded0-4259-94f0-c373f23c5257",
@@ -5486,7 +5426,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/amazon-connect-barge-in",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon Connect Barge In",
     "level": "200",
     "categories": [
@@ -5497,6 +5437,23 @@
     ],
     "schedule": "3 hours",
     "description": "This workshop contains the steps to configure and use the Barge live calls feature in Amazon Connect"
+  },
+  {
+    "url": "https://catalog.workshops.aws/amazon-connect-contact-lens",
+    "valid_url": true,
+    "title": "Contact Lens for Amazon Connect",
+    "level": "200",
+    "categories": [
+      "Contact Center",
+      "Communication Applications"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "Amazon EventBridge",
+      "Amazon Simple Notification Service (SNS)"
+    ],
+    "schedule": "3 hours",
+    "description": "In this workshop you will learn how to launch and set up a modernized cloud based Call Center through a series of hands-on labs. You will set up Contact Lens for Amazon Connect to start gaining insights on your calls, and explore the different features of Contact Lens for Amazon Connect."
   },
   {
     "url": "https://catalog.workshops.aws/amazon-connect-contact-survey",
@@ -5613,21 +5570,22 @@
     "description": "An introduction to Amazon Connect forecasting, capacity planning, and scheduling"
   },
   {
-    "url": "https://catalog.workshops.aws/amazon-connect-pinpoint-customer-consent",
-    "valid_url": false,
-    "title": "Use ML speech analytics to obtain customer consent",
-    "level": "300",
+    "url": "https://catalog.workshops.aws/amazon-connect-supervisor-experience",
+    "valid_url": true,
+    "title": "Amazon Connect Supervisor Experience",
+    "level": "200",
     "categories": [
-      "Communication Applications",
-      "Contact Center"
+      "Contact Center",
+      "Communication Applications"
     ],
     "tags": [
       "Amazon Connect",
-      "Amazon PinPoint",
-      "AWSLambda"
+      "Amazon Q for Connect",
+      "Supervisor Enablement",
+      "Contact Lens"
     ],
-    "schedule": "3 hours",
-    "description": "Utilize Amazon Connect Contact Lens to obtain customer consent for promotional messages and engage with them via email using Amazon Pinpoint."
+    "schedule": "6 hours",
+    "description": "Discover how supervisors are able to effectively harness supervisor tools including Generative AI-powered features, such as Contact Lens Conversational Analytics"
   },
   {
     "url": "https://catalog.workshops.aws/amazon-location-101",
@@ -5932,6 +5890,23 @@
     ],
     "schedule": "1 hour",
     "description": "This workshop takes Amazon Comprehend Events JSON output of Amazon Press Releases and steps through conceptualizing a graph model. Then we will walk through code that transforms that JSON into both RDF and Labeled Property Graph and load both models into Neptune. We then perform some hands-on analysis using graph queries in Neptune notebooks."
+  },
+  {
+    "url": "https://catalog.workshops.aws/build-and-integrate-amazon-connect-ivr",
+    "valid_url": true,
+    "title": "Build and integrate Amazon Connect IVR",
+    "level": "300",
+    "categories": [
+      "Communication Applications",
+      "Contact Center",
+      "Machine Learning (ML/AI)"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "conversational IVR"
+    ],
+    "schedule": "7 hours",
+    "description": "Workshop attendees learn how an existing IVR solution is migrated to a speech conversational IVR powered by Amazon Connect and Amazon Lex. You get to know concepts that are used to design personal and dynamic customer experience for audio and text conversations. As conversational IVRs require continuous improvements, you are tasked to integrate personalized greetings, high speech recognization, sentiment-based routing and guided workflows to display options and use this knowledge for your job."
   },
   {
     "url": "https://catalog.workshops.aws/build-sms-program",
@@ -7683,22 +7658,6 @@
     ],
     "schedule": "6 hours",
     "description": "In this workshop, you will learn about Amazon Verified Permissions, how to create Cedar policies, Amazon Cognito and API Gateway Integration, and how to troubleshoot policies. This is the primary Verified Permissions workshop and will include additional labs as they are developed."
-  },
-  {
-    "url": "https://catalog.workshops.aws/visualize-amazon-connect-data-and-events-via-quicksight",
-    "valid_url": false,
-    "title": "Visualizing Amazon Connect Data and Events using Amazon QuickSight",
-    "level": "300",
-    "categories": [
-      "Communication Applications",
-      "Contact Center"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon QuickSight"
-    ],
-    "schedule": "4 hours",
-    "description": "In this workshop, we wanted to explain the concepts of Data Lake for Connect, establish data pipelines to bring data from various Connect or related sources, enable customers to query the data and visualize."
   },
   {
     "url": "https://catalog.workshops.aws/web3dev",

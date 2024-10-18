@@ -61,6 +61,61 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Amazon Connect Supervisor Experience
+Level: 200
+checkmark
+Categories: Contact Center, Communication Applications
+checkmark
+Tags: Amazon Connect, Amazon Q for Connect, Supervisor Enablement, Contact Lens
+schedule
+6 hours
+Discover how supervisors are able to effectively harness supervisor tools including Generative AI-powered features, such as Contact Lens Conversational Analytics
+Get Started
+arrow_forward
+Build and integrate Amazon Connect IVR
+Level: 300
+checkmark
+Categories: Communication Applications, Contact Center, Machine Learning (ML/AI)
+checkmark
+Tags: Amazon Connect, conversational IVR
+schedule
+7 hours
+Workshop attendees learn how an existing IVR solution is migrated to a speech conversational IVR powered by Amazon Connect and Amazon Lex. You get to know concepts that are used to design personal and dynamic customer experience for audio and text conversations. As conversational IVRs require continuous improvements, you are tasked to integrate personalized greetings, high speech recognization, sentiment-based routing and guided workflows to display options and use this knowledge for your job.
+Get Started
+arrow_forward
+ArcGIS on EKS
+Level: 300
+checkmark
+Categories: Containers, Compute, GIS
+checkmark
+Tags: EKS
+schedule
+3 hours
+Deploy ArcGIS Enterprise on Amazon Elastic Kubernetes Service. This lab will walk through deploying the components of ArcGIS Enterprise in a kubernetes cluster. This will be the ArcGIS Kubernetes Official Distribution and not traditional Enterprise.
+Get Started
+arrow_forward
+Automated Incident management of modern workloads using ChatOps
+Level: 300
+checkmark
+Categories: Management & Governance
+checkmark
+Tags: AWS Chatbot, ECS
+schedule
+2 hours
+Learn how to implement ChatOps using AWS services, including AWS Chatbot, and popular communication and collaboration platforms, such as Microsoft Teams and Slack. Explore how you can implement chat-driven operational workflows to assist in diagnosing and remediating operational issues of modern workloads
+Get Started
+arrow_forward
+Running and Auto Scaling Geoserver and PostgreSQL/PostGIS without managing servers
+Level: 200
+checkmark
+Categories: Serverless, Compute
+checkmark
+Tags: ECS, Aurora, Containers, EFS
+schedule
+3 hours
+An introduction to running GeoServer on AWS. The workshop will walk you through the steps to launch the Geoserver standard docker distribution and host on AWS Fargate. With AWS support for PostgreSQL/PostGIS available in Aurora Serverless we explore connecting GeoServer to a PostgreSQL source. We will explore scaling out the GeoServer web tier and including a shared file service using Elastic File Service (EFS).
+Get Started
+arrow_forward
 Amazon Connect in-app, web, and video calling
 Level: 300
 checkmark
@@ -3031,17 +3086,6 @@ schedule
 This workshop will give you the practical technical foundations for Web3 development, through learning how to interact with the Ethereum blockchain, how to develop, compile, deploy, and interact with smart contracts, through the use of different tools and programming languages, and interact with contracts by developing Decentralized Applications (DApps)
 Get Started
 arrow_forward
-Visualizing Amazon Connect Data and Events using Amazon QuickSight
-Level: 300
-checkmark
-Categories: Communication Applications, Contact Center
-checkmark
-Tags: Amazon Connect, Amazon QuickSight
-schedule
-4 hours
-In this workshop, we wanted to explain the concepts of Data Lake for Connect, establish data pipelines to bring data from various Connect or related sources, enable customers to query the data and visualize.
-Get Started
-arrow_forward
 Performance Tuning Workshop
 Level: 300
 checkmark
@@ -3062,17 +3106,6 @@ Tags: Amazon Connect, Amazon Lex
 schedule
 3 hours
 This workshop is a Complete demonstration of a Contact Center Flow with Lex, Voice ID and Task Automation.
-Get Started
-arrow_forward
-Use ML speech analytics to obtain customer consent
-Level: 300
-checkmark
-Categories: Communication Applications, Contact Center
-checkmark
-Tags: Amazon Connect, Amazon PinPoint, AWSLambda
-schedule
-3 hours
-Utilize Amazon Connect Contact Lens to obtain customer consent for promotional messages and engage with them via email using Amazon Pinpoint.
 Get Started
 arrow_forward
 Building a contact survey solution for Amazon Connect
@@ -3691,17 +3724,6 @@ schedule
 The purpose of this workshop is to provide you with an introduction to Amazon Connect, Amazon Web Services cloud-based virtual contact center offering. Leveraging the sample case study provided, you are expected to participate in six (6) hands-on lab modules.
 Get Started
 arrow_forward
-Amazon Connect Tasks
-Level: 200
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect, Amazon Connect Tasks, AWS Cloudformation
-schedule
-3 hours
-Amazon Connect is a self-service, cloud-based contact center service that makes it easy for any business to provide reliable customer service at lower cost. Amazon Connect is based on the same contact center technology used by Amazon customer service associates around the world to power millions of customer conversations. In this workshop, you will learn how to enable Tasks in Amazon Connect.
-Get Started
-arrow_forward
 Amazon Connect Profiles
 Level: 200
 checkmark
@@ -3711,28 +3733,6 @@ Tags: Amazon Connect, Amazon Connect Profiles, Salesforce, Zendesk, ServiceNow, 
 schedule
 2 hours
 Customers expect a fast, frictionless, and personalized customer service experience. However, agents spend on average 2 minutes navigating multiple applications to find important customer data leading to poor experiences and high costs. Amazon Connect Customer Profiles automatically brings together customer information from multiple applications into a unified customer profile, delivering the profile directly to the agent as soon as the support call or interaction begins.
-Get Started
-arrow_forward
-Amazon Connect Softphone Controls
-Level: 200
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect, Streams SDK, Customer Profiles
-schedule
-2 hours
-This workshop shows the basics about the Streams API to control agent CCP in an Amazon Connect environment by using Streams SDK.
-Get Started
-arrow_forward
-Amazon Connect Operational Applications
-Level: 200
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect, Amazon S3, AWS Lambda, Amazon SES, Amazon CloudWatch
-schedule
-5 hours
-In this workshop, you will learn how to extend a modernized cloud based Call Center through a series of hands-on labs. Using Amazon Connect you will add and update agents in bulk, create a wallboard for monitoring call center health, email scheduled reports, receive alerts via phone calls, and perform advanced analytics to gain deeper insights into your call center operations.
 Get Started
 arrow_forward
 Serverless Optimization Workshop (Performance and Cost)
@@ -4076,17 +4076,6 @@ schedule
 This workshop is designed to help you learn the framework and services in AWS cloud incident response and get hands-on experience in developing incident response playbooks for AWS.
 Get Started
 arrow_forward
-Integrating IAM Access Analyzer into a CI/CD Pipeline
-Level: 300
-checkmark
-Categories: Identity, Security, IAM, DevOps
-checkmark
-Tags: CI/CD, CodePipeline, Access Analyzer, CloudFormation, IAM, Security
-schedule
-2 hours
-Want to analyze IAM policies at scale? Want your developers to write secure IAM policies? In this hands-on workshop, you are given the opportunity to build a CI/CD pipeline that validates IAM policies using IAM Access Analyzer and the IAM Policy Validator for AWS CloudFormation.
-Get Started
-arrow_forward
 Amazon Personalize with Glue DataBrew
 Level: 200
 checkmark
@@ -4261,17 +4250,6 @@ Tags: CAE, ParallelProcessing, workshop-remix
 schedule
 3 hours
 The purpose of this workshop is to help you to run your Finite Element Analysis (FEA) codes on AWS. We'll go from creating the HPC cluster using AWS ParallelCluster, to the installation of the most popular codes e.g MSC Nastran, MSC Marc, MSC Actran, Simcenter Nastran, Ansys LS-DYNA and finally example submission scripts for you to run your own cases.
-Get Started
-arrow_forward
-Visualize Amazon Connect Contact Trace Records using Amazon QuickSight
-Level: 300
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect, Amazon QuickSight, Amazon Kinesis
-schedule
-2 hours
-Although Amazon Connect has built-in reports, some customers need more flexibility or need to use a Business Intelligence (BI) Tool to visualize Amazon Connect data. In this workshop, you will learn how to visualize Amazon Connect Contact Trace Records (CTR) using Amazon QuickSight.
 Get Started
 arrow_forward
 AWS Singleplay Workshop
