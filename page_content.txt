@@ -39,17 +39,6 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
-Amazon ECS Basic Workshop (Japanese)
-Level: 200
-checkmark
-Categories: Containers, Compute
-checkmark
-Tags: ECS, Fargate, ECR
-schedule
-2 hours
-An introduction to the features and usage of Amazon ECS and AWS Fargate
-Get Started
-arrow_forward
 Handling Rewrites and Redirects using Edge Functions
 Level: 300
 checkmark
@@ -59,6 +48,28 @@ Tags: CloudFront, Lambda@Edge
 schedule
 2 hours
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
+Get Started
+arrow_forward
+SCADA Disaster Recovery on AWS for Inductive Automation's Ignition
+Level: 400
+checkmark
+Categories: Energy&Utilities, Resilience
+checkmark
+Tags: Power&Utilities, SCADA, OT, DisasterRecovery
+schedule
+2 hours
+In this workshop we will demonstrate how to deploy a SCADA system Disaster Recovery on AWS. The workshop will guide you also in the configuration of the SCADA and the demonstration of the failover mechanism. This workshop is part of a series to be executed for multiple SCADA from multiple vendors. In this first iteration we will use Ignition SCADA from Inductive Automation.
+Get Started
+arrow_forward
+Amazon EKS Support in Amazon SageMaker HyperPod
+Level: 400
+checkmark
+Categories: AI/ML, Compute
+checkmark
+Tags: EC2, SageMaker, EKS
+schedule
+2 hours
+Amazon SageMaker HyperPod helps you provision resilient clusters for running machine learning (ML) workloads and developing state-of-the-art models such as large language models (LLMs), diffusion models, and foundation models (FMs). By completing this workshop you will learn how to train large language models (LLMs) on SageMaker HyperPod worker nodes while using an EKS control plane to provide a native Kubernetes experience for container orchestration and workflow management via tools like the Kubeflow Training Operator.
 Get Started
 arrow_forward
 Amazon Connect Supervisor Experience
@@ -829,17 +840,6 @@ Tags: Security, Security Hub, Quicksight
 schedule
 2 hours
 Get hands on with Quicksight to build a custom Security Dashboard using Security Hub for the AWS environment
-Get Started
-arrow_forward
-AWS Mainframe Modernization - Application Assessment (Micro Focus)
-Level: 400
-checkmark
-Categories: Migrations, Mainframe Modernization
-checkmark
-Tags: AWS Mainframe Modernization, COBOL, Mainframe, Micro Focus
-schedule
-2 hours
-AWS Mainframe Modernization service to evaluate mainframe application inventory. We'll explore how to effectively utilize the generated reports, scope for a proof of concept (POC) and utilize Enterprise Analyzer Code Search features to craft ad-hoc queries.
 Get Started
 arrow_forward
 Generative AI for Advertising and Marketing Industry
@@ -1843,17 +1843,6 @@ schedule
 This workshop introduces how to use AWS AppFabric that quickly connects SaaS applications across the organization, so IT and security teams can easily manage and secure applications using a standard schema and use Amazon Athena to query for data across applications and use Amazon Quicksight for quick visualization.
 Get Started
 arrow_forward
-HuggingFace models for document summarization with Amazon Sagemaker
-Level: 400
-checkmark
-Categories: Generative AI, Amazon Sagemaker
-checkmark
-Tags: Amazon Sagemaker, Document Summarization
-schedule
-2 hours
-How to use HuggingFace models for document summarization and other LLM models for document summarization
-Get Started
-arrow_forward
 Using generative AI on AWS for diverse content types
 Level: 300
 checkmark
@@ -1940,17 +1929,6 @@ Tags: MediaLive, MediaConnect, MediaConvert, MediaPackage, MediaTailor, CloudFro
 schedule
 6 hours
 One Media Workshop provides a prescriptive, 100-400 level modular learning experience focusing on AWS Media Services, solutions for popular workloads, and advanced modules covering complex use cases.
-Get Started
-arrow_forward
-Transit Gateway Flow Analyzer
-Level: 300
-checkmark
-Categories: Networking and Content Delivery, Cloud Operations
-checkmark
-Tags: AWS Transit Gateway, Amazon QuickSight, Amazon Athena
-schedule
-2 hours
-In this workshop, learn how you can enable Transit Gateway Flow Logs for an existing setup and gain insights into network traffic pattern using Amazon QuickSight dashboard.
 Get Started
 arrow_forward
 Demystifying SaaS Application Authentication on AWS
@@ -2206,17 +2184,6 @@ schedule
 Generative artificial intelligence (AI) comprises of models that can be used to generate new content such as images, text, video, audio or simulations. In this workshop we will provide an end to end understanding of building, training and deploying Generative AI models, that can be leverage for your use case. We will cover SageMaker Quickstart solutions for fine-tuning models such as Stable Diffusion, as well as customizing the open source models efficiently using the features provide by SageMaker.
 Get Started
 arrow_forward
-Getting started with Amazon WorkMail
-Level: 200
-checkmark
-Categories: Amazon WorkMail, email
-checkmark
-Tags: mailing, calendar, mailbox, mailbox migration
-schedule
-2 hours
-ou will learn how to support people who use Amazon WorkMail to get their work done, how Amazon WorkMail can be used for system integration use cases, and how you can leverage AWS services to accomplish objectives common in large enterprise environments.
-Get Started
-arrow_forward
 Building a Serverless Web App with Amplify Workshop
 Level: 100
 checkmark
@@ -2237,17 +2204,6 @@ Tags: Local Zones, CDK
 schedule
 1 hour
 In this workshop, learn how to provision the infrastructure and services needed to host your workloads close to your customers in an AWS Local Zones, with the same APIs and tools for automation that are used in an AWS Region, including the AWS Cloud Development Kit (AWS CDK). You will need your own AWS account.
-Get Started
-arrow_forward
-Monitron Digital Twin Workshop
-Level: 300
-checkmark
-Categories: IoT, TwinMaker, Digital Twin, Monitron
-checkmark
-Tags: IoT, TwinMaker, Digital Twin, Monitron
-schedule
-4 hours
-Access your Amazon Monitron data from your AWS IoT TwinMaker digital twin. This will allow you to add predictive maintenance and detect abnormal conditions in your digital twin.
 Get Started
 arrow_forward
 Securing Microsoft Windows Workloads on AWS
@@ -2314,17 +2270,6 @@ Tags: VPC, Networking, Security
 schedule
 2 hours
 In this workshop session, review how the Amazon VPC Network Access Analyzer helps you identify network configurations that can lead to unintended network access. You will also review how Amazon VPC Reachability Analyzer helps you to perform connectivity testing between a source resource and a destination resource in your virtual private clouds (VPCs) and how you can troubleshoot connectivity issues caused by network misconfiguration.
-Get Started
-arrow_forward
-Event Driven Architecture for FinTechs
-Level: 200
-checkmark
-Categories: serverless
-checkmark
-Tags: MSK, SQS, SNS, Lambda
-schedule
-6 hours
-Event Driven Architectures (EDA) provide a decoupled environment for complex Domain Applications, such as Finance, accommodate new requirements, allowing different parts of the Enterprise to evolve independently. This workshop explores a commonly found use case on financial institutions, debit retrial during grace period, to teach how to evolve an existing request-response synchronous application to an Event Driven approach using AWS serverless services.
 Get Started
 arrow_forward
 Babelfish App Modernization Immersion Day
@@ -2635,17 +2580,6 @@ schedule
 In this hands-on session, you will enable a working web application, served from within your Amazon Virtual Private Cloud (VPC) complete with a logging back end provided by the Amazon OpenSearch Service and with real-time monitoring using OpenSearch Dashboards.
 Get Started
 arrow_forward
-Best Practices for Growing Your Business on Amazon Lightsail
-Level: 200
-checkmark
-Categories: Compute
-checkmark
-Tags: Amazon Lightsail
-schedule
-2 hours
-Learn best practices for deploying, configuring, securing, and operating application on Amazon Lightsail
-Get Started
-arrow_forward
 Amazon Connect User Provisioning
 Level: 400
 checkmark
@@ -2655,17 +2589,6 @@ Tags: Amazon Connect, AWS Identity & Access Management(IAM), Azure AD, Okta, Sys
 schedule
 2 hours
 The workshop walks a user through how they can integrate an existing identity provider such as Okta/AzureAD to manage users and permissions within an Amazon Connect instance.
-Get Started
-arrow_forward
-Building an Amazon Lex Bot with PSTN Connectivity Using the Amazon Chime SDK
-Level: 100
-checkmark
-Categories: Amazon Lex, Amazon Chime SDK
-checkmark
-Tags: PSTN, SIP, Amazon Lex, Amazon Chime SDK, Bot
-schedule
-1 hour
-This workshop will guide you through the process of adding PSTN connectivity to an Amazon Lex Bot using the Amazon Chime SDK.
 Get Started
 arrow_forward
 AWS for Microsoft Workloads Immersion Day
@@ -2745,17 +2668,6 @@ schedule
 As organizations adopt Amazon EKS to securely and reliably run their mission-critical workloads in the AWS cloud and on premises, it is essential that they have tools to monitor and optimize what they spend to run their Kubernetes applications. This workshop demonstrates cost-reduction steps in a sample architecture and shows ways you can identify and reduce compute costs in your environment using OpenCost, Kubecost, Karpenter, and AWS Graviton. Learn how AWS is collaborating with the OpenCost community to standardize cost tracking, allocation, methodologies, and measurements and help teams using Kubernetes easily understand their infrastructure costs.
 Get Started
 arrow_forward
-How to use Terraform to deploy AWS Security Solutions
-Level: 400
-checkmark
-Categories: Security, TDIR
-checkmark
-Tags: GuardDuty, EventBridge
-schedule
-2 hours
-Many modern organizations are taking an infrastructure-as-code (IaC) approach to provide a consistent language in multi-vendor environments, and Terraform is a popular choice to facilitate this. In this workshop, you will learn how you can use Terraform to deploy a working Threat Detection and Incident Response functionality using AWS services. In this workshop you will discover how to deploy Amazon GuardDuty to produce security findings, and then automate those findings using Amazon EventBridge. By Automating your Threat Detection information from Guard Duty, you can then perform incident response in various ways. This workshop shows yuo how to use Amazon SNS to generate email notifications of GuardDuty Findings and AWS Lambda to perform auto-remediation tasks, automatically isolating compromised hosts.
-Get Started
-arrow_forward
 Accelerate software development lifecycles with GitOps
 Level: 300
 checkmark
@@ -2776,17 +2688,6 @@ Tags: OpenSearch, OpenTelemetry, DataPrepper, Tracing, Logs, Metrics, Fluentbit,
 schedule
 3 hours
 Ninety percent of issue resolution time is spent identifying the problem. Increasing the reliability of your distributed application and improving your incident response becomes vital in reducing the mean time to resolution. In this workshop, learn how you can use open-source tools, SDKs, and standards with Amazon OpenSearch Service to facilitate observability with your logs, traces, and metrics data.
-Get Started
-arrow_forward
-Building an Amazon Chime SDK Meeting with Transcribe and Translate
-Level: 300
-checkmark
-Categories: Amazon Chime SDK, Amazon Translate, Amazon Transcribe, Amazon Chime SDK Meetings
-checkmark
-Tags: Amazon Chime SDK, Amazon Translate, Amazon Transcribe, Amazon Chime SDK Meetings
-schedule
-2 hours
-Harness the power of real-time transcription in web-based voice or video calls through the Amazon Chime SDK. Join this interactive workshop to learn how to build transcription and translation into multiparty video calls requiring additional compliance and language accessibility, such as telehealth appointments, government services, parent-teacher interactions, or financial services.
 Get Started
 arrow_forward
 AWS CIRT Toolkit For Automating Incident Response Preparedness
@@ -2855,17 +2756,6 @@ schedule
 The purpose of this workshop is to help you to run your CFD codes on AWS. We’ll go from creating the HPC cluster using AWS ParallelCluster, to the installation of the most popular codes e.g STAR-CCM+, OpenFOAM, Fluent, MSC Cradle and finally example submission scripts for you to run your own cases.
 Get Started
 arrow_forward
-Amazon Connect Barge In
-Level: 200
-checkmark
-Categories: Contact Center
-checkmark
-Tags: Amazon Connect
-schedule
-3 hours
-This workshop contains the steps to configure and use the Barge live calls feature in Amazon Connect
-Get Started
-arrow_forward
 Red Hat OpenShift Service on AWS Workshop
 Level: 400
 checkmark
@@ -2921,17 +2811,6 @@ schedule
 This workshop is prepared to guide participants on how to use AWS serverless services to build a cloud-native and future-proof serverless data lake architecture. We will use AWS Glue for ETL and data catalog management, Amazon S3 for data lake storage, Amazon Athena to query data and Amazon QuickSight to visualize data.
 Get Started
 arrow_forward
-Determining donor or stakeholder sentiment with AWS
-Level: 300
-checkmark
-Categories: AI/ML, Serverless
-checkmark
-Tags: Amazon Comprehend, Amazon QuickSight, AWS Lambda
-schedule
-1 hour
-Private and public institutions have access to vast amounts of social media posts, reviews, customer service or constituent communications, and blogs that have information on how stakeholders feel about their brands, programs, and services. Understanding the voice of the donor or stakeholder is essential for these organizations to react quickly to feedback, identify issues and trends, and make the right request at the right time.
-Get Started
-arrow_forward
 Running batch workloads on Amazon EKS with AWS Batch
 Level: 200
 checkmark
@@ -2976,17 +2855,6 @@ schedule
 We will use the open source Cloudscape Design System to build a responsive and accessible web application for cloud management. The web application will leverage the open source React components offered by Cloudscape. The workshop requires knowledge of front-end development, React, TypeScript and git.
 Get Started
 arrow_forward
-Using AWS Local Zone for latency sensitive applications
-Level: 300
-checkmark
-Categories: Containers, Amazon EC2, Amazon EKS, Amazon VPC, AWS Local Zones
-checkmark
-Tags: Edge Services, Mobile, Networking & Content Delivery, Outposts
-schedule
-2 hours
-This workshop takes you through an actual deployment of a distributed application in both an AWS Local Zone and parent AWS Region. Learn how to deploy a network function in a Local Zone and what to consider in your VPC architecture for traffic flow within the Local Zone and the Region. The workshop deploys network functions on Amazon EKS using CI/CD pipeline automation
-Get Started
-arrow_forward
 Using SageMaker, Autogluon, and ASDI open data to predict air quality
 Level: 200
 checkmark
@@ -2996,17 +2864,6 @@ Tags: SageMaker, ASDI
 schedule
 2 hours
 Ambient air pollution leads to an estimated 4.2 million deaths per year, and around 91% of the world’s population lives in places where air quality levels exceed World Health Organization limits. In this workshop you will use Machine Learning and data from the Amazon Sustainability Data Initiative (ASDI) to predict air quality levels in specific geographies.
-Get Started
-arrow_forward
-Continuous cost and sustainability optimization
-Level: 300
-checkmark
-Categories: AWS Cost Management, Compute, Databases, Storage
-checkmark
-Tags: EC2, Cost Optimization, Enterprise Support, Sustainability, RDS, S3
-schedule
-2 hours
-In this workshop, learn best practices for cost and sustainability optimization. Shift costs and sustainability responsibilities from the Cloud Center of Excellence (CCoE) to end users and application owners aided by automation at scale. Learn about cost efficiency and implementing mechanisms that empower application owners to have clear, actionable tasks for cost and sustainability optimization building upon real-world use cases. You must bring your laptop to participate
 Get Started
 arrow_forward
 Migrate the AWS Well-Architected Way
@@ -3042,17 +2899,6 @@ schedule
 Using multiple providers to manage cloud resources with Terraform. Terraform is an open source Infrastructure as Code (IaC) tool that allows you to manage your infrastructure in a declarative way. IaC is the practice of defining your infrastructure requirements declaratively, and using a GitOps approach to iterate and modify those declarations. This provides predictability, repeatability, and safety mechanisms such as peer review and preventative controls.
 Get Started
 arrow_forward
-Cloud-Native Development of Synthetic Sensors with BlackBerry IVY on QNX
-Level: 300
-checkmark
-Categories: Automotive, Computer Vision, Compute
-checkmark
-Tags: EC2, ARM64, Graviton, QNX, IVY, ML, Edge compute
-schedule
-2 hours
-In this workshop, learn how to use a novel automotive-native software development infrastructure that can run binary equivalent workloads —with environmental parity — to targeted compute elements. Discover how BlackBerry IVY synthetic sensors which include machine learning can be developed in the cloud environment and deployed at the embedded edge seamlessly.
-Get Started
-arrow_forward
 Low Code Application Development on AWS with Mendix
 Level: 200
 checkmark
@@ -3062,17 +2908,6 @@ Tags: Amazon Rekognition, Low code, Development, Mobile, Front End
 schedule
 3 hours
 In this workshop you will learn how to quickly build applications without coding using Mendix Low Code Development Platform and AWS services
-Get Started
-arrow_forward
-Build an iOS-native app with a cloud-based backend
-Level: 300
-checkmark
-Categories: mobile, amplify
-checkmark
-Tags: amplify, ios
-schedule
-3 hours
-In this workshop, you will create a data-driven iOS-native Swift app integrated with a cloud-based backend. Learn how to use Amazon Cognito to manage user authentication. Discover how to design a data-first strategy with GraphQL APIs to store data in Amazon DynamoDB. Learn how to use an AWS Amplify library to authenticate users, communicate with the API, and download images from Amazon S3. You need to have a macOS laptop with Xcode 14 or more recent installed. One optional section requires a free Apple Developer account.
 Get Started
 arrow_forward
 Web3 Development
@@ -3141,17 +2976,6 @@ schedule
 The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover
 Get Started
 arrow_forward
-Defect Detection System for Smart Factory
-Level: 300
-checkmark
-Categories: AI/ML, Modernization
-checkmark
-Tags: Amazon Lookout for Vision, Amazon Rekognition, AWS Step Functions
-schedule
-4 hours
-Defect Detection System for Smart Factory using Amazon Lookout for Vision and Amazon Rekognition
-Get Started
-arrow_forward
 Validating security guardrails with Chaos Engineering
 Level: 400
 checkmark
@@ -3185,17 +3009,6 @@ schedule
 A workshop on QnABot divided into sections covering Introduction, Deployment and Configuration, Questions and Answers, Bot Channels and Tuning and Data Management / Operations
 Get Started
 arrow_forward
-Amazon VPC Network Access Analyzer
-Level: 200
-checkmark
-Categories: VPC, VPC Network Access Analyzer
-checkmark
-Tags: VPC, Networking, Security
-schedule
-2 hours
-In this workshop session, review how the Amazon VPC Network Access Analyzer helps you identify network configurations that can lead to unintended network access. Learn ways that you can improve your security posture while still allowing you and your organization to be agile and flexible.
-Get Started
-arrow_forward
 AWS IoT Immersion Day Workshop
 Level: 200
 checkmark
@@ -3216,39 +3029,6 @@ Tags: AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, Secure Coding, Ethical Ha
 schedule
 3 hours
 Security is everyones responsibility. The earlier you can build the appropriate configuration into your applications the easier it is to achieve the goal of shipping securely AND swiftly. The techniques you’ll learn in this workshop will help you raise the bar for the security of the applications you build. This will help you spend more time building software that delights your customers & less time on rework after security reviews
-Get Started
-arrow_forward
-Develop AWS IoT projects on Arm Virtual Hardware with FreeRTOS and CMSIS packs
-Level: 200
-checkmark
-Categories: AWS IoT, AWS IoT Core, FreeRTOS
-checkmark
-Tags: AVH, Arm Virtual Hardware, KSC, Keil Studio Cloud, CI/CD, GitHub, FreeRTOS
-schedule
-4 hours
-In this workshop you will learn how to use ARM Virtual Hardware to develop embedded devices for the edge in a virtual environment. You will be able to develop FreeRTOS applications using CMSIS-Packs and test AWS IoT connections.
-Get Started
-arrow_forward
-IoT data analytics
-Level: 300
-checkmark
-Categories: Analytics, MFG
-checkmark
-Tags: Glue, Kinesis Data Analytics
-schedule
-3 hours
-This workshop presents the architecture and technique to build IoT data analytics pipeline. Many MFG companies have been suffering from IoT data analysis, caused by multi-level nested json data and schema change. Also, IoT data needs to be updated to track the condition of sensor devices on a real-time basis. To solve these challenges, three main solutions are proposed: (1) Glue Spark code to flatten multi-level nested json data and enable to analyze of the IoT data as data frame format, (2) Apache Hudi to keep IoT sensor data up-to-date on a real-time basis, and (3) EventBridge, Lambda, and SNS to inspect IOT data schema change and send an alarm to users.
-Get Started
-arrow_forward
-Machine Learning Operations with AWS IoT Greengrass v2 and Amazon SageMaker Edge Manager
-Level: 400
-checkmark
-Categories: AI/ML, IoT
-checkmark
-Tags: AWS IoT, Greengrass, Edge, Machine Learning, AI/ML
-schedule
-4 hours
-An introduction to Machine Learning Operations with AWS IoT Greengrass, Amazon SageMaker, and Amazon SageMaker Edge. In this workshop you will build a machine learning model in the cloud using SageMaker services, and then deploy it to an edge device or simulated device using AWS IoT Greengrass. Once the device is deployed to the edge, you will monitor how the model is performing and collect real-world data for model retraining.
 Get Started
 arrow_forward
 Amazon Connect Contact Flow Deployment Workshop
@@ -3284,17 +3064,6 @@ schedule
 Java is one of the most popular programming languages but seems not to be competitive in terms of start-up time and memory footprint compared to interpreted or natively compiled languages. Both are critical for short-lived serverless functions. In this workshop you will learn the concepts, mechanisms and best practices around serverless Java applications. The first part of the workshop covers how to run traditional Java application on AWS and the limitations and challenges involved. In the second part we’ll introduce GraalVM, a high-performance runtime and modify our existing application to gain up to 80% performance improvement during cold-starts.
 Get Started
 arrow_forward
-Building a Click to Call Demo with Amazon Chime SDK
-Level: 300
-checkmark
-Categories: Communication Applications, Business Applications
-checkmark
-Tags: Amazon Chime SDK, AWS Lambda, Cloudformation, Amazon API Gateway, Amazon DynamoDB, AWS Cloud9
-schedule
-3 hours
-This workshop extends previous workshops to build a working demo of a click to call solution by combining the capabilities of WebRTC communications with SIP end points.
-Get Started
-arrow_forward
 Migrate Spring Boot applications to AWS Lambda
 Level: 400
 checkmark
@@ -3326,17 +3095,6 @@ Tags: IAM, CI/CD, Security, Permissions Boundary
 schedule
 2 hours
 In this workshop, you will learn how and when to use various IAM policy types. You will work on hands-on labs that take you through a typical customer journey to configure permissions for a sample application. You will configure policies for your identities, resources, and CI/CD pipeline using permission delegation to balance security and agility.
-Get Started
-arrow_forward
-Amazon CodeWhisperer
-Level: 300
-checkmark
-Categories: Developer Tools, Artificial Intelligence, Machine Learning
-checkmark
-Tags: CodeWhisperer
-schedule
-2 hours
-In this workshop, you are going to build a full-fledged, event-driven, serverless application. With the aid of Amazon CodeWhisperer, you'll write your own code that runs on top of AWS Lambda to interact with Amazon DynamoDB, Amazon SNS, Amazon SQS, Amazon S3, and third-party HTTP APIs to perform image recognition using Amazon Rekognition. The users can interact with the application by sending the URL of an image for processing, or by listing the images and the objects present on each image.
 Get Started
 arrow_forward
 Build a Data Mesh on AWS
@@ -3515,17 +3273,6 @@ schedule
 In this workshop focusing on industry verticals (Financial Services, and Healthcare and Life Sciences), you will learn how the Low-Code / No-Code ML capabilities found in Amazon SageMaker Data Wrangler, Autopilot and Jumpstart, make it easier to experiment faster and bring highly accurate models to production more quickly and efficiently.
 Get Started
 arrow_forward
-Amazon S3 Select - Querying data without servers or databases
-Level: 200
-checkmark
-Categories: Analytics, Storage
-checkmark
-Tags: S3, S3 Select, Lambda, API Gateway
-schedule
-1 hour
-How to query data without servers or databases by using Amazon S3 Select
-Get Started
-arrow_forward
 EKS Immersion Workshop
 Level: 200
 checkmark
@@ -3590,17 +3337,6 @@ Tags: AWS Step Functions
 schedule
 4 hours
 The AWS Step Functions Workshop teaches you how to use the primary features of AWS Step Functions through a series of interactive modules. Included in this workshop are modules covering task orchestration patterns; Map, Choice and Parallel states; input and output data processing; AWS SDK service integrations; Amazon API Gateway integration; error handling; and more.
-Get Started
-arrow_forward
-Building Telephony-Powered Applications with the Amazon Chime SDK PSTN Audio Service
-Level: 100
-checkmark
-Categories: Communication Applications, Business Applications
-checkmark
-Tags: Amazon Chime SDK, AWS Lambda, PSTN
-schedule
-2 hours
-The workshop will introduce the Amazon Chime SDK PSTN Audio Service and its capabilities, along with showing how to build simple telephony applications without deploying any telephony infrastructure.
 Get Started
 arrow_forward
 AWS IoT Greengrass workshop
@@ -3768,17 +3504,6 @@ schedule
 This workshop gives an introduction to monitoring AWS resources via Amazon CloudWatch. You will collect, graph and query metrics, learn to collect and query logs. Finally, you will learn how to aggregate that information via dashboards. The second part of the workshop introduces how to deploy and update the CloudWatch agent and it's configuration via System Manager.
 Get Started
 arrow_forward
-VMware Cloud on AWS Immersion Day
-Level: 200
-checkmark
-Categories: Compute, Migrations, VMware
-checkmark
-Tags: Amazon FSx for Windows File Server, AWS Managed Microsoft AD, Compute, Migrations, Modernization, VMware, VMware Cloud on AWS, VMware HCX
-schedule
-3 hours
-The VMware Cloud on AWS Immersion Day provides customers with hands-on experience, allowing attendees to get familiar with the service and see how easy it is to use. The Immersion Day provides opportunities to try out features such as networking and security, deploying virtual machines, migrations with VMware Hybrid Cloud Extension (HCX), and integration with native AWS services.
-Get Started
-arrow_forward
 Contact Lens for Amazon Connect
 Level: 200
 checkmark
@@ -3799,17 +3524,6 @@ Tags: Lex, Amazon Connect
 schedule
 4 hours
 This workshop demonstrates how Amazon Connect's native ability to integrate with Amazon Lex can provide several benefits, including enhancing your Interactive Voice Response (IVR) menu with Natural Language (NL) processing, and dynamic delivery of content.
-Get Started
-arrow_forward
-Fundamentals of Windows on AWS Workshop
-Level: 100
-checkmark
-Categories: Business Applications, Compute
-checkmark
-Tags: EC2, AWS Directory Service, Amazon FSx for Windows File Server
-schedule
-3 hours
-This workshop will teach you about the basic concepts for running Windows Workloads on AWS. In this workshop you will get hands on with Windows Server 2019 hosted on EC2, Managed Microsoft AD running on AWS Directory Services and hosting a Windows File Server on Amazon FSx.
 Get Started
 arrow_forward
 AWS Data Exchange Workshop
@@ -3856,17 +3570,6 @@ schedule
 Get hands-on experience to the AMS services and its operational plans (AMS Accelerate and AWS Advanced) through these self-paced labs. Practice in your own AMS managed AWS accounts or leverage AMS lab accounts.
 Get Started
 arrow_forward
-Detecting Ransomware using AWS Services
-Level: 300
-checkmark
-Categories: Security, Threat Detection
-checkmark
-Tags: SecurityHub, GuardDuty, SystemsManager, CloudWatch
-schedule
-1 hour
-Guidance to Protect, Detect and Respond to Ransomware using AWS Services
-Get Started
-arrow_forward
 Security Baseline Workshop
 Level: 100
 checkmark
@@ -3911,17 +3614,6 @@ schedule
 In this workshop you will be building a multi-tenant Software-as-a-Service (SaaS) solution using AWS Serverless Services, such as Amazon API Gateway, Amazon Cognito, AWS Lambda, Amazon DynamoDB, AWS CodePipeline, and Amazon CloudWatch. The goal is to provide SaaS developers and architects with working code that illustrates how to design and deliver a multi-tenant SaaS solution on AWS.
 Get Started
 arrow_forward
-Building with Amazon Chime SDK using React
-Level: 200
-checkmark
-Categories: Amazon Chime SDK
-checkmark
-Tags: Lambda, API Gateway
-schedule
-4 hours
-This workshop will take you through the steps to create an Amazon Chime SDK JavaScript application using React.
-Get Started
-arrow_forward
 Getting started with Amazon Connect
 Level: 200
 checkmark
@@ -3933,17 +3625,6 @@ schedule
 Build a cloud based contact center using AWS Amazon Connect service and explore integration with other AWS services such as Amazon DynamoDB, Amazon Lex and AWS Lambda to build modern and robust contact center.
 Get Started
 arrow_forward
-How to run CFD on AWS ParallelCluster 3
-Level: 400
-checkmark
-Categories: HPC, Compute
-checkmark
-Tags: EC2, ParallelProcessing, ParallelCluster, OpenFOAM, FDS
-schedule
-2 hours
-We'll go from creating the HPC cluster using AWS ParallelCluster, to the installation of the most popular open source codes e.g OpenFOAM and FDS, and run some example test-cases.
-Get Started
-arrow_forward
 Running CFD on AWS ParallelCluster 3 at Scale
 Level: 400
 checkmark
@@ -3953,39 +3634,6 @@ Tags: EC2, ParallelProcessing, ParallelCluster, OpenFOAM, FDS, HPC, Fluent
 schedule
 3 hours
 The purpose of this workshop is to help you to run your CFD codes on AWS. We'll go from creating the HPC cluster using AWS ParallelCluster, to the installation of the most popular codes e.g STAR-CCM+, OpenFOAM, Fluent and finally example submission scripts for you to run your own cases
-Get Started
-arrow_forward
-Running WRF on AWS ParallelCluster
-Level: 300
-checkmark
-Categories: HPC, Compute
-checkmark
-Tags: EC2, EFA, AWS ParallelCluster
-schedule
-2 hours
-This workshops walks through the services, providing scripts and templates to set up a HPC system with EFA to run WRF.
-Get Started
-arrow_forward
-Improving development ergonomics for developers
-Level: 200
-checkmark
-Categories: DevOps, Developer Tools, Serverless
-checkmark
-Tags: CDK, SAM, IDE Toolkit, CodeGuru
-schedule
-2 hours
-In this workshop we will get hands-on with AWS Developer Tools including, AWS IDE toolkits, SDKs, and CLIs to build a modern application. In this workshop, we will teach you how to easily and efficiently build, test, and debug a serverless application and introduce modern tooling including Amazon CodeGuru, SAM tooling, and managed environments to rapidly prototype and debug secure applications in the cloud.
-Get Started
-arrow_forward
-Extended CDK Workshop
-Level: 400
-checkmark
-Categories: CDK, CloudFormation, Automation
-checkmark
-Tags: EC2, ParallelProcessing
-schedule
-2 hours
-This is an extension lab to https://cdkworkshop.com/ where CDK-V2 migration is explored, we also build out pipelines with CDK, Import exciting Cloudformation, leverage JSII to expose our constructs to differnt supported languages, setup and publish those constructs to AWS CodeArtifact and create a Python CDK v2 project based on these constructs.
 Get Started
 arrow_forward
 Getting Started with Serverless
@@ -4030,17 +3678,6 @@ Tags: HPC, ParallelCluster, Slurm
 schedule
 2 hours
 In this workshop, we will use Jupyter Notebooks (managed in SageMaker) to create AWS ParallelClusters, enable Slurm REST API, Slurm Accounting and Slurm Federation on those clusters. Through a real-world astrophysics numerical simulation (Athena++), you will learn how to run MPI jobs on AWS ParallelCluster through a REST interface and also learn how to burst HPC jobs from one cluster to another.
-Get Started
-arrow_forward
-AWS Copilot Workshop
-Level: 200
-checkmark
-Categories: Containers, Compute
-checkmark
-Tags: Containers, Serverless Computing, Developer Tools
-schedule
-2 hours
-In this workshop, you'll learn how to build, release and operate your containerized applications to Amazon ECS and AWS Fargate using AWS Copilot.
 Get Started
 arrow_forward
 Scaling your encryption at rest capabilities with AWS KMS
@@ -4219,17 +3856,6 @@ schedule
 This workshop is designed to give you hands on experience implementing a Zero Trust architecture for service to service workloads on AWS.
 Get Started
 arrow_forward
-Web Application Hosts on EKS Workshop
-Level: 300
-checkmark
-Categories: Containers, Compute
-checkmark
-Tags: EC2, EKS, Container
-schedule
-6 hours
-Host the web application on EKS with common practices.
-Get Started
-arrow_forward
 Building Prowler into a QuickSight powered AWS security dashboard
 Level: 300
 checkmark
@@ -4239,28 +3865,6 @@ Tags: SecurityHub, QuickSight, Continuous Monitoring
 schedule
 2 hours
 Get hands-on experience with Prowler, AWS Security Hub, and Amazon QuickSight by building a security dashboard for the AWS environment.
-Get Started
-arrow_forward
-CAE on AWS ParallelCluster
-Level: 400
-checkmark
-Categories: HPC, Compute
-checkmark
-Tags: CAE, ParallelProcessing, workshop-remix
-schedule
-3 hours
-The purpose of this workshop is to help you to run your Finite Element Analysis (FEA) codes on AWS. We'll go from creating the HPC cluster using AWS ParallelCluster, to the installation of the most popular codes e.g MSC Nastran, MSC Marc, MSC Actran, Simcenter Nastran, Ansys LS-DYNA and finally example submission scripts for you to run your own cases.
-Get Started
-arrow_forward
-AWS Singleplay Workshop
-Level: 300
-checkmark
-Categories: Serverless, Game Development, Mobile, Analytics
-checkmark
-Tags: Game, Serverless, Mobile, Analytics
-schedule
-2 hours
-Guidebook how to implement backend based on AWS for Single application
 Get Started
 arrow_forward
 Management_Governance_Immersion_Day
@@ -4659,17 +4263,6 @@ schedule
 A guide to deploying Active Directory(AD) on AWS, set up hybrid solutions, integrate with Azure AD and setting up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered.
 Get Started
 arrow_forward
-Work Placement Workshop
-Level: 100
-checkmark
-Categories: Machine Learning
-checkmark
-Tags: Lex
-schedule
-2 hours
-This is a workshop directly used for holding AWS Educate Work Placement Workshops. It is aimed to allow students to create an image search web application which incorporates Amazon Rekognition, Amazon Lex, CloudFront and Amazon S3.
-Get Started
-arrow_forward
 One Observability Workshop
 Level: 200
 checkmark
@@ -4679,17 +4272,6 @@ Tags: Amazon Managed Service for Prometheus, Amazon Managed Grafana, AWS Distro 
 schedule
 3 hours
 This workshop is aimed at providing an hands-on experience for you on the wide variety of tool sets AWS offers to setup monitoring and observability on your applications. You can simply pick and choose any module you want and only focus on that making it extremely customizable and flexible based on your availability.
-Get Started
-arrow_forward
-Gromacs on AWS ParallelCluster
-Level: 400
-checkmark
-Categories: HPC, Compute, Molecular-Dynamics
-checkmark
-Tags: EC2, HPC, ParallelCluster, dcv, fsx
-schedule
-4 hours
-In this workshop, you will deploy an HPC cluster using AWS ParallelCluster UI. You will then install a package manager, Spack, and use that to install Gromacs, a popular open-source molecular dynamics modeling code. You'll run simulations using Spot and OnDemand instances and visualize the result with PyMol.
 Get Started
 arrow_forward
 Amazon Kinesis Video Streams Workshop
@@ -5691,17 +5273,6 @@ Tags: CodeBuild, CodePipeline, CodeDeploy, AWS Fargate, AWS CloudFormation
 schedule
 2 hours
 In this workshop you'll learn how to build a CI/CD pipeline to develop, containerize and deploy a web-based application on AWS Fargate using lambda for blue/green deployment
-Get Started
-arrow_forward
-Enterprise Cloud Native workshop
-Level: 300
-checkmark
-Categories: DevOps, CloudNative, Application Modernization
-checkmark
-Tags: DevOps, Cloud Native
-schedule
-4 hours
-This workshop is the accumulate experience gained working with different kinds of customers, we try to convey the best practices of cloud native journey on AWS
 Get Started
 arrow_forward
 Serverless Observability Workshop
