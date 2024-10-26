@@ -246,6 +246,7 @@ https://workshops.aws/categories/Mendix
 https://workshops.aws/categories/Messaging
 https://workshops.aws/categories/Microsoft
 https://workshops.aws/categories/Microsoft%20SQL%20Server
+https://workshops.aws/categories/Migration
 https://workshops.aws/categories/Migration%20&%20Transfer
 https://workshops.aws/categories/Migrations
 https://workshops.aws/categories/Mobile
@@ -275,6 +276,7 @@ https://workshops.aws/categories/RDS
 https://workshops.aws/categories/Rancher
 https://workshops.aws/categories/Red%20Hat%20OpenShift%20Service%20on%20AWS
 https://workshops.aws/categories/Reliability
+https://workshops.aws/categories/Replatform
 https://workshops.aws/categories/Research
 https://workshops.aws/categories/Resilency
 https://workshops.aws/categories/Resilience
@@ -349,6 +351,18 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Mainframe
+https://workshops.aws/categories/Migration
+https://workshops.aws/categories/Replatform
+https://workshops.aws/?tag=EC2
+https://catalog.us-east-1.prod.workshops.aws/workshops/3e2bf44c-855a-4e0f-8aba-0e20ea89be2b
+https://workshops.aws/categories/Security
+https://workshops.aws/categories/Identity
+https://workshops.aws/categories/Compliance
+https://workshops.aws/?tag=Security
+https://workshops.aws/?tag=Identity
+https://workshops.aws/?tag=Compliance
+https://catalog.us-east-1.prod.workshops.aws/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68
 https://workshops.aws/categories/Energy&Utilities
 https://workshops.aws/categories/Resilience
 https://workshops.aws/?tag=Power%26Utilities

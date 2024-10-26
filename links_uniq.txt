@@ -93,6 +93,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/3a8d4ddf-66c5-4d26-ae6f-6
 https://catalog.us-east-1.prod.workshops.aws/workshops/3b06259f-8e17-4f2f-811a-75c9b06a2807
 https://catalog.us-east-1.prod.workshops.aws/workshops/3be7b9f7-146c-4112-94bd-444dd7cc5556
 https://catalog.us-east-1.prod.workshops.aws/workshops/3c892c47-5c1d-4ea5-b38f-86e624aa2ea9
+https://catalog.us-east-1.prod.workshops.aws/workshops/3e2bf44c-855a-4e0f-8aba-0e20ea89be2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/40e3080c-4cdd-4dcd-8768-6ebcadc11f81
 https://catalog.us-east-1.prod.workshops.aws/workshops/4191fcf7-06cc-4b4a-b13c-e7c4813f4839
 https://catalog.us-east-1.prod.workshops.aws/workshops/425648be-6b4b-4e60-90d2-077a74de91ab
@@ -251,6 +252,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/fc5abf5b-b40e-49ba-b8fa-c
 https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-258ffdd76ed6
 https://catalog.us-east-1.prod.workshops.aws/workshops/fdf5673a-d606-4876-ab14-9a1d25545895
 https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73
+https://catalog.us-east-1.prod.workshops.aws/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68
 https://catalog.workshops.aws/5g-edge-compute
 https://catalog.workshops.aws/agents-for-amazon-bedrock
 https://catalog.workshops.aws/amazon-connect-agent-empowerment
@@ -953,6 +955,7 @@ https://workshops.aws/?tag=IT
 https://workshops.aws/?tag=IVS
 https://workshops.aws/?tag=IVY
 https://workshops.aws/?tag=IaC
+https://workshops.aws/?tag=Identity
 https://workshops.aws/?tag=Identity%20Policies
 https://workshops.aws/?tag=Image%20Builder
 https://workshops.aws/?tag=Incident%20Response
@@ -1572,6 +1575,7 @@ https://workshops.aws/categories/Mendix
 https://workshops.aws/categories/Messaging
 https://workshops.aws/categories/Microsoft
 https://workshops.aws/categories/Microsoft%20SQL%20Server
+https://workshops.aws/categories/Migration
 https://workshops.aws/categories/Migration%20&%20Transfer
 https://workshops.aws/categories/Migrations
 https://workshops.aws/categories/Mobile
@@ -1601,6 +1605,7 @@ https://workshops.aws/categories/RDS
 https://workshops.aws/categories/Rancher
 https://workshops.aws/categories/Red%20Hat%20OpenShift%20Service%20on%20AWS
 https://workshops.aws/categories/Reliability
+https://workshops.aws/categories/Replatform
 https://workshops.aws/categories/Research
 https://workshops.aws/categories/Resilency
 https://workshops.aws/categories/Resilience

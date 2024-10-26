@@ -50,6 +50,28 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Mainframe Modernization Replatform Workshop
+Level: 200
+checkmark
+Categories: Mainframe, Migration, Replatform
+checkmark
+Tags: EC2
+schedule
+8 hours
+Learn best practices that help when replatforming a mainframe application to Micro Focus. You will explore the best practices for source code migration, dataset migration, directory structures, and compiler directives.
+Get Started
+arrow_forward
+Integrating IAM Access Analyzer into a CI/CD Pipeline
+Level: 300
+checkmark
+Categories: Security, Identity, Compliance
+checkmark
+Tags: Security, Identity, Compliance
+schedule
+2 hours
+Want to analyze IAM policies at scale? Want your developers to write secure IAM policies? In this hands-on workshop, you are given the opportunity to build a CI/CD pipeline that validates IAM policies using IAM Access Analyzer and the IAM Policy Validator for AWS CloudFormation.
+Get Started
+arrow_forward
 SCADA Disaster Recovery on AWS for Inductive Automation's Ignition
 Level: 400
 checkmark

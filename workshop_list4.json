@@ -658,7 +658,7 @@
   },
   {
     "url": "https://bringyourowndatalabs.workshop.aws",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Bring Your Own Data Labs",
     "level": "300",
     "categories": [
@@ -1799,6 +1799,22 @@
     ],
     "schedule": "4 hours",
     "description": "In this module, students will configure an Amazon Connect contact flow that uses data from Salesforce to alter customer experiences, change routing destinations, change priorities, and present different options such as callbacks. At then end, the student will have a Service Cloud Voice enabled contact flow that demonstrates a number of different customer experiences."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3e2bf44c-855a-4e0f-8aba-0e20ea89be2b",
+    "valid_url": true,
+    "title": "Mainframe Modernization Replatform Workshop",
+    "level": "200",
+    "categories": [
+      "Mainframe",
+      "Migration",
+      "Replatform"
+    ],
+    "tags": [
+      "EC2"
+    ],
+    "schedule": "8 hours",
+    "description": "Learn best practices that help when replatforming a mainframe application to Micro Focus. You will explore the best practices for source code migration, dataset migration, directory structures, and compiler directives."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/40e3080c-4cdd-4dcd-8768-6ebcadc11f81",
@@ -4754,6 +4770,24 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop will help you learn how to use Amazon Q Developer to write more secure code and reduce the number of security findings present in it. Amazon Q Developer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68",
+    "valid_url": true,
+    "title": "Integrating IAM Access Analyzer into a CI/CD Pipeline",
+    "level": "300",
+    "categories": [
+      "Security",
+      "Identity",
+      "Compliance"
+    ],
+    "tags": [
+      "Security",
+      "Identity",
+      "Compliance"
+    ],
+    "schedule": "2 hours",
+    "description": "Want to analyze IAM policies at scale? Want your developers to write secure IAM policies? In this hands-on workshop, you are given the opportunity to build a CI/CD pipeline that validates IAM policies using IAM Access Analyzer and the IAM Policy Validator for AWS CloudFormation."
   },
   {
     "url": "https://catalog.workshops.aws/5g-edge-compute",
