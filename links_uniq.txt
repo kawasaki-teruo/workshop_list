@@ -134,6 +134,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/6c88d70d-b69d-435f-9990-3
 https://catalog.us-east-1.prod.workshops.aws/workshops/6d30487a-48e1-4631-b6bc-5602582800b5
 https://catalog.us-east-1.prod.workshops.aws/workshops/6d7bb71e-9354-4109-8550-6a0d0901dcfe
 https://catalog.us-east-1.prod.workshops.aws/workshops/6dc3124a-6bd4-46eb-b5c4-be438a82ba3d
+https://catalog.us-east-1.prod.workshops.aws/workshops/6fe9da93-93cd-423b-bae8-8a4bcd2b673e
 https://catalog.us-east-1.prod.workshops.aws/workshops/70168edf-3855-4cdb-95ff-54bdecef1410
 https://catalog.us-east-1.prod.workshops.aws/workshops/71a1cc8b-265e-4e27-a320-f1ee1f45ffe8
 https://catalog.us-east-1.prod.workshops.aws/workshops/73545e6b-fa5f-469d-ade9-e1372209d729
@@ -276,6 +277,7 @@ https://catalog.workshops.aws/aws-iot-immersionday-workshop
 https://catalog.workshops.aws/aws-local-zones-immersion-day
 https://catalog.workshops.aws/aws-openshift-workshop
 https://catalog.workshops.aws/aws-sdk
+https://catalog.workshops.aws/aws101
 https://catalog.workshops.aws/awscff
 https://catalog.workshops.aws/awscid
 https://catalog.workshops.aws/awsgamebackendframework
@@ -662,7 +664,9 @@ https://workshops.aws/?tag=Amazon%20Translate
 https://workshops.aws/?tag=Amazon%20VPC
 https://workshops.aws/?tag=Amazon%20Verified%20Permissions
 https://workshops.aws/?tag=Amazon%20Virtual%20Private%20Cloud%20(Amazon%20VPC)
+https://workshops.aws/?tag=AmazonBedrock
 https://workshops.aws/?tag=AmazonMQ
+https://workshops.aws/?tag=AmazonPersonalize
 https://workshops.aws/?tag=Amplify
 https://workshops.aws/?tag=Analytics
 https://workshops.aws/?tag=Anomalies
@@ -1331,6 +1335,7 @@ https://workshops.aws/?tag=x-ray
 https://workshops.aws/categories/.NET
 https://workshops.aws/categories/.NET%20Core
 https://workshops.aws/categories/AI%2FML
+https://workshops.aws/categories/AIML
 https://workshops.aws/categories/AMI
 https://workshops.aws/categories/AMQP
 https://workshops.aws/categories/API
@@ -1412,6 +1417,7 @@ https://workshops.aws/categories/BCSI%20Compliance
 https://workshops.aws/categories/Babelfish
 https://workshops.aws/categories/Backup
 https://workshops.aws/categories/Bedrock
+https://workshops.aws/categories/Beginner
 https://workshops.aws/categories/Big%20Data
 https://workshops.aws/categories/Blockchain
 https://workshops.aws/categories/Builder%20Experience

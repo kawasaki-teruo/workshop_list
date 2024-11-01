@@ -2093,7 +2093,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4ff2d034-dee1-4570-93d9-11a54cc5d60c",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Creating your first API from scratch with OpenAPI and AWS SAM",
     "level": "200",
     "categories": [
@@ -2580,6 +2580,23 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop, you will dive deep into the logic of IAM policy evaluation. You will execute hands-on labs that walk through common IAM use cases and understand how different policies interact with each other. By using identity- and resource-based policies within single- and cross-account scenarios, you will gain an understanding of the evaluation logic that you can then apply in your own environment."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6fe9da93-93cd-423b-bae8-8a4bcd2b673e",
+    "valid_url": true,
+    "title": "Hyper-personalization using Generative AI for optimal customer engagement",
+    "level": "300",
+    "categories": [
+      "AIML",
+      "GenAI",
+      "Business Applications"
+    ],
+    "tags": [
+      "AmazonBedrock",
+      "AmazonPersonalize"
+    ],
+    "schedule": "3 hours",
+    "description": "Learn how to build an end-to-end hyper-personalized workflow with AWS. Personalization of messaging is a foundational capability to improve the effectiveness of outbound communications, such as email, direct mail, SMS, push messaging in increasing customer satisfaction, retention, cross-sell and up-sell. Innovations in Generative AI offer compelling opportunities to more easily automate creation of text and image content to enable more scalable message personalization."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/70168edf-3855-4cdb-95ff-54bdecef1410",
@@ -4932,7 +4949,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/amazon-connect-introduction",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Introduction to Amazon Connect",
     "level": "200",
     "categories": [
@@ -5193,6 +5210,26 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop is designed to give you an introduction to building applications with Amazon Web Services. This workshop focuses on using the core AWS Software Development Kits (SDKs)"
+  },
+  {
+    "url": "https://catalog.workshops.aws/aws101",
+    "valid_url": true,
+    "title": "AWS 101 Workshop",
+    "level": "100",
+    "categories": [
+      "Migrations",
+      "Compute",
+      "Beginner"
+    ],
+    "tags": [
+      "EC2",
+      "VPC",
+      "S3",
+      "IAM",
+      "Linux"
+    ],
+    "schedule": "2 hours",
+    "description": "This introductory AWS workshop provides hands-on learning for beginners, using the setup of a private web server as a teaching tool to cover core AWS concepts. Participants will configure the server to interact with public resources like external APIs and Amazon S3 storage, gaining practical experience with fundamental AWS services and architecture, such as EC2 instances and VPC."
   },
   {
     "url": "https://catalog.workshops.aws/awscff",
@@ -5946,7 +5983,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/iot-puppy-park",
-    "valid_url": true,
+    "valid_url": false,
     "title": "IoT Puppy Park: Connected Worker Safety with Terraform",
     "level": "300",
     "categories": [
@@ -7368,7 +7405,7 @@
   },
   {
     "url": "https://ddos-protection-best-practices.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Implementing DDoS Resiliency",
     "level": "300",
     "categories": [

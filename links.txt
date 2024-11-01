@@ -2,6 +2,7 @@ https://workshops.aws/
 https://workshops.aws/categories/.NET
 https://workshops.aws/categories/.NET%20Core
 https://workshops.aws/categories/AI%2FML
+https://workshops.aws/categories/AIML
 https://workshops.aws/categories/AMI
 https://workshops.aws/categories/AMQP
 https://workshops.aws/categories/API
@@ -83,6 +84,7 @@ https://workshops.aws/categories/BCSI%20Compliance
 https://workshops.aws/categories/Babelfish
 https://workshops.aws/categories/Backup
 https://workshops.aws/categories/Bedrock
+https://workshops.aws/categories/Beginner
 https://workshops.aws/categories/Big%20Data
 https://workshops.aws/categories/Blockchain
 https://workshops.aws/categories/Builder%20Experience
@@ -351,6 +353,21 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/AIML
+https://workshops.aws/categories/GenAI
+https://workshops.aws/categories/Business%20Applications
+https://workshops.aws/?tag=AmazonBedrock
+https://workshops.aws/?tag=AmazonPersonalize
+https://catalog.us-east-1.prod.workshops.aws/workshops/6fe9da93-93cd-423b-bae8-8a4bcd2b673e
+https://workshops.aws/categories/Migrations
+https://workshops.aws/categories/Compute
+https://workshops.aws/categories/Beginner
+https://workshops.aws/?tag=EC2
+https://workshops.aws/?tag=VPC
+https://workshops.aws/?tag=S3
+https://workshops.aws/?tag=IAM
+https://workshops.aws/?tag=Linux
+https://catalog.workshops.aws/aws101
 https://workshops.aws/categories/Mainframe
 https://workshops.aws/categories/Migration
 https://workshops.aws/categories/Replatform

@@ -3,6 +3,7 @@ All
 .NET
 .NET Core
 AI/ML
+AIML
 AMI
 AMQP
 API
@@ -48,6 +49,28 @@ Tags: CloudFront, Lambda@Edge
 schedule
 2 hours
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
+Get Started
+arrow_forward
+Hyper-personalization using Generative AI for optimal customer engagement
+Level: 300
+checkmark
+Categories: AIML, GenAI, Business Applications
+checkmark
+Tags: AmazonBedrock, AmazonPersonalize
+schedule
+3 hours
+Learn how to build an end-to-end hyper-personalized workflow with AWS. Personalization of messaging is a foundational capability to improve the effectiveness of outbound communications, such as email, direct mail, SMS, push messaging in increasing customer satisfaction, retention, cross-sell and up-sell. Innovations in Generative AI offer compelling opportunities to more easily automate creation of text and image content to enable more scalable message personalization.
+Get Started
+arrow_forward
+AWS 101 Workshop
+Level: 100
+checkmark
+Categories: Migrations, Compute, Beginner
+checkmark
+Tags: EC2, VPC, S3, IAM, Linux
+schedule
+2 hours
+This introductory AWS workshop provides hands-on learning for beginners, using the setup of a private web server as a teaching tool to cover core AWS concepts. Participants will configure the server to interact with public resources like external APIs and Amazon S3 storage, gaining practical experience with fundamental AWS services and architecture, such as EC2 instances and VPC.
 Get Started
 arrow_forward
 Mainframe Modernization Replatform Workshop
