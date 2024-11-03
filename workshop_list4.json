@@ -7839,7 +7839,7 @@
   },
   {
     "url": "https://github.com/aws-samples/aws-online-data-migration-workshop",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Get Hands-on with online data migration options to AWS",
     "level": "400",
     "categories": [
