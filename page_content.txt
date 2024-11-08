@@ -51,6 +51,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Amazon ECS Immersion Day
+Level: 200
+checkmark
+Categories: Containers, Compute
+checkmark
+Tags: Amazon ECS, AWS Fargate, Container Insights, Amazon GuardDuty, Auto Scaling, Amazon EFS
+schedule
+4 hours
+An ECS Workshop ImmersionDay provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Get Started
+arrow_forward
 Hyper-personalization using Generative AI for optimal customer engagement
 Level: 300
 checkmark
@@ -2425,17 +2436,6 @@ Tags: Lightsail, Research, LfR, RStudio, OpenData
 schedule
 2 hours
 This workshop will guide you to deploy and configure Amazon Lightsail for Research, additional storage, use of RStudio, download a dataset of NOAA temperature data, and run analysis on the dataset to find the maximum median temperature each year of the dataset. It will export a plot chart of the results to a PDF that you can download from your Lightsail for Research virtual computer.
-Get Started
-arrow_forward
-Introduction to Amazon Connect
-Level: 200
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect
-schedule
-6 hours
-The purpose of this workshop is to provide you with an introduction to Amazon Connect, Amazon Web Services cloud-based virtual contact center offering. This workshop is best suited for those new to Amazon Connect, IT decision makers, line of business stakeholders, or those responsible for contact center configuration and management.
 Get Started
 arrow_forward
 Amazon SageMaker MLOps: from idea to production in six steps

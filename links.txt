@@ -353,6 +353,15 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Containers
+https://workshops.aws/categories/Compute
+https://workshops.aws/?tag=Amazon%20ECS
+https://workshops.aws/?tag=AWS%20Fargate
+https://workshops.aws/?tag=Container%20Insights
+https://workshops.aws/?tag=Amazon%20GuardDuty
+https://workshops.aws/?tag=Auto%20Scaling
+https://workshops.aws/?tag=Amazon%20EFS
+https://catalog.workshops.aws/ecs-immersion-day/en-US
 https://workshops.aws/categories/AIML
 https://workshops.aws/categories/GenAI
 https://workshops.aws/categories/Business%20Applications
@@ -1939,10 +1948,6 @@ https://workshops.aws/?tag=LfR
 https://workshops.aws/?tag=RStudio
 https://workshops.aws/?tag=OpenData
 https://catalog.workshops.aws/workshops/79931708-eca5-4fcc-93eb-35328c5f9615
-https://workshops.aws/categories/Contact%20Center
-https://workshops.aws/categories/Communication%20Applications
-https://workshops.aws/?tag=Amazon%20Connect
-https://catalog.workshops.aws/amazon-connect-introduction
 https://workshops.aws/categories/Machine%20Learning
 https://workshops.aws/categories/MLOps
 https://workshops.aws/categories/CI%2FCD

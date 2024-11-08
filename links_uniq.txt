@@ -262,7 +262,6 @@ https://catalog.workshops.aws/amazon-connect-contact-survey
 https://catalog.workshops.aws/amazon-connect-evaluation-forms
 https://catalog.workshops.aws/amazon-connect-global-resiliency
 https://catalog.workshops.aws/amazon-connect-inapp-calling
-https://catalog.workshops.aws/amazon-connect-introduction
 https://catalog.workshops.aws/amazon-connect-operational-workshop
 https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-supervisor-experience
@@ -306,6 +305,7 @@ https://catalog.workshops.aws/db4devs
 https://catalog.workshops.aws/dbt-cli-and-amazon-redshift
 https://catalog.workshops.aws/dynamodb-labs
 https://catalog.workshops.aws/ecs-finhack
+https://catalog.workshops.aws/ecs-immersion-day
 https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/eks-blueprints-for-cdk
 https://catalog.workshops.aws/eks-immersionday
@@ -608,6 +608,7 @@ https://workshops.aws/?tag=Amazon%20DocumentDB
 https://workshops.aws/?tag=Amazon%20DynamoDB
 https://workshops.aws/?tag=Amazon%20EC2%20Auto%20Scaling
 https://workshops.aws/?tag=Amazon%20ECS
+https://workshops.aws/?tag=Amazon%20EFS
 https://workshops.aws/?tag=Amazon%20EKS
 https://workshops.aws/?tag=Amazon%20EMR
 https://workshops.aws/?tag=Amazon%20EMR%20Studio
@@ -774,6 +775,7 @@ https://workshops.aws/?tag=Config
 https://workshops.aws/?tag=Configuration,%20Compliance,%20and%20Auditing
 https://workshops.aws/?tag=Contact%20Lens
 https://workshops.aws/?tag=Container%20Insight
+https://workshops.aws/?tag=Container%20Insights
 https://workshops.aws/?tag=Containers
 https://workshops.aws/?tag=Continuous%20Monitoring
 https://workshops.aws/?tag=Conversational%20AI

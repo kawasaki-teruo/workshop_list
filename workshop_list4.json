@@ -4948,21 +4948,6 @@
     "description": "This workshop will enable you to learn about setting up in-app, web and video calling within your Amazon Connect instance, and deploy a communications widget onto your website so customers can reach out to their specialist portfolio managers."
   },
   {
-    "url": "https://catalog.workshops.aws/amazon-connect-introduction",
-    "valid_url": false,
-    "title": "Introduction to Amazon Connect",
-    "level": "200",
-    "categories": [
-      "Contact Center",
-      "Communication Applications"
-    ],
-    "tags": [
-      "Amazon Connect"
-    ],
-    "schedule": "6 hours",
-    "description": "The purpose of this workshop is to provide you with an introduction to Amazon Connect, Amazon Web Services cloud-based virtual contact center offering. This workshop is best suited for those new to Amazon Connect, IT decision makers, line of business stakeholders, or those responsible for contact center configuration and management."
-  },
-  {
     "url": "https://catalog.workshops.aws/amazon-connect-operational-workshop",
     "valid_url": true,
     "title": "Amazon Connect Operational Workshop",
@@ -5754,6 +5739,26 @@
     ],
     "schedule": "3 hours",
     "description": "In the current economic climate, customers are looking for ways to optimize their AWS spend, which includes containers as well. The purpose of the Finhack for ECS is to introduce series of labs that enables customers to understand what levers they have to optimize their compute and operational costs tied to their container infrastructure."
+  },
+  {
+    "url": "https://catalog.workshops.aws/ecs-immersion-day",
+    "valid_url": true,
+    "title": "Amazon ECS Immersion Day",
+    "level": "200",
+    "categories": [
+      "Containers",
+      "Compute"
+    ],
+    "tags": [
+      "Amazon ECS",
+      "AWS Fargate",
+      "Container Insights",
+      "Amazon GuardDuty",
+      "Auto Scaling",
+      "Amazon EFS"
+    ],
+    "schedule": "4 hours",
+    "description": "An ECS Workshop ImmersionDay provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation."
   },
   {
     "url": "https://catalog.workshops.aws/ecs-solution-blueprints",

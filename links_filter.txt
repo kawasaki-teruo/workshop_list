@@ -262,7 +262,6 @@ https://catalog.workshops.aws/amazon-connect-contact-survey
 https://catalog.workshops.aws/amazon-connect-evaluation-forms
 https://catalog.workshops.aws/amazon-connect-global-resiliency
 https://catalog.workshops.aws/amazon-connect-inapp-calling
-https://catalog.workshops.aws/amazon-connect-introduction
 https://catalog.workshops.aws/amazon-connect-operational-workshop
 https://catalog.workshops.aws/amazon-connect-optimization
 https://catalog.workshops.aws/amazon-connect-supervisor-experience
@@ -306,6 +305,7 @@ https://catalog.workshops.aws/db4devs
 https://catalog.workshops.aws/dbt-cli-and-amazon-redshift
 https://catalog.workshops.aws/dynamodb-labs
 https://catalog.workshops.aws/ecs-finhack
+https://catalog.workshops.aws/ecs-immersion-day
 https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/eks-blueprints-for-cdk
 https://catalog.workshops.aws/eks-immersionday
