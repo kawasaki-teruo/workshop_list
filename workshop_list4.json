@@ -7039,7 +7039,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/using-amazon-chime-sdk-call-analytics",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Using Amazon Chime SDK Call Analytics",
     "level": "200",
     "categories": [
