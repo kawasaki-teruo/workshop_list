@@ -156,6 +156,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/85510359-c3c2-4200-b0a8-8020d4473875
 https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f
+https://catalog.us-east-1.prod.workshops.aws/workshops/8c574542-1d89-461e-b810-bce394392c61
 https://catalog.us-east-1.prod.workshops.aws/workshops/8c8f65e2-3d33-443d-9865-6d8f1d6d1a91
 https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057
 https://catalog.us-east-1.prod.workshops.aws/workshops/91de94fc-db65-4137-9e26-11e58f4ac26b
@@ -343,6 +344,7 @@ https://catalog.workshops.aws/refining-iam-permissions-like-a-pro
 https://catalog.workshops.aws/running-batch-on-eks
 https://catalog.workshops.aws/s3-data-protection
 https://catalog.workshops.aws/saas-microservices
+https://catalog.workshops.aws/safeguarding-payments-fraud-detection-ai-ml-and-data-insights
 https://catalog.workshops.aws/sagemaker-emr-glue
 https://catalog.workshops.aws/sagemaker-fraud-detection
 https://catalog.workshops.aws/sagemaker-hyperpod

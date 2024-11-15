@@ -51,6 +51,28 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Safeguarding Payments: Fraud Detection, AI/ML and Data Insights
+Level: 200
+checkmark
+Categories: Payments, Financial Services
+checkmark
+Tags: Fraud, Fraud Detection, Fraud Prevention, Payment, Payments, AI, Artificial Intelligence, ML, Machine Learning
+schedule
+2 hours
+Leveraging AI/ML and data analytics to build an intelligent fraud detection system that safeguards payments and provides financial institutions with actionable insights to stop fraudulent transactions.
+Get Started
+arrow_forward
+AWS Health Events Intelligence Dashboard & Insights (HEIDI) with Amazon Q integration
+Level: 200
+checkmark
+Categories: CID, Amazon QuickSight, Analytics
+checkmark
+Tags: QuickSight, CID, HEIDI, BI, Business Intelligence, Amazon Q, PHD
+schedule
+2 hours
+AWS Health Events Intelligence Dashboard & Insights (HEIDI) is a solution that offers insight into events received from AWS Health across multiple Regions, accounts, and Organizations. HEIDI presents an accessible overview of AWS Health events, facilitating easy access and presentation of information via Amazon QuickSight.By integrating Amazon Q with the HEIDI solution, customers can now easily analyze and gain insights from AWS Health event data across accounts, regions and organizations using natural language queries. This allows for faster identification and understanding of issues impacting their AWS environment.
+Get Started
+arrow_forward
 Amazon ECS Immersion Day
 Level: 200
 checkmark

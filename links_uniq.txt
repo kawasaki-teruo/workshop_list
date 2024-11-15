@@ -156,6 +156,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/85510359-c3c2-4200-b0a8-8020d4473875
 https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f
+https://catalog.us-east-1.prod.workshops.aws/workshops/8c574542-1d89-461e-b810-bce394392c61
 https://catalog.us-east-1.prod.workshops.aws/workshops/8c8f65e2-3d33-443d-9865-6d8f1d6d1a91
 https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057
 https://catalog.us-east-1.prod.workshops.aws/workshops/91de94fc-db65-4137-9e26-11e58f4ac26b
@@ -343,6 +344,7 @@ https://catalog.workshops.aws/refining-iam-permissions-like-a-pro
 https://catalog.workshops.aws/running-batch-on-eks
 https://catalog.workshops.aws/s3-data-protection
 https://catalog.workshops.aws/saas-microservices
+https://catalog.workshops.aws/safeguarding-payments-fraud-detection-ai-ml-and-data-insights
 https://catalog.workshops.aws/sagemaker-emr-glue
 https://catalog.workshops.aws/sagemaker-fraud-detection
 https://catalog.workshops.aws/sagemaker-hyperpod
@@ -683,6 +685,7 @@ https://workshops.aws/?tag=Application%20Discovery%20Services
 https://workshops.aws/?tag=Application%20Security
 https://workshops.aws/?tag=Application%20Streaming
 https://workshops.aws/?tag=ArgoCD
+https://workshops.aws/?tag=Artificial%20Intelligence
 https://workshops.aws/?tag=Asset%20Tracking
 https://workshops.aws/?tag=Astronomy
 https://workshops.aws/?tag=Athena
@@ -898,7 +901,9 @@ https://workshops.aws/?tag=Fluentd
 https://workshops.aws/?tag=Flutter
 https://workshops.aws/?tag=Flux
 https://workshops.aws/?tag=Forecast
+https://workshops.aws/?tag=Fraud
 https://workshops.aws/?tag=Fraud%20Detection
+https://workshops.aws/?tag=Fraud%20Prevention
 https://workshops.aws/?tag=FreeRTOS
 https://workshops.aws/?tag=Front%20End
 https://workshops.aws/?tag=GCP
@@ -933,6 +938,7 @@ https://workshops.aws/?tag=Greengrass%20V2
 https://workshops.aws/?tag=GuardDuty
 https://workshops.aws/?tag=Guardrails
 https://workshops.aws/?tag=HCLS
+https://workshops.aws/?tag=HEIDI
 https://workshops.aws/?tag=HPC
 https://workshops.aws/?tag=HealthScribe
 https://workshops.aws/?tag=Healthcare
@@ -1114,9 +1120,11 @@ https://workshops.aws/?tag=Optimum%20Neuron
 https://workshops.aws/?tag=Oracle
 https://workshops.aws/?tag=Outposts
 https://workshops.aws/?tag=PCI
+https://workshops.aws/?tag=PHD
 https://workshops.aws/?tag=ParallelCluster
 https://workshops.aws/?tag=ParallelProcessing
 https://workshops.aws/?tag=PartyRock
+https://workshops.aws/?tag=Payment
 https://workshops.aws/?tag=Payment%20Gateway
 https://workshops.aws/?tag=Payments
 https://workshops.aws/?tag=Performance
@@ -1428,6 +1436,7 @@ https://workshops.aws/categories/Business%20Applications
 https://workshops.aws/categories/Business%20Intelligence
 https://workshops.aws/categories/CDK
 https://workshops.aws/categories/CI%2FCD
+https://workshops.aws/categories/CID
 https://workshops.aws/categories/Chat
 https://workshops.aws/categories/Cloud%20Dashboard
 https://workshops.aws/categories/Cloud%20Foundations

@@ -2978,6 +2978,28 @@
     "description": "In this workshop we will learn how create a centralized containers monitoring from any kubernetes cluster to Amazon Managed Service for Prometheus. This workshop included: AWS Distro for Opentelemetry Introduction Amazon Managed Service for Prometheus and Amazon Managed Service for Grafana for Terraform. Minikube Integration Example (Simulating OnPrem or Another Cloud Provider environment) IAM Role Anywhere integrated with Sigv4 Proxy Opentelemetry Collector for Prometheus."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8c574542-1d89-461e-b810-bce394392c61",
+    "valid_url": true,
+    "title": "AWS Health Events Intelligence Dashboard & Insights (HEIDI) with Amazon Q integration",
+    "level": "200",
+    "categories": [
+      "CID",
+      "Amazon QuickSight",
+      "Analytics"
+    ],
+    "tags": [
+      "QuickSight",
+      "CID",
+      "HEIDI",
+      "BI",
+      "Business Intelligence",
+      "Amazon Q",
+      "PHD"
+    ],
+    "schedule": "2 hours",
+    "description": "AWS Health Events Intelligence Dashboard & Insights (HEIDI) is a solution that offers insight into events received from AWS Health across multiple Regions, accounts, and Organizations. HEIDI presents an accessible overview of AWS Health events, facilitating easy access and presentation of information via Amazon QuickSight.By integrating Amazon Q with the HEIDI solution, customers can now easily analyze and gain insights from AWS Health event data across accounts, regions and organizations using natural language queries. This allows for faster identification and understanding of issues impacting their AWS environment."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8c8f65e2-3d33-443d-9865-6d8f1d6d1a91",
     "valid_url": true,
     "title": "Amazon Connect CTI Adapter for Salesforce Series: Prerequisites and Preparation",
@@ -6518,6 +6540,29 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop, you will create microservices that cover a broad spectrum of multi-tenant use cases and implementation strategies. After completing this workshop, you will have a good understanding of the specific challenges multi-tenancy brings to building microservices, and of the patterns and design strategies you can use to overcome these challenges using containers and Amazon Elastic Kubernetes Service (Amazon EKS)."
+  },
+  {
+    "url": "https://catalog.workshops.aws/safeguarding-payments-fraud-detection-ai-ml-and-data-insights",
+    "valid_url": true,
+    "title": "Safeguarding Payments: Fraud Detection, AI/ML and Data Insights",
+    "level": "200",
+    "categories": [
+      "Payments",
+      "Financial Services"
+    ],
+    "tags": [
+      "Fraud",
+      "Fraud Detection",
+      "Fraud Prevention",
+      "Payment",
+      "Payments",
+      "AI",
+      "Artificial Intelligence",
+      "ML",
+      "Machine Learning"
+    ],
+    "schedule": "2 hours",
+    "description": "Leveraging AI/ML and data analytics to build an intelligent fraud detection system that safeguards payments and provides financial institutions with actionable insights to stop fraudulent transactions."
   },
   {
     "url": "https://catalog.workshops.aws/sagemaker-emr-glue",
