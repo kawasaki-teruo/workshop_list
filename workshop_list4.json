@@ -2093,7 +2093,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4ff2d034-dee1-4570-93d9-11a54cc5d60c",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Creating your first API from scratch with OpenAPI and AWS SAM",
     "level": "200",
     "categories": [
