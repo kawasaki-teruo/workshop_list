@@ -15,7 +15,6 @@ https://appflow-immersionday.workshop.aws
 https://application-migration-with-aws.workshop.aws
 https://appstream2.workshop.aws
 https://appsync-immersionday.workshop.aws
-https://async-messaging.workshop.aws
 https://athena-in-action.workshop.aws
 https://aurora-pg-lab.workshop.aws
 https://aws-ci-cd.workshop.aws
@@ -34,7 +33,6 @@ https://basis-advanced.workshop.aws
 https://basis-beyond-immersionday.workshop.aws
 https://basis-express-immersionday.workshop.aws
 https://bringyourowndatalabs.workshop.aws
-https://build-first-devops-ecs.workshop.aws
 https://build-ms-exch-on-aws.workshop.aws
 https://catalog.us-east-1.prod.workshops.aws/kinesis-video-streams
 https://catalog.us-east-1.prod.workshops.aws/secure-windows
@@ -109,7 +107,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4d9ab448-5083-4db7-bee8-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/4db05a4c-f22f-4d24-8800-932626a8c197
 https://catalog.us-east-1.prod.workshops.aws/workshops/4de5236e-7226-47ca-bef9-7497b531dd98
 https://catalog.us-east-1.prod.workshops.aws/workshops/4eba7957-dfde-44d3-9997-127c7e4bc416
-https://catalog.us-east-1.prod.workshops.aws/workshops/4ff2d034-dee1-4570-93d9-11a54cc5d60c
 https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-775300717f42
 https://catalog.us-east-1.prod.workshops.aws/workshops/51c37f4d-f2be-441b-b30f-5fa17b10042e
 https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26
@@ -153,6 +150,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/7d9bda36-2208-484d-a721-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/7f1e393b-c2fd-4cc4-b4f9-8e75db2326eb
 https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766
+https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/85510359-c3c2-4200-b0a8-8020d4473875
 https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f
@@ -236,6 +234,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/e5122482-ded0-4259-94f0-c
 https://catalog.us-east-1.prod.workshops.aws/workshops/e5548031-3004-49ad-89be-a13e8cd616f6
 https://catalog.us-east-1.prod.workshops.aws/workshops/e801f943-aad8-4d9e-aa8a-3bcc2913340f
 https://catalog.us-east-1.prod.workshops.aws/workshops/e820beb4-e87e-4a85-bc5b-01548ceba1f8
+https://catalog.us-east-1.prod.workshops.aws/workshops/e8738cf6-6eb0-4d1d-9e98-ae240d229535
 https://catalog.us-east-1.prod.workshops.aws/workshops/e8e8fbb5-c3fb-4f86-bf77-0ba1fe402c55
 https://catalog.us-east-1.prod.workshops.aws/workshops/ea9c0361-001f-4194-963e-06b07c3e5d6b
 https://catalog.us-east-1.prod.workshops.aws/workshops/eb222e73-eea3-4038-8248-e386bbb51f26
@@ -318,7 +317,6 @@ https://catalog.workshops.aws/general-immersionday
 https://catalog.workshops.aws/gwlb-networking
 https://catalog.workshops.aws/hybrid-and-edge-generative-ai
 https://catalog.workshops.aws/iam-policy-types
-https://catalog.workshops.aws/iot-puppy-park
 https://catalog.workshops.aws/ipv6-on-aws
 https://catalog.workshops.aws/java-on-aws-lambda
 https://catalog.workshops.aws/java-on-aws-lambda/en-US/02-accelerate
@@ -326,6 +324,7 @@ https://catalog.workshops.aws/karpenter
 https://catalog.workshops.aws/layered-vpc-security
 https://catalog.workshops.aws/localzone-cdk
 https://catalog.workshops.aws/low-latency-high-throughput-inference-on-amazon-eks
+https://catalog.workshops.aws/lp-aa
 https://catalog.workshops.aws/mag01
 https://catalog.workshops.aws/mag02
 https://catalog.workshops.aws/manage-cloud-resources-with-terraform
@@ -367,7 +366,6 @@ https://catalog.workshops.aws/terraform-cicd-on-aws
 https://catalog.workshops.aws/terraform101
 https://catalog.workshops.aws/threatmodel
 https://catalog.workshops.aws/troubleshooting-contact-flow-errors
-https://catalog.workshops.aws/using-amazon-chime-sdk-call-analytics
 https://catalog.workshops.aws/verified-permissions-in-action
 https://catalog.workshops.aws/web3dev
 https://catalog.workshops.aws/well-architected-migration
@@ -378,7 +376,6 @@ https://catalog.workshops.aws/workshops/cf2ecaa4-e4be-4f40-b93f-e9fe3b1c1f64
 https://catalog.workshops.aws/wyld-pets-cognito
 https://cfd-on-pcluster.workshop.aws
 https://cfn101.workshop.aws
-https://cicd-for-ecs.workshop.aws
 https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws
 https://client-vpn-basic.workshop.aws
 https://cloudtrail-with-cloudwatch.workshop.aws
@@ -387,7 +384,6 @@ https://containers-immersionday.workshop.aws
 https://data-expert-path.workshop.aws
 https://data-perimeter.workshop.aws
 https://databrew.workshop.aws
-https://ddos-protection-best-practices.workshop.aws
 https://disaster-recovery.workshop.aws
 https://documentdb-immersionday.workshop.aws
 https://dotnet-app-modernization.workshop.aws
@@ -469,6 +465,9 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
+https://studio.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900
+https://studio.us-east-1.prod.workshops.aws/workshops/public/4b59b9fb-48b6-461c-9377-907b2e33c9df
+https://studio.us-east-1.prod.workshops.aws/workshops/public/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws

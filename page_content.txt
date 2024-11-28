@@ -51,6 +51,39 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Strengthen Your Web Application Defenses with AWS WAF
+Level: 300
+checkmark
+Categories: Edge Services, Content Delivery, Perimeter Protection, Security
+checkmark
+Tags: AWS WAF, Security
+schedule
+2 hours
+This workshop is designed for developers and security professionals who want to secure web applications with AWS WAF.
+Get Started
+arrow_forward
+AWS Mainframe Modernization Data Replication with Precisely
+Level: 400
+checkmark
+Categories: Mainframe Modernization, Amazon Managed Streaming for Kafka
+checkmark
+Tags: EC2, MSK, Data Replication
+schedule
+2 hours
+Unleash the power of mainframe data with AWS and generative AI
+Get Started
+arrow_forward
+Least Privilege with IAM Access Analyzer
+Level: 200
+checkmark
+Categories: AWS Identity & Access Management (IAM), Security
+checkmark
+Tags: AWS IAM, AWS IAM Access Analyzer, Security, Permissions
+schedule
+1 hour
+This workshop provides an overview of IAM then focuses on use cases to achieve Least Privilege with AWS Identity and Access Management Access Analyzer (IAM Access Analyzer).
+Get Started
+arrow_forward
 Safeguarding Payments: Fraud Detection, AI/ML and Data Insights
 Level: 200
 checkmark
@@ -599,17 +632,6 @@ Tags: AWS Identity and Access Management (IAM), Security, GitHub
 schedule
 2 hours
 Learn how GitHub Actions can automatically validate and analyze IAM policies when permitting developer policy authoring abilities without compromising security.
-Get Started
-arrow_forward
-Hands-on with Generative AI on AWS Hybrid & Edge Services
-Level: 300
-checkmark
-Categories: Compute, Edge Services, Hybrid Cloud
-checkmark
-Tags: EC2, Lambda, Bedrock
-schedule
-2 hours
-As governments and standards bodies develop data protection and privacy regulations, organizations increasingly need to combine the use of generative AI tooling in the cloud with regulated data that needs to remain on premises to meet data sovereignty requirements. In this builders’ session, learn how to extend Agents for Amazon Bedrock to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed Retrieval Augmented Generation (RAG) applications with on-premises data for improved model outcomes.
 Get Started
 arrow_forward
 Agents for Amazon Bedrock Workshop
@@ -1294,7 +1316,7 @@ schedule
 This workshop covers all S3-native data protection and resilience features. Level 2-300, with 3-400 'extra credit' sections for those wanting to dive deeper. Covers S3 Versioning, S3 Object Lock, S3 Replication, S3 Multi-Region Access Points (including cross-account). The majority of time is spent at the command line.
 Get Started
 arrow_forward
-Navigate the storm: Unleashing controlled chaos for resilient systems
+Chaos Engineering with AWS Fault Injection Service (FIS)
 Level: 300
 checkmark
 Categories: Containers, Compute, Serverless, DevOps
@@ -1358,17 +1380,6 @@ Tags: Amazon Elastic Compute Cloud (Amazon EC2), AWS Service Catalog, ParallelPr
 schedule
 2 hours
 re:Invent 23023 session AUT301 Automotive software development: The virtual engineering workbench
-Get Started
-arrow_forward
-Creating your first API from scratch with OpenAPI and AWS SAM
-Level: 200
-checkmark
-Categories: Serverless, Amazon API Gateway, AWS SAM, IaC
-checkmark
-Tags: Serverless, OpenAPI, AWS SAM, Amazon API Gateway, IaC
-schedule
-2 hours
-This workshop covers the use of OpenAPI specification for API design using its extensions to interact with Amazon API Gateway and configure features such as caching, rate limiting, message transformation, payload validation, and configuring API keys with usage plans to integrate with backends.
 Get Started
 arrow_forward
 Fine-tuning and deploying LLMs using Amazon SageMaker, AWS Trainium/Inferentia, and Optimum Neuron
@@ -2097,17 +2108,6 @@ schedule
 In this workshop we walk you through practical examples that will help you build, test and troubleshoot IAM policies. We introduce a workflow to help you create fine-grained access policies with the help of the IAM API, AWS Console, IAM Access Analyzer and AWS CloudTrail, and review key concepts of the IAM policy evaluation logic.
 Get Started
 arrow_forward
-IoT Puppy Park: Connected Worker Safety with Terraform
-Level: 300
-checkmark
-Categories: IoT, Robotics, Web App
-checkmark
-Tags: IoT Core, AWS Amplify, Amazon DynamoDB, AWS AppSync
-schedule
-2 hours
-In this workshop, you build a solution to help improve worker safety by leveraging AWS IoT, and robotics. The solution will include an AWS Amplify App that allows you to issue commands to each robot, as well as an entire fleet of robots. The solution will also include connectivity with an air quality sensor to track simulated toxins. To streamline deployment and management, all of this will be able to be deployed by leveraging Terraform.
-Get Started
-arrow_forward
 Introduction to Terraform on AWS
 Level: 100
 checkmark
@@ -2238,17 +2238,6 @@ Tags: Amazon Connect, Optimization, WFM
 schedule
 3 hours
 An introduction to Amazon Connect forecasting, capacity planning, and scheduling
-Get Started
-arrow_forward
-Using Amazon Chime SDK Call Analytics
-Level: 200
-checkmark
-Categories: Communication Applications, Business Applications
-checkmark
-Tags: Amazon Chime SDK, Amazon Transcribe
-schedule
-2 hours
-This workshop will guide the user through deploying and working with the Amazon Chime SDK call analytics features - including transcriptions, sentiment analysis, and recordings.
 Get Started
 arrow_forward
 Generative AI on Amazon SageMaker Workshop
@@ -4790,17 +4779,6 @@ Tags: AmazonMQ, Messaging, RabbitMQ
 schedule
 2 hours
 An introduction to Amazon MQ for RabbitMQ concepts and deep dive into deployment model, failover and cloudwatch monitoring of RabbitMQ broker.
-Get Started
-arrow_forward
-Implementing DDoS Resiliency
-Level: 300
-checkmark
-Categories: Edge, Security, Governance
-checkmark
-Tags: DDoS, Perimeter protection, AWS WAF, AWS Shield
-schedule
-2 hours
-Building for DDoS resiliency on AWS by incorporating best practices and techniques into architecture. In this workshop you will learn how to use services like AWS Shield, WAF, Firewall Manager and Amazon CloudFront and CloudWatch to architect for DDoS resiliency and maintain robust operational capabilities that allow for rapid detection and engagement during high-severity events. You will learn how to detect and filter out malicious web requests, reduce attack surface and protect web-facing workloads at scale with maximum automation.
 Get Started
 arrow_forward
 Introduction to Analytics on AWS

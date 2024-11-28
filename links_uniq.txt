@@ -15,7 +15,6 @@ https://appflow-immersionday.workshop.aws
 https://application-migration-with-aws.workshop.aws
 https://appstream2.workshop.aws
 https://appsync-immersionday.workshop.aws
-https://async-messaging.workshop.aws
 https://athena-in-action.workshop.aws
 https://aurora-pg-lab.workshop.aws
 https://aws-ci-cd.workshop.aws
@@ -34,7 +33,6 @@ https://basis-advanced.workshop.aws
 https://basis-beyond-immersionday.workshop.aws
 https://basis-express-immersionday.workshop.aws
 https://bringyourowndatalabs.workshop.aws
-https://build-first-devops-ecs.workshop.aws
 https://build-ms-exch-on-aws.workshop.aws
 https://catalog.us-east-1.prod.workshops.aws/kinesis-video-streams
 https://catalog.us-east-1.prod.workshops.aws/secure-windows
@@ -109,7 +107,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4d9ab448-5083-4db7-bee8-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/4db05a4c-f22f-4d24-8800-932626a8c197
 https://catalog.us-east-1.prod.workshops.aws/workshops/4de5236e-7226-47ca-bef9-7497b531dd98
 https://catalog.us-east-1.prod.workshops.aws/workshops/4eba7957-dfde-44d3-9997-127c7e4bc416
-https://catalog.us-east-1.prod.workshops.aws/workshops/4ff2d034-dee1-4570-93d9-11a54cc5d60c
 https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-775300717f42
 https://catalog.us-east-1.prod.workshops.aws/workshops/51c37f4d-f2be-441b-b30f-5fa17b10042e
 https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26
@@ -153,6 +150,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/7d9bda36-2208-484d-a721-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/7f1e393b-c2fd-4cc4-b4f9-8e75db2326eb
 https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766
+https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/85510359-c3c2-4200-b0a8-8020d4473875
 https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f
@@ -236,6 +234,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/e5122482-ded0-4259-94f0-c
 https://catalog.us-east-1.prod.workshops.aws/workshops/e5548031-3004-49ad-89be-a13e8cd616f6
 https://catalog.us-east-1.prod.workshops.aws/workshops/e801f943-aad8-4d9e-aa8a-3bcc2913340f
 https://catalog.us-east-1.prod.workshops.aws/workshops/e820beb4-e87e-4a85-bc5b-01548ceba1f8
+https://catalog.us-east-1.prod.workshops.aws/workshops/e8738cf6-6eb0-4d1d-9e98-ae240d229535
 https://catalog.us-east-1.prod.workshops.aws/workshops/e8e8fbb5-c3fb-4f86-bf77-0ba1fe402c55
 https://catalog.us-east-1.prod.workshops.aws/workshops/ea9c0361-001f-4194-963e-06b07c3e5d6b
 https://catalog.us-east-1.prod.workshops.aws/workshops/eb222e73-eea3-4038-8248-e386bbb51f26
@@ -318,7 +317,6 @@ https://catalog.workshops.aws/general-immersionday
 https://catalog.workshops.aws/gwlb-networking
 https://catalog.workshops.aws/hybrid-and-edge-generative-ai
 https://catalog.workshops.aws/iam-policy-types
-https://catalog.workshops.aws/iot-puppy-park
 https://catalog.workshops.aws/ipv6-on-aws
 https://catalog.workshops.aws/java-on-aws-lambda
 https://catalog.workshops.aws/java-on-aws-lambda/en-US/02-accelerate
@@ -326,6 +324,7 @@ https://catalog.workshops.aws/karpenter
 https://catalog.workshops.aws/layered-vpc-security
 https://catalog.workshops.aws/localzone-cdk
 https://catalog.workshops.aws/low-latency-high-throughput-inference-on-amazon-eks
+https://catalog.workshops.aws/lp-aa
 https://catalog.workshops.aws/mag01
 https://catalog.workshops.aws/mag02
 https://catalog.workshops.aws/manage-cloud-resources-with-terraform
@@ -367,7 +366,6 @@ https://catalog.workshops.aws/terraform-cicd-on-aws
 https://catalog.workshops.aws/terraform101
 https://catalog.workshops.aws/threatmodel
 https://catalog.workshops.aws/troubleshooting-contact-flow-errors
-https://catalog.workshops.aws/using-amazon-chime-sdk-call-analytics
 https://catalog.workshops.aws/verified-permissions-in-action
 https://catalog.workshops.aws/web3dev
 https://catalog.workshops.aws/well-architected-migration
@@ -378,7 +376,6 @@ https://catalog.workshops.aws/workshops/cf2ecaa4-e4be-4f40-b93f-e9fe3b1c1f64
 https://catalog.workshops.aws/wyld-pets-cognito
 https://cfd-on-pcluster.workshop.aws
 https://cfn101.workshop.aws
-https://cicd-for-ecs.workshop.aws
 https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws
 https://client-vpn-basic.workshop.aws
 https://cloudtrail-with-cloudwatch.workshop.aws
@@ -387,7 +384,6 @@ https://containers-immersionday.workshop.aws
 https://data-expert-path.workshop.aws
 https://data-perimeter.workshop.aws
 https://databrew.workshop.aws
-https://ddos-protection-best-practices.workshop.aws
 https://disaster-recovery.workshop.aws
 https://documentdb-immersionday.workshop.aws
 https://dotnet-app-modernization.workshop.aws
@@ -469,6 +465,9 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
+https://studio.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900
+https://studio.us-east-1.prod.workshops.aws/workshops/public/4b59b9fb-48b6-461c-9377-907b2e33c9df
+https://studio.us-east-1.prod.workshops.aws/workshops/public/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
@@ -527,6 +526,8 @@ https://workshops.aws/?tag=AWS%20Game%20Tech
 https://workshops.aws/?tag=AWS%20Glue
 https://workshops.aws/?tag=AWS%20Glue%20DataBrew
 https://workshops.aws/?tag=AWS%20HealthLake
+https://workshops.aws/?tag=AWS%20IAM
+https://workshops.aws/?tag=AWS%20IAM%20Access%20Analyzer
 https://workshops.aws/?tag=AWS%20Identity%20%26%20Access%20Management
 https://workshops.aws/?tag=AWS%20Identity%20%26%20Access%20Management%20(IAM)
 https://workshops.aws/?tag=AWS%20Identity%20%26%20Access%20Management(IAM)
@@ -569,7 +570,6 @@ https://workshops.aws/?tag=AWS%20SNS
 https://workshops.aws/?tag=AWS%20Secrets%20Manager
 https://workshops.aws/?tag=AWS%20Security%20Hub
 https://workshops.aws/?tag=AWS%20Service%20Catalog
-https://workshops.aws/?tag=AWS%20Shield
 https://workshops.aws/?tag=AWS%20Single%20Sign-On
 https://workshops.aws/?tag=AWS%20Step%20Functions
 https://workshops.aws/?tag=AWS%20Systems%20Manager
@@ -596,7 +596,6 @@ https://workshops.aws/?tag=Amazon%20API%20Gateway
 https://workshops.aws/?tag=Amazon%20Athena
 https://workshops.aws/?tag=Amazon%20Augmented%20AI%20(A2I)
 https://workshops.aws/?tag=Amazon%20Bedrock
-https://workshops.aws/?tag=Amazon%20Chime%20SDK
 https://workshops.aws/?tag=Amazon%20CloudWatch
 https://workshops.aws/?tag=Amazon%20CodeCatalyst
 https://workshops.aws/?tag=Amazon%20Cognito
@@ -662,7 +661,6 @@ https://workshops.aws/?tag=Amazon%20Sidewalk
 https://workshops.aws/?tag=Amazon%20Simple%20Notification%20Service%20(SNS)
 https://workshops.aws/?tag=Amazon%20Simple%20Storage%20Service%20(Amazon%20S3)
 https://workshops.aws/?tag=Amazon%20Textract
-https://workshops.aws/?tag=Amazon%20Transcribe
 https://workshops.aws/?tag=Amazon%20Translate
 https://workshops.aws/?tag=Amazon%20VPC
 https://workshops.aws/?tag=Amazon%20Verified%20Permissions
@@ -792,7 +790,6 @@ https://workshops.aws/?tag=CrowdStrike%20Falcon
 https://workshops.aws/?tag=Cryptography
 https://workshops.aws/?tag=Custom%20blueprint
 https://workshops.aws/?tag=Customer%20Sentiment%20Analysis
-https://workshops.aws/?tag=DDoS
 https://workshops.aws/?tag=DMS
 https://workshops.aws/?tag=DRS
 https://workshops.aws/?tag=Dashboard
@@ -802,6 +799,7 @@ https://workshops.aws/?tag=Data%20Lake
 https://workshops.aws/?tag=Data%20Perimeters
 https://workshops.aws/?tag=Data%20Processing
 https://workshops.aws/?tag=Data%20Protection
+https://workshops.aws/?tag=Data%20Replication
 https://workshops.aws/?tag=Data%20Residency
 https://workshops.aws/?tag=Data%20Streaming
 https://workshops.aws/?tag=Data%20Wrangler
@@ -1129,7 +1127,7 @@ https://workshops.aws/?tag=Payment%20Gateway
 https://workshops.aws/?tag=Payments
 https://workshops.aws/?tag=Performance
 https://workshops.aws/?tag=Performance%20Insights
-https://workshops.aws/?tag=Perimeter%20protection
+https://workshops.aws/?tag=Permissions
 https://workshops.aws/?tag=Permissions%20Boundary
 https://workshops.aws/?tag=Personalize
 https://workshops.aws/?tag=PingOne
@@ -1358,6 +1356,7 @@ https://workshops.aws/categories/AWS%20Config
 https://workshops.aws/categories/AWS%20Cost%20Management
 https://workshops.aws/categories/AWS%20Distro%20for%20OpenTelemetry
 https://workshops.aws/categories/AWS%20Glue
+https://workshops.aws/categories/AWS%20Identity%20&%20Access%20Management%20%28IAM%29
 https://workshops.aws/categories/AWS%20Identity%20and%20Access%20Management%20%28IAM%29
 https://workshops.aws/categories/AWS%20IoT
 https://workshops.aws/categories/AWS%20IoT%20Core
@@ -1370,7 +1369,6 @@ https://workshops.aws/categories/AWS%20Local%20Zones
 https://workshops.aws/categories/AWS%20Mainframe%20Modernization
 https://workshops.aws/categories/AWS%20Outposts
 https://workshops.aws/categories/AWS%20Private%20Link
-https://workshops.aws/categories/AWS%20SAM
 https://workshops.aws/categories/AWS%20Secrets%20Manager
 https://workshops.aws/categories/AWS%20Step%20Functions
 https://workshops.aws/categories/AWS%20Systems%20Manager%20%28SSM%29%20-%20Patch%20Manager
@@ -1383,7 +1381,6 @@ https://workshops.aws/categories/Active%20Directory
 https://workshops.aws/categories/Agents
 https://workshops.aws/categories/Agents%20for%20Amazon%20Bedrock
 https://workshops.aws/categories/Alerts
-https://workshops.aws/categories/Amazon%20API%20Gateway
 https://workshops.aws/categories/Amazon%20Athena
 https://workshops.aws/categories/Amazon%20Augmented%20AI%20%28A2I%29
 https://workshops.aws/categories/Amazon%20Aurora
@@ -1398,6 +1395,7 @@ https://workshops.aws/categories/Amazon%20EventBridge
 https://workshops.aws/categories/Amazon%20FinSpace
 https://workshops.aws/categories/Amazon%20Managed%20Grafana
 https://workshops.aws/categories/Amazon%20Managed%20Service%20for%20Prometheus
+https://workshops.aws/categories/Amazon%20Managed%20Streaming%20for%20Kafka
 https://workshops.aws/categories/Amazon%20Managed%20Workflows%20for%20Apache%20Airflow
 https://workshops.aws/categories/Amazon%20Neptune
 https://workshops.aws/categories/Amazon%20OpenSearch%20Service
@@ -1455,6 +1453,7 @@ https://workshops.aws/categories/Compute%2FNetworking
 https://workshops.aws/categories/Computer%20Vision
 https://workshops.aws/categories/Contact%20Center
 https://workshops.aws/categories/Containers
+https://workshops.aws/categories/Content%20Delivery
 https://workshops.aws/categories/Cost%20Management
 https://workshops.aws/categories/Cost%20Optimization
 https://workshops.aws/categories/Data
@@ -1582,6 +1581,7 @@ https://workshops.aws/categories/Machine%20Learning%20Use%20Cases
 https://workshops.aws/categories/Machine%20Learning%20Workflows
 https://workshops.aws/categories/Machine%20Learning%28ML%2FAI%29
 https://workshops.aws/categories/Mainframe
+https://workshops.aws/categories/Mainframe%20Modernization
 https://workshops.aws/categories/Management%20&%20Governance
 https://workshops.aws/categories/Management%20and%20Governance
 https://workshops.aws/categories/Manufacturing
@@ -1612,6 +1612,7 @@ https://workshops.aws/categories/OpenCost
 https://workshops.aws/categories/PartyRock
 https://workshops.aws/categories/Payment%20Gateway
 https://workshops.aws/categories/Payments
+https://workshops.aws/categories/Perimeter%20Protection
 https://workshops.aws/categories/Pinpoint
 https://workshops.aws/categories/Postgres
 https://workshops.aws/categories/Power%20&%20Utilities
@@ -1674,7 +1675,6 @@ https://workshops.aws/categories/VPC
 https://workshops.aws/categories/VPC%20Network%20Access%20Analyzer
 https://workshops.aws/categories/VPN
 https://workshops.aws/categories/Web
-https://workshops.aws/categories/Web%20App
 https://workshops.aws/categories/Web%20Development
 https://workshops.aws/categories/Web%20applications
 https://workshops.aws/categories/Web3
