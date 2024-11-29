@@ -1370,6 +1370,33 @@
     "description": "This workshop is prepared to guide participants on how to use AWS serverless services to build a cloud-native and future-proof serverless data lake architecture. We will use AWS Glue for ETL and data catalog management, Amazon S3 for data lake storage, Amazon Athena to query data and Amazon QuickSight to visualize data."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/27ded505-ce93-4f5f-8f5b-cc72242f70b6",
+    "valid_url": true,
+    "title": "Video-based driver monitoring with AWS IoT and AI/ML",
+    "level": "300",
+    "categories": [
+      "AWS IoT",
+      "AWS IoT Greengrass",
+      "Computer Vision",
+      "Greengrass",
+      "IoT",
+      "Internet of Things",
+      "AI/ML"
+    ],
+    "tags": [
+      "Amazon Kinesis Video Streams",
+      "Automotive",
+      "AWS IoT",
+      "AWS IoT Greengrass",
+      "Bedrock",
+      "Computer Vision",
+      "Greengrass",
+      "IoT"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn how to build an IoT device for edge computer vision and machine learning (CVML) workloads, with a focus on detecting driver fatigue and distraction."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/27eb3134-4f33-4689-bb73-269e4273947a",
     "valid_url": true,
     "title": "Serverless Chatbot Using Amazon Bedrock",
@@ -5336,6 +5363,29 @@
     "description": "Workshop attendees learn how an existing IVR solution is migrated to a speech conversational IVR powered by Amazon Connect and Amazon Lex. You get to know concepts that are used to design personal and dynamic customer experience for audio and text conversations. As conversational IVRs require continuous improvements, you are tasked to integrate personalized greetings, high speech recognization, sentiment-based routing and guided workflows to display options and use this knowledge for your job."
   },
   {
+    "url": "https://catalog.workshops.aws/build-real-time-features-legacy-apps",
+    "valid_url": true,
+    "title": "Build near-real-time LLM powered features for legacy application",
+    "level": "300",
+    "categories": [
+      "Modernization"
+    ],
+    "tags": [
+      "Real-time",
+      "Event-driven",
+      "DMS",
+      "Database Migration Service",
+      "OpenSearch",
+      "Bedrock",
+      "Conversational Search",
+      "Generative AI",
+      "Serverless",
+      "Modernization"
+    ],
+    "schedule": "2 hours",
+    "description": "Ever needed to build new event-driven features for an existing black box or COTS application without access to the source code? In this workshop, you will learn how to set up a data streaming pipeline with AWS DMS and AWS OpenSearch Serverless to build new event-driven features for existing applications using change data capture. Using a leave and layer pattern you will then build Generative AI based microservices integrated with the legacy monolithic application."
+  },
+  {
     "url": "https://catalog.workshops.aws/build-sms-program",
     "valid_url": true,
     "title": "Amazon Pinpoint SMS workshop",
@@ -6268,6 +6318,24 @@
     ],
     "schedule": "2 hours",
     "description": "AWS Nitro Enclaves provides an isolated compute environment to protect and securely process highly sensitive data such as private keys for blockchain operations. In this workshop, you will learn how to deploy Nitro wallet stack using AWS CDK, configure KMS policy for cryptographic attestation and sign an Ethereum EIP-1559 transaction using Nitro Enclaves."
+  },
+  {
+    "url": "https://catalog.workshops.aws/omnichannel-fallback-messaging",
+    "valid_url": true,
+    "title": "Implement Resilient Omni-Channel Notifications with AWS",
+    "level": "300",
+    "categories": [
+      "Communication Applications",
+      "SMS",
+      "Email"
+    ],
+    "tags": [
+      "AWS End User Messaging",
+      "Amazon SES",
+      "Messaging"
+    ],
+    "schedule": "2 hours",
+    "description": "In today's fast-paced business, reliable and timely communication is essential for reaching customers. This workshop teaches building a resilient omni-channel notification system using AWS services. The solution monitors delivery, triggering a secondary channel if the primary fails, to ensure important notifications reach customers without interruption. You'll learn to deploy a customizable omni-channel communication solution providing redundancy and improved customer engagement."
   },
   {
     "url": "https://catalog.workshops.aws/one-media-workshop",

@@ -51,6 +51,39 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Build near-real-time LLM powered features for legacy application
+Level: 300
+checkmark
+Categories: Modernization
+checkmark
+Tags: Real-time, Event-driven, DMS, Database Migration Service, OpenSearch, Bedrock, Conversational Search, Generative AI, Serverless, Modernization
+schedule
+2 hours
+Ever needed to build new event-driven features for an existing black box or COTS application without access to the source code? In this workshop, you will learn how to set up a data streaming pipeline with AWS DMS and AWS OpenSearch Serverless to build new event-driven features for existing applications using change data capture. Using a leave and layer pattern you will then build Generative AI based microservices integrated with the legacy monolithic application.
+Get Started
+arrow_forward
+Video-based driver monitoring with AWS IoT and AI/ML
+Level: 300
+checkmark
+Categories: AWS IoT, AWS IoT Greengrass, Computer Vision, Greengrass, IoT, Internet of Things, AI/ML
+checkmark
+Tags: Amazon Kinesis Video Streams, Automotive, AWS IoT, AWS IoT Greengrass, Bedrock, Computer Vision, Greengrass, IoT
+schedule
+2 hours
+Learn how to build an IoT device for edge computer vision and machine learning (CVML) workloads, with a focus on detecting driver fatigue and distraction.
+Get Started
+arrow_forward
+Implement Resilient Omni-Channel Notifications with AWS
+Level: 300
+checkmark
+Categories: Communication Applications, SMS, Email
+checkmark
+Tags: AWS End User Messaging, Amazon SES, Messaging
+schedule
+2 hours
+In today's fast-paced business, reliable and timely communication is essential for reaching customers. This workshop teaches building a resilient omni-channel notification system using AWS services. The solution monitors delivery, triggering a secondary channel if the primary fails, to ensure important notifications reach customers without interruption. You'll learn to deploy a customizable omni-channel communication solution providing redundancy and improved customer engagement.
+Get Started
+arrow_forward
 Strengthen Your Web Application Defenses with AWS WAF
 Level: 300
 checkmark

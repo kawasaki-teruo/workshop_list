@@ -70,6 +70,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/24a39743-7e40-48ca-ba5e-7
 https://catalog.us-east-1.prod.workshops.aws/workshops/262d4203-9742-4620-a373-54120c49e7ec
 https://catalog.us-east-1.prod.workshops.aws/workshops/268f5ac0-1e94-4aa6-a767-d2ed4b4901d4
 https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8078add48194
+https://catalog.us-east-1.prod.workshops.aws/workshops/27ded505-ce93-4f5f-8f5b-cc72242f70b6
 https://catalog.us-east-1.prod.workshops.aws/workshops/27eb3134-4f33-4689-bb73-269e4273947a
 https://catalog.us-east-1.prod.workshops.aws/workshops/28e7066a-b0bb-42ad-a0e9-8e8eeeb51133
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a22e604-2f2e-4d7b-85a8-33b38c999234
@@ -284,6 +285,7 @@ https://catalog.workshops.aws/awsiotforautomotive
 https://catalog.workshops.aws/bedrockguard
 https://catalog.workshops.aws/build-a-knowledge-graph
 https://catalog.workshops.aws/build-and-integrate-amazon-connect-ivr
+https://catalog.workshops.aws/build-real-time-features-legacy-apps
 https://catalog.workshops.aws/build-sms-program
 https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws
 https://catalog.workshops.aws/building-agentic-workflows
@@ -332,6 +334,7 @@ https://catalog.workshops.aws/managed-flink
 https://catalog.workshops.aws/multi-az-gray-failures
 https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q
 https://catalog.workshops.aws/nitrowallet
+https://catalog.workshops.aws/omnichannel-fallback-messaging
 https://catalog.workshops.aws/one-media-workshop
 https://catalog.workshops.aws/opensearch-generative-ai
 https://catalog.workshops.aws/opensource-with-redshift
@@ -518,6 +521,7 @@ https://workshops.aws/?tag=AWS%20Cost%20and%20Usage%20Report
 https://workshops.aws/?tag=AWS%20Distro%20for%20OpenTelemetry
 https://workshops.aws/?tag=AWS%20Distro%20for%20Opentelemetry
 https://workshops.aws/?tag=AWS%20Elastic%20Disaster%20Recovery%20(DRS)
+https://workshops.aws/?tag=AWS%20End%20User%20Messaging
 https://workshops.aws/?tag=AWS%20Entity%20Resolution
 https://workshops.aws/?tag=AWS%20Fargate
 https://workshops.aws/?tag=AWS%20Fault%20Injection%20Simulator
@@ -1495,6 +1499,7 @@ https://workshops.aws/categories/Edge%20Compute
 https://workshops.aws/categories/Edge%20Gateway
 https://workshops.aws/categories/Edge%20Services
 https://workshops.aws/categories/Elastic%20Load%20Balancing
+https://workshops.aws/categories/Email
 https://workshops.aws/categories/Encryption
 https://workshops.aws/categories/End%20User%20Compute
 https://workshops.aws/categories/Energy&Utilities
