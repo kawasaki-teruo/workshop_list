@@ -6695,6 +6695,25 @@
     "description": "In this workshop, learn how to utilize SageMaker Studio to run distributed processing on EMR in order to prepare data and subsequently train machine learning models. You'll also learn how to create and terminate those EMR clusters through pre-defined templates accessible in SageMaker Studio."
   },
   {
+    "url": "https://catalog.workshops.aws/sap-dr",
+    "valid_url": true,
+    "title": "AWS for SAP - Disaster Recovery Workshop",
+    "level": "300",
+    "categories": [
+      "Enterprise Applications",
+      "SAP",
+      "Disaster Recovery"
+    ],
+    "tags": [
+      "SAP",
+      "Amazon Elastic Compute Cloud (EC2)",
+      "Amazon Elastic File System (EFS)",
+      "AWS Elastic Disaster Recovery (DRS)"
+    ],
+    "schedule": "2 hours",
+    "description": "Gain hands-on experience in configuring cost optimized Disaster Recovery (DR) solution for SAP systems on AWS Cloud."
+  },
+  {
     "url": "https://catalog.workshops.aws/sec4devs",
     "valid_url": true,
     "title": "Security for Developers",

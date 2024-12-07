@@ -352,6 +352,7 @@ https://catalog.workshops.aws/sagemaker-fraud-detection
 https://catalog.workshops.aws/sagemaker-hyperpod
 https://catalog.workshops.aws/sagemaker-hyperpod-eks
 https://catalog.workshops.aws/sagemaker-studio-emr
+https://catalog.workshops.aws/sap-dr
 https://catalog.workshops.aws/sec4devs
 https://catalog.workshops.aws/security-hub
 https://catalog.workshops.aws/securitydashboard

@@ -352,6 +352,7 @@ https://catalog.workshops.aws/sagemaker-fraud-detection
 https://catalog.workshops.aws/sagemaker-hyperpod
 https://catalog.workshops.aws/sagemaker-hyperpod-eks
 https://catalog.workshops.aws/sagemaker-studio-emr
+https://catalog.workshops.aws/sap-dr
 https://catalog.workshops.aws/sec4devs
 https://catalog.workshops.aws/security-hub
 https://catalog.workshops.aws/securitydashboard
@@ -618,7 +619,9 @@ https://workshops.aws/?tag=Amazon%20EKS
 https://workshops.aws/?tag=Amazon%20EMR
 https://workshops.aws/?tag=Amazon%20EMR%20Studio
 https://workshops.aws/?tag=Amazon%20Elastic%20Compute%20Cloud%20(Amazon%20EC2)
+https://workshops.aws/?tag=Amazon%20Elastic%20Compute%20Cloud%20(EC2)
 https://workshops.aws/?tag=Amazon%20Elastic%20Container%20Service%20(Amazon%20ECS)
+https://workshops.aws/?tag=Amazon%20Elastic%20File%20System%20(EFS)
 https://workshops.aws/?tag=Amazon%20Elastic%20Kubernetes%20Service%20(Amazon%20EKS)
 https://workshops.aws/?tag=Amazon%20Elastic%20Map%20Reduce%20(Amazon%20EMR)
 https://workshops.aws/?tag=Amazon%20EventBridge

@@ -51,6 +51,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+AWS for SAP - Disaster Recovery Workshop
+Level: 300
+checkmark
+Categories: Enterprise Applications, SAP, Disaster Recovery
+checkmark
+Tags: SAP, Amazon Elastic Compute Cloud (EC2), Amazon Elastic File System (EFS), AWS Elastic Disaster Recovery (DRS)
+schedule
+2 hours
+Gain hands-on experience in configuring cost optimized Disaster Recovery (DR) solution for SAP systems on AWS Cloud.
+Get Started
+arrow_forward
 Build near-real-time LLM powered features for legacy application
 Level: 300
 checkmark

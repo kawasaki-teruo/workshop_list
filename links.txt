@@ -357,6 +357,14 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/Enterprise%20Applications
+https://workshops.aws/categories/SAP
+https://workshops.aws/categories/Disaster%20Recovery
+https://workshops.aws/?tag=SAP
+https://workshops.aws/?tag=Amazon%20Elastic%20Compute%20Cloud%20(EC2)
+https://workshops.aws/?tag=Amazon%20Elastic%20File%20System%20(EFS)
+https://workshops.aws/?tag=AWS%20Elastic%20Disaster%20Recovery%20(DRS)
+https://catalog.workshops.aws/sap-dr
 https://workshops.aws/categories/Modernization
 https://workshops.aws/?tag=Real-time
 https://workshops.aws/?tag=Event-driven
