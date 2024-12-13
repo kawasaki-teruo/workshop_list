@@ -51,6 +51,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+AWS Wavelength Workshop for Emerging Markets
+Level: 300
+checkmark
+Categories: Compute, Edge Services, Hybrid Cloud
+checkmark
+Tags: EC2, EKS, VPC, ALB, Wavelength
+schedule
+2 hours
+Earlier in 2024, AWS and Orange Middle East & Africa announced plans to bring AWS Wavelength to Morocco and Senegal. In addition to the first AWS Wavelength Zones in Africa, this announcement marked the first Wavelength Zones in countries without an existing AWS Region or AWS Local Zone. With AWS Wavelength, customers can take advantage of the cloud’s on-demand scaling and pay-as-you-go pricing model, enabling them to keep their data localized while benefiting from the same reliable, secure, and high-performance infrastructure as AWS Regions. Customers can expect operational consistency, access to the same services and APIs, and the ability to use familiar tools for automation, deployments, and security controls. In this workshop, learn the technical fundamentals that will enable customers to support use cases across regulated industries that require data to remain local, such as telecom, finance, public sector, and healthcare, as well as industries that depend on low-latency applications like gaming.
+Get Started
+arrow_forward
 AWS for SAP - Disaster Recovery Workshop
 Level: 300
 checkmark
