@@ -51,6 +51,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Unleashing LLMs at the Edge with AWS IoT
+Level: 200
+checkmark
+Categories: Generative AI, Internet of Things (IoT)
+checkmark
+Tags: Gen-AI, Greengrass, IOT, EC2
+schedule
+2 hours
+In this hands-on workshop, you will learn how to build, publish & deploy a Large Language Generative AI model server along with a front end web application as an AWS IoT Greengrass component to an Amazon Elastic Compute (EC2) instance acting as an Internet-of-Things (IoT) edge device to generate text, upload & analyze images, create knowledge bases & perform Q&A chat with a Gen-AI chatbot at the edge.
+Get Started
+arrow_forward
 AWS Wavelength Workshop for Emerging Markets
 Level: 300
 checkmark

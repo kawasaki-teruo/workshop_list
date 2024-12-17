@@ -969,6 +969,24 @@
     "description": "Workshop introducing automotive-native software development approach enabling execution of the same containerized workload - with environmental parity on AWS EC2 Graviton2 and embedded ARM architecture targets."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/152946ba-494a-44d0-b66c-693c70c3ff81",
+    "valid_url": true,
+    "title": "Unleashing LLMs at the Edge with AWS IoT",
+    "level": "200",
+    "categories": [
+      "Generative AI",
+      "Internet of Things (IoT)"
+    ],
+    "tags": [
+      "Gen-AI",
+      "Greengrass",
+      "IOT",
+      "EC2"
+    ],
+    "schedule": "2 hours",
+    "description": "In this hands-on workshop, you will learn how to build, publish & deploy a Large Language Generative AI model server along with a front end web application as an AWS IoT Greengrass component to an Amazon Elastic Compute (EC2) instance acting as an Internet-of-Things (IoT) edge device to generate text, upload & analyze images, create knowledge bases & perform Q&A chat with a Gen-AI chatbot at the edge."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1665a9b6-958b-4b70-ba52-14127b8fa99f",
     "valid_url": true,
     "title": "Building a Serverless Web App with Amplify Workshop",
