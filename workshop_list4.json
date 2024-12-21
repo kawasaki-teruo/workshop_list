@@ -1273,6 +1273,27 @@
     "description": "The purpose of this workshop is to help you to run your CFD codes on AWS. We'll go from creating the HPC cluster using AWS ParallelCluster, to the installation of the most popular codes e.g STAR-CCM+, OpenFOAM, Fluent and finally example submission scripts for you to run your own cases"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/224f4cc0-cefb-4e29-95fa-365ad5a7ef28",
+    "valid_url": true,
+    "title": "SaaS and RAG: Maximizing generative AI value in multi-tenant solutions",
+    "level": "300",
+    "categories": [
+      "SaaS",
+      "GenAI",
+      "RAG"
+    ],
+    "tags": [
+      "Amazon Bedrock",
+      "Amazon OpenSearch Serverless Service",
+      "Amazon API Gateway",
+      "AWS Lambda",
+      "Amazon CloudWatch",
+      "S3"
+    ],
+    "schedule": "2.5 hours",
+    "description": "This hands-on workshop will demonstrate how to build a multi-tenant GenAI SaaS solution using RAG. Participants will learn best practices for creating multi-tenant architecture, implementing tenant isolation, enabling tenant throttling experience, and calculating cost per tenant"
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/23c3858d-e5aa-4bf6-ba83-fada90ff0732",
     "valid_url": true,
     "title": "AWS HealthLake Patient Matching with AWS Entity Resolution",

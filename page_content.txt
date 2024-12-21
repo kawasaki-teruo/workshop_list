@@ -51,6 +51,17 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+SaaS and RAG: Maximizing generative AI value in multi-tenant solutions
+Level: 300
+checkmark
+Categories: SaaS, GenAI, RAG
+checkmark
+Tags: Amazon Bedrock, Amazon OpenSearch Serverless Service, Amazon API Gateway, AWS Lambda, Amazon CloudWatch, S3
+schedule
+2.5 hours
+This hands-on workshop will demonstrate how to build a multi-tenant GenAI SaaS solution using RAG. Participants will learn best practices for creating multi-tenant architecture, implementing tenant isolation, enabling tenant throttling experience, and calculating cost per tenant
+Get Started
+arrow_forward
 Unleashing LLMs at the Edge with AWS IoT
 Level: 200
 checkmark

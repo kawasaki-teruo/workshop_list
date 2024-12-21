@@ -279,6 +279,7 @@ https://workshops.aws/categories/Power%20&%20Utilities
 https://workshops.aws/categories/Privacy
 https://workshops.aws/categories/Prompt%20Engineering
 https://workshops.aws/categories/QuickSight
+https://workshops.aws/categories/RAG
 https://workshops.aws/categories/RDS
 https://workshops.aws/categories/Rancher
 https://workshops.aws/categories/Red%20Hat%20OpenShift%20Service%20on%20AWS
@@ -357,6 +358,16 @@ https://workshops.aws/categories/Lambda@Edge
 https://workshops.aws/?tag=CloudFront
 https://workshops.aws/?tag=Lambda@Edge
 https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766/en-US
+https://workshops.aws/categories/SaaS
+https://workshops.aws/categories/GenAI
+https://workshops.aws/categories/RAG
+https://workshops.aws/?tag=Amazon%20Bedrock
+https://workshops.aws/?tag=Amazon%20OpenSearch%20Serverless%20Service
+https://workshops.aws/?tag=Amazon%20API%20Gateway
+https://workshops.aws/?tag=AWS%20Lambda
+https://workshops.aws/?tag=Amazon%20CloudWatch
+https://workshops.aws/?tag=S3
+https://catalog.us-east-1.prod.workshops.aws/workshops/224f4cc0-cefb-4e29-95fa-365ad5a7ef28
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/categories/Internet%20of%20Things%20%28IoT%29
 https://workshops.aws/?tag=Gen-AI
