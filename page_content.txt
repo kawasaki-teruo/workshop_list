@@ -51,6 +51,149 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Building Matter PKI leverage AWS Private Certificate Authority
+Level: 200
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: Private CA
+schedule
+1 hour
+Detailed steps on how to build Matter PKI leverage AWS Private Certificate Authority
+Get Started
+arrow_forward
+AWS ACM Hands-On Troubleshooting Workshop
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: ACM
+schedule
+1 hour
+ALearn how to troubleshoot common ACM DNS-validation scenarios. Requires a Registered Domain.
+Get Started
+arrow_forward
+Encryption in Transit Workshop
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: Private CA, ACM
+schedule
+3 hours
+In this workshop, we will explore a number of different services that can help ensure encryption in transit in your AWS Applications. We'll develop hands-on experience with encryption in transit with various use cases. These will range from setting up a PKI hierarchy on AWS, developing TLS applications, enabling secure service to service communication with VPC Lattice, building IoT use cases, and using private certificates in container based workloads.
+Get Started
+arrow_forward
+Data protection in event driven architectures
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: KMS,
+schedule
+1 hour
+In this builder session, we will create a demo serverless architecture with data protection specifically as the goal. Dive deep with AWS Key Management Service (AWS KMS) to encrypt data at rest with a customer managed key (CMKs) and use key policies and resource policies to enforce least privilege. Gain hands on experience building and deploying a serverless app with Amazon SNS, Amazon SQS, and AWS Lambda.
+Get Started
+arrow_forward
+AWS KMS Hands-On Troubleshooting Workshop
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: KMS
+schedule
+2 hours
+This workshop will cover some of the most common customer issues in the Key Management Service, including S3/KMS integrations, checking CloudTrail logs, and Identity Access Management policy verification. You will troubleshoot KMS key policies and verify exactly what KMS keys are being used on your S3 objects in a multi-regional scenario. Feel free to reach out to @gmmcgilv for any questions or feedback.
+Get Started
+arrow_forward
+KMS Workshop
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: KMS
+schedule
+3 hours
+This hands-on lab is designed to provide customers with a comprehensive understanding of AWS KMS, a powerful service for managing cryptographic keys and controlling their use across a wide range of AWS services and applications.
+Get Started
+arrow_forward
+AWS Secrets Manager + CyberArk Secrets Hub
+Level: 200
+checkmark
+Categories: Encryption, Security, Data protection
+checkmark
+Tags: Secrets Manager
+schedule
+3 hours
+In this workshop you will implement steps to configure AWS Secrets Manager for CyberArk Secrets Hub access.
+Get Started
+arrow_forward
+AWS Secrets Manager workshop - AWS Led
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: Secrets Manager
+schedule
+2 hours
+Store, retrieve, and manage sensitive credentials in AWS Secrets Manager.
+Get Started
+arrow_forward
+Amazon Personalize 101 for E-Commerce
+Level: 300
+checkmark
+Categories: AI/ML, Machine Learning
+checkmark
+Tags: Personalize, DataBrew, Lambda, Personalization, E-commerce
+schedule
+4 hours
+Learn how to build and deploy personalized recommendations for e-commerce applications using Amazon Personalize in this comprehensive, hands-on workshop designed for developers with no prior machine learning experience. Through interactive labs, you'll master the end-to-end process of creating a recommender system—from data preparation to model deployment and integration—using AWS Console, while gaining practical insights and best practices for implementing personalization in your own applications.
+Get Started
+arrow_forward
+Ways to Retrieve Secrets from AWS Secrets Manager Across AWS Compute Environments
+Level: 300
+checkmark
+Categories: Security, Identity and compliance, Encryption, Security, Data Protection
+checkmark
+Tags: Secrets Manager
+schedule
+2 hours
+This workshop shows how to retrieve secrets from AWS Secrets Manager in many AWS Compute Environments . It shows how to use the Lambda extension to retrieve secrets in a Lambda function. it shows how to use the AW Secrets Manager Go Caching Client to retrieve secrets in an EC2 instance and an ECS service. It then shows how to use the AWS Secrets Manager and Config Provider for Secret Store CSI Driver to retrieve secrets in an EKS environment.
+Get Started
+arrow_forward
+Deep dive on AWS IAM Roles Anywhere
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: Private CA, ACM
+schedule
+2 hours
+Through this Workshop you can learn the inner mechanism of IAM Roles Anywhere and how to use it from your non-AWS ecosystem through the CLI, through the AWS Credential file, and through the SDK.
+Get Started
+arrow_forward
+Using Post-Quantum Cryptography on AWS
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: Payment Cryptography
+schedule
+2 hours
+AWS Introduction to Post-Quantum Cryptography Workshop
+Get Started
+arrow_forward
+CloudHSM Workshop
+Level: 300
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: CloudHSM
+schedule
+2 hours
+This workshop covers topics as SSL/TLS offloading using CloudHSM, logging and monitoring of clusters, containerized applications backed with CloudHSM service, KMS integration with CloudHSM for Custom Key store management (CKS)
+Get Started
+arrow_forward
 SaaS and RAG: Maximizing generative AI value in multi-tenant solutions
 Level: 300
 checkmark

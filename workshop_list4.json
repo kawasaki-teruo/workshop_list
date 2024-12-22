@@ -1770,6 +1770,22 @@
     "description": "Learn how you can access S3 endpoints from inside your VPC as well as from on-premises. AWS PrivateLink provides private connectivity between S3 endpoints, other AWS services, and your on-premises networks, without exposing your traffic to the Public Internet. Interface VPC endpoints, powered by AWS PrivateLink, also connect you to services hosted by AWS Partners and supported solutions available in AWS Marketplace."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3ac9c80a-20b4-4a39-a744-b1cae9020733",
+    "valid_url": true,
+    "title": "AWS Secrets Manager + CyberArk Secrets Hub",
+    "level": "200",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data protection"
+    ],
+    "tags": [
+      "Secrets Manager"
+    ],
+    "schedule": "3 hours",
+    "description": "In this workshop you will implement steps to configure AWS Secrets Manager for CyberArk Secrets Hub access."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3b06259f-8e17-4f2f-811a-75c9b06a2807",
     "valid_url": true,
     "title": "Scale your EKS workloads by running on IPv6",
@@ -3068,6 +3084,22 @@
     "description": "Financial institutions are exploring initial use cases for generative AI, including chatbot and customer support. In this workshop, you will go beyond these use cases and build a financial and identity knowledge graph for lending and credit decisions. Your goal is to build a knowledge graph using Amazon Neptune by synthesizing structured and unstructured data leveraging generative AI for metadata enrichment, query generation, and search functionality."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/92e466fd-bd95-4805-9f16-2df07450db42",
+    "valid_url": true,
+    "title": "AWS Secrets Manager workshop - AWS Led",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Secrets Manager"
+    ],
+    "schedule": "2 hours",
+    "description": "Store, retrieve, and manage sensitive credentials in AWS Secrets Manager."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/93d77bd0-073e-445f-82f8-db877beb9d7a",
     "valid_url": true,
     "title": "Renewable energy assets in the smart home",
@@ -3293,6 +3325,22 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop we discuss various approaches of building a multi-tenant architecture using AWS IoT Core"
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a5e4d4c2-9a7c-4753-8af5-c89cff42cc32",
+    "valid_url": true,
+    "title": "KMS Workshop",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "KMS"
+    ],
+    "schedule": "3 hours",
+    "description": "This hands-on lab is designed to provide customers with a comprehensive understanding of AWS KMS, a powerful service for managing cryptographic keys and controlling their use across a wide range of AWS services and applications."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a8ae0cec-f2b9-4c14-bec5-124c758562be",
@@ -4575,6 +4623,22 @@
     "description": "This workshop introduces AWS Fault Injection Service (FIS) for running resilience experiments to improve application performance, observability, and resilience. It covers the concepts of chaos engineering, commonly referred to as resilience testing. Resilience experiments can be performed using both manual and automated techniques. The workshop focuses on using FIS to manually inject faults in a controlled and Ad-Hoc manner to understand application behavior and improve resilience."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ec86887c-5a1f-4b43-8d69-cf7c95ba132d",
+    "valid_url": true,
+    "title": "Building Matter PKI leverage AWS Private Certificate Authority",
+    "level": "200",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Private CA"
+    ],
+    "schedule": "1 hour",
+    "description": "Detailed steps on how to build Matter PKI leverage AWS Private Certificate Authority"
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d",
     "valid_url": true,
     "title": "Amazon Connect Voice ID",
@@ -4887,6 +4951,22 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop, learn the fundamentals of AWS Wavelength alongside a step-by-step guide to deploying your first application at the network edge. Moreover, learn how to measure application performance and troubleshoot popular FAQs and configurations."
+  },
+  {
+    "url": "https://catalog.workshops.aws/acm-troubleshooting",
+    "valid_url": true,
+    "title": "AWS ACM Hands-On Troubleshooting Workshop",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "ACM"
+    ],
+    "schedule": "1 hour",
+    "description": "ALearn how to troubleshoot common ACM DNS-validation scenarios. Requires a Registered Domain."
   },
   {
     "url": "https://catalog.workshops.aws/agents-for-amazon-bedrock",
@@ -5594,6 +5674,23 @@
     "description": "Cedar is a language for defining permissions as policies that describe who should have access to what. Amazon Verified Permissions and AWS Verified Access use Cedar to define fine-grained permissions for applications and end users. In this workshop, learn by building Cedar policies for access control."
   },
   {
+    "url": "https://catalog.workshops.aws/certificatemanager",
+    "valid_url": true,
+    "title": "Encryption in Transit Workshop",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Private CA",
+      "ACM"
+    ],
+    "schedule": "3 hours",
+    "description": "In this workshop, we will explore a number of different services that can help ensure encryption in transit in your AWS Applications. We'll develop hands-on experience with encryption in transit with various use cases. These will range from setting up a PKI hierarchy on AWS, developing TLS applications, enabling secure service to service communication with VPC Lattice, building IoT use cases, and using private certificates in container based workloads."
+  },
+  {
     "url": "https://catalog.workshops.aws/cidforazure",
     "valid_url": true,
     "title": "Cloud Intelligence Dashboard for Azure",
@@ -5738,6 +5835,23 @@
     "description": "This workshop takes you through how you can create an AWS Control Tower environment. AWS Control Tower is a secure multi-account environment built to AWS best practices."
   },
   {
+    "url": "https://catalog.workshops.aws/data-protection-eda",
+    "valid_url": true,
+    "title": "Data protection in event driven architectures",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "KMS",
+      ""
+    ],
+    "schedule": "1 hour",
+    "description": "In this builder session, we will create a demo serverless architecture with data protection specifically as the goal. Dive deep with AWS Key Management Service (AWS KMS) to encrypt data at rest with a customer managed key (CMKs) and use key policies and resource policies to enforce least privilege. Gain hands on experience building and deploying a serverless app with Amazon SNS, Amazon SQS, and AWS Lambda."
+  },
+  {
     "url": "https://catalog.workshops.aws/databasemigration",
     "valid_url": true,
     "title": "AWS Database Migration Workshop",
@@ -5791,6 +5905,23 @@
     ],
     "schedule": "4 hours",
     "description": "Learn how to use dbt CLI to manage data transformations in Amazon Redshift with features including modular programming and data lineage."
+  },
+  {
+    "url": "https://catalog.workshops.aws/deep-dive-on-roles-anywhere",
+    "valid_url": true,
+    "title": "Deep dive on AWS IAM Roles Anywhere",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Private CA",
+      "ACM"
+    ],
+    "schedule": "2 hours",
+    "description": "Through this Workshop you can learn the inner mechanism of IAM Roles Anywhere and how to use it from your non-AWS ecosystem through the CLI, through the AWS Credential file, and through the SDK."
   },
   {
     "url": "https://catalog.workshops.aws/dynamodb-labs",
@@ -6015,6 +6146,22 @@
     ],
     "schedule": "3 hours",
     "description": "Learn how to set up an Inspection VPC using AWS Gateway Load Balancer, Transit Gateway, and third-party firewalls such as Cisco, Fortinet, and more."
+  },
+  {
+    "url": "https://catalog.workshops.aws/hsm-on-aws",
+    "valid_url": true,
+    "title": "CloudHSM Workshop",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "CloudHSM"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop covers topics as SSL/TLS offloading using CloudHSM, logging and monitoring of clusters, containerized applications backed with CloudHSM service, KMS integration with CloudHSM for Custom Key store management (CKS)"
   },
   {
     "url": "https://catalog.workshops.aws/hybrid-and-edge-generative-ai",
@@ -6465,6 +6612,25 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop, you will learn approaches to understand the performance of your applications and various optimization techniques. These techniques can be applied directly against your own AWS environment with minimal time and effort. You will be provided an AWS Account with a sample application suffering from poor performance. You will gain an understanding of how to optimize both your AWS infrastructure and your application code to achieve maximum efficiency (and potentially reduce costs)."
+  },
+  {
+    "url": "https://catalog.workshops.aws/personalize-101-ecommerce",
+    "valid_url": true,
+    "title": "Amazon Personalize 101 for E-Commerce",
+    "level": "300",
+    "categories": [
+      "AI/ML",
+      "Machine Learning"
+    ],
+    "tags": [
+      "Personalize",
+      "DataBrew",
+      "Lambda",
+      "Personalization",
+      "E-commerce"
+    ],
+    "schedule": "4 hours",
+    "description": "Learn how to build and deploy personalized recommendations for e-commerce applications using Amazon Personalize in this comprehensive, hands-on workshop designed for developers with no prior machine learning experience. Through interactive labs, you'll master the end-to-end process of creating a recommender system—from data preparation to model deployment and integration—using AWS Console, while gaining practical insights and best practices for implementing personalization in your own applications."
   },
   {
     "url": "https://catalog.workshops.aws/quicksight",
@@ -7162,6 +7328,22 @@
     ],
     "schedule": "1 hour",
     "description": "Learn how to setup custom error branching logging and alarms within Amazon Connect Flows."
+  },
+  {
+    "url": "https://catalog.workshops.aws/using-pq-crypto-on-aws",
+    "valid_url": true,
+    "title": "Using Post-Quantum Cryptography on AWS",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Payment Cryptography"
+    ],
+    "schedule": "2 hours",
+    "description": "AWS Introduction to Post-Quantum Cryptography Workshop"
   },
   {
     "url": "https://catalog.workshops.aws/verified-permissions-in-action",
@@ -9080,6 +9262,24 @@
     "description": "Build your first DevOps Blue/Green Deployment Pipeline for a Monolith Application with Amazon ECS. This workshop provide step by step guidance to deploy monolith application through DevOps Blue/Green Deployment Pipeline on Amazon ECS with EC2 fleet of servers and Amazon ECS with AWS Fargate."
   },
   {
+    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours",
+    "valid_url": true,
+    "title": "Ways to Retrieve Secrets from AWS Secrets Manager Across AWS Compute Environments",
+    "level": "300",
+    "categories": [
+      "Security",
+      "Identity and compliance",
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Secrets Manager"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop shows how to retrieve secrets from AWS Secrets Manager in many AWS Compute Environments . It shows how to use the Lambda extension to retrieve secrets in a Lambda function. it shows how to use the AW Secrets Manager Go Caching Client to retrieve secrets in an EC2 instance and an ECS service. It then shows how to use the AWS Secrets Manager and Config Provider for Secret Store CSI Driver to retrieve secrets in an EKS environment."
+  },
+  {
     "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36",
     "valid_url": true,
     "title": "CI/CD for ECS Workshop",
@@ -9102,6 +9302,22 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop provides an in-depth introduction to building CI/CD pipelines for ECS using AWS developer tools. It starts with a simple single-stage rolling update pipeline, and then builds on this to cover multi-stage pipelines, a variety of deployment strategies, and GitOps. Also includes optional modules on pipeline templating, and using Terraform for GitOps."
+  },
+  {
+    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/a081e718-4acc-4877-acc3-94fba8a64bce",
+    "valid_url": true,
+    "title": "AWS KMS Hands-On Troubleshooting Workshop",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "KMS"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop will cover some of the most common customer issues in the Key Management Service, including S3/KMS integrations, checking CloudTrail logs, and Identity Access Management policy verification. You will troubleshoot KMS key policies and verify exactly what KMS keys are being used on your S3 objects in a multi-regional scenario. Feel free to reach out to @gmmcgilv for any questions or feedback."
   },
   {
     "url": "https://tao.workshop.aws",
