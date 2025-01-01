@@ -5617,4 +5617,4 @@ schedule
 You will be migrating workloads typically exist in datacenters or co-locs. In this workshop we will explore different migration patterns. Mainly we are going to lift-and-shift workloads using CloudEndure. This lab demonstrates how to: Review and understand how to migrate a working, two-tier application consisting of an application and database server, Deploy the CloudEndure Live Migration Agents on an application and database server for large scale environment, Replicate and migrate an application, database server and directory server from an on premise environment to a region within AWS
 Get Started
 arrow_forward
-© 2024, Amazon Web Services, Inc. or its affiliates. All rights reserved. Privacy | Site Terms | Contact/feedback
+© 2025, Amazon Web Services, Inc. or its affiliates. All rights reserved. Privacy | Site Terms | Contact/feedback
