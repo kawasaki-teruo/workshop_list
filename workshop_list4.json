@@ -175,7 +175,7 @@
   },
   {
     "url": "https://amazonlex.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon Lex Workshop",
     "level": "200",
     "categories": [
@@ -1122,7 +1122,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1dc3614b-247d-43d9-89c0-5f7148479bc7",
-    "valid_url": true,
+    "valid_url": false,
     "title": "RDS Chaos Engineering",
     "level": "300",
     "categories": [
@@ -1331,7 +1331,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/24a39743-7e40-48ca-ba5e-704f2e3d74ec",
-    "valid_url": true,
+    "valid_url": false,
     "title": ".NET Development on AWS",
     "level": "200",
     "categories": [
@@ -1353,7 +1353,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/262d4203-9742-4620-a373-54120c49e7ec",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building a Memory Match Game Using Flutter & AWS Amplify",
     "level": "300",
     "categories": [
@@ -1739,7 +1739,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/38565e8c-3a5f-4e93-8412-5fdec23744ca",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Cisco Secure Firewall Threat Defense Workshop",
     "level": "300",
     "categories": [
@@ -1787,7 +1787,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3b06259f-8e17-4f2f-811a-75c9b06a2807",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Scale your EKS workloads by running on IPv6",
     "level": "300",
     "categories": [
@@ -2311,7 +2311,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5b7fe737-7ea2-4c4d-b572-76df6adabd47",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build a cloud experience with Cloudscape, an open-source design system",
     "level": "300",
     "categories": [
@@ -2344,7 +2344,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5c638386-482b-4a90-b4f9-14b6b7de041f",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Cloud Native Development Of Synthetic Sensors With BlackBerry IVY on Linux",
     "level": "300",
     "categories": [
@@ -2616,7 +2616,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/70168edf-3855-4cdb-95ff-54bdecef1410",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Accelerate development with Amazon CodeCatalyst custom blueprints",
     "level": "300",
     "categories": [
@@ -2925,7 +2925,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Handling Rewrites and Redirects using Edge Functions",
     "level": "300",
     "categories": [
@@ -3068,7 +3068,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/91de94fc-db65-4137-9e26-11e58f4ac26b",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Beyond chatbots: Unleashing knowledge graphs with generative AI",
     "level": "400",
     "categories": [
@@ -3386,7 +3386,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a9661c42-97f6-400a-8dee-a8396e8d418f",
-    "valid_url": true,
+    "valid_url": false,
     "title": "IAM Policies Troubleshooting",
     "level": "300",
     "categories": [
@@ -3543,7 +3543,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5b776fe-bf8b-4f51-a09d-880d39210619",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon Athena for Apache Spark Workshop",
     "level": "200",
     "categories": [
@@ -3616,7 +3616,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b9049f6d-bcbb-41fa-9ed4-db51a6f8cb72",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Simulate, Monitor and Optimize a Bottling Plant in the AWS cloud",
     "level": "300",
     "categories": [
@@ -3632,7 +3632,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bbbcd7a4-5fe8-4858-8401-c43be3a9c499",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Detect, investigate and respond to security scenarios",
     "level": "300",
     "categories": [
@@ -3669,7 +3669,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bcfb7b70-a090-4563-a058-496c1a4fbf32",
-    "valid_url": true,
+    "valid_url": false,
     "title": "DevSecOps - Integrating security into your pipeline",
     "level": "300",
     "categories": [
@@ -4019,7 +4019,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d431e0b1-9f08-4d82-822e-ea56962b2a0b",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Slurm REST API, Accounting and Federation on AWS ParallelCluster",
     "level": "400",
     "categories": [
@@ -4088,7 +4088,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2320f17af14b",
-    "valid_url": true,
+    "valid_url": false,
     "title": "No Code Low Code Data Lake Fast Start",
     "level": "200",
     "categories": [
@@ -5621,7 +5621,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/building-your-first-serverless-application-with-aws-sam",
-    "valid_url": true,
+    "valid_url": false,
     "title": "My Fantastic Sample Workshop",
     "level": "200",
     "categories": [
@@ -5772,7 +5772,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/contributing-to-the-terraform-provider",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Contributing to the AWS Provider",
     "level": "300",
     "categories": [
@@ -7315,7 +7315,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/troubleshooting-contact-flow-errors",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Troubleshooting contact flow errors in Amazon Connect",
     "level": "200",
     "categories": [
@@ -7443,7 +7443,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/workshops/79931708-eca5-4fcc-93eb-35328c5f9615",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Deploy RStudio and Perform Analysis with Amazon Lightsail for Research",
     "level": "200",
     "categories": [
@@ -9151,7 +9151,7 @@
   },
   {
     "url": "https://simple-crud-api.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build your first CRUD API in 45 minutes or less!",
     "level": "200",
     "categories": [
@@ -9185,7 +9185,7 @@
   },
   {
     "url": "https://ssm-inventory-visualize.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "SSM Inventory visualization (Japanese)",
     "level": "200",
     "categories": [
@@ -9511,7 +9511,7 @@
   },
   {
     "url": "https://zerotrust-service2service.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Zero Trust Episode 1 - The Phantom Service Perimeter",
     "level": "200",
     "categories": [
