@@ -51,6 +51,39 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Cost Visibility and Attribution in Multi-Tenant SaaS Environments
+Level: 400
+checkmark
+Categories: Containers, Databases, Serverless
+checkmark
+Tags: SaaS, Cost Management
+schedule
+3 hours
+SaaS providers are constantly striving for cost and usage awareness across their users, tenants, features, and tiers. In this workshop, we will look into the various approaches you can use to track the SaaS per tenant cost and eventually visualize the cost using tools like AWS Cloud Intelligence dashboard.
+Get Started
+arrow_forward
+Building resilient and scalable SaaS applications with a cell-based architecture
+Level: 400
+checkmark
+Categories: Containers, Compute, Databases
+checkmark
+Tags: SaaS, Architecture
+schedule
+3 hours
+In this workshop, we’ll look at how cell-based architectures provide you with new ways to group, deploy, scale, and operate your multi-tenant workloads. We’ll go under the hood of a working SaaS cell-based architecture, implement provisioning, configuration, observability, routing, and sharding of cells. We’ll also look at how this approach influences the tiering, scaling, and resiliency profile of your SaaS architecture.
+Get Started
+arrow_forward
+Building Matter PKI leverage AWS Private Certificate Authority
+Level: 200
+checkmark
+Categories: Encryption, Security, Data Protection
+checkmark
+Tags: Private CA
+schedule
+1 hour
+Detailed steps on how to build Matter PKI leverage AWS Private Certificate Authority
+Get Started
+arrow_forward
 Building Matter PKI leverage AWS Private Certificate Authority
 Level: 200
 checkmark

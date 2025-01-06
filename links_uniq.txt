@@ -101,6 +101,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4191fcf7-06cc-4b4a-b13c-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/425648be-6b4b-4e60-90d2-077a74de91ab
 https://catalog.us-east-1.prod.workshops.aws/workshops/428641a0-1414-4fb7-8de6-a38c053ee19e
 https://catalog.us-east-1.prod.workshops.aws/workshops/446304b7-b946-4c40-b78f-08bf0025d8f6
+https://catalog.us-east-1.prod.workshops.aws/workshops/44d6042c-1ff7-43c2-9343-cff46c43e165
 https://catalog.us-east-1.prod.workshops.aws/workshops/4557215e-2a5c-4522-a69b-8d058aba088c
 https://catalog.us-east-1.prod.workshops.aws/workshops/4a8553ab-4dc9-45f8-8f2f-fa417f049653
 https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562
@@ -130,6 +131,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/5eef6b5e-7cf0-427b-85fc-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb
 https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8
+https://catalog.us-east-1.prod.workshops.aws/workshops/6743cde7-2471-46fc-863f-5830b98f3d36
 https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
 https://catalog.us-east-1.prod.workshops.aws/workshops/6c88d70d-b69d-435f-9990-3a651cdf5311
 https://catalog.us-east-1.prod.workshops.aws/workshops/6d30487a-48e1-4631-b6bc-5602582800b5
@@ -709,6 +711,7 @@ https://workshops.aws/?tag=AppSync
 https://workshops.aws/?tag=Application%20Discovery%20Services
 https://workshops.aws/?tag=Application%20Security
 https://workshops.aws/?tag=Application%20Streaming
+https://workshops.aws/?tag=Architecture
 https://workshops.aws/?tag=ArgoCD
 https://workshops.aws/?tag=Artificial%20Intelligence
 https://workshops.aws/?tag=Asset%20Tracking

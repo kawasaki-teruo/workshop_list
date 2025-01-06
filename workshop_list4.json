@@ -1961,6 +1961,23 @@
     "description": "Learn AWS IoT services through building a working robot using a Raspberry Pi"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/44d6042c-1ff7-43c2-9343-cff46c43e165",
+    "valid_url": true,
+    "title": "Building resilient and scalable SaaS applications with a cell-based architecture",
+    "level": "400",
+    "categories": [
+      "Containers",
+      "Compute",
+      "Databases"
+    ],
+    "tags": [
+      "SaaS",
+      "Architecture"
+    ],
+    "schedule": "3 hours",
+    "description": "In this workshop, we’ll look at how cell-based architectures provide you with new ways to group, deploy, scale, and operate your multi-tenant workloads. We’ll go under the hood of a working SaaS cell-based architecture, implement provisioning, configuration, observability, routing, and sharding of cells. We’ll also look at how this approach influences the tiering, scaling, and resiliency profile of your SaaS architecture."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4557215e-2a5c-4522-a69b-8d058aba088c",
     "valid_url": true,
     "title": "Improve Your Architecture With Amazon CloudFront",
@@ -2485,6 +2502,23 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop demonstrates how Amazon Connect's native ability to integrate with Amazon Lex can provide several benefits, including enhancing your Interactive Voice Response (IVR) menu with Natural Language (NL) processing, and dynamic delivery of content."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6743cde7-2471-46fc-863f-5830b98f3d36",
+    "valid_url": true,
+    "title": "Cost Visibility and Attribution in Multi-Tenant SaaS Environments",
+    "level": "400",
+    "categories": [
+      "Containers",
+      "Databases",
+      "Serverless"
+    ],
+    "tags": [
+      "SaaS",
+      "Cost Management"
+    ],
+    "schedule": "3 hours",
+    "description": "SaaS providers are constantly striving for cost and usage awareness across their users, tenants, features, and tiers. In this workshop, we will look into the various approaches you can use to track the SaaS per tenant cost and eventually visualize the cost using tools like AWS Cloud Intelligence dashboard."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de",
@@ -4621,6 +4655,22 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop introduces AWS Fault Injection Service (FIS) for running resilience experiments to improve application performance, observability, and resilience. It covers the concepts of chaos engineering, commonly referred to as resilience testing. Resilience experiments can be performed using both manual and automated techniques. The workshop focuses on using FIS to manually inject faults in a controlled and Ad-Hoc manner to understand application behavior and improve resilience."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ec86887c-5a1f-4b43-8d69-cf7c95ba132d",
+    "valid_url": true,
+    "title": "Building Matter PKI leverage AWS Private Certificate Authority",
+    "level": "200",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Private CA"
+    ],
+    "schedule": "1 hour",
+    "description": "Detailed steps on how to build Matter PKI leverage AWS Private Certificate Authority"
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ec86887c-5a1f-4b43-8d69-cf7c95ba132d",
