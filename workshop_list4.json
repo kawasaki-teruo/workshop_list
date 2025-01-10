@@ -4122,7 +4122,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2320f17af14b",
-    "valid_url": false,
+    "valid_url": true,
     "title": "No Code Low Code Data Lake Fast Start",
     "level": "200",
     "categories": [
