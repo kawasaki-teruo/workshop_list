@@ -95,6 +95,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/3ac9c80a-20b4-4a39-a744-b
 https://catalog.us-east-1.prod.workshops.aws/workshops/3b06259f-8e17-4f2f-811a-75c9b06a2807
 https://catalog.us-east-1.prod.workshops.aws/workshops/3be7b9f7-146c-4112-94bd-444dd7cc5556
 https://catalog.us-east-1.prod.workshops.aws/workshops/3c892c47-5c1d-4ea5-b38f-86e624aa2ea9
+https://catalog.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900
 https://catalog.us-east-1.prod.workshops.aws/workshops/3e2bf44c-855a-4e0f-8aba-0e20ea89be2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/40e3080c-4cdd-4dcd-8768-6ebcadc11f81
 https://catalog.us-east-1.prod.workshops.aws/workshops/4191fcf7-06cc-4b4a-b13c-e7c4813f4839
@@ -106,6 +107,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4557215e-2a5c-4522-a69b-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/4a8553ab-4dc9-45f8-8f2f-fa417f049653
 https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c
+https://catalog.us-east-1.prod.workshops.aws/workshops/4b59b9fb-48b6-461c-9377-907b2e33c9df
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b8a4050-893e-40f3-9788-8256025024b4
 https://catalog.us-east-1.prod.workshops.aws/workshops/4d04d703-4ea1-4848-8798-cf1b5c828842
 https://catalog.us-east-1.prod.workshops.aws/workshops/4d9ab448-5083-4db7-bee8-85b58cd53158
@@ -117,6 +119,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/51c37f4d-f2be-441b-b30f-5
 https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26
 https://catalog.us-east-1.prod.workshops.aws/workshops/578da574-492d-439f-8f20-f14a782e3701
 https://catalog.us-east-1.prod.workshops.aws/workshops/57b6024b-0dba-4d45-a0f2-6662a2dbbdef
+https://catalog.us-east-1.prod.workshops.aws/workshops/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours
 https://catalog.us-east-1.prod.workshops.aws/workshops/59005b2b-47a6-4342-891a-3b9b0ff575c6
 https://catalog.us-east-1.prod.workshops.aws/workshops/590f8439-42c7-46a1-8e70-28ee41498b3a
 https://catalog.us-east-1.prod.workshops.aws/workshops/5947f74f-c896-48ff-85bc-e822bc5e5ead
@@ -159,6 +162,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/85510359-c3c2-4200-b0a8-8020d4473875
+https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
 https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f
 https://catalog.us-east-1.prod.workshops.aws/workshops/8c574542-1d89-461e-b810-bce394392c61
 https://catalog.us-east-1.prod.workshops.aws/workshops/8c8f65e2-3d33-443d-9865-6d8f1d6d1a91
@@ -174,6 +178,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/989c3aad-3f3e-405f-8519-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/9a6b5bae-6ee2-4704-9f84-ff9705435834
 https://catalog.us-east-1.prod.workshops.aws/workshops/9e0368c0-8c49-4bec-a210-8480b51a34ac
 https://catalog.us-east-1.prod.workshops.aws/workshops/9e92e223-2987-4c77-8a80-02d66f452d60
+https://catalog.us-east-1.prod.workshops.aws/workshops/a081e718-4acc-4877-acc3-94fba8a64bce
 https://catalog.us-east-1.prod.workshops.aws/workshops/a1575309-1f43-4945-a5fa-a4d62d5e821d
 https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518
 https://catalog.us-east-1.prod.workshops.aws/workshops/a549739b-1680-4e97-b55e-94cd0d4d2542
@@ -485,11 +490,6 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
-https://studio.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900
-https://studio.us-east-1.prod.workshops.aws/workshops/public/4b59b9fb-48b6-461c-9377-907b2e33c9df
-https://studio.us-east-1.prod.workshops.aws/workshops/public/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours
-https://studio.us-east-1.prod.workshops.aws/workshops/public/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
-https://studio.us-east-1.prod.workshops.aws/workshops/public/a081e718-4acc-4877-acc3-94fba8a64bce
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws

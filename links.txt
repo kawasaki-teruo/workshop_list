@@ -403,7 +403,7 @@ https://workshops.aws/categories/Encryption
 https://workshops.aws/categories/Security
 https://workshops.aws/categories/Data%20Protection
 https://workshops.aws/?tag=KMS
-https://studio.us-east-1.prod.workshops.aws/workshops/public/a081e718-4acc-4877-acc3-94fba8a64bce
+https://catalog.us-east-1.prod.workshops.aws/workshops/a081e718-4acc-4877-acc3-94fba8a64bce
 https://workshops.aws/categories/Encryption
 https://workshops.aws/categories/Security
 https://workshops.aws/categories/Data%20Protection
@@ -432,7 +432,7 @@ https://workshops.aws/categories/Encryption
 https://workshops.aws/categories/Security
 https://workshops.aws/categories/Data%20Protection
 https://workshops.aws/?tag=Secrets%20Manager
-https://studio.us-east-1.prod.workshops.aws/workshops/public/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours
+https://catalog.us-east-1.prod.workshops.aws/workshops/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours
 https://workshops.aws/categories/Encryption
 https://workshops.aws/categories/Security
 https://workshops.aws/categories/Data%20Protection
@@ -530,7 +530,7 @@ https://workshops.aws/categories/Amazon%20Managed%20Streaming%20for%20Kafka
 https://workshops.aws/?tag=EC2
 https://workshops.aws/?tag=MSK
 https://workshops.aws/?tag=Data%20Replication
-https://studio.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900
+https://catalog.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900
 https://workshops.aws/categories/AWS%20Identity%20&%20Access%20Management%20%28IAM%29
 https://workshops.aws/categories/Security
 https://workshops.aws/?tag=AWS%20IAM
@@ -3766,7 +3766,7 @@ https://workshops.aws/?tag=CodePipeline
 https://workshops.aws/?tag=Cloud%20Map
 https://workshops.aws/?tag=CloudFormation
 https://workshops.aws/?tag=Terraform
-https://studio.us-east-1.prod.workshops.aws/workshops/public/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
+https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
 https://workshops.aws/categories/Migrations
 https://workshops.aws/categories/Modernization
 https://workshops.aws/?tag=EC2
@@ -4157,7 +4157,7 @@ https://workshops.aws/?tag=CodePipeline
 https://workshops.aws/?tag=Elastic%20Container%20Registry
 https://workshops.aws/?tag=Elastic%20Load%20Balancer
 https://workshops.aws/?tag=EC2
-https://studio.us-east-1.prod.workshops.aws/workshops/public/4b59b9fb-48b6-461c-9377-907b2e33c9df
+https://catalog.us-east-1.prod.workshops.aws/workshops/4b59b9fb-48b6-461c-9377-907b2e33c9df
 https://workshops.aws/categories/Messaging
 https://workshops.aws/categories/Application%20Integration
 https://workshops.aws/?tag=JMS

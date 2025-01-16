@@ -1838,6 +1838,23 @@
     "description": "In this module, students will configure an Amazon Connect contact flow that uses data from Salesforce to alter customer experiences, change routing destinations, change priorities, and present different options such as callbacks. At then end, the student will have a Service Cloud Voice enabled contact flow that demonstrates a number of different customer experiences."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900",
+    "valid_url": true,
+    "title": "AWS Mainframe Modernization Data Replication with Precisely",
+    "level": "400",
+    "categories": [
+      "Mainframe Modernization",
+      "Amazon Managed Streaming for Kafka"
+    ],
+    "tags": [
+      "EC2",
+      "MSK",
+      "Data Replication"
+    ],
+    "schedule": "2 hours",
+    "description": "Unleash the power of mainframe data with AWS and generative AI"
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3e2bf44c-855a-4e0f-8aba-0e20ea89be2b",
     "valid_url": true,
     "title": "Mainframe Modernization Replatform Workshop",
@@ -2042,6 +2059,29 @@
     "description": "Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4b59b9fb-48b6-461c-9377-907b2e33c9df",
+    "valid_url": true,
+    "title": "Building your first DevOps Blue/Green pipeline with Amazon ECS",
+    "level": "100",
+    "categories": [
+      "Compute",
+      "Containers"
+    ],
+    "tags": [
+      "Elastic Container Service",
+      "Fargate",
+      "CodeCommit",
+      "CodeBuild",
+      "CodeDeploy",
+      "CodePipeline",
+      "Elastic Container Registry",
+      "Elastic Load Balancer",
+      "EC2"
+    ],
+    "schedule": "3 hours",
+    "description": "Build your first DevOps Blue/Green Deployment Pipeline for a Monolith Application with Amazon ECS. This workshop provide step by step guidance to deploy monolith application through DevOps Blue/Green Deployment Pipeline on Amazon ECS with EC2 fleet of servers and Amazon ECS with AWS Fargate."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4b8a4050-893e-40f3-9788-8256025024b4",
     "valid_url": true,
     "title": "AWS Workshop IoT TwinMaker",
@@ -2239,6 +2279,24 @@
     ],
     "schedule": "8 hours",
     "description": "A walk-through how the DeepRacer physical car works with ROS2 to orchestrate its functionality, and a guide to deploying Greengrass components to a physical DeepRacer car. This leverages the core DeepRacer car services and deploys additional services that will allow you to connect your car to the cloud for image processing, data analytics, and cloud-based racing control."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours",
+    "valid_url": false,
+    "title": "Ways to Retrieve Secrets from AWS Secrets Manager Across AWS Compute Environments",
+    "level": "300",
+    "categories": [
+      "Security",
+      "Identity and compliance",
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "Secrets Manager"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop shows how to retrieve secrets from AWS Secrets Manager in many AWS Compute Environments . It shows how to use the Lambda extension to retrieve secrets in a Lambda function. it shows how to use the AW Secrets Manager Go Caching Client to retrieve secrets in an EC2 instance and an ECS service. It then shows how to use the AWS Secrets Manager and Config Provider for Secret Store CSI Driver to retrieve secrets in an EKS environment."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/59005b2b-47a6-4342-891a-3b9b0ff575c6",
@@ -3026,6 +3084,30 @@
     "description": "Build a bespoke web application from scratch to visualise IoT SiteWise data using AWS IoT AppKit."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36",
+    "valid_url": true,
+    "title": "CI/CD for ECS Workshop",
+    "level": "400",
+    "categories": [
+      "Containers",
+      "Developer Tools"
+    ],
+    "tags": [
+      "ECS",
+      "ECR",
+      "Fargate",
+      "CodeCommit",
+      "CodeBuild",
+      "CodeDeploy",
+      "CodePipeline",
+      "Cloud Map",
+      "CloudFormation",
+      "Terraform"
+    ],
+    "schedule": "4 hours",
+    "description": "This workshop provides an in-depth introduction to building CI/CD pipelines for ECS using AWS developer tools. It starts with a simple single-stage rolling update pipeline, and then builds on this to cover multi-stage pipelines, a variety of deployment strategies, and GitOps. Also includes optional modules on pipeline templating, and using Terraform for GitOps."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f",
     "valid_url": true,
     "title": "Centralized Containers Monitoring Cross-Cloud on Amazon Managed Service for Prometheus",
@@ -3294,6 +3376,22 @@
     ],
     "schedule": "3 hours",
     "description": "Details the deployment models, architecture, configured AWS services, integration points, APIs, and provided AWS Lambda functions that power the Service Cloud Voice Architecture."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a081e718-4acc-4877-acc3-94fba8a64bce",
+    "valid_url": true,
+    "title": "AWS KMS Hands-On Troubleshooting Workshop",
+    "level": "300",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Data Protection"
+    ],
+    "tags": [
+      "KMS"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop will cover some of the most common customer issues in the Key Management Service, including S3/KMS integrations, checking CloudTrail logs, and Identity Access Management policy verification. You will troubleshoot KMS key policies and verify exactly what KMS keys are being used on your S3 objects in a multi-regional scenario. Feel free to reach out to @gmmcgilv for any questions or feedback."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a1575309-1f43-4945-a5fa-a4d62d5e821d",
@@ -9270,104 +9368,6 @@
     ],
     "schedule": "4 hours",
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900",
-    "valid_url": true,
-    "title": "AWS Mainframe Modernization Data Replication with Precisely",
-    "level": "400",
-    "categories": [
-      "Mainframe Modernization",
-      "Amazon Managed Streaming for Kafka"
-    ],
-    "tags": [
-      "EC2",
-      "MSK",
-      "Data Replication"
-    ],
-    "schedule": "2 hours",
-    "description": "Unleash the power of mainframe data with AWS and generative AI"
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/4b59b9fb-48b6-461c-9377-907b2e33c9df",
-    "valid_url": true,
-    "title": "Building your first DevOps Blue/Green pipeline with Amazon ECS",
-    "level": "100",
-    "categories": [
-      "Compute",
-      "Containers"
-    ],
-    "tags": [
-      "Elastic Container Service",
-      "Fargate",
-      "CodeCommit",
-      "CodeBuild",
-      "CodeDeploy",
-      "CodePipeline",
-      "Elastic Container Registry",
-      "Elastic Load Balancer",
-      "EC2"
-    ],
-    "schedule": "3 hours",
-    "description": "Build your first DevOps Blue/Green Deployment Pipeline for a Monolith Application with Amazon ECS. This workshop provide step by step guidance to deploy monolith application through DevOps Blue/Green Deployment Pipeline on Amazon ECS with EC2 fleet of servers and Amazon ECS with AWS Fargate."
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours",
-    "valid_url": true,
-    "title": "Ways to Retrieve Secrets from AWS Secrets Manager Across AWS Compute Environments",
-    "level": "300",
-    "categories": [
-      "Security",
-      "Identity and compliance",
-      "Encryption",
-      "Security",
-      "Data Protection"
-    ],
-    "tags": [
-      "Secrets Manager"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop shows how to retrieve secrets from AWS Secrets Manager in many AWS Compute Environments . It shows how to use the Lambda extension to retrieve secrets in a Lambda function. it shows how to use the AW Secrets Manager Go Caching Client to retrieve secrets in an EC2 instance and an ECS service. It then shows how to use the AWS Secrets Manager and Config Provider for Secret Store CSI Driver to retrieve secrets in an EKS environment."
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36",
-    "valid_url": true,
-    "title": "CI/CD for ECS Workshop",
-    "level": "400",
-    "categories": [
-      "Containers",
-      "Developer Tools"
-    ],
-    "tags": [
-      "ECS",
-      "ECR",
-      "Fargate",
-      "CodeCommit",
-      "CodeBuild",
-      "CodeDeploy",
-      "CodePipeline",
-      "Cloud Map",
-      "CloudFormation",
-      "Terraform"
-    ],
-    "schedule": "4 hours",
-    "description": "This workshop provides an in-depth introduction to building CI/CD pipelines for ECS using AWS developer tools. It starts with a simple single-stage rolling update pipeline, and then builds on this to cover multi-stage pipelines, a variety of deployment strategies, and GitOps. Also includes optional modules on pipeline templating, and using Terraform for GitOps."
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/public/a081e718-4acc-4877-acc3-94fba8a64bce",
-    "valid_url": true,
-    "title": "AWS KMS Hands-On Troubleshooting Workshop",
-    "level": "300",
-    "categories": [
-      "Encryption",
-      "Security",
-      "Data Protection"
-    ],
-    "tags": [
-      "KMS"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop will cover some of the most common customer issues in the Key Management Service, including S3/KMS integrations, checking CloudTrail logs, and Identity Access Management policy verification. You will troubleshoot KMS key policies and verify exactly what KMS keys are being used on your S3 objects in a multi-regional scenario. Feel free to reach out to @gmmcgilv for any questions or feedback."
   },
   {
     "url": "https://tao.workshop.aws",
