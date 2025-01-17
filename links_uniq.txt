@@ -78,6 +78,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/28e7066a-b0bb-42ad-a0e9-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a22e604-2f2e-4d7b-85a8-33b38c999234
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a54eaaf-51ee-4373-a3da-2bf4e8bb6dd3
 https://catalog.us-east-1.prod.workshops.aws/workshops/2b03e299-c30f-4144-b452-483356cc5267
+https://catalog.us-east-1.prod.workshops.aws/workshops/2ba640b2-4adf-4040-bbd9-2e7c3c97033c
 https://catalog.us-east-1.prod.workshops.aws/workshops/2d21fd6c-8e3d-49ad-b01a-fa9380842bc4
 https://catalog.us-east-1.prod.workshops.aws/workshops/2d8b3460-3bff-49a0-a6af-cb4c7460e70c
 https://catalog.us-east-1.prod.workshops.aws/workshops/2d960419-7d15-44e7-b540-fd3ebeb7ce2e
@@ -104,6 +105,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/428641a0-1414-4fb7-8de6-a
 https://catalog.us-east-1.prod.workshops.aws/workshops/446304b7-b946-4c40-b78f-08bf0025d8f6
 https://catalog.us-east-1.prod.workshops.aws/workshops/44d6042c-1ff7-43c2-9343-cff46c43e165
 https://catalog.us-east-1.prod.workshops.aws/workshops/4557215e-2a5c-4522-a69b-8d058aba088c
+https://catalog.us-east-1.prod.workshops.aws/workshops/4696cd09-8385-4f54-9391-a96f69a3f924
 https://catalog.us-east-1.prod.workshops.aws/workshops/4a8553ab-4dc9-45f8-8f2f-fa417f049653
 https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c
@@ -134,6 +136,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/5eef6b5e-7cf0-427b-85fc-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb
 https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8
+https://catalog.us-east-1.prod.workshops.aws/workshops/66a0984a-ad2b-481f-a1cf-e7896ea9595b
 https://catalog.us-east-1.prod.workshops.aws/workshops/6743cde7-2471-46fc-863f-5830b98f3d36
 https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
 https://catalog.us-east-1.prod.workshops.aws/workshops/6c88d70d-b69d-435f-9990-3a651cdf5311
@@ -305,6 +308,7 @@ https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-a
 https://catalog.workshops.aws/building-agentic-workflows
 https://catalog.workshops.aws/building-gen-ai-apps
 https://catalog.workshops.aws/building-genai-apps
+https://catalog.workshops.aws/building-generative-ai-apps-on-aws-with-terraform
 https://catalog.workshops.aws/building-with-amazon-bedrock
 https://catalog.workshops.aws/building-your-first-serverless-application-with-aws-sam
 https://catalog.workshops.aws/buildweb3
@@ -490,6 +494,7 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
+https://studio.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab#builds
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
@@ -809,6 +814,7 @@ https://workshops.aws/?tag=Contact%20Lens
 https://workshops.aws/?tag=Container%20Insight
 https://workshops.aws/?tag=Container%20Insights
 https://workshops.aws/?tag=Containers
+https://workshops.aws/?tag=Content%20Creation
 https://workshops.aws/?tag=Continuous%20Monitoring
 https://workshops.aws/?tag=Conversational%20AI
 https://workshops.aws/?tag=Conversational%20Search
@@ -817,6 +823,7 @@ https://workshops.aws/?tag=Copilot
 https://workshops.aws/?tag=Cost%20Explorer
 https://workshops.aws/?tag=Cost%20Management
 https://workshops.aws/?tag=Cost%20Optimization
+https://workshops.aws/?tag=Countdown
 https://workshops.aws/?tag=CrowdStrike%20Falcon
 https://workshops.aws/?tag=Cryptography
 https://workshops.aws/?tag=Custom%20blueprint
@@ -952,6 +959,7 @@ https://workshops.aws/?tag=Gen-AI
 https://workshops.aws/?tag=GenAI
 https://workshops.aws/?tag=Genearative%20AI
 https://workshops.aws/?tag=Generative%20AI
+https://workshops.aws/?tag=Generative%20Artificial%20Intelligence
 https://workshops.aws/?tag=Geospatial
 https://workshops.aws/?tag=GitHub
 https://workshops.aws/?tag=GitOps
@@ -1001,6 +1009,7 @@ https://workshops.aws/?tag=IaC
 https://workshops.aws/?tag=Identity
 https://workshops.aws/?tag=Identity%20Policies
 https://workshops.aws/?tag=Image%20Builder
+https://workshops.aws/?tag=Image%20Generation
 https://workshops.aws/?tag=Incident%20Response
 https://workshops.aws/?tag=Incident%20response
 https://workshops.aws/?tag=Industry%204.0
@@ -1130,6 +1139,7 @@ https://workshops.aws/?tag=Nextflow
 https://workshops.aws/?tag=No%20Code
 https://workshops.aws/?tag=NoSQL
 https://workshops.aws/?tag=Notebooks
+https://workshops.aws/?tag=Nova
 https://workshops.aws/?tag=OCR
 https://workshops.aws/?tag=OT
 https://workshops.aws/?tag=Object%20Lock
@@ -1314,6 +1324,7 @@ https://workshops.aws/?tag=Vector%20Search
 https://workshops.aws/?tag=Verified%20Access
 https://workshops.aws/?tag=Verified%20Permissions
 https://workshops.aws/?tag=Versioning
+https://workshops.aws/?tag=Video%20Generation
 https://workshops.aws/?tag=Visualize
 https://workshops.aws/?tag=WAF
 https://workshops.aws/?tag=WFM

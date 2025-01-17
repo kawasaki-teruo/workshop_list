@@ -1533,6 +1533,28 @@
     "description": "This workshop detects interesting events in Amazon MSK using Managed Service for Apache Flink Studio"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2ba640b2-4adf-4040-bbd9-2e7c3c97033c",
+    "valid_url": true,
+    "title": "Continuous cost and sustainability optimization 2024",
+    "level": "300",
+    "categories": [
+      "AWS Cost Management",
+      "Machine Learning (ML/AI)",
+      "Compute",
+      "Storage"
+    ],
+    "tags": [
+      "AI/ML",
+      "Amazon Elastic Compute Cloud (Amazon EC2)",
+      "Amazon SageMaker",
+      "AWS Cost and Usage Report",
+      "Cost Optimization",
+      "Cost Management"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop, you will learn best practices for cost and sustainability optimization. We will shift cost and sustainability responsibilities from the Cloud Center of Excellence (CCoE) to end users and application owners aided by automation and monitoring at scale. Explore how to use AWS services designed to optimize your infrastructure and your workloads with the aid of AI/ML algorithms to detect anomalies. Building upon real-world use cases, learn about implementing mechanisms that empower application owners to have clear, actionable tasks for cost and sustainability optimization."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/2d21fd6c-8e3d-49ad-b01a-fa9380842bc4",
     "valid_url": true,
     "title": "Practical Data Protection and Risk Assessment for Sensitive Workloads",
@@ -2008,6 +2030,28 @@
     ],
     "schedule": "3 hours",
     "description": "CloudFront is a fast, secure, developer friendly content delivery network (CDN). In this workshop, a serverless application will be provided and users will get to build CloudFront distribution in front of them. Series of challenges will show how to improve the security, performance, and reliability of the architecture by using CloudFront. Expected audiences are solution architects and developers."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4696cd09-8385-4f54-9391-a96f69a3f924",
+    "valid_url": true,
+    "title": "Building operational resilience in workloads using generative AI",
+    "level": "400",
+    "categories": [
+      "Compute",
+      "Management & Governance",
+      "Migration & Transfer"
+    ],
+    "tags": [
+      "AI/ML",
+      "Amazon Elastic Compute Cloud (Amazon EC2)",
+      "Resiliency",
+      "Enterprise Support",
+      "Well-Architected",
+      "Countdown",
+      "Scalability"
+    ],
+    "schedule": "2 hours",
+    "description": "Building operational resilience requires proactive identification and mitigation of risks. In this workshop, use AWS managed generative AI services in real-world scenarios to learn how to assess readiness, proactively improve your architecture, react quickly to events, troubleshoot issues, and implement effective observability practices. Learn strategies for debugging issues, detecting anomalies and incidents, and optimizing architectures to improve the resilience of your workloads."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4a8553ab-4dc9-45f8-8f2f-fa417f049653",
@@ -2560,6 +2604,25 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop demonstrates how Amazon Connect's native ability to integrate with Amazon Lex can provide several benefits, including enhancing your Interactive Voice Response (IVR) menu with Natural Language (NL) processing, and dynamic delivery of content."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/66a0984a-ad2b-481f-a1cf-e7896ea9595b",
+    "valid_url": true,
+    "title": "Unleashing Creativity: Mastering Nova Canvas and Nova Reel for creative success",
+    "level": "200",
+    "categories": [
+      "Generative AI",
+      "Bedrock"
+    ],
+    "tags": [
+      "Nova",
+      "Content Creation",
+      "Generative AI",
+      "Image Generation",
+      "Video Generation"
+    ],
+    "schedule": "2 hours",
+    "description": "Explore AI-powered content creation with our Nova Canvas and Nova Reel workshop. Learn about image generation, image editing and text-to-video generation through practical examples. Discover how to create compelling visual narratives, transform concepts into images or videos. This session will show you how to integrate these tools into your workflow, enhancing creativity and efficiency for marketers, content creators, and business strategists alike."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6743cde7-2471-46fc-863f-5830b98f3d36",
@@ -5750,6 +5813,38 @@
     ],
     "schedule": "1 hour",
     "description": "In this workshop, you will build a sample generative AI document chatbot app on AWS using Amazon Bedrock and Generative AI CDK Constructs. You will learn the common infrastructure patterns for generative AI apps on AWS, and take advantage of the AWS CDK (Cloud Development Kit) to easily deploy the required architecture while avoiding the undifferentiated heavy lifting of reinventing common architectural patterns from scratch."
+  },
+  {
+    "url": "https://catalog.workshops.aws/building-generative-ai-apps-on-aws-with-terraform",
+    "valid_url": true,
+    "title": "Building Generative AI Apps on AWS with Terraform",
+    "level": "300",
+    "categories": [
+      "Amazon Bedrock",
+      "Agents for Amazon Bedrock",
+      "CI/CD",
+      "DevOps",
+      "GenAI",
+      "Generative AI",
+      "Generative Artificial Intelligence",
+      "IaC",
+      "Open Source",
+      "Terraform"
+    ],
+    "tags": [
+      "Amazon Bedrock",
+      "Agents for Amazon Bedrock",
+      "CI/CD",
+      "DevOps",
+      "GenAI",
+      "Generative AI",
+      "Generative Artificial Intelligence",
+      "IaC",
+      "Open Source",
+      "Terraform"
+    ],
+    "schedule": "2 hours",
+    "description": "In this workshop, you will build a sample generative AI document chatbot app on AWS using Amazon Bedrock and Generative AI Terraform Modules. You will learn the common infrastructure patterns for generative AI apps on AWS, and take advantage of Terraform to easily deploy the required architecture while avoiding the undifferentiated heavy lifting of reinventing common architectural patterns from scratch."
   },
   {
     "url": "https://catalog.workshops.aws/building-with-amazon-bedrock",
@@ -9368,6 +9463,24 @@
     ],
     "schedule": "4 hours",
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
+  },
+  {
+    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab#builds",
+    "valid_url": true,
+    "title": "Open Platform for Enterprise AI (OPEA) ChatQnA on AWS",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Machine Learning",
+      "Generative AI"
+    ],
+    "tags": [
+      "EKS",
+      "Bedrock",
+      "OpenSearch"
+    ],
+    "schedule": "2 hours",
+    "description": "Open Platform for Enterprise AI (OPEA) is an open source platform from the Linux Foundation that provides composable building blocks for state of the art generative AI systems. This workshop walks you through deploying one of OPEA's sample modules, ChatQnA, onto an Amazon Elastic Kubernetes Service (EKS) cluster as well as how to integrate it with services like Opensearch and Amazon Bedrock."
   },
   {
     "url": "https://tao.workshop.aws",

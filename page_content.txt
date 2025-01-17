@@ -51,6 +51,61 @@ schedule
 In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
+Open Platform for Enterprise AI (OPEA) ChatQnA on AWS
+Level: 300
+checkmark
+Categories: Containers, Machine Learning, Generative AI
+checkmark
+Tags: EKS, Bedrock, OpenSearch
+schedule
+2 hours
+Open Platform for Enterprise AI (OPEA) is an open source platform from the Linux Foundation that provides composable building blocks for state of the art generative AI systems. This workshop walks you through deploying one of OPEA's sample modules, ChatQnA, onto an Amazon Elastic Kubernetes Service (EKS) cluster as well as how to integrate it with services like Opensearch and Amazon Bedrock.
+Get Started
+arrow_forward
+Continuous cost and sustainability optimization 2024
+Level: 300
+checkmark
+Categories: AWS Cost Management, Machine Learning (ML/AI), Compute, Storage
+checkmark
+Tags: AI/ML, Amazon Elastic Compute Cloud (Amazon EC2), Amazon SageMaker, AWS Cost and Usage Report, Cost Optimization, Cost Management
+schedule
+2 hours
+In this workshop, you will learn best practices for cost and sustainability optimization. We will shift cost and sustainability responsibilities from the Cloud Center of Excellence (CCoE) to end users and application owners aided by automation and monitoring at scale. Explore how to use AWS services designed to optimize your infrastructure and your workloads with the aid of AI/ML algorithms to detect anomalies. Building upon real-world use cases, learn about implementing mechanisms that empower application owners to have clear, actionable tasks for cost and sustainability optimization.
+Get Started
+arrow_forward
+Building operational resilience in workloads using generative AI
+Level: 400
+checkmark
+Categories: Compute, Management & Governance, Migration & Transfer
+checkmark
+Tags: AI/ML, Amazon Elastic Compute Cloud (Amazon EC2), Resiliency, Enterprise Support, Well-Architected, Countdown, Scalability
+schedule
+2 hours
+Building operational resilience requires proactive identification and mitigation of risks. In this workshop, use AWS managed generative AI services in real-world scenarios to learn how to assess readiness, proactively improve your architecture, react quickly to events, troubleshoot issues, and implement effective observability practices. Learn strategies for debugging issues, detecting anomalies and incidents, and optimizing architectures to improve the resilience of your workloads.
+Get Started
+arrow_forward
+Building Generative AI Apps on AWS with Terraform
+Level: 300
+checkmark
+Categories: Amazon Bedrock, Agents for Amazon Bedrock, CI/CD, DevOps, GenAI, Generative AI, Generative Artificial Intelligence, IaC, Open Source, Terraform
+checkmark
+Tags: Amazon Bedrock, Agents for Amazon Bedrock, CI/CD, DevOps, GenAI, Generative AI, Generative Artificial Intelligence, IaC, Open Source, Terraform
+schedule
+2 hours
+In this workshop, you will build a sample generative AI document chatbot app on AWS using Amazon Bedrock and Generative AI Terraform Modules. You will learn the common infrastructure patterns for generative AI apps on AWS, and take advantage of Terraform to easily deploy the required architecture while avoiding the undifferentiated heavy lifting of reinventing common architectural patterns from scratch.
+Get Started
+arrow_forward
+Unleashing Creativity: Mastering Nova Canvas and Nova Reel for creative success
+Level: 200
+checkmark
+Categories: Generative AI, Bedrock
+checkmark
+Tags: Nova, Content Creation, Generative AI, Image Generation, Video Generation
+schedule
+2 hours
+Explore AI-powered content creation with our Nova Canvas and Nova Reel workshop. Learn about image generation, image editing and text-to-video generation through practical examples. Discover how to create compelling visual narratives, transform concepts into images or videos. This session will show you how to integrate these tools into your workflow, enhancing creativity and efficiency for marketers, content creators, and business strategists alike.
+Get Started
+arrow_forward
 Cost Visibility and Attribution in Multi-Tenant SaaS Environments
 Level: 400
 checkmark
