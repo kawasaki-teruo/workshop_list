@@ -1121,24 +1121,6 @@
     "description": "This workshop provides a 3-hour guided walkthrough on Zero trust principles using AWS IoT . It covers AWS IoT Core, Device Management, and Device Defender features"
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1dc3614b-247d-43d9-89c0-5f7148479bc7",
-    "valid_url": false,
-    "title": "RDS Chaos Engineering",
-    "level": "300",
-    "categories": [
-      "Database",
-      "Analytics"
-    ],
-    "tags": [
-      "RDS",
-      "Aurora PostgreSQL",
-      "Aurora MySQL",
-      "Aurora"
-    ],
-    "schedule": "1 hour",
-    "description": "Improve resilience of database workloads by using chaos engineering"
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/1fb5c6e9-a4b1-4475-b9c8-23a9a202b3cb",
     "valid_url": true,
     "title": "Build a Chat Assistant with Amazon Bedrock",
@@ -1328,45 +1310,6 @@
     ],
     "schedule": "3 hours",
     "description": "In this workshop, you will learn how to build a data mesh architecture on AWS. Many organizations are interested to implement this architecture to move away from centralized data lakes to decentralized ownership and delivery of analytics solutions across business units. You will learn about data mesh fundamentals and principles, and how it can impact your organization. You will then learn how data mesh architecture can be implemented with AWS native services. Finally, you will build a data mesh from scratch as Infrastructure as Code (IaC) using AWS CDK and use a custom built UI to share and discover data between business units."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/24a39743-7e40-48ca-ba5e-704f2e3d74ec",
-    "valid_url": false,
-    "title": ".NET Development on AWS",
-    "level": "200",
-    "categories": [
-      "Modernization",
-      "Windows",
-      "Serverless",
-      "CDK",
-      ".NET"
-    ],
-    "tags": [
-      "Modernization",
-      "Windows",
-      "Serverless",
-      "CDK",
-      ".NET"
-    ],
-    "schedule": "3 hours",
-    "description": "The workshop aims to give .NET developers head-start with .NET development on AWS with the familiar toolchain: Visual Studio, C#, .NET Framework, .NET Core. The participant doesn't need to have experience with AWS but should be able to navigate in AWS Console."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/262d4203-9742-4620-a373-54120c49e7ec",
-    "valid_url": false,
-    "title": "Building a Memory Match Game Using Flutter & AWS Amplify",
-    "level": "300",
-    "categories": [
-      "Front-End Web & Mobile",
-      "AWS Amplify"
-    ],
-    "tags": [
-      "Amplify",
-      "Game",
-      "Flutter"
-    ],
-    "schedule": "2 hours",
-    "description": "AWS Amplify helps frontend web and mobile developers quickly build feature-rich applications without the need for deep cloud expertise. Flutter is a UI toolkit for building applications that compile to mobile, web, and desktop from a single codebase. In this workshop, learn how to build a complete Flutter game with AWS Amplify Flutter Libraries."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/268f5ac0-1e94-4aa6-a767-d2ed4b4901d4",
@@ -1760,22 +1703,6 @@
     "description": "Customers expect a fast, frictionless, and personalized customer service experience. However, agents spend on average 2 minutes navigating multiple applications to find important customer data leading to poor experiences and high costs. Amazon Connect Customer Profiles automatically brings together customer information from multiple applications into a unified customer profile, delivering the profile directly to the agent as soon as the support call or interaction begins."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/38565e8c-3a5f-4e93-8412-5fdec23744ca",
-    "valid_url": false,
-    "title": "Cisco Secure Firewall Threat Defense Workshop",
-    "level": "300",
-    "categories": [
-      "Networking",
-      "Security"
-    ],
-    "tags": [
-      "EC2",
-      "Marketplace"
-    ],
-    "schedule": "3 hours",
-    "description": "In this lab, users will programmatically deploy Cisco Secure Firewall Threat Defence (FTDv) and Firewall Management Center (FMC) using Infrastructure as Code (Terraform). The firewalls will be placed behind a network load balancer. User will also programmatically configure the firewalls once onboarded to ensure it allows required traffic flow from internet to the test machine setup in the AWS environment."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c",
     "valid_url": true,
     "title": "Secure Hybrid Access to S3 using VPC Endpoints",
@@ -1806,23 +1733,6 @@
     ],
     "schedule": "3 hours",
     "description": "In this workshop you will implement steps to configure AWS Secrets Manager for CyberArk Secrets Hub access."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3b06259f-8e17-4f2f-811a-75c9b06a2807",
-    "valid_url": false,
-    "title": "Scale your EKS workloads by running on IPv6",
-    "level": "300",
-    "categories": [
-      "Networking and Content Delivery",
-      "Containers"
-    ],
-    "tags": [
-      "Amazon Elastic Kubernetes Service (Amazon EKS)",
-      "Elastic Load Balancing (ELB)",
-      "IPv6"
-    ],
-    "schedule": "3 hours",
-    "description": "Customers often encounters exhaustion of IPv4 addresses available in their VPC leading to scalability challenges when running large scale application(s) on Amazon EKS cluster which demands frequently launching hundreds or thousands of workloads (pods) in their cluster. In this workshop, learn how you can make an existing IPv4 VPC to dual-stack VPC with IPv6 address space and deploy an IPv6 enabled Amazon EKS cluster thereby implementing a long-term solution."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3be7b9f7-146c-4112-94bd-444dd7cc5556",
@@ -2429,21 +2339,6 @@
     "description": "A solution-oriented Immersion Day focusing on working backwards from a business problem (customer sentiment) and building a data and analytics pipeline. You will explore customer sentiment and apply AWS data and analytics services to solve a customer satisfaction business problem and cause analysis."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5b7fe737-7ea2-4c4d-b572-76df6adabd47",
-    "valid_url": false,
-    "title": "Build a cloud experience with Cloudscape, an open-source design system",
-    "level": "300",
-    "categories": [
-      "Front-End Web & Mobile"
-    ],
-    "tags": [
-      "Cloudscape",
-      "DesignSystem"
-    ],
-    "schedule": "2 hours",
-    "description": "We will use the open source Cloudscape Design System to build a responsive and accessible web application for cloud management. The web application will leverage the open source React components offered by Cloudscape. The workshop requires knowledge of front-end development, React, TypeScript and git."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5c093162-c9ce-4203-ab35-0b94ca950ee8",
     "valid_url": true,
     "title": "Amazon SageMaker Feature Store workshop",
@@ -2460,29 +2355,6 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop aims to help customers and partners understand the concepts of Amazon SageMaker Feature Store including creation of feature groups, ingest data into offline and online store, query it, train a model using feature sets from offline store, use a record from online store to perform an inference and also transform and ingest features into feature store using SageMaker processing jobs."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5c638386-482b-4a90-b4f9-14b6b7de041f",
-    "valid_url": false,
-    "title": "Cloud Native Development Of Synthetic Sensors With BlackBerry IVY on Linux",
-    "level": "300",
-    "categories": [
-      "Automotive",
-      "Computer Vision",
-      "Compute"
-    ],
-    "tags": [
-      "EC2",
-      "ARM",
-      "Graviton",
-      "Linux",
-      "IVY",
-      "BlackBrry IVY",
-      "ML",
-      "Edge compute"
-    ],
-    "schedule": "3 hours",
-    "description": "In this workshop, learn how to use a novel automotive-native software development infrastructure that can run automotive workloads — with environmental parity — to targeted compute elements in the AWS Cloud. Discover how BlackBerry IVY synthetic sensors, which include machine learning, can be developed in the cloud environment and deployed at the embedded edge seamlessly."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5dd24891-5a0d-467b-9117-1fd65ccf54d0",
@@ -2768,24 +2640,6 @@
     ],
     "schedule": "3 hours",
     "description": "Learn how to build an end-to-end hyper-personalized workflow with AWS. Personalization of messaging is a foundational capability to improve the effectiveness of outbound communications, such as email, direct mail, SMS, push messaging in increasing customer satisfaction, retention, cross-sell and up-sell. Innovations in Generative AI offer compelling opportunities to more easily automate creation of text and image content to enable more scalable message personalization."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/70168edf-3855-4cdb-95ff-54bdecef1410",
-    "valid_url": false,
-    "title": "Accelerate development with Amazon CodeCatalyst custom blueprints",
-    "level": "300",
-    "categories": [
-      "Builder Experience",
-      "DevOps"
-    ],
-    "tags": [
-      "Amazon CodeCatalyst",
-      "Custom blueprint",
-      "DevOps",
-      "Developer Experience"
-    ],
-    "schedule": "2 hours",
-    "description": "In this workshop we will dive deeper into Amazon CodeCatalyst Blueprints and specifically how you can make the most of this feature to fit your organisation’s needs. Blueprints are used by CodeCatalyst to set up your code repositories, define cloud infrastructure and run pre-configured CI/CD workflows for your project. You can create and publish your own custom blueprints which allows you to standardise applications across your organisation."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/71a1cc8b-265e-4e27-a320-f1ee1f45ffe8",
@@ -3079,22 +2933,6 @@
     "description": "The Immersion Day for Amazon SageMaker Canvas is a self-paced or instructor-led lab that allows business analysts to use Machine Learning without writing a single line of code thanks to Amazon SageMaker Canvas in order to solve real-world challenges based on publicly available datasets."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/814dcdac-c2ad-4386-98d5-27d37bb77766",
-    "valid_url": false,
-    "title": "Handling Rewrites and Redirects using Edge Functions",
-    "level": "300",
-    "categories": [
-      "CloudFront",
-      "Lambda@Edge"
-    ],
-    "tags": [
-      "CloudFront",
-      "Lambda@Edge"
-    ],
-    "schedule": "2 hours",
-    "description": "In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f",
     "valid_url": true,
     "title": "Strengthen Your Web Application Defenses with AWS WAF",
@@ -3244,23 +3082,6 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop demonstrates how to continually integrate, continually deploy, and continuously tune a generative AI application using Large Language Model Operations (LLMOps) on AWS."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/91de94fc-db65-4137-9e26-11e58f4ac26b",
-    "valid_url": false,
-    "title": "Beyond chatbots: Unleashing knowledge graphs with generative AI",
-    "level": "400",
-    "categories": [
-      "Bedrock",
-      "Neptune",
-      "Sagemaker"
-    ],
-    "tags": [
-      "Neptune",
-      "generativeAI"
-    ],
-    "schedule": "2 hours",
-    "description": "Financial institutions are exploring initial use cases for generative AI, including chatbot and customer support. In this workshop, you will go beyond these use cases and build a financial and identity knowledge graph for lending and credit decisions. Your goal is to build a knowledge graph using Amazon Neptune by synthesizing structured and unstructured data leveraging generative AI for metadata enrichment, query generation, and search functionality."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/92e466fd-bd95-4805-9f16-2df07450db42",
@@ -3580,25 +3401,6 @@
     "description": "This workshop gives an introduction to monitoring AWS resources via Amazon CloudWatch. You will collect, graph and query metrics, learn to collect and query logs. Finally, you will learn how to aggregate that information via dashboards. The second part of the workshop introduces how to deploy and update the CloudWatch agent and it's configuration via System Manager."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a9661c42-97f6-400a-8dee-a8396e8d418f",
-    "valid_url": false,
-    "title": "IAM Policies Troubleshooting",
-    "level": "300",
-    "categories": [
-      "Identity",
-      "IAM",
-      "Security"
-    ],
-    "tags": [
-      "IAM",
-      "Access Analyzer",
-      "Resource Policies",
-      "Session Principals"
-    ],
-    "schedule": "1 hour",
-    "description": "In this workshop we walk you through practical examples that will help you build, test and troubleshoot IAM policies. We introduce a workflow to help you create fine-grained access policies with the help of the IAM API, AWS Console, IAM Access Analyzer and AWS CloudTrail, and review key concepts of the IAM policy evaluation logic."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ab24ff8d-090a-4287-88dd-a04d03a440c1",
     "valid_url": true,
     "title": "Getting started with Visual Asset Management System (VAMS)",
@@ -3737,24 +3539,6 @@
     "description": "Learn how GitHub Actions can automatically validate and analyze IAM policies when permitting developer policy authoring abilities without compromising security."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5b776fe-bf8b-4f51-a09d-880d39210619",
-    "valid_url": false,
-    "title": "Amazon Athena for Apache Spark Workshop",
-    "level": "200",
-    "categories": [
-      "Serverless",
-      "Compute",
-      "Analytics"
-    ],
-    "tags": [
-      "Athena",
-      "Serverless",
-      "Spark"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop shows you how to configure and run Amazon Athena for Spark and try out various features and use cases"
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b6713449-71c5-4199-a9f8-ac1f584fc1c7",
     "valid_url": true,
     "title": "Threat Detection and Response [Arabic] (اكتشاف التهديدات والاستجابة لها)",
@@ -3810,41 +3594,6 @@
     "description": "This workshop familiarizes attendees with AWS Payment Cryptography service and demonstrates how to use the service for common FSI use cases related payments acceptance."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b9049f6d-bcbb-41fa-9ed4-db51a6f8cb72",
-    "valid_url": false,
-    "title": "Simulate, Monitor and Optimize a Bottling Plant in the AWS cloud",
-    "level": "300",
-    "categories": [
-      "IoT",
-      "SiteWise"
-    ],
-    "tags": [
-      "EC2",
-      "ParallelProcessing"
-    ],
-    "schedule": "2 hours",
-    "description": "Deploy a complete simulation of a bottling plant, starting with the actual PLC controls, including the Codesys IDE and HMI on a Windows EC2 instance, Edge to collect the machine data and securely ingest into the cloud, and compute and monitor KPIs like OEE (Overall Equipment Effectiveness) and alarms in a cloud based dashboard with a digital twin of the plant. You'll be able to interact with the machines through the web base HMI and see the results in the real-time dashboard"
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bbbcd7a4-5fe8-4858-8401-c43be3a9c499",
-    "valid_url": false,
-    "title": "Detect, investigate and respond to security scenarios",
-    "level": "300",
-    "categories": [
-      "Security",
-      "Management and Governance",
-      "Identity and Compliance"
-    ],
-    "tags": [
-      "Amazon GuardDuty",
-      "AWS Trusted Advisor",
-      "AWS CloudTrail",
-      "AWS Systems Manager"
-    ],
-    "schedule": "2 hours",
-    "description": "Dive deep in security anomaly scenarios like exposed AWS Access keys, insecure security group ports, EC2 port scanning, and unauthorized resource launches. We will perform discovery, diagnosis, troubleshooting, resolution, and root cause analysis. Learn how to correlate data from sources like AWS CloudTrail, IAM Access Analyzer, AWS Config, and AWS Trusted Advisor. Discover how to respond to incidents using AWS Systems Manager, Lambda, and CloudWatch Events."
-  },
-  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bbc63046-2f56-4d59-917b-d5ebc63bdcee",
     "valid_url": true,
     "title": "Developing cost allocation strategies for your AWS workloads",
@@ -3861,23 +3610,6 @@
     ],
     "schedule": "2 hours",
     "description": "In this hands-on workshop, learn about tools and techniques that can help you build a cost allocation strategy, analyze spend and allocate your shared costs to the teams and applications that utilize them using Tag Editor, AWS Cost and Usage Report, and Amazon Athena. Explore how to improve cost visibility of your ECS workloads with split cost allocation data, and learn how to visualize the results of your CUR queries by building Amazon QuickSight dashboards."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bcfb7b70-a090-4563-a058-496c1a4fbf32",
-    "valid_url": false,
-    "title": "DevSecOps - Integrating security into your pipeline",
-    "level": "300",
-    "categories": [
-      "Security",
-      "DevOps"
-    ],
-    "tags": [
-      "Microservices",
-      "Serverless",
-      "IAM"
-    ],
-    "schedule": "2 hours",
-    "description": "In this workshop, you learn how to build a serverless customer-facing microservices application demonstrating end-to-end authentication and authorization using Amazon Cognito, Amazon API Gateway, AWS Lambda, and all things AWS Identity and Access Management (IAM). You have the opportunity to build an end-to-end functional app with a secure identity provider showcasing user authentication patterns."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/c125f3c7-95e8-4e24-9819-6d085664a507",
@@ -4211,23 +3943,6 @@
     ],
     "schedule": "4 hours",
     "description": "This workshop helps you build a shared platform (Kubernetes multi-tenant) where multiple developer groups at an organization can consume and deploy workloads freely without the platform team being the bottleneck. We walk through the baseline setup of an EKS cluster, and gradually add add-ons to easily enhance its capabilities such as enabling ArgoCD, Rollouts, GitOps and other common open-source add-ons. We then deploy a static website with proper SSL and domain via GitOps using ArgoCD"
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d431e0b1-9f08-4d82-822e-ea56962b2a0b",
-    "valid_url": false,
-    "title": "Slurm REST API, Accounting and Federation on AWS ParallelCluster",
-    "level": "400",
-    "categories": [
-      "HPC",
-      "Compute"
-    ],
-    "tags": [
-      "HPC",
-      "ParallelCluster",
-      "Slurm"
-    ],
-    "schedule": "2 hours",
-    "description": "In this workshop, we will use Jupyter Notebooks (managed in SageMaker) to create AWS ParallelClusters, enable Slurm REST API, Slurm Accounting and Slurm Federation on those clusters. Through a real-world astrophysics numerical simulation (Athena++), you will learn how to run MPI jobs on AWS ParallelCluster through a REST interface and also learn how to burst HPC jobs from one cluster to another."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d44644b5-a9f3-4a77-a45a-8486bf64120c",
@@ -5863,23 +5578,6 @@
     "description": "This workshop enables participants to build simple generative AI demo applications while learning key concepts. Labs include chatbots, retrieval-augmented generation, image generation, document summarization, data extraction, streaming responses, and prompt engineering. User interfaces are built using Streamlit. The labs are designed for builders with no previous data science experience. To run this workshop, you'll need access to an AWS account with Bedrock activated."
   },
   {
-    "url": "https://catalog.workshops.aws/building-your-first-serverless-application-with-aws-sam",
-    "valid_url": false,
-    "title": "My Fantastic Sample Workshop",
-    "level": "200",
-    "categories": [
-      "serverless",
-      "Serverless Application Model"
-    ],
-    "tags": [
-      "SAM",
-      "Serverless",
-      "SAM CLI"
-    ],
-    "schedule": "1 hour",
-    "description": "An introductory workshop to AWS SAM and the SAM CLI"
-  },
-  {
     "url": "https://catalog.workshops.aws/buildweb3",
     "valid_url": true,
     "title": "Build Web3 Workshop",
@@ -6012,26 +5710,6 @@
     ],
     "schedule": "8 hours",
     "description": "In this Workshop, we demonstrate how you can implement CICD Deployment pipeline for your Amazon Connect Contact Flow. This workshop walks you through how you can deploy Amazon Connect Contact Flows that consist of Lambda functions, Lex bots, Connect Queue, etc. across various environments (Dev, QA, STG, Prod) through CICD pipeline leveraging CloudFormation, Code Commit repository, CodePipeline, etc."
-  },
-  {
-    "url": "https://catalog.workshops.aws/contributing-to-the-terraform-provider",
-    "valid_url": false,
-    "title": "Contributing to the AWS Provider",
-    "level": "300",
-    "categories": [
-      "Terraform",
-      "Infrastructure as Code",
-      "DevOps",
-      "Open Source"
-    ],
-    "tags": [
-      "Terraform",
-      "Infrastructure as Code",
-      "DevOps",
-      "Providers"
-    ],
-    "schedule": "8 hours",
-    "description": "In this workshop you will learn how to add new features and services to the AWS Provider for Terraform. This workshop teaches how to add features, services, and fix bugs in the provider. It covers the full contribution process, including writing acceptance tests and documentation updates."
   },
   {
     "url": "https://catalog.workshops.aws/control-design",
@@ -7557,22 +7235,6 @@
     "description": "In this workshop, you will be introduced to some of the background and reasoning behind threat modeling and some of the tools and techniques for modeling systems, identifying threats, and selecting mitigations. You will be guided through the process of creating a system model and corresponding threat model. Then you will assess the usefulness of these models."
   },
   {
-    "url": "https://catalog.workshops.aws/troubleshooting-contact-flow-errors",
-    "valid_url": false,
-    "title": "Troubleshooting contact flow errors in Amazon Connect",
-    "level": "200",
-    "categories": [
-      "Communication Applications",
-      "Contact Center"
-    ],
-    "tags": [
-      "Amazon Connect",
-      "Amazon CloudWatch"
-    ],
-    "schedule": "1 hour",
-    "description": "Learn how to setup custom error branching logging and alarms within Amazon Connect Flows."
-  },
-  {
     "url": "https://catalog.workshops.aws/using-pq-crypto-on-aws",
     "valid_url": true,
     "title": "Using Post-Quantum Cryptography on AWS",
@@ -7683,26 +7345,6 @@
     ],
     "schedule": "2 hours",
     "description": "This workshop will walk through how to build a pipeline that will send spark and node metrics (jobs/stages/cpu/memory) from EMR clusters to an off-cluster time-series database and then use Grafana to view dashboards."
-  },
-  {
-    "url": "https://catalog.workshops.aws/workshops/79931708-eca5-4fcc-93eb-35328c5f9615",
-    "valid_url": false,
-    "title": "Deploy RStudio and Perform Analysis with Amazon Lightsail for Research",
-    "level": "200",
-    "categories": [
-      "Compute",
-      "AI/ML",
-      "Research"
-    ],
-    "tags": [
-      "Lightsail",
-      "Research",
-      "LfR",
-      "RStudio",
-      "OpenData"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop will guide you to deploy and configure Amazon Lightsail for Research, additional storage, use of RStudio, download a dataset of NOAA temperature data, and run analysis on the dataset to find the maximum median temperature each year of the dataset. It will export a plot chart of the results to a PDF that you can download from your Lightsail for Research virtual computer."
   },
   {
     "url": "https://catalog.workshops.aws/workshops/c87214bf-11ea-46b7-82d9-4d934c2a7f53",

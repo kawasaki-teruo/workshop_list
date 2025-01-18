@@ -1,6 +1,5 @@
 search
 All
-.NET
 .NET Core
 AI/ML
 AIML
@@ -18,17 +17,6 @@ Created by specialists in the field from AWS and AWS Partners
 Available for access anywhere
 Globally available without restriction and mobile friendly
 Workshops
-Cisco Secure Firewall Threat Defense Workshop
-Level: 300
-checkmark
-Categories: Networking, Security
-checkmark
-Tags: EC2, Marketplace
-schedule
-3 hours
-In this lab, users will programmatically deploy Cisco Secure Firewall Threat Defence (FTDv) and Firewall Management Center (FMC) using Infrastructure as Code (Terraform). The firewalls will be placed behind a network load balancer. User will also programmatically configure the firewalls once onboarded to ensure it allows required traffic flow from internet to the test machine setup in the AWS environment.
-Get Started
-arrow_forward
 Seamless Data Sharing Using Amazon Redshift
 Level: 400
 checkmark
@@ -38,17 +26,6 @@ Tags: Redshift
 schedule
 4 hours
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
-Get Started
-arrow_forward
-Handling Rewrites and Redirects using Edge Functions
-Level: 300
-checkmark
-Categories: CloudFront, Lambda@Edge
-checkmark
-Tags: CloudFront, Lambda@Edge
-schedule
-2 hours
-In this workshop you will learn how to handle common redirect and rewrite use cases by leveraging the Edge Compute features provided by AWS.
 Get Started
 arrow_forward
 Open Platform for Enterprise AI (OPEA) ChatQnA on AWS
@@ -898,17 +875,6 @@ schedule
 This workshop is designed to introduce participants to IAM Roles Anywhere advanced features such as fine grained authentication and authorisation using certificate fields for ABAC, combined with IAM Unused Access Analyzer to implement least privilege to show how they can migrate from static (and overly permissioned) credentials to properly scoped IAM roles for modern machine-to-machine access
 Get Started
 arrow_forward
-Contributing to the AWS Provider
-Level: 300
-checkmark
-Categories: Terraform, Infrastructure as Code, DevOps, Open Source
-checkmark
-Tags: Terraform, Infrastructure as Code, DevOps, Providers
-schedule
-8 hours
-In this workshop you will learn how to add new features and services to the AWS Provider for Terraform. This workshop teaches how to add features, services, and fix bugs in the provider. It covers the full contribution process, including writing acceptance tests and documentation updates.
-Get Started
-arrow_forward
 IAM permissions for workloads on Amazon EKS
 Level: 300
 checkmark
@@ -984,17 +950,6 @@ Tags: EC2, Lambda, Bedrock
 schedule
 2 hours
 As governments and standards bodies develop data protection and privacy regulations, organizations increasingly need to combine the use of generative AI tooling in the cloud with regulated data that needs to remain on premises to meet data sovereignty requirements. In this builders’ session, learn how to extend Agents for Amazon Bedrock to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed Retrieval Augmented Generation (RAG) applications with on-premises data for improved model outcomes.
-Get Started
-arrow_forward
-Simulate, Monitor and Optimize a Bottling Plant in the AWS cloud
-Level: 300
-checkmark
-Categories: IoT, SiteWise
-checkmark
-Tags: EC2, ParallelProcessing
-schedule
-2 hours
-Deploy a complete simulation of a bottling plant, starting with the actual PLC controls, including the Codesys IDE and HMI on a Windows EC2 instance, Edge to collect the machine data and securely ingest into the cloud, and compute and monitor KPIs like OEE (Overall Equipment Effectiveness) and alarms in a cloud based dashboard with a digital twin of the plant. You'll be able to interact with the machines through the web base HMI and see the results in the real-time dashboard
 Get Started
 arrow_forward
 New insight from your business data stored in SAP HANA Cloud using Generative AI capability and Amazon Sagemaker
@@ -1448,17 +1403,6 @@ schedule
 This workshop will give you the baseline strategies to organize, monitor, analyze, and take control of your resources. You’ll get hands-on with resource tagging, CUR reports, build dashboard using Amazon Quicksight and identify usage patterns using Amazon CloudWatch, and take actions using AWS Lambda & Amazon EventBridge scheduler.
 Get Started
 arrow_forward
-Beyond chatbots: Unleashing knowledge graphs with generative AI
-Level: 400
-checkmark
-Categories: Bedrock, Neptune, Sagemaker
-checkmark
-Tags: Neptune, generativeAI
-schedule
-2 hours
-Financial institutions are exploring initial use cases for generative AI, including chatbot and customer support. In this workshop, you will go beyond these use cases and build a financial and identity knowledge graph for lending and credit decisions. Your goal is to build a knowledge graph using Amazon Neptune by synthesizing structured and unstructured data leveraging generative AI for metadata enrichment, query generation, and search functionality.
-Get Started
-arrow_forward
 Build a Chat Assistant with Amazon Bedrock
 Level: 200
 checkmark
@@ -1580,17 +1524,6 @@ schedule
 This workshop uses Amazon Bedrock to enrich an existing retail web application with generative AI features. Through these exercises, you will gain experience with integrating Amazon Bedrock into your application and use text-to-text and text-to-image Foundation Models to perform tasks such as drafting product descriptions, summarizing customer reviews, generating creative design ideas, answering questions and performing similarity search.
 Get Started
 arrow_forward
-Building a Memory Match Game Using Flutter & AWS Amplify
-Level: 300
-checkmark
-Categories: Front-End Web & Mobile, AWS Amplify
-checkmark
-Tags: Amplify, Game, Flutter
-schedule
-2 hours
-AWS Amplify helps frontend web and mobile developers quickly build feature-rich applications without the need for deep cloud expertise. Flutter is a UI toolkit for building applications that compile to mobile, web, and desktop from a single codebase. In this workshop, learn how to build a complete Flutter game with AWS Amplify Flutter Libraries.
-Get Started
-arrow_forward
 Build generative-AI-powered search with Amazon Aurora & Amazon RDS
 Level: 300
 checkmark
@@ -1633,17 +1566,6 @@ Tags: Resiliency, Chaos Engineering, Fault Injection
 schedule
 2 hours
 This workshop introduces AWS Fault Injection Service (FIS) for running resilience experiments to improve application performance, observability, and resilience. It covers the concepts of chaos engineering, commonly referred to as resilience testing. Resilience experiments can be performed using both manual and automated techniques. The workshop focuses on using FIS to manually inject faults in a controlled and Ad-Hoc manner to understand application behavior and improve resilience.
-Get Started
-arrow_forward
-Accelerate development with Amazon CodeCatalyst custom blueprints
-Level: 300
-checkmark
-Categories: Builder Experience, DevOps
-checkmark
-Tags: Amazon CodeCatalyst, Custom blueprint, DevOps, Developer Experience
-schedule
-2 hours
-In this workshop we will dive deeper into Amazon CodeCatalyst Blueprints and specifically how you can make the most of this feature to fit your organisation’s needs. Blueprints are used by CodeCatalyst to set up your code repositories, define cloud infrastructure and run pre-configured CI/CD workflows for your project. You can create and publish your own custom blueprints which allows you to standardise applications across your organisation.
 Get Started
 arrow_forward
 Developing cost allocation strategies for your AWS workloads
@@ -1699,17 +1621,6 @@ Tags: Trainium, Inferentia, Optimum Neuron, SageMaker, LLM
 schedule
 1 hour
 In this workshop you will learn how to use Amazon SageMaker to fine-tune a pretrained Hugging Face LLM using AWS Trainium accelerators, and then leverage the fine-tuned model for inference on AWS Inferentia. Fine-tuning will be achieved using the Optimum Neuron library. This workshop was originally offered as CMP325 during re:Invent 2023
-Get Started
-arrow_forward
-RDS Chaos Engineering
-Level: 300
-checkmark
-Categories: Database, Analytics
-checkmark
-Tags: RDS, Aurora PostgreSQL, Aurora MySQL, Aurora
-schedule
-1 hour
-Improve resilience of database workloads by using chaos engineering
 Get Started
 arrow_forward
 Build Web3 Workshop
@@ -1976,17 +1887,6 @@ schedule
 In this workshop, we will walk through Bedrock fundamentals, including the API, prompt engineering techniques, privacy capabilities, and end-to-end Generative AI application-building experience. Come away with a generative AI application ready to be deployed in your business.
 Get Started
 arrow_forward
-My Fantastic Sample Workshop
-Level: 200
-checkmark
-Categories: serverless, Serverless Application Model
-checkmark
-Tags: SAM, Serverless, SAM CLI
-schedule
-1 hour
-An introductory workshop to AWS SAM and the SAM CLI
-Get Started
-arrow_forward
 Building event-driven architectures on AWS
 Level: 300
 checkmark
@@ -2051,17 +1951,6 @@ Tags: EKS, ECS, CloudFormation, API Gateway, RDS, VPC
 schedule
 2 hours
 In this workshop, choose your preferred domain (Compute/Networking, Databases, Containers and Serverless/DevOps), and then work on triaging an issue using techniques and best practices shared during the session. Come learn how to securely approach troubleshooting at scale on AWS. You must bring your laptop to participate.
-Get Started
-arrow_forward
-Detect, investigate and respond to security scenarios
-Level: 300
-checkmark
-Categories: Security, Management and Governance, Identity and Compliance
-checkmark
-Tags: Amazon GuardDuty, AWS Trusted Advisor, AWS CloudTrail, AWS Systems Manager
-schedule
-2 hours
-Dive deep in security anomaly scenarios like exposed AWS Access keys, insecure security group ports, EC2 port scanning, and unauthorized resource launches. We will perform discovery, diagnosis, troubleshooting, resolution, and root cause analysis. Learn how to correlate data from sources like AWS CloudTrail, IAM Access Analyzer, AWS Config, and AWS Trusted Advisor. Discover how to respond to incidents using AWS Systems Manager, Lambda, and CloudWatch Events.
 Get Started
 arrow_forward
 AWS Game Backend Framework
@@ -2218,17 +2107,6 @@ schedule
 Learn how to build a resilient and global SMS program using Amazon Pinpoint's SMS and Voice V2 API.
 Get Started
 arrow_forward
-Scale your EKS workloads by running on IPv6
-Level: 300
-checkmark
-Categories: Networking and Content Delivery, Containers
-checkmark
-Tags: Amazon Elastic Kubernetes Service (Amazon EKS), Elastic Load Balancing (ELB), IPv6
-schedule
-3 hours
-Customers often encounters exhaustion of IPv4 addresses available in their VPC leading to scalability challenges when running large scale application(s) on Amazon EKS cluster which demands frequently launching hundreds or thousands of workloads (pods) in their cluster. In this workshop, learn how you can make an existing IPv4 VPC to dual-stack VPC with IPv6 address space and deploy an IPv6 enabled Amazon EKS cluster thereby implementing a long-term solution.
-Get Started
-arrow_forward
 Learn how to secure your SaaS applications using AWS AppFabric
 Level: 200
 checkmark
@@ -2383,17 +2261,6 @@ schedule
 This workshop is designed to help you to get started with using Mendix Low Code Application Development Platform (LCAP) and AWS services like AWS IoT TwinMaker, Amazon Kinesis Video Streams and AWS IoT SiteWise. It contains all the required modules to make it easy for you to build and deploy a Lean Daily Management (LDM) application. No coding/programming experience is required.
 Get Started
 arrow_forward
-Cloud Native Development Of Synthetic Sensors With BlackBerry IVY on Linux
-Level: 300
-checkmark
-Categories: Automotive, Computer Vision, Compute
-checkmark
-Tags: EC2, ARM, Graviton, Linux, IVY, BlackBrry IVY, ML, Edge compute
-schedule
-3 hours
-In this workshop, learn how to use a novel automotive-native software development infrastructure that can run automotive workloads — with environmental parity — to targeted compute elements in the AWS Cloud. Discover how BlackBerry IVY synthetic sensors, which include machine learning, can be developed in the cloud environment and deployed at the embedded edge seamlessly.
-Get Started
-arrow_forward
 SUSE Linux on AWS
 Level: 200
 checkmark
@@ -2403,17 +2270,6 @@ Tags: SUSE, SLES, SLES4SAP, Linux
 schedule
 8 hours
 Hands-on workshop for architects, infrastructure specialists and developers to learn about how to maintain the lifecycle of SUSE Linux Enterprise Servers (SLES) & SUSE Linux Enterprise Servers for SAP (SLES4SAP) on AWS
-Get Started
-arrow_forward
-IAM Policies Troubleshooting
-Level: 300
-checkmark
-Categories: Identity, IAM, Security
-checkmark
-Tags: IAM, Access Analyzer, Resource Policies, Session Principals
-schedule
-1 hour
-In this workshop we walk you through practical examples that will help you build, test and troubleshoot IAM policies. We introduce a workflow to help you create fine-grained access policies with the help of the IAM API, AWS Console, IAM Access Analyzer and AWS CloudTrail, and review key concepts of the IAM policy evaluation logic.
 Get Started
 arrow_forward
 Introduction to Terraform on AWS
@@ -2592,17 +2448,6 @@ schedule
 Learn how to secure and monitor your Windows workloads on AWS, using Amazon EC2 Image Builder, AWS Config, AWS Firewall Manager, AWS Systems Manager and AWS Organization.
 Get Started
 arrow_forward
-Amazon Athena for Apache Spark Workshop
-Level: 200
-checkmark
-Categories: Serverless, Compute, Analytics
-checkmark
-Tags: Athena, Serverless, Spark
-schedule
-2 hours
-This workshop shows you how to configure and run Amazon Athena for Spark and try out various features and use cases
-Get Started
-arrow_forward
 IBM Maximo Application Suite on AWS
 Level: 400
 checkmark
@@ -2744,17 +2589,6 @@ Tags: AWS Control Tower, AWS Service Catalog, Well-Architected
 schedule
 8 hours
 This workshop takes you through how you can create an AWS Control Tower environment. AWS Control Tower is a secure multi-account environment built to AWS best practices.
-Get Started
-arrow_forward
-Deploy RStudio and Perform Analysis with Amazon Lightsail for Research
-Level: 200
-checkmark
-Categories: Compute, AI/ML, Research
-checkmark
-Tags: Lightsail, Research, LfR, RStudio, OpenData
-schedule
-2 hours
-This workshop will guide you to deploy and configure Amazon Lightsail for Research, additional storage, use of RStudio, download a dataset of NOAA temperature data, and run analysis on the dataset to find the maximum median temperature each year of the dataset. It will export a plot chart of the results to a PDF that you can download from your Lightsail for Research virtual computer.
 Get Started
 arrow_forward
 Amazon SageMaker MLOps: from idea to production in six steps
@@ -3208,17 +3042,6 @@ schedule
 Improve search relevance with NLP and KNN in Amazon OpenSearch Service
 Get Started
 arrow_forward
-Build a cloud experience with Cloudscape, an open-source design system
-Level: 300
-checkmark
-Categories: Front-End Web & Mobile
-checkmark
-Tags: Cloudscape, DesignSystem
-schedule
-2 hours
-We will use the open source Cloudscape Design System to build a responsive and accessible web application for cloud management. The web application will leverage the open source React components offered by Cloudscape. The workshop requires knowledge of front-end development, React, TypeScript and git.
-Get Started
-arrow_forward
 Using SageMaker, Autogluon, and ASDI open data to predict air quality
 Level: 200
 checkmark
@@ -3404,17 +3227,6 @@ Tags: Amazon Connect, AWS CloudFormation, AWS Lambda, Amazon Lex, AWS CodeCommit
 schedule
 8 hours
 In this Workshop, we demonstrate how you can implement CICD Deployment pipeline for your Amazon Connect Contact Flow. This workshop walks you through how you can deploy Amazon Connect Contact Flows that consist of Lambda functions, Lex bots, Connect Queue, etc. across various environments (Dev, QA, STG, Prod) through CICD pipeline leveraging CloudFormation, Code Commit repository, CodePipeline, etc.
-Get Started
-arrow_forward
-Troubleshooting contact flow errors in Amazon Connect
-Level: 200
-checkmark
-Categories: Communication Applications, Contact Center
-checkmark
-Tags: Amazon Connect, Amazon CloudWatch
-schedule
-1 hour
-Learn how to setup custom error branching logging and alarms within Amazon Connect Flows.
 Get Started
 arrow_forward
 Accelerate Serverless Java with GraalVM
@@ -4033,17 +3845,6 @@ schedule
 A solution-oriented Immersion Day focusing on working backwards from a business problem (customer sentiment) and building a data and analytics pipeline. You will explore customer sentiment and apply AWS data and analytics services to solve a customer satisfaction business problem and cause analysis.
 Get Started
 arrow_forward
-Slurm REST API, Accounting and Federation on AWS ParallelCluster
-Level: 400
-checkmark
-Categories: HPC, Compute
-checkmark
-Tags: HPC, ParallelCluster, Slurm
-schedule
-2 hours
-In this workshop, we will use Jupyter Notebooks (managed in SageMaker) to create AWS ParallelClusters, enable Slurm REST API, Slurm Accounting and Slurm Federation on those clusters. Through a real-world astrophysics numerical simulation (Athena++), you will learn how to run MPI jobs on AWS ParallelCluster through a REST interface and also learn how to burst HPC jobs from one cluster to another.
-Get Started
-arrow_forward
 Scaling your encryption at rest capabilities with AWS KMS
 Level: 200
 checkmark
@@ -4097,17 +3898,6 @@ Tags: Amazon SageMaker, Amazon SageMaker Studio, Amazon SageMaker Feature Store,
 schedule
 4 hours
 This workshop aims to help customers and partners understand the concepts of Amazon SageMaker Feature Store including creation of feature groups, ingest data into offline and online store, query it, train a model using feature sets from offline store, use a record from online store to perform an inference and also transform and ingest features into feature store using SageMaker processing jobs.
-Get Started
-arrow_forward
-.NET Development on AWS
-Level: 200
-checkmark
-Categories: Modernization, Windows, Serverless, CDK, .NET
-checkmark
-Tags: Modernization, Windows, Serverless, CDK, .NET
-schedule
-3 hours
-The workshop aims to give .NET developers head-start with .NET development on AWS with the familiar toolchain: Visual Studio, C#, .NET Framework, .NET Core. The participant doesn't need to have experience with AWS but should be able to navigate in AWS Console.
 Get Started
 arrow_forward
 Automating Operations with Playbooks and Runbooks
@@ -5560,17 +5350,6 @@ Tags: JMS, MQ, ActiveMQ, Message Brokers
 schedule
 2 hours
 This workshop covers the basic concepts of messaging and explores the various features of Amazon MQ for ActiveMQ. We also dive deep into some of the advance ActiveMQ concepts like Network of Brokers.
-Get Started
-arrow_forward
-DevSecOps - Integrating security into your pipeline
-Level: 300
-checkmark
-Categories: Security, DevOps
-checkmark
-Tags: Microservices, Serverless, IAM
-schedule
-2 hours
-In this workshop, you learn how to build a serverless customer-facing microservices application demonstrating end-to-end authentication and authorization using Amazon Cognito, Amazon API Gateway, AWS Lambda, and all things AWS Identity and Access Management (IAM). You have the opportunity to build an end-to-end functional app with a secure identity provider showcasing user authentication patterns.
 Get Started
 arrow_forward
 Amazon RDS for SQL Server Workshop
