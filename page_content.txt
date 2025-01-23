@@ -4384,17 +4384,6 @@ schedule
 Introduction to key features of AWS Network Firewall & labs
 Get Started
 arrow_forward
-Amazon Lex Workshop
-Level: 200
-checkmark
-Categories: Financial Services, AI/ML
-checkmark
-Tags: Amazon Lex, Chatbot, Conversational interface, Conversational AI
-schedule
-2 hours
-An introduction of how to build a BankingBot with Amazon Lex V2 Console and API.
-Get Started
-arrow_forward
 Get Hands-on with online data migration options to AWS
 Level: 400
 checkmark

@@ -174,24 +174,6 @@
     "description": "The days of one-size-fits-all, monolithic databases are behind us. Database design and management requires a different mindset in AWS compared to traditional relational database management system (RDBMS) design. In this workshop, we will demonstrate how to leverage both relational (Amazon Aurora) and non-relational databases (Amazon DynamoDB) that are purpose-built to handle the specific needs of an application."
   },
   {
-    "url": "https://amazonlex.workshop.aws",
-    "valid_url": false,
-    "title": "Amazon Lex Workshop",
-    "level": "200",
-    "categories": [
-      "Financial Services",
-      "AI/ML"
-    ],
-    "tags": [
-      "Amazon Lex",
-      "Chatbot",
-      "Conversational interface",
-      "Conversational AI"
-    ],
-    "schedule": "2 hours",
-    "description": "An introduction of how to build a BankingBot with Amazon Lex V2 Console and API."
-  },
-  {
     "url": "https://amazonmsk-labs.workshop.aws",
     "valid_url": true,
     "title": "Amazon MSK Labs",

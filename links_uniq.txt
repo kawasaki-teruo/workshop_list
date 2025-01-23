@@ -5,7 +5,6 @@ https://alienattack.workshop.aws
 https://amazon-mq-intro.workshop.aws
 https://amazon-mwaa-for-analytics.workshop.aws
 https://amazon-rds-purpose-built.workshop.aws
-https://amazonlex.workshop.aws
 https://amazonmsk-labs.workshop.aws
 https://amplify-photo-sharing.workshop.aws
 https://app-int-with-amazonmq.workshop.aws
@@ -792,7 +791,6 @@ https://workshops.aws/?tag=Content%20Creation
 https://workshops.aws/?tag=Continuous%20Monitoring
 https://workshops.aws/?tag=Conversational%20AI
 https://workshops.aws/?tag=Conversational%20Search
-https://workshops.aws/?tag=Conversational%20interface
 https://workshops.aws/?tag=Copilot
 https://workshops.aws/?tag=Cost%20Explorer
 https://workshops.aws/?tag=Cost%20Management

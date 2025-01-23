@@ -3377,13 +3377,6 @@ https://workshops.aws/?tag=Networking
 https://workshops.aws/?tag=Firewalls
 https://workshops.aws/?tag=Security
 https://networkfirewall.workshop.aws/
-https://workshops.aws/categories/Financial%20Services
-https://workshops.aws/categories/AI%2FML
-https://workshops.aws/?tag=Amazon%20Lex
-https://workshops.aws/?tag=Chatbot
-https://workshops.aws/?tag=Conversational%20interface
-https://workshops.aws/?tag=Conversational%20AI
-https://amazonlex.workshop.aws/
 https://workshops.aws/categories/Storage
 https://workshops.aws/categories/TransferFamily
 https://workshops.aws/categories/StorageGateway
