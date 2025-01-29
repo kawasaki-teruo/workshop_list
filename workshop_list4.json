@@ -2122,6 +2122,24 @@
     "description": "Applying ML to advertising workloads is mission-critical for advertising technology companies looking to differentiate themselves today. In this workshop, you'll get an introduction to a machine learning framework that applies to many real-time advertising use-cases and specifically dive into traffic filtering as an example use-case. We'll also cover the state of machine learning, architectural best-practices, and help you build and incorporate various AWS services using lab modules."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab",
+    "valid_url": true,
+    "title": "Open Platform for Enterprise AI (OPEA) ChatQnA on AWS",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Machine Learning",
+      "Generative AI"
+    ],
+    "tags": [
+      "EKS",
+      "Bedrock",
+      "OpenSearch"
+    ],
+    "schedule": "2 hours",
+    "description": "Open Platform for Enterprise AI (OPEA) is an open source platform from the Linux Foundation that provides composable building blocks for state of the art generative AI systems. This workshop walks you through deploying one of OPEA's sample modules, ChatQnA, onto an Amazon Elastic Kubernetes Service (EKS) cluster as well as how to integrate it with services like Opensearch and Amazon Bedrock."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-775300717f42",
     "valid_url": true,
     "title": "Building CI/CD pipelines for lambda canary deployments using AWS CDK",
@@ -9087,24 +9105,6 @@
     ],
     "schedule": "4 hours",
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
-  },
-  {
-    "url": "https://studio.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab#builds",
-    "valid_url": true,
-    "title": "Open Platform for Enterprise AI (OPEA) ChatQnA on AWS",
-    "level": "300",
-    "categories": [
-      "Containers",
-      "Machine Learning",
-      "Generative AI"
-    ],
-    "tags": [
-      "EKS",
-      "Bedrock",
-      "OpenSearch"
-    ],
-    "schedule": "2 hours",
-    "description": "Open Platform for Enterprise AI (OPEA) is an open source platform from the Linux Foundation that provides composable building blocks for state of the art generative AI systems. This workshop walks you through deploying one of OPEA's sample modules, ChatQnA, onto an Amazon Elastic Kubernetes Service (EKS) cluster as well as how to integrate it with services like Opensearch and Amazon Bedrock."
   },
   {
     "url": "https://tao.workshop.aws",

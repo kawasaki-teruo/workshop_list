@@ -344,7 +344,7 @@ https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/?tag=EKS
 https://workshops.aws/?tag=Bedrock
 https://workshops.aws/?tag=OpenSearch
-https://studio.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab#builds
+https://catalog.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab
 https://workshops.aws/categories/AWS%20Cost%20Management
 https://workshops.aws/categories/Machine%20Learning%20%28ML%2FAI%29
 https://workshops.aws/categories/Compute

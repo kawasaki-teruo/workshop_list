@@ -110,6 +110,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4d9ab448-5083-4db7-bee8-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/4db05a4c-f22f-4d24-8800-932626a8c197
 https://catalog.us-east-1.prod.workshops.aws/workshops/4de5236e-7226-47ca-bef9-7497b531dd98
 https://catalog.us-east-1.prod.workshops.aws/workshops/4eba7957-dfde-44d3-9997-127c7e4bc416
+https://catalog.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab
 https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-775300717f42
 https://catalog.us-east-1.prod.workshops.aws/workshops/51c37f4d-f2be-441b-b30f-5fa17b10042e
 https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26
@@ -473,7 +474,6 @@ https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
-https://studio.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab#builds
 https://tao.workshop.aws
 https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
