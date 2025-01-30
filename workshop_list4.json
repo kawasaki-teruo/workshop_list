@@ -688,6 +688,24 @@
     "description": "Learn how to secure and monitor your Windows workloads on AWS, using Amazon EC2 Image Builder, AWS Config, AWS Firewall Manager, AWS Systems Manager and AWS Organization."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/012d9c20-25dc-4065-bdb6-50e935e8bd9f",
+    "valid_url": true,
+    "title": "Amazon Nova multimodal understanding workshop",
+    "level": "200",
+    "categories": [
+      "Generative AI",
+      "Bedrock"
+    ],
+    "tags": [
+      "Nova",
+      "Multimodal Understanding",
+      "Generative AI",
+      "Agentic workflow"
+    ],
+    "schedule": "4 hours",
+    "description": "Explore the power of Amazon Nova Multimodal Understanding Models on Amazon Bedrock. The workshop explores capabilities of Amazon Nova understanding models."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/013df096-dacc-4da7-8a38-a16a6c709f75",
     "valid_url": true,
     "title": "Using SageMaker, Autogluon, and ASDI open data to predict air quality",

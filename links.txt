@@ -338,6 +338,13 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Generative%20AI
+https://workshops.aws/categories/Bedrock
+https://workshops.aws/?tag=Nova
+https://workshops.aws/?tag=Multimodal%20Understanding
+https://workshops.aws/?tag=Generative%20AI
+https://workshops.aws/?tag=Agentic%20workflow
+https://catalog.us-east-1.prod.workshops.aws/workshops/012d9c20-25dc-4065-bdb6-50e935e8bd9f
 https://workshops.aws/categories/Containers
 https://workshops.aws/categories/Machine%20Learning
 https://workshops.aws/categories/Generative%20AI

@@ -28,6 +28,17 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Amazon Nova multimodal understanding workshop
+Level: 200
+checkmark
+Categories: Generative AI, Bedrock
+checkmark
+Tags: Nova, Multimodal Understanding, Generative AI, Agentic workflow
+schedule
+4 hours
+Explore the power of Amazon Nova Multimodal Understanding Models on Amazon Bedrock. The workshop explores capabilities of Amazon Nova understanding models.
+Get Started
+arrow_forward
 Open Platform for Enterprise AI (OPEA) ChatQnA on AWS
 Level: 300
 checkmark

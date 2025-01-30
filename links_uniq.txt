@@ -35,6 +35,7 @@ https://bringyourowndatalabs.workshop.aws
 https://build-ms-exch-on-aws.workshop.aws
 https://catalog.us-east-1.prod.workshops.aws/kinesis-video-streams
 https://catalog.us-east-1.prod.workshops.aws/secure-windows
+https://catalog.us-east-1.prod.workshops.aws/workshops/012d9c20-25dc-4065-bdb6-50e935e8bd9f
 https://catalog.us-east-1.prod.workshops.aws/workshops/013df096-dacc-4da7-8a38-a16a6c709f75
 https://catalog.us-east-1.prod.workshops.aws/workshops/0436a9a9-18f2-4707-a629-021358df997e
 https://catalog.us-east-1.prod.workshops.aws/workshops/0644c9e9-5b82-45f2-8835-3b5aa30b1848
@@ -595,6 +596,7 @@ https://workshops.aws/?tag=ActiveMQ
 https://workshops.aws/?tag=Advertising
 https://workshops.aws/?tag=Agent%20Empowerment
 https://workshops.aws/?tag=Agent%20Enablement
+https://workshops.aws/?tag=Agentic%20workflow
 https://workshops.aws/?tag=Agents
 https://workshops.aws/?tag=Agents%20for%20Amazon%20Bedrock
 https://workshops.aws/?tag=Airflow
@@ -1086,6 +1088,7 @@ https://workshops.aws/?tag=Multi-Region
 https://workshops.aws/?tag=Multi-account
 https://workshops.aws/?tag=Multicloud
 https://workshops.aws/?tag=Multimodal%20Search
+https://workshops.aws/?tag=Multimodal%20Understanding
 https://workshops.aws/?tag=MySQL
 https://workshops.aws/?tag=NFT
 https://workshops.aws/?tag=NICE%20DCV
