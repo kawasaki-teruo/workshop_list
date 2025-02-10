@@ -338,6 +338,15 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Amazon%20Bedrock
+https://workshops.aws/categories/AI%2FML
+https://workshops.aws/categories/SageMaker
+https://workshops.aws/?tag=Nova
+https://workshops.aws/?tag=Anthropic
+https://workshops.aws/?tag=Promptfoo
+https://workshops.aws/?tag=Claude
+https://workshops.aws/?tag=LLM%20Evaluation
+https://catalog.us-east-1.prod.workshops.aws/workshops/promptfoo
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/categories/Bedrock
 https://workshops.aws/?tag=Nova

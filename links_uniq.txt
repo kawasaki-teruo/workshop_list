@@ -256,6 +256,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/fdf5673a-d606-4876-ab14-9a1d25545895
 https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73
 https://catalog.us-east-1.prod.workshops.aws/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68
+https://catalog.us-east-1.prod.workshops.aws/workshops/promptfoo
 https://catalog.workshops.aws/5g-edge-compute
 https://catalog.workshops.aws/acm-troubleshooting
 https://catalog.workshops.aws/agents-for-amazon-bedrock
@@ -1011,6 +1012,7 @@ https://workshops.aws/?tag=Kubernetes
 https://workshops.aws/?tag=LDM
 https://workshops.aws/?tag=LLM
 https://workshops.aws/?tag=LLM%20Agents
+https://workshops.aws/?tag=LLM%20Evaluation
 https://workshops.aws/?tag=LPWAN
 https://workshops.aws/?tag=Lake%20Formation
 https://workshops.aws/?tag=LakeFormation
@@ -1152,6 +1154,7 @@ https://workshops.aws/?tag=PredictiveMaintenance
 https://workshops.aws/?tag=Private%20CA
 https://workshops.aws/?tag=PrivateLink
 https://workshops.aws/?tag=PromptEngineering
+https://workshops.aws/?tag=Promptfoo
 https://workshops.aws/?tag=Providers
 https://workshops.aws/?tag=Provisioning%20and%20Orchestration
 https://workshops.aws/?tag=Python

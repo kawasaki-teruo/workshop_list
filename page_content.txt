@@ -28,6 +28,17 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Mastering LLM Evaluation
+Level: 200
+checkmark
+Categories: Amazon Bedrock, AI/ML, SageMaker
+checkmark
+Tags: Nova, Anthropic, Promptfoo, Claude, LLM Evaluation
+schedule
+3 hours
+Dive into the world of LLM evaluation with our hands-on workshop. Master Amazon Bedrock's API and Promptfoo to rigorously assess and optimize AI performance. Learn to design comprehensive test suites, evaluate multi-turn conversations, and implement continuous monitoring. Through practical Jupyter labs, you'll compare models, refine prompts, and evaluate complex systems like RAG.
+Get Started
+arrow_forward
 Amazon Nova multimodal understanding workshop
 Level: 200
 checkmark

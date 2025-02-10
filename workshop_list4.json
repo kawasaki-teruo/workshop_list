@@ -4877,6 +4877,26 @@
     "description": "Want to analyze IAM policies at scale? Want your developers to write secure IAM policies? In this hands-on workshop, you are given the opportunity to build a CI/CD pipeline that validates IAM policies using IAM Access Analyzer and the IAM Policy Validator for AWS CloudFormation."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/promptfoo",
+    "valid_url": false,
+    "title": "Mastering LLM Evaluation",
+    "level": "200",
+    "categories": [
+      "Amazon Bedrock",
+      "AI/ML",
+      "SageMaker"
+    ],
+    "tags": [
+      "Nova",
+      "Anthropic",
+      "Promptfoo",
+      "Claude",
+      "LLM Evaluation"
+    ],
+    "schedule": "3 hours",
+    "description": "Dive into the world of LLM evaluation with our hands-on workshop. Master Amazon Bedrock's API and Promptfoo to rigorously assess and optimize AI performance. Learn to design comprehensive test suites, evaluate multi-turn conversations, and implement continuous monitoring. Through practical Jupyter labs, you'll compare models, refine prompts, and evaluate complex systems like RAG."
+  },
+  {
     "url": "https://catalog.workshops.aws/5g-edge-compute",
     "valid_url": true,
     "title": "Mobile Edge Compute (MEC) with AWS Wavelength Workshop",
