@@ -670,6 +670,26 @@
     "description": "In this workshop, you will learn how to ingest, store, playback and analyze video from a camera device using Amazon Kinesis Video Streams. You will also learn how to build low-latency video solutions with Amazon Kinesis Video Streams with WebRTC. This workshop also covers how to integrate Kinesis Video Streams with other AWS services like Amazon Rekognition Video and AWS IoT Core."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/promptfoo",
+    "valid_url": true,
+    "title": "Mastering LLM Evaluation",
+    "level": "200",
+    "categories": [
+      "Amazon Bedrock",
+      "AI/ML",
+      "SageMaker"
+    ],
+    "tags": [
+      "Nova",
+      "Anthropic",
+      "Promptfoo",
+      "Claude",
+      "LLM Evaluation"
+    ],
+    "schedule": "3 hours",
+    "description": "Dive into the world of LLM evaluation with our hands-on workshop. Master Amazon Bedrock's API and Promptfoo to rigorously assess and optimize AI performance. Learn to design comprehensive test suites, evaluate multi-turn conversations, and implement continuous monitoring. Through practical Jupyter labs, you'll compare models, refine prompts, and evaluate complex systems like RAG."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/secure-windows",
     "valid_url": true,
     "title": "Securing Microsoft Windows Workloads on AWS",
@@ -1857,7 +1877,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/425648be-6b4b-4e60-90d2-077a74de91ab",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Hands-on AWS Support operational and resilience readiness",
     "level": "300",
     "categories": [
@@ -2626,7 +2646,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6dc3124a-6bd4-46eb-b5c4-be438a82ba3d",
-    "valid_url": true,
+    "valid_url": false,
     "title": "IAM policy evaluation workshop",
     "level": "400",
     "categories": [
@@ -3119,7 +3139,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/93d77bd0-073e-445f-82f8-db877beb9d7a",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Renewable energy assets in the smart home",
     "level": "300",
     "categories": [
@@ -3378,7 +3398,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a8ae0cec-f2b9-4c14-bec5-124c758562be",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Have Your Front End and Monitor It Too",
     "level": "400",
     "categories": [
@@ -4877,26 +4897,6 @@
     "description": "Want to analyze IAM policies at scale? Want your developers to write secure IAM policies? In this hands-on workshop, you are given the opportunity to build a CI/CD pipeline that validates IAM policies using IAM Access Analyzer and the IAM Policy Validator for AWS CloudFormation."
   },
   {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/promptfoo",
-    "valid_url": false,
-    "title": "Mastering LLM Evaluation",
-    "level": "200",
-    "categories": [
-      "Amazon Bedrock",
-      "AI/ML",
-      "SageMaker"
-    ],
-    "tags": [
-      "Nova",
-      "Anthropic",
-      "Promptfoo",
-      "Claude",
-      "LLM Evaluation"
-    ],
-    "schedule": "3 hours",
-    "description": "Dive into the world of LLM evaluation with our hands-on workshop. Master Amazon Bedrock's API and Promptfoo to rigorously assess and optimize AI performance. Learn to design comprehensive test suites, evaluate multi-turn conversations, and implement continuous monitoring. Through practical Jupyter labs, you'll compare models, refine prompts, and evaluate complex systems like RAG."
-  },
-  {
     "url": "https://catalog.workshops.aws/5g-edge-compute",
     "valid_url": true,
     "title": "Mobile Edge Compute (MEC) with AWS Wavelength Workshop",
@@ -5937,7 +5937,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/ecs-solution-blueprints",
-    "valid_url": true,
+    "valid_url": false,
     "title": "ECS Blueprints Workshop",
     "level": "300",
     "categories": [
@@ -7099,7 +7099,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/sitewise-anomaly-detection",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Automated Anomaly Detection For Smart Manufacturing",
     "level": "200",
     "categories": [
@@ -7559,7 +7559,7 @@
   },
   {
     "url": "https://data-expert-path.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Data Lake & ML on AWS for a Multi-Tenant Application",
     "level": "400",
     "categories": [
@@ -8002,7 +8002,7 @@
   },
   {
     "url": "https://genomics-nf.workshop.aws",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Nextflow on AWS Batch",
     "level": "200",
     "categories": [
@@ -8812,7 +8812,7 @@
   },
   {
     "url": "https://reinforce-tdr254.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building an AWS incident response runbook using Jupyter notebooks and CloudTrail Lake",
     "level": "200",
     "categories": [

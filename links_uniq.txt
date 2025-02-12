@@ -34,6 +34,7 @@ https://basis-express-immersionday.workshop.aws
 https://bringyourowndatalabs.workshop.aws
 https://build-ms-exch-on-aws.workshop.aws
 https://catalog.us-east-1.prod.workshops.aws/kinesis-video-streams
+https://catalog.us-east-1.prod.workshops.aws/promptfoo
 https://catalog.us-east-1.prod.workshops.aws/secure-windows
 https://catalog.us-east-1.prod.workshops.aws/workshops/012d9c20-25dc-4065-bdb6-50e935e8bd9f
 https://catalog.us-east-1.prod.workshops.aws/workshops/013df096-dacc-4da7-8a38-a16a6c709f75
@@ -256,7 +257,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/fdf5673a-d606-4876-ab14-9a1d25545895
 https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73
 https://catalog.us-east-1.prod.workshops.aws/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68
-https://catalog.us-east-1.prod.workshops.aws/workshops/promptfoo
 https://catalog.workshops.aws/5g-edge-compute
 https://catalog.workshops.aws/acm-troubleshooting
 https://catalog.workshops.aws/agents-for-amazon-bedrock

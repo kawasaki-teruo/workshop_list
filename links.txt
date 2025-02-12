@@ -346,7 +346,7 @@ https://workshops.aws/?tag=Anthropic
 https://workshops.aws/?tag=Promptfoo
 https://workshops.aws/?tag=Claude
 https://workshops.aws/?tag=LLM%20Evaluation
-https://catalog.us-east-1.prod.workshops.aws/workshops/promptfoo
+https://catalog.us-east-1.prod.workshops.aws/promptfoo
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/categories/Bedrock
 https://workshops.aws/?tag=Nova
