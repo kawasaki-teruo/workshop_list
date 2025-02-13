@@ -8002,7 +8002,7 @@
   },
   {
     "url": "https://genomics-nf.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Nextflow on AWS Batch",
     "level": "200",
     "categories": [
