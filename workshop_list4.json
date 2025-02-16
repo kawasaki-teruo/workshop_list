@@ -7952,36 +7952,6 @@
     "description": "A real-time fraud detection workshop using kafka, flink, and DynamoDB"
   },
   {
-    "url": "https://gamelift-persistent-workshop.workshop.aws",
-    "valid_url": false,
-    "title": "GameLift_Persistent_Workshop",
-    "level": "300",
-    "categories": [
-      "Game Development"
-    ],
-    "tags": [
-      "GameLift",
-      "GameTech"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop introduces how to build MMO game architecture based on Amazon GameLift"
-  },
-  {
-    "url": "https://gamelift-realtimeserver-puzzle.workshop.aws",
-    "valid_url": false,
-    "title": "GameLift Realtime Server Workshop (Japanese)",
-    "level": "200",
-    "categories": [
-      "Game Development"
-    ],
-    "tags": [
-      "GameTech",
-      "GameLift"
-    ],
-    "schedule": "2 hours",
-    "description": "Learning how to use GameLift Realtime Server by creating a simple puzzle game on Unity."
-  },
-  {
     "url": "https://gametech-workshop.workshop.aws",
     "valid_url": true,
     "title": "Gametech workshop",
@@ -9026,33 +8996,6 @@
     "description": "This Serverless Data Lake Day workshop is prepared to assist you ingest, store, transform, create insights on unstructured data using AWS serverless services. We will build a cloud-native and future-proof serverless data lake architecture using Amazon Kinesis Firehose for streaming data ingestion, AWS Glue for ETL and Data Catalogue Management, S3 for data lake storage, Amazon Athena to query data lake and provide JDBC Connectivity to external BI tools, and finally Amazon Quicksight for data visualization."
   },
   {
-    "url": "https://serverless-game-analytics.workshop.aws",
-    "valid_url": false,
-    "title": "Serverless Analytics for Games Workshop",
-    "level": "300",
-    "categories": [
-      "Game Development",
-      "Analytics",
-      "Serverless"
-    ],
-    "tags": [
-      "AWS Game Tech",
-      "Games TFC",
-      "Amazon API Gateway",
-      "Amazon Kinesis",
-      "AWS Lambda",
-      "AWS Glue",
-      "Unity",
-      "Game Analytics Pipeline",
-      "Amazon Cognito",
-      "Amazon CloudWatch",
-      "Amazon Athena",
-      "Amazon QuickSight"
-    ],
-    "schedule": "3 hours",
-    "description": "In this workshop, you will create a serverless analytics pipeline similar to the new Game Analytics Pipeline Solution and integrate it into a Peculiar Wizards Unity game. The focus of this workshop is to build an entirely serverless solution for both real-time and batch analytics so you can analyze game data as it comes in as well as over a period of time"
-  },
-  {
     "url": "https://serverless-observability.workshop.aws",
     "valid_url": true,
     "title": "Serverless Observability Workshop",
@@ -9071,23 +9014,6 @@
     ],
     "schedule": "4 hours",
     "description": "In this workshop, we will explore some of the techniques you can adopt to monitor your Serverless applications using AWS services by leveraging the proper operational and business metrics, standardized and centralized logging and orchestrating traces throughout your application code and other services."
-  },
-  {
-    "url": "https://simple-crud-api.workshop.aws",
-    "valid_url": false,
-    "title": "Build your first CRUD API in 45 minutes or less!",
-    "level": "200",
-    "categories": [
-      "Serverless",
-      "API"
-    ],
-    "tags": [
-      "API Gateway",
-      "Lambda",
-      "DynamoDB"
-    ],
-    "schedule": "1 hour",
-    "description": "In this workshop you will create a CRUD API that Creates, Reads, Updates and Deletes items from a DynamoDB table. The API will run serverless, so there is no management of the underlying infrastructure and scaling is done automatically. You will learn how easy it is to create an API on AWS, all within 45 minutes."
   },
   {
     "url": "https://sql-immersionday.workshop.aws",

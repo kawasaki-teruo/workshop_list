@@ -411,8 +411,6 @@ https://encryption-ws.workshop.aws
 https://filestreaming.workshop.aws
 https://fpga-development-on-ec2.workshop.aws
 https://fraud-detection.workshop.aws
-https://gamelift-persistent-workshop.workshop.aws
-https://gamelift-realtimeserver-puzzle.workshop.aws
 https://gametech-workshop.workshop.aws
 https://genomics-nf.workshop.aws
 https://gitflow-codetools.workshop.aws
@@ -470,9 +468,7 @@ https://sdlf.workshop.aws
 https://self-service-kyc.workshop.aws
 https://serverless-bi-system-from-scratch.workshop.aws
 https://serverless-data-lake-immersionday.workshop.aws
-https://serverless-game-analytics.workshop.aws
 https://serverless-observability.workshop.aws
-https://simple-crud-api.workshop.aws
 https://sql-immersionday.workshop.aws
 https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
@@ -915,10 +911,7 @@ https://workshops.aws/?tag=Front%20End
 https://workshops.aws/?tag=GCP
 https://workshops.aws/?tag=GDPR
 https://workshops.aws/?tag=GIS
-https://workshops.aws/?tag=Game%20Analytics%20Pipeline
 https://workshops.aws/?tag=GameBackend
-https://workshops.aws/?tag=GameLift
-https://workshops.aws/?tag=GameTech
 https://workshops.aws/?tag=Games
 https://workshops.aws/?tag=Games%20TFC
 https://workshops.aws/?tag=Gateway%20Load%20Balancer
@@ -1276,7 +1269,6 @@ https://workshops.aws/?tag=Transit%20Gateway
 https://workshops.aws/?tag=Translate
 https://workshops.aws/?tag=Trusted%20Advisor
 https://workshops.aws/?tag=TwinMaker
-https://workshops.aws/?tag=Unity
 https://workshops.aws/?tag=Unused%20Access%20Analyzer
 https://workshops.aws/?tag=VDI
 https://workshops.aws/?tag=VPC
@@ -1354,7 +1346,6 @@ https://workshops.aws/categories/AI%2FML
 https://workshops.aws/categories/AIML
 https://workshops.aws/categories/AMI
 https://workshops.aws/categories/AMQP
-https://workshops.aws/categories/API
 https://workshops.aws/categories/API%20Gateway
 https://workshops.aws/categories/AWS%20Client%20VPN
 https://workshops.aws/categories/AWS%20Cloud9

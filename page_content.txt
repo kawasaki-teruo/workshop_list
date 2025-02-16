@@ -5,8 +5,8 @@ AI/ML
 AIML
 AMI
 AMQP
-API
 API Gateway
+AWS Client VPN
 AWS Workshops
 This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
 You can filter by topic using the toolbar above.
@@ -4219,17 +4219,6 @@ schedule
 Amazon SageMaker 101 workshop introduce the core functionalities of the service.
 Get Started
 arrow_forward
-Build your first CRUD API in 45 minutes or less!
-Level: 200
-checkmark
-Categories: Serverless, API
-checkmark
-Tags: API Gateway, Lambda, DynamoDB
-schedule
-1 hour
-In this workshop you will create a CRUD API that Creates, Reads, Updates and Deletes items from a DynamoDB table. The API will run serverless, so there is no management of the underlying infrastructure and scaling is done automatically. You will learn how easy it is to create an API on AWS, all within 45 minutes.
-Get Started
-arrow_forward
 Windows Containers on AWS
 Level: 400
 checkmark
@@ -4261,17 +4250,6 @@ Tags: EC2, API Gateway, Lambda, CloudFront, ECR, EKS, Secrets Manager, DynamoDB,
 schedule
 8 hours
 In this workshop, we will explore some of the techniques to support Disaster Recovery strategies based on multi-region approach.
-Get Started
-arrow_forward
-GameLift Realtime Server Workshop (Japanese)
-Level: 200
-checkmark
-Categories: Game Development
-checkmark
-Tags: GameTech, GameLift
-schedule
-2 hours
-Learning how to use GameLift Realtime Server by creating a simple puzzle game on Unity.
 Get Started
 arrow_forward
 TAO Workshop
@@ -4514,17 +4492,6 @@ Tags: EC2, EKS, ECS, CodePipeline, CodeBuild, RDS, Graviton2, ARM64, Graviton
 schedule
 4 hours
 The intent of this workshop is to educate users about the use of Graviton2 with AWS services and architectures. Background in specific technology areas such as Containers, Databases, DevOps, and Big Data is not required, but it is recommended. This workshop is recommended for Cloud Architects, SREs, DevOps engineers, and other IT Professionals.
-Get Started
-arrow_forward
-GameLift_Persistent_Workshop
-Level: 300
-checkmark
-Categories: Game Development
-checkmark
-Tags: GameLift, GameTech
-schedule
-2 hours
-This workshop introduces how to build MMO game architecture based on Amazon GameLift
 Get Started
 arrow_forward
 SAP on AWS Beyond Lab
@@ -5317,17 +5284,6 @@ Tags: EC2, AWS Glue
 schedule
 2 hours
 Hands-On labs on AWS Glue ETL
-Get Started
-arrow_forward
-Serverless Analytics for Games Workshop
-Level: 300
-checkmark
-Categories: Game Development, Analytics, Serverless
-checkmark
-Tags: AWS Game Tech, Games TFC, Amazon API Gateway, Amazon Kinesis, AWS Lambda, AWS Glue, Unity, Game Analytics Pipeline, Amazon Cognito, Amazon CloudWatch, Amazon Athena, Amazon QuickSight
-schedule
-3 hours
-In this workshop, you will create a serverless analytics pipeline similar to the new Game Analytics Pipeline Solution and integrate it into a Peculiar Wizards Unity game. The focus of this workshop is to build an entirely serverless solution for both real-time and batch analytics so you can analyze game data as it comes in as well as over a period of time
 Get Started
 arrow_forward
 Kendra Essentials+: from zero to POC
