@@ -9262,7 +9262,7 @@
   },
   {
     "url": "https://zerotrust-service2service.workshop.aws",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Zero Trust Episode 1 - The Phantom Service Perimeter",
     "level": "200",
     "categories": [
