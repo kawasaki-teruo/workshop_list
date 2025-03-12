@@ -28,6 +28,61 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Accelerate your Mainframe Modernization journey with Amazon Q Developer Transform
+Level: 300
+checkmark
+Categories: AWS Mainframe Modernization, Amazon Q
+checkmark
+Tags: Mainframe Modernization, Refactor, Transform
+schedule
+2 hours
+Accelerate your mainframe modernization journey using Amazon Q Developer: Transform capabilities for Mainframe application. In this workshop, you will learn how to refactor Mainframe applications using Amazon Q Developer: Transform capability.
+Get Started
+arrow_forward
+Rust on AWS Workshop
+Level: 300
+checkmark
+Categories: Serverless, Lambda, Developer Tools, Application Modernization
+checkmark
+Tags: Lambda, Infrastructure as Code, IaC, Serverless Patterns, Microservices
+schedule
+2 hours
+Learn how to build fast, performant Rust applications on AWS. No prior Rust knowledge required!
+Get Started
+arrow_forward
+Boomi Bedrock Workshop
+Level: 200
+checkmark
+Categories: Bedrock, Boomi
+checkmark
+Tags: Bedrock, Boomi, AI Agent, Bedrock Agent
+schedule
+8 hours
+Learn how to use Amazon Bedrock and Boomi together to create a Generative AI-powered Automated Support Case Insights assistant.
+Get Started
+arrow_forward
+Managing Administrative Tasks in Amazon SageMaker AI
+Level: 200
+checkmark
+Categories: Machine Learning (ML/AI), Management & Governance
+checkmark
+Tags: SageMaker AI, Administration
+schedule
+2 hours
+This hands-on workshop teaches IT professionals to effectively manage Amazon SageMaker AI. Participants will earn hands-on experience for domain and user profile management, access control, custom image management, lifecycle configuration, and more. Through hands-on labs, attendees will gain experience in scaling SageMaker AI administration, enabling them to streamline workflows and support data science teams confidently.
+Get Started
+arrow_forward
+Amazon SageMaker Workshop
+Level: 300
+checkmark
+Categories: Analytics, Machine Learning, Gen AI, Compute
+checkmark
+Tags: Amazon SageMaker, SageMaker, Next Generation of Amazon SageMaker, SageMaker NextGen
+schedule
+8 hours
+Amazon SageMaker is a unified experience for data, analytics, and AI. Bringing together widely-adopted AWS machine learning and analytics capabilities, the next generation of SageMaker delivers an integrated experience for analytics and AI with unified access to all your data. Collaborate and build faster from a unified studio using familiar AWS tools for model development, generative AI, data processing, and SQL analytics, accelerated by Amazon Q Developer, the most capable generative AI assistant for software development. Access all your data whether it’s stored in data lakes, data warehouses, third party or federated data sources, with governance built-in to address enterprise security needs.
+Get Started
+arrow_forward
 Mastering LLM Evaluation
 Level: 200
 checkmark

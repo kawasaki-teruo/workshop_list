@@ -779,6 +779,26 @@
     "description": "In this comprehensive workshop, you'll gain the skills and knowledge needed to design, test, and refine prompts that optimize Anthropic Claude's performance for your specific use case. This workshop will guide you through a structured, test-driven approach to prompt development, equipping you with the tools and techniques to achieve unparalleled results."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-18c7f85788d4",
+    "valid_url": true,
+    "title": "Amazon SageMaker Workshop",
+    "level": "300",
+    "categories": [
+      "Analytics",
+      "Machine Learning",
+      "Gen AI",
+      "Compute"
+    ],
+    "tags": [
+      "Amazon SageMaker",
+      "SageMaker",
+      "Next Generation of Amazon SageMaker",
+      "SageMaker NextGen"
+    ],
+    "schedule": "8 hours",
+    "description": "Amazon SageMaker is a unified experience for data, analytics, and AI. Bringing together widely-adopted AWS machine learning and analytics capabilities, the next generation of SageMaker delivers an integrated experience for analytics and AI with unified access to all your data. Collaborate and build faster from a unified studio using familiar AWS tools for model development, generative AI, data processing, and SQL analytics, accelerated by Amazon Q Developer, the most capable generative AI assistant for software development. Access all your data whether it’s stored in data lakes, data warehouses, third party or federated data sources, with governance built-in to address enterprise security needs."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/06f17ada-6ae0-4be7-a771-8a37ab7ca3bb",
     "valid_url": true,
     "title": "Service Cloud Voice Series: Reporting in Service Cloud Voice",
@@ -2989,6 +3009,23 @@
     "description": "This workshop is designed for developers and security professionals who want to secure web applications with AWS WAF."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8313464b-578d-4894-bea8-43227c04e4a3",
+    "valid_url": true,
+    "title": "Accelerate your Mainframe Modernization journey with Amazon Q Developer Transform",
+    "level": "300",
+    "categories": [
+      "AWS Mainframe Modernization",
+      "Amazon Q"
+    ],
+    "tags": [
+      "Mainframe Modernization",
+      "Refactor",
+      "Transform"
+    ],
+    "schedule": "2 hours",
+    "description": "Accelerate your mainframe modernization journey using Amazon Q Developer: Transform capabilities for Mainframe application. In this workshop, you will learn how to refactor Mainframe applications using Amazon Q Developer: Transform capability."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b",
     "valid_url": true,
     "title": "Getting Started with Serverless",
@@ -3102,6 +3139,24 @@
     ],
     "schedule": "2 hours",
     "description": "An introduction to Amazon Connect and Salesforce with a focus on the Amazon Connect CTI Adapter for Salesforce. This workshop module is a prerequisite for the remaining Amazon Connect CTI Adapter for Salesforce Series modules."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8dd7e408-b72a-4ec4-8aa4-166b5a2ebbb1",
+    "valid_url": true,
+    "title": "Boomi Bedrock Workshop",
+    "level": "200",
+    "categories": [
+      "Bedrock",
+      "Boomi"
+    ],
+    "tags": [
+      "Bedrock",
+      "Boomi",
+      "AI Agent",
+      "Bedrock Agent"
+    ],
+    "schedule": "8 hours",
+    "description": "Learn how to use Amazon Bedrock and Boomi together to create a Generative AI-powered Automated Support Case Insights assistant."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057",
@@ -3596,6 +3651,22 @@
     ],
     "schedule": "8 hours",
     "description": "هذه الورشة مُصممة لتعريفك بخدمات اكتشاف التهديدات والاستجابة لها في AWS، وأفضل الممارسات، وحالات الاستخدام، ثم استخدام ما تعلمته للتعمق أكثر في السيناريوهات. كل هذا مُصمم لإعدادك ومساعدتك على العمل بشكل أكثر أمانًا على AWS. تمر هذه الورشة بلمحات عامة وتشغيل وتنصيب كل من الخدمات التالية: Amazon GuardDuty و Amazon Inspector و AWS Security Hub و Amazon Macie و Amazon Detective."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b73124ff-306f-49b8-a367-08383aa1c892",
+    "valid_url": true,
+    "title": "Managing Administrative Tasks in Amazon SageMaker AI",
+    "level": "200",
+    "categories": [
+      "Machine Learning (ML/AI)",
+      "Management & Governance"
+    ],
+    "tags": [
+      "SageMaker AI",
+      "Administration"
+    ],
+    "schedule": "2 hours",
+    "description": "This hands-on workshop teaches IT professionals to effectively manage Amazon SageMaker AI. Participants will earn hands-on experience for domain and user profile management, access control, custom image management, lifecycle configuration, and more. Through hands-on labs, attendees will gain experience in scaling SageMaker AI administration, enabling them to streamline workflows and support data science teams confidently."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b7702b59-acbf-4cef-8f14-921350830cba",
@@ -6687,6 +6758,27 @@
     ],
     "schedule": "2 hours",
     "description": "AWS Batch for Amazon Elastic Kubernetes Service (Amazon EKS) provides a fully-managed service for running your batch computing workloads on top of your pre-existing Amaozn EKS clusters. This workshop provides you with instructions on how to set up AWS Batch and Amazon EKS to work with each other, and example exercises for running Batch workloads on an EKS cluster."
+  },
+  {
+    "url": "https://catalog.workshops.aws/rust-on-aws",
+    "valid_url": true,
+    "title": "Rust on AWS Workshop",
+    "level": "300",
+    "categories": [
+      "Serverless",
+      "Lambda",
+      "Developer Tools",
+      "Application Modernization"
+    ],
+    "tags": [
+      "Lambda",
+      "Infrastructure as Code",
+      "IaC",
+      "Serverless Patterns",
+      "Microservices"
+    ],
+    "schedule": "2 hours",
+    "description": "Learn how to build fast, performant Rust applications on AWS. No prior Rust knowledge required!"
   },
   {
     "url": "https://catalog.workshops.aws/s3-data-protection",

@@ -40,6 +40,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/012d9c20-25dc-4065-bdb6-5
 https://catalog.us-east-1.prod.workshops.aws/workshops/013df096-dacc-4da7-8a38-a16a6c709f75
 https://catalog.us-east-1.prod.workshops.aws/workshops/0436a9a9-18f2-4707-a629-021358df997e
 https://catalog.us-east-1.prod.workshops.aws/workshops/0644c9e9-5b82-45f2-8835-3b5aa30b1848
+https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-18c7f85788d4
 https://catalog.us-east-1.prod.workshops.aws/workshops/06f17ada-6ae0-4be7-a771-8a37ab7ca3bb
 https://catalog.us-east-1.prod.workshops.aws/workshops/070a93a2-3373-4736-8af0-f7a08c9eb08a
 https://catalog.us-east-1.prod.workshops.aws/workshops/0720c7c4-fb23-4e43-aa9f-036fc07f46b2
@@ -156,12 +157,14 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/7d9bda36-2208-484d-a721-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/7f1e393b-c2fd-4cc4-b4f9-8e75db2326eb
 https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071
 https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f
+https://catalog.us-east-1.prod.workshops.aws/workshops/8313464b-578d-4894-bea8-43227c04e4a3
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b
 https://catalog.us-east-1.prod.workshops.aws/workshops/85510359-c3c2-4200-b0a8-8020d4473875
 https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
 https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f
 https://catalog.us-east-1.prod.workshops.aws/workshops/8c574542-1d89-461e-b810-bce394392c61
 https://catalog.us-east-1.prod.workshops.aws/workshops/8c8f65e2-3d33-443d-9865-6d8f1d6d1a91
+https://catalog.us-east-1.prod.workshops.aws/workshops/8dd7e408-b72a-4ec4-8aa4-166b5a2ebbb1
 https://catalog.us-east-1.prod.workshops.aws/workshops/90992473-01e8-42d6-834f-9baf866a9057
 https://catalog.us-east-1.prod.workshops.aws/workshops/92e466fd-bd95-4805-9f16-2df07450db42
 https://catalog.us-east-1.prod.workshops.aws/workshops/93d77bd0-073e-445f-82f8-db877beb9d7a
@@ -188,6 +191,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/b2ca0de0-3117-4024-9bed-3
 https://catalog.us-east-1.prod.workshops.aws/workshops/b4121556-d9b0-4c59-99e1-7effffa729a1
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5083f86-f4e1-4712-8015-ae1549eb2971
 https://catalog.us-east-1.prod.workshops.aws/workshops/b6713449-71c5-4199-a9f8-ac1f584fc1c7
+https://catalog.us-east-1.prod.workshops.aws/workshops/b73124ff-306f-49b8-a367-08383aa1c892
 https://catalog.us-east-1.prod.workshops.aws/workshops/b7702b59-acbf-4cef-8f14-921350830cba
 https://catalog.us-east-1.prod.workshops.aws/workshops/b85843d4-a5e4-40fc-9a96-de0a99312a4b
 https://catalog.us-east-1.prod.workshops.aws/workshops/bbc63046-2f56-4d59-917b-d5ebc63bdcee
@@ -351,6 +355,7 @@ https://catalog.workshops.aws/rancher
 https://catalog.workshops.aws/realtime-genai
 https://catalog.workshops.aws/refining-iam-permissions-like-a-pro
 https://catalog.workshops.aws/running-batch-on-eks
+https://catalog.workshops.aws/rust-on-aws
 https://catalog.workshops.aws/s3-data-protection
 https://catalog.workshops.aws/saas-microservices
 https://catalog.workshops.aws/safeguarding-payments-fraud-detection-ai-ml-and-data-insights
@@ -485,6 +490,7 @@ https://workshops.aws/?tag=.NET%20Core
 https://workshops.aws/?tag=ACM
 https://workshops.aws/?tag=AD
 https://workshops.aws/?tag=AI
+https://workshops.aws/?tag=AI%20Agent
 https://workshops.aws/?tag=AI%2FML
 https://workshops.aws/?tag=AIML
 https://workshops.aws/?tag=ALB
@@ -590,6 +596,7 @@ https://workshops.aws/?tag=AWS%20for%20Industrial
 https://workshops.aws/?tag=AWSBatch
 https://workshops.aws/?tag=Active%20Directory
 https://workshops.aws/?tag=ActiveMQ
+https://workshops.aws/?tag=Administration
 https://workshops.aws/?tag=Advertising
 https://workshops.aws/?tag=Agent%20Empowerment
 https://workshops.aws/?tag=Agent%20Enablement
@@ -721,11 +728,13 @@ https://workshops.aws/?tag=BI
 https://workshops.aws/?tag=Babelfish
 https://workshops.aws/?tag=Batch
 https://workshops.aws/?tag=Bedrock
+https://workshops.aws/?tag=Bedrock%20Agent
 https://workshops.aws/?tag=Big%20Data
 https://workshops.aws/?tag=BigData
 https://workshops.aws/?tag=Bill
 https://workshops.aws/?tag=Blockchain
 https://workshops.aws/?tag=Blueprints
+https://workshops.aws/?tag=Boomi
 https://workshops.aws/?tag=Budgets
 https://workshops.aws/?tag=Business%20Intelligence
 https://workshops.aws/?tag=Business%20Intelligence%20System
@@ -1094,6 +1103,7 @@ https://workshops.aws/?tag=Network%20Firewall
 https://workshops.aws/?tag=Networking
 https://workshops.aws/?tag=Networking%20%26%20Content%20Delivery
 https://workshops.aws/?tag=Neural%20Search
+https://workshops.aws/?tag=Next%20Generation%20of%20Amazon%20SageMaker
 https://workshops.aws/?tag=Nextflow
 https://workshops.aws/?tag=No%20Code
 https://workshops.aws/?tag=NoSQL
@@ -1167,6 +1177,7 @@ https://workshops.aws/?tag=Rancher
 https://workshops.aws/?tag=Re-factor
 https://workshops.aws/?tag=Real-time
 https://workshops.aws/?tag=Redshift
+https://workshops.aws/?tag=Refactor
 https://workshops.aws/?tag=Rekognition
 https://workshops.aws/?tag=Relevance
 https://workshops.aws/?tag=Reliability
@@ -1205,10 +1216,12 @@ https://workshops.aws/?tag=STM32
 https://workshops.aws/?tag=SUSE
 https://workshops.aws/?tag=SaaS
 https://workshops.aws/?tag=SageMaker
+https://workshops.aws/?tag=SageMaker%20AI
 https://workshops.aws/?tag=SageMaker%20Data%20Wrangler
 https://workshops.aws/?tag=SageMaker%20Feature%20Store
 https://workshops.aws/?tag=SageMaker%20Managed%20Deployment
 https://workshops.aws/?tag=SageMaker%20Managed%20Training
+https://workshops.aws/?tag=SageMaker%20NextGen
 https://workshops.aws/?tag=SageMaker%20Pipelines
 https://workshops.aws/?tag=SageMaker%20Projects
 https://workshops.aws/?tag=SageMaker%20Studio
@@ -1265,6 +1278,7 @@ https://workshops.aws/?tag=Trainium
 https://workshops.aws/?tag=Transcribe
 https://workshops.aws/?tag=Transfer%20Family
 https://workshops.aws/?tag=TransferFamily
+https://workshops.aws/?tag=Transform
 https://workshops.aws/?tag=Transit%20Gateway
 https://workshops.aws/?tag=Translate
 https://workshops.aws/?tag=Trusted%20Advisor
@@ -1426,6 +1440,7 @@ https://workshops.aws/categories/Bedrock
 https://workshops.aws/categories/Beginner
 https://workshops.aws/categories/Big%20Data
 https://workshops.aws/categories/Blockchain
+https://workshops.aws/categories/Boomi
 https://workshops.aws/categories/Builder%20Experience
 https://workshops.aws/categories/Business%20Application
 https://workshops.aws/categories/Business%20Applications
@@ -1513,6 +1528,7 @@ https://workshops.aws/categories/Front-end%20wed%20hosting
 https://workshops.aws/categories/GIS
 https://workshops.aws/categories/Game%20Development
 https://workshops.aws/categories/Games
+https://workshops.aws/categories/Gen%20AI
 https://workshops.aws/categories/GenAI
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/categories/Generative%20Artificial%20Intelligence
