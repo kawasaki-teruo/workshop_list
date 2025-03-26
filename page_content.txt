@@ -2,7 +2,6 @@ search
 All
 .NET Core
 AI/ML
-AIML
 AMI
 AMQP
 API Gateway
@@ -26,6 +25,28 @@ Tags: Redshift
 schedule
 4 hours
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
+Get Started
+arrow_forward
+Aurora DSQL Immersion Day
+Level: 400
+checkmark
+Categories: Databases
+checkmark
+Tags: Aurora, Aurora DSQL
+schedule
+4 hours
+Amazon Aurora DSQL is a serverless distributed SQL database with virtually unlimited scale, the highest availability, and zero infrastructure management. In this workshop, we will dive deep into how DSQL works, how it is different from traditional relational databases, and how you can leverage its design and features to help grow your application.
+Get Started
+arrow_forward
+Amazon Connect Fundamentals
+Level: 100
+checkmark
+Categories: Contact Center, Communication Applications
+checkmark
+Tags: Amazon Connect, Conversational IVR, Contact Lens, Reporting
+schedule
+4 hours
+This workshop introduces Amazon Connect, AWS's cloud-based contact center solution. Through hands-on labs using a sample case study, participants will learn: 1. Basic setup including queue creation, user management, and contact flow design. 2. Call analytics with real-time and historical metrics reporting. 3. Conversational analytics using Contact Lens.
 Get Started
 arrow_forward
 Accelerate your Mainframe Modernization journey with Amazon Q Developer Transform
@@ -482,7 +503,7 @@ arrow_forward
 Hyper-personalization using Generative AI for optimal customer engagement
 Level: 300
 checkmark
-Categories: AIML, GenAI, Business Applications
+Categories: AI/ML, GenAI, Business Applications
 checkmark
 Tags: AmazonBedrock, AmazonPersonalize
 schedule

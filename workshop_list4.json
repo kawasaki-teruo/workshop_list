@@ -2688,7 +2688,7 @@
     "title": "Hyper-personalization using Generative AI for optimal customer engagement",
     "level": "300",
     "categories": [
-      "AIML",
+      "AI/ML",
       "GenAI",
       "Business Applications"
     ],
@@ -4314,6 +4314,21 @@
     "description": "Labs and guidance that will lead you through the fundamentals of CloudFormation in an approachable way. The labs progress from simple to more complex. With the skills you'll learn, you can begin developing templates to support your own projects."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e02d9cba-c586-45e9-af8b-2a80bb63579d",
+    "valid_url": true,
+    "title": "Aurora DSQL Immersion Day",
+    "level": "400",
+    "categories": [
+      "Databases"
+    ],
+    "tags": [
+      "Aurora",
+      "Aurora DSQL"
+    ],
+    "schedule": "4 hours",
+    "description": "Amazon Aurora DSQL is a serverless distributed SQL database with virtually unlimited scale, the highest availability, and zero infrastructure management. In this workshop, we will dive deep into how DSQL works, how it is different from traditional relational databases, and how you can leverage its design and features to help grow your application."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e0495073-29eb-4a62-9cab-114511462198",
     "valid_url": true,
     "title": "Service Cloud Voice Series: Cleaning up your environment",
@@ -5088,6 +5103,24 @@
     ],
     "schedule": "2 hours",
     "description": "Evaluation forms are an essential part of a Quality Management workflow in contact centers. Administrators or quality assurance analysts use Evaluation Forms to evaluate various characteristics of an agent-customer interaction. The workshop walks through setting up Contact Lens Rules, building evaluation forms and using these forms to evaluate and score agent-customer interactions. While the workshop focuses on Voice, the same principles can be used to measure Chat interactions as well."
+  },
+  {
+    "url": "https://catalog.workshops.aws/amazon-connect-fundamentals",
+    "valid_url": true,
+    "title": "Amazon Connect Fundamentals",
+    "level": "100",
+    "categories": [
+      "Contact Center",
+      "Communication Applications"
+    ],
+    "tags": [
+      "Amazon Connect",
+      "Conversational IVR",
+      "Contact Lens",
+      "Reporting"
+    ],
+    "schedule": "4 hours",
+    "description": "This workshop introduces Amazon Connect, AWS's cloud-based contact center solution. Through hands-on labs using a sample case study, participants will learn: 1. Basic setup including queue creation, user management, and contact flow design. 2. Call analytics with real-time and historical metrics reporting. 3. Conversational analytics using Contact Lens."
   },
   {
     "url": "https://catalog.workshops.aws/amazon-connect-global-resiliency",

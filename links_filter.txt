@@ -228,6 +228,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/dc70f5b4-a400-4c33-9a8e-c
 https://catalog.us-east-1.prod.workshops.aws/workshops/dcab7555-32fc-42d2-97e5-2b7a35cd008f
 https://catalog.us-east-1.prod.workshops.aws/workshops/de1d9a5a-a38c-4e3c-a870-5d467cdcce5a
 https://catalog.us-east-1.prod.workshops.aws/workshops/df7f72cf-4f10-4664-acb6-b30dc8d4bcf0
+https://catalog.us-east-1.prod.workshops.aws/workshops/e02d9cba-c586-45e9-af8b-2a80bb63579d
 https://catalog.us-east-1.prod.workshops.aws/workshops/e0495073-29eb-4a62-9cab-114511462198
 https://catalog.us-east-1.prod.workshops.aws/workshops/e04c0885-830a-479b-844b-4c7af79697f8
 https://catalog.us-east-1.prod.workshops.aws/workshops/e0b7a071-a7f1-485b-a1c2-aa468f2599ef
@@ -268,6 +269,7 @@ https://catalog.workshops.aws/amazon-connect-agent-empowerment
 https://catalog.workshops.aws/amazon-connect-contact-lens
 https://catalog.workshops.aws/amazon-connect-contact-survey
 https://catalog.workshops.aws/amazon-connect-evaluation-forms
+https://catalog.workshops.aws/amazon-connect-fundamentals
 https://catalog.workshops.aws/amazon-connect-global-resiliency
 https://catalog.workshops.aws/amazon-connect-inapp-calling
 https://catalog.workshops.aws/amazon-connect-operational-workshop

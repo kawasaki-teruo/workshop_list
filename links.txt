@@ -1,7 +1,6 @@
 https://workshops.aws/
 https://workshops.aws/categories/.NET%20Core
 https://workshops.aws/categories/AI%2FML
-https://workshops.aws/categories/AIML
 https://workshops.aws/categories/AMI
 https://workshops.aws/categories/AMQP
 https://workshops.aws/categories/API%20Gateway
@@ -339,6 +338,17 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Databases
+https://workshops.aws/?tag=Aurora
+https://workshops.aws/?tag=Aurora%20DSQL
+https://catalog.us-east-1.prod.workshops.aws/workshops/e02d9cba-c586-45e9-af8b-2a80bb63579d
+https://workshops.aws/categories/Contact%20Center
+https://workshops.aws/categories/Communication%20Applications
+https://workshops.aws/?tag=Amazon%20Connect
+https://workshops.aws/?tag=Conversational%20IVR
+https://workshops.aws/?tag=Contact%20Lens
+https://workshops.aws/?tag=Reporting
+https://catalog.workshops.aws/amazon-connect-fundamentals
 https://workshops.aws/categories/AWS%20Mainframe%20Modernization
 https://workshops.aws/categories/Amazon%20Q
 https://workshops.aws/?tag=Mainframe%20Modernization
@@ -660,7 +670,7 @@ https://workshops.aws/?tag=Amazon%20GuardDuty
 https://workshops.aws/?tag=Auto%20Scaling
 https://workshops.aws/?tag=Amazon%20EFS
 https://catalog.workshops.aws/ecs-immersion-day/en-US
-https://workshops.aws/categories/AIML
+https://workshops.aws/categories/AI%2FML
 https://workshops.aws/categories/GenAI
 https://workshops.aws/categories/Business%20Applications
 https://workshops.aws/?tag=AmazonBedrock
