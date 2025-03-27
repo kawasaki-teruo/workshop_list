@@ -441,7 +441,7 @@
   },
   {
     "url": "https://aws-emp.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS End-of-Support Migration Program (EMP) for Windows Server Workshop",
     "level": "400",
     "categories": [
@@ -2398,7 +2398,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5c093162-c9ce-4203-ab35-0b94ca950ee8",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon SageMaker Feature Store workshop",
     "level": "300",
     "categories": [
