@@ -4126,7 +4126,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d82f18b5-cf4d-4a83-b840-d7c445026615",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Securing Your Code with Amazon CodeWhisperer",
     "level": "200",
     "categories": [
