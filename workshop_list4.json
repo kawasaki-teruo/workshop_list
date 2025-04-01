@@ -2725,7 +2725,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/73545e6b-fa5f-469d-ade9-e1372209d729",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Service Cloud Voice Series: Enhance Your Service Cloud Voice Implementation",
     "level": "200",
     "categories": [
@@ -3967,7 +3967,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d088ea5e-3c48-4fff-bcc5-0806035aba98",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Service Cloud Voice Series: Amazon Connect Routing Basics",
     "level": "100",
     "categories": [
