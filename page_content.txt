@@ -3085,17 +3085,6 @@ schedule
 Applying ML to advertising workloads is mission-critical for advertising technology companies looking to differentiate themselves today. In this workshop, you'll get an introduction to a machine learning framework that applies to many real-time advertising use-cases and specifically dive into traffic filtering as an example use-case. We'll also cover the state of machine learning, architectural best-practices, and help you build and incorporate various AWS services using lab modules.
 Get Started
 arrow_forward
-Deploying a complete machine learning fraud detection solution using Amazon SageMaker
-Level: 300
-checkmark
-Categories: Machine Learning, Machine Learning Use Cases, Fraud Detection, SageMaker, SageMaker Studio, SageMaker Studio Notebooks, SageMaker Data Wrangler, SageMaker Feature Store, SageMaker Managed Training, SageMaker Managed Deployment, SageMaker Pipelines, Machine Learning Workflows, Startups
-checkmark
-Tags: Machine Learning, Machine Learning Use Cases, Fraud Detection, SageMaker, SageMaker Studio, SageMaker Studio Notebooks, SageMaker Data Wrangler, SageMaker Feature Store, SageMaker Managed Training, SageMaker Managed Deployment, SageMaker Pipelines, Machine Learning Workflows, Startups
-schedule
-2 hours
-In this workshop, you will learn how to build, train, and deploy an end-to-end Machine Learning (ML) fraud detection solution using Amazon SageMaker. You will gain in-depth understanding of how to leverage SageMaker for ML lifecycle and enhance your effectiveness as a data scientist and ML engineer. You will experiment with auto insurance claims data, transform and pre-process datasets, train and tune your ML models, audit and mitigate training bias, and run ML pipeline using automated workflows. Data used in this workshop is synthetically generated and consists of customer biographical data, including auto insurance claims data. Techniques learned here can be applied to other fraud detection use cases too.
-Get Started
-arrow_forward
 AWS Serverless Data Lake Jumpstart
 Level: 300
 checkmark
@@ -3987,17 +3976,6 @@ schedule
 This hands-on is for developers with little or no knowledge in AWS and ML but wishes to implement personalized recommendations to their service. Use AWS Glue DataBrew to easily process and train your data for Amazon Personalize, and introduce multiple ways to provide personalized recommendations with little effort
 Get Started
 arrow_forward
-Amazon SageMaker Feature Store workshop
-Level: 300
-checkmark
-Categories: Machine Learning, AI/ML
-checkmark
-Tags: Amazon SageMaker, Amazon SageMaker Studio, Amazon SageMaker Feature Store, Machine Learning
-schedule
-4 hours
-This workshop aims to help customers and partners understand the concepts of Amazon SageMaker Feature Store including creation of feature groups, ingest data into offline and online store, query it, train a model using feature sets from offline store, use a record from online store to perform an inference and also transform and ingest features into feature store using SageMaker processing jobs.
-Get Started
-arrow_forward
 Automating Operations with Playbooks and Runbooks
 Level: 200
 checkmark
@@ -4018,17 +3996,6 @@ Tags: EC2, ECS, EKS, ECR
 schedule
 7 hours
 A Containers Immersion Day provides AWS customers with hands-on experience building, deploying and running applications using AWS container services, including Amazon ECS, Amazon EKS and Amazon ECR.
-Get Started
-arrow_forward
-Building an AWS incident response runbook using Jupyter notebooks and CloudTrail Lake
-Level: 200
-checkmark
-Categories: Security, Incident Response, Log Analysis
-checkmark
-Tags: Athena, CloudTrail, Security, Incident response, Jupyter notebooks
-schedule
-2 hours
-This workshop guides you through building an incident response plan for your AWS environment using Jupyter notebooks. Walk through an easy-to-follow sample incident, using building blocks as a ready-to-use playbook in a Jupyter notebook. Then, follow simple steps to add additional programmatic and documented steps to your incident response plan.
 Get Started
 arrow_forward
 Implementing health checks and managing dependencies to improve reliability
@@ -4141,17 +4108,6 @@ schedule
 Welcome to the Amazon EKS Workshop! The intent of this workshop is to educate users about the features of Amazon EKS. Background in EKS, Kubernetes, Docker, and container workflows are not required, but they are recommended. The workshop covers Kubernetes (k8s) Basics, Kubernetes Architecture, and Amazon EKS from beginner to advanced topics.
 Get Started
 arrow_forward
-AWS CloudTrail Monitoring with Amazon CloudWatch
-Level: 300
-checkmark
-Categories: Amazon CloudWatch, AWS CloudTrail
-checkmark
-Tags: CloudWatch, CloudTrail
-schedule
-3 hours
-This workshop provides a introduction of using various Amazon CloudWatch features to monitor your AWS CloudTrail logs
-Get Started
-arrow_forward
 Computer Vision at the Edge
 Level: 300
 checkmark
@@ -4183,17 +4139,6 @@ Tags: EC2, DevOps, Image Builder
 schedule
 2 hours
 This workshop will take you through the concepts of EC2 Image Builder, the console and finally we will cover local development of EC2 Image Builder components.
-Get Started
-arrow_forward
-Fraud Detection with Kafka, Flink, and DynamoDB
-Level: 300
-checkmark
-Categories: Streaming, NoSQL, Kafka
-checkmark
-Tags: Managed Streaming for Kafka, Flink, DynamoDB, Kinesis Data Analytics
-schedule
-4 hours
-A real-time fraud detection workshop using kafka, flink, and DynamoDB
 Get Started
 arrow_forward
 AWS Marketplace Workshop
@@ -4262,17 +4207,6 @@ schedule
 AWS IoT SiteWise Edge, a new feature of AWS IoT SiteWise enables customers to collect and process equipment data on-premises for low latency applications that must continue to work even if connection to the cloud is unavailable. In this workshop you will learn how to use the features of AWS IoT Sitewise Edge in several hands-on exercises.
 Get Started
 arrow_forward
-General Lookout For Metrics Workshop
-Level: 200
-checkmark
-Categories: Lookout For Metrics, S3, SNS, CloudFormation
-checkmark
-Tags: Lookout For Metrics, Alerts, Anomalies
-schedule
-1 hour
-An introduction to the features and usage of Amazon Lookout For Metrics
-Get Started
-arrow_forward
 AWS Client VPN Basic workshop (Japanese)
 Level: 200
 checkmark
@@ -4315,28 +4249,6 @@ Tags: AWS IoT Core, AWS IoT Events, Amazon SNS, Amazon CloudWatch
 schedule
 3 hours
 AWS IoT Events is an AWS service that helps companies continuously monitor their equipment and fleets of devices for failure or changes in operation and trigger alerts to respond when events occur. You define conditional logic and states inside AWS IoT Events to evaluate incoming telemetry data to detect events in equipment or a process. When AWS IoT Events detects an event, it can trigger pre-defined actions in another AWS service, such as sending alerts through Amazon Simple Notification Service (SNS). In this workshop we will guide you through some examples and cover the aspects of initial configuration
-Get Started
-arrow_forward
-Disaster Recovery on AWS
-Level: 300
-checkmark
-Categories: Containers, Security, Serverless, Databases, Storage, Networking, Disaster Recovery, Well-Architected
-checkmark
-Tags: EC2, API Gateway, Lambda, CloudFront, ECR, EKS, Secrets Manager, DynamoDB, Aurora, S3
-schedule
-8 hours
-In this workshop, we will explore some of the techniques to support Disaster Recovery strategies based on multi-region approach.
-Get Started
-arrow_forward
-TAO Workshop
-Level: 200
-checkmark
-Categories: QuickSight, Trusted Advisor
-checkmark
-Tags: QuickSight, Trusted Advisor
-schedule
-4 hours
-Trusted Advisor Organizational View (TAO) Dashboard is a set of visualizations in QuickSight which provides comprehensive details and trends on top of Trusted Advisor (TA) reports across whole customer organization.
 Get Started
 arrow_forward
 Amazon MWAA for Analytics
@@ -4614,17 +4526,6 @@ schedule
 An introduction to building scalable web architecture using Amazon EC2 and Amazon RDS
 Get Started
 arrow_forward
-Amazon Lookout for Vision Workshop
-Level: 400
-checkmark
-Categories: Machine Learning, Artificial Intelligence
-checkmark
-Tags: Amazon Lookout for Vision
-schedule
-2 hours
-A public-facing description of the workshop. In this case, it's still an introduction to the features and usage of AWS Lookout for Vision
-Get Started
-arrow_forward
 AWS Purpose Built Databases Workshop
 Level: 400
 checkmark
@@ -4755,17 +4656,6 @@ Tags: Transit Gateway, Direct Connect, VPC
 schedule
 8 hours
 This workshop covers the full spectrum of AWS Networking, from the basics of VPC and Subnets to the advanced configurations with Transit Gateway and VPN, including security and monitoring examples
-Get Started
-arrow_forward
-Amazon QLDB Immersion Day Workshops
-Level: 100
-checkmark
-Categories: Databases, Blockchain
-checkmark
-Tags: QLDB
-schedule
-4 hours
-A deep-dive into Amazon QLDB with easy labs to help get you started building ledger applications.
 Get Started
 arrow_forward
 AWS IoT Core for Beginners (Japanese)
@@ -5021,17 +4911,6 @@ schedule
 In the AWS IoT SiteWise workshop the fundamentals of SiteWise and the related services will be covered. To adopt the knowledge you will go through several hands-on exercises.
 Get Started
 arrow_forward
-AWS End-of-Support Migration Program (EMP) for Windows Server Workshop
-Level: 400
-checkmark
-Categories: Windows, Enterprise Applications, Modernization, Migrations
-checkmark
-Tags: EC2, Windows, End-of-Support Migration, EMP, Migrations, Legacy
-schedule
-8 hours
-In this workshop you will learn how to migrate legacy Windows applications into newer Windows Operating systems using AWS EMP tools
-Get Started
-arrow_forward
 Filestreaming on AWS
 Level: 100
 checkmark
@@ -5153,17 +5032,6 @@ schedule
 An introduction to the features and usage of AWS Amplify and integration with Amazon AI Services
 Get Started
 arrow_forward
-IoT ESP32 Workshop
-Level: 200
-checkmark
-Categories: IoT, Edge Compute
-checkmark
-Tags: AWS IoT, AWS IoT Greengrass
-schedule
-2 hours
-Workshop focused on creating progressive real world projects integrating AWS IoT and the ESP32 MCU
-Get Started
-arrow_forward
 Highly Available Web Application Workshop
 Level: 400
 checkmark
@@ -5228,17 +5096,6 @@ Tags: AWS Glue, Amazon Kinesis, ETL, Data Catalogue, Amazon Athena
 schedule
 3 hours
 This Serverless Data Lake Day workshop is prepared to assist you ingest, store, transform, create insights on unstructured data using AWS serverless services. We will build a cloud-native and future-proof serverless data lake architecture using Amazon Kinesis Firehose for streaming data ingestion, AWS Glue for ETL and Data Catalogue Management, S3 for data lake storage, Amazon Athena to query data lake and provide JDBC Connectivity to external BI tools, and finally Amazon Quicksight for data visualization.
-Get Started
-arrow_forward
-Data lake for Astronomy FITS Data
-Level: 400
-checkmark
-Categories: Data Lake, Research, Astronomy
-checkmark
-Tags: Research, Astronomy, Data Lake, CDK
-schedule
-2 hours
-Build a scientific data lake for Astronomy FITS data using AWS Cloud Development Kit (AWS CDK)
 Get Started
 arrow_forward
 SAP on AWS Immersion Day workshops
@@ -5406,28 +5263,6 @@ schedule
 A deep dive into the Amazon RDS for SQL Server service and features
 Get Started
 arrow_forward
-AWS CI/CD workshop
-Level: 200
-checkmark
-Categories: CI/CD
-checkmark
-Tags: AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy
-schedule
-3 hours
-This workshop illustrates how you can leverage the AWS developer tools to implement Continuous Integration (CI) and Continuous Deployment (CD) for your application.
-Get Started
-arrow_forward
-SSM Inventory visualization (Japanese)
-Level: 200
-checkmark
-Categories: Management & Governance
-checkmark
-Tags: AWS Systems Manager, QuickSight
-schedule
-1 hour
-This workshop is designed to help you to get familiar with SSM Inventory and learn how to visualize inventory data using Amazon QuickSight. You will be working with SSM Inventory and Amazon QuickSight to collect inventory data in your environment and to understand visualize inventory data easily.
-Get Started
-arrow_forward
 Amazon EKS Introduction Workshop
 Level: 200
 checkmark
@@ -5439,17 +5274,6 @@ schedule
 An introduction to the basic features and usage of Amazon Elastic Kubernetes Service
 Get Started
 arrow_forward
-CI/CD Pipeline Cfn ECS Fargate BlueGreen
-Level: 300
-checkmark
-Categories: DevOps
-checkmark
-Tags: CodeBuild, CodePipeline, CodeDeploy, AWS Fargate, AWS CloudFormation
-schedule
-2 hours
-In this workshop you'll learn how to build a CI/CD pipeline to develop, containerize and deploy a web-based application on AWS Fargate using lambda for blue/green deployment
-Get Started
-arrow_forward
 Serverless Observability Workshop
 Level: 400
 checkmark
@@ -5459,17 +5283,6 @@ Tags: Lambda, API Gateway, X-Ray, Observability, Tracing
 schedule
 4 hours
 In this workshop, we will explore some of the techniques you can adopt to monitor your Serverless applications using AWS services by leveraging the proper operational and business metrics, standardized and centralized logging and orchestrating traces throughout your application code and other services.
-Get Started
-arrow_forward
-Terraform EKS Workshop
-Level: 300
-checkmark
-Categories: Containers, Compute, Networking
-checkmark
-Tags: EKS, ECR, Terraform, Kubernetes, CodeBuild, CodePipeline, CodeCommit, ELB
-schedule
-6 hours
-In the workshop, EKS is deployed as a private cluster using Terraform. Other features such as customised managed node groups, advanced networking, a sample application with an internal load balancer, and a CI/CD pipeline are all deployed using Terraform.
 Get Started
 arrow_forward
 AWS CloudFormation 101

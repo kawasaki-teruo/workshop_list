@@ -384,22 +384,6 @@
     "description": "A collection of hands-on workshop lab content to help you gain understanding of Amazon Aurora PostgreSQL features and advanced capabilities"
   },
   {
-    "url": "https://aws-ci-cd.workshop.aws",
-    "valid_url": false,
-    "title": "AWS CI/CD workshop",
-    "level": "200",
-    "categories": [
-      "CI/CD"
-    ],
-    "tags": [
-      "AWS CodePipeline",
-      "AWS CodeBuild",
-      "AWS CodeDeploy"
-    ],
-    "schedule": "3 hours",
-    "description": "This workshop illustrates how you can leverage the AWS developer tools to implement Continuous Integration (CI) and Continuous Deployment (CD) for your application."
-  },
-  {
     "url": "https://aws-dataengineering-day.workshop.aws",
     "valid_url": true,
     "title": "Data Engineering Immersion Day",
@@ -438,28 +422,6 @@
     ],
     "schedule": "2 hours",
     "description": "An introduction to building container web application based on Amazon EKS"
-  },
-  {
-    "url": "https://aws-emp.workshop.aws",
-    "valid_url": false,
-    "title": "AWS End-of-Support Migration Program (EMP) for Windows Server Workshop",
-    "level": "400",
-    "categories": [
-      "Windows",
-      "Enterprise Applications",
-      "Modernization",
-      "Migrations"
-    ],
-    "tags": [
-      "EC2",
-      "Windows",
-      "End-of-Support Migration",
-      "EMP",
-      "Migrations",
-      "Legacy"
-    ],
-    "schedule": "8 hours",
-    "description": "In this workshop you will learn how to migrate legacy Windows applications into newer Windows Operating systems using AWS EMP tools"
   },
   {
     "url": "https://aws-glue-hands-on-labs.workshop.aws",
@@ -2395,24 +2357,6 @@
     ],
     "schedule": "3 hours",
     "description": "A solution-oriented Immersion Day focusing on working backwards from a business problem (customer sentiment) and building a data and analytics pipeline. You will explore customer sentiment and apply AWS data and analytics services to solve a customer satisfaction business problem and cause analysis."
-  },
-  {
-    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5c093162-c9ce-4203-ab35-0b94ca950ee8",
-    "valid_url": false,
-    "title": "Amazon SageMaker Feature Store workshop",
-    "level": "300",
-    "categories": [
-      "Machine Learning",
-      "AI/ML"
-    ],
-    "tags": [
-      "Amazon SageMaker",
-      "Amazon SageMaker Studio",
-      "Amazon SageMaker Feature Store",
-      "Machine Learning"
-    ],
-    "schedule": "4 hours",
-    "description": "This workshop aims to help customers and partners understand the concepts of Amazon SageMaker Feature Store including creation of feature groups, ingest data into offline and online store, query it, train a model using feature sets from offline store, use a record from online store to perform an inference and also transform and ingest features into feature store using SageMaker processing jobs."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5dd24891-5a0d-467b-9117-1fd65ccf54d0",
@@ -4689,6 +4633,24 @@
     "description": "Detailed steps on how to build Matter PKI leverage AWS Private Certificate Authority"
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ed1a8610-c721-43be-b8e7-0f300f74684e",
+    "valid_url": true,
+    "title": "AWS Containers Immersion Day",
+    "level": "200",
+    "categories": [
+      "Containers",
+      "Compute"
+    ],
+    "tags": [
+      "EC2",
+      "ECS",
+      "EKS",
+      "ECR"
+    ],
+    "schedule": "7 hours",
+    "description": "A Containers Immersion Day provides AWS customers with hands-on experience building, deploying and running applications using AWS container services, including Amazon ECS, Amazon EKS and Amazon ECR."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d",
     "valid_url": true,
     "title": "Amazon Connect Voice ID",
@@ -6893,44 +6855,6 @@
     "description": "In this workshop, you'll be introduced to Amazon SageMaker Studio integrations with services like AWS Glue and Amazon EMR to do data prep and model training at scale"
   },
   {
-    "url": "https://catalog.workshops.aws/sagemaker-fraud-detection",
-    "valid_url": false,
-    "title": "Deploying a complete machine learning fraud detection solution using Amazon SageMaker",
-    "level": "300",
-    "categories": [
-      "Machine Learning",
-      "Machine Learning Use Cases",
-      "Fraud Detection",
-      "SageMaker",
-      "SageMaker Studio",
-      "SageMaker Studio Notebooks",
-      "SageMaker Data Wrangler",
-      "SageMaker Feature Store",
-      "SageMaker Managed Training",
-      "SageMaker Managed Deployment",
-      "SageMaker Pipelines",
-      "Machine Learning Workflows",
-      "Startups"
-    ],
-    "tags": [
-      "Machine Learning",
-      "Machine Learning Use Cases",
-      "Fraud Detection",
-      "SageMaker",
-      "SageMaker Studio",
-      "SageMaker Studio Notebooks",
-      "SageMaker Data Wrangler",
-      "SageMaker Feature Store",
-      "SageMaker Managed Training",
-      "SageMaker Managed Deployment",
-      "SageMaker Pipelines",
-      "Machine Learning Workflows",
-      "Startups"
-    ],
-    "schedule": "2 hours",
-    "description": "In this workshop, you will learn how to build, train, and deploy an end-to-end Machine Learning (ML) fraud detection solution using Amazon SageMaker. You will gain in-depth understanding of how to leverage SageMaker for ML lifecycle and enhance your effectiveness as a data scientist and ML engineer. You will experiment with auto insurance claims data, transform and pre-process datasets, train and tune your ML models, audit and mitigate training bias, and run ML pipeline using automated workflows. Data used in this workshop is synthetically generated and consists of customer biographical data, including auto insurance claims data. Techniques learned here can be applied to other fraud detection use cases too."
-  },
-  {
     "url": "https://catalog.workshops.aws/sagemaker-hyperpod",
     "valid_url": true,
     "title": "Amazon SageMaker HyperPod",
@@ -7598,24 +7522,6 @@
     "description": "AWS CloudFormation helps providing a repeatable and reliable mechanism to create complete solutions that can be deployed into any AWS account. In this workshop you will learn how to write your own CloudFormation templates from scratch, share, and deploy them. No prior CloudFormation experience is needed."
   },
   {
-    "url": "https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws",
-    "valid_url": false,
-    "title": "CI/CD Pipeline Cfn ECS Fargate BlueGreen",
-    "level": "300",
-    "categories": [
-      "DevOps"
-    ],
-    "tags": [
-      "CodeBuild",
-      "CodePipeline",
-      "CodeDeploy",
-      "AWS Fargate",
-      "AWS CloudFormation"
-    ],
-    "schedule": "2 hours",
-    "description": "In this workshop you'll learn how to build a CI/CD pipeline to develop, containerize and deploy a web-based application on AWS Fargate using lambda for blue/green deployment"
-  },
-  {
     "url": "https://client-vpn-basic.workshop.aws",
     "valid_url": true,
     "title": "AWS Client VPN Basic workshop (Japanese)",
@@ -7629,22 +7535,6 @@
     ],
     "schedule": "1.5 hours",
     "description": "In this workshop, you can learn the basic architecture of AWS Client VPN."
-  },
-  {
-    "url": "https://cloudtrail-with-cloudwatch.workshop.aws",
-    "valid_url": false,
-    "title": "AWS CloudTrail Monitoring with Amazon CloudWatch",
-    "level": "300",
-    "categories": [
-      "Amazon CloudWatch",
-      "AWS CloudTrail"
-    ],
-    "tags": [
-      "CloudWatch",
-      "CloudTrail"
-    ],
-    "schedule": "3 hours",
-    "description": "This workshop provides a introduction of using various Amazon CloudWatch features to monitor your AWS CloudTrail logs"
   },
   {
     "url": "https://codequality.workshop.aws",
@@ -7663,24 +7553,6 @@
     ],
     "schedule": "3 hours",
     "description": "This workshop explains how to build a CI/CD pipeline using AWS’s Code Serise. It also explains how to organize various ways to improve code quality (CodeReview & UnitTest) in the AWS pipeline."
-  },
-  {
-    "url": "https://containers-immersionday.workshop.aws",
-    "valid_url": true,
-    "title": "AWS Containers Immersion Day",
-    "level": "200",
-    "categories": [
-      "Containers",
-      "Compute"
-    ],
-    "tags": [
-      "EC2",
-      "ECS",
-      "EKS",
-      "ECR"
-    ],
-    "schedule": "7 hours",
-    "description": "A Containers Immersion Day provides AWS customers with hands-on experience building, deploying and running applications using AWS container services, including Amazon ECS, Amazon EKS and Amazon ECR."
   },
   {
     "url": "https://data-expert-path.workshop.aws",
@@ -7743,36 +7615,6 @@
     ],
     "schedule": "3 hours",
     "description": "In this workshop, you will explore how to use AWS Glue DataBrew to clean and normalize data for analytics and machine learning."
-  },
-  {
-    "url": "https://disaster-recovery.workshop.aws",
-    "valid_url": true,
-    "title": "Disaster Recovery on AWS",
-    "level": "300",
-    "categories": [
-      "Containers",
-      "Security",
-      "Serverless",
-      "Databases",
-      "Storage",
-      "Networking",
-      "Disaster Recovery",
-      "Well-Architected"
-    ],
-    "tags": [
-      "EC2",
-      "API Gateway",
-      "Lambda",
-      "CloudFront",
-      "ECR",
-      "EKS",
-      "Secrets Manager",
-      "DynamoDB",
-      "Aurora",
-      "S3"
-    ],
-    "schedule": "8 hours",
-    "description": "In this workshop, we will explore some of the techniques to support Disaster Recovery strategies based on multi-region approach."
   },
   {
     "url": "https://documentdb-immersionday.workshop.aws",
@@ -8058,25 +7900,6 @@
     "description": "This is a level 300/400 workshop for chip engineers with experience on ASIC/FPGA design, and who want to get hands-on experience with AWS FPGA development using EC2 and EC2 F1 FPGA cloud instances, and all the related tools for FPGA development in the cloud."
   },
   {
-    "url": "https://fraud-detection.workshop.aws",
-    "valid_url": false,
-    "title": "Fraud Detection with Kafka, Flink, and DynamoDB",
-    "level": "300",
-    "categories": [
-      "Streaming",
-      "NoSQL",
-      "Kafka"
-    ],
-    "tags": [
-      "Managed Streaming for Kafka",
-      "Flink",
-      "DynamoDB",
-      "Kinesis Data Analytics"
-    ],
-    "schedule": "4 hours",
-    "description": "A real-time fraud detection workshop using kafka, flink, and DynamoDB"
-  },
-  {
     "url": "https://gametech-workshop.workshop.aws",
     "valid_url": true,
     "title": "Gametech workshop",
@@ -8303,22 +8126,6 @@
     "description": "In the workshop several features of AWS IoT Device Management will be covered with hands-on exercises."
   },
   {
-    "url": "https://iot-esp32.workshop.aws",
-    "valid_url": false,
-    "title": "IoT ESP32 Workshop",
-    "level": "200",
-    "categories": [
-      "IoT",
-      "Edge Compute"
-    ],
-    "tags": [
-      "AWS IoT",
-      "AWS IoT Greengrass"
-    ],
-    "schedule": "2 hours",
-    "description": "Workshop focused on creating progressive real world projects integrating AWS IoT and the ESP32 MCU"
-  },
-  {
     "url": "https://iot-freertos.workshop.aws",
     "valid_url": true,
     "title": "FreeRTOS Workshop with STM32 MCU and ST-SAFE Secure element",
@@ -8496,40 +8303,6 @@
     ],
     "schedule": "4 hours",
     "description": "The learn to code workshop teaches the basics of python using AWS services. You will learn how to write python code and build a translation app using Amazon Translate"
-  },
-  {
-    "url": "https://lookout-for-vision.workshop.aws",
-    "valid_url": true,
-    "title": "Amazon Lookout for Vision Workshop",
-    "level": "400",
-    "categories": [
-      "Machine Learning",
-      "Artificial Intelligence"
-    ],
-    "tags": [
-      "Amazon Lookout for Vision"
-    ],
-    "schedule": "2 hours",
-    "description": "A public-facing description of the workshop. In this case, it's still an introduction to the features and usage of AWS Lookout for Vision"
-  },
-  {
-    "url": "https://lookoutformetrics.workshop.aws",
-    "valid_url": false,
-    "title": "General Lookout For Metrics Workshop",
-    "level": "200",
-    "categories": [
-      "Lookout For Metrics",
-      "S3",
-      "SNS",
-      "CloudFormation"
-    ],
-    "tags": [
-      "Lookout For Metrics",
-      "Alerts",
-      "Anomalies"
-    ],
-    "schedule": "1 hour",
-    "description": "An introduction to the features and usage of Amazon Lookout For Metrics"
   },
   {
     "url": "https://managing-iotgreengrass.workshop.aws",
@@ -8755,21 +8528,6 @@
     "description": "In this workshop you will create a project with multiple channels in Amazon Pinpoint, and create journeys to guide your customers through workflows to achieve desired outcomes."
   },
   {
-    "url": "https://qldb-immersionday.workshop.aws",
-    "valid_url": false,
-    "title": "Amazon QLDB Immersion Day Workshops",
-    "level": "100",
-    "categories": [
-      "Databases",
-      "Blockchain"
-    ],
-    "tags": [
-      "QLDB"
-    ],
-    "schedule": "4 hours",
-    "description": "A deep-dive into Amazon QLDB with easy labs to help get you started building ledger applications."
-  },
-  {
     "url": "https://quicksight-security-dashboard.workshop.aws",
     "valid_url": true,
     "title": "Building Prowler into a QuickSight powered AWS security dashboard",
@@ -8906,26 +8664,6 @@
     "description": "This set of workshops provides a series of exercises which help users get started using the Redshift platform. It also helps demonstrate the many features built into the platform."
   },
   {
-    "url": "https://reinforce-tdr254.workshop.aws",
-    "valid_url": false,
-    "title": "Building an AWS incident response runbook using Jupyter notebooks and CloudTrail Lake",
-    "level": "200",
-    "categories": [
-      "Security",
-      "Incident Response",
-      "Log Analysis"
-    ],
-    "tags": [
-      "Athena",
-      "CloudTrail",
-      "Security",
-      "Incident response",
-      "Jupyter notebooks"
-    ],
-    "schedule": "2 hours",
-    "description": "This workshop guides you through building an incident response plan for your AWS environment using Jupyter notebooks. Walk through an easy-to-follow sample incident, using building blocks as a ready-to-use playbook in a Jupyter notebook. Then, follow simple steps to add additional programmatic and documented steps to your incident response plan."
-  },
-  {
     "url": "https://rekognition-immersionday.workshop.aws",
     "valid_url": true,
     "title": "Rekognition Immersion Day",
@@ -8938,25 +8676,6 @@
     ],
     "schedule": "3 hours",
     "description": "The purpose of the workshop is to introduce the features and usage of Amazon Rekognition"
-  },
-  {
-    "url": "https://research-fits-datalake.workshop.aws",
-    "valid_url": false,
-    "title": "Data lake for Astronomy FITS Data",
-    "level": "400",
-    "categories": [
-      "Data Lake",
-      "Research",
-      "Astronomy"
-    ],
-    "tags": [
-      "Research",
-      "Astronomy",
-      "Data Lake",
-      "CDK"
-    ],
-    "schedule": "2 hours",
-    "description": "Build a scientific data lake for Astronomy FITS data using AWS Cloud Development Kit (AWS CDK)"
   },
   {
     "url": "https://risk-compliance.workshop.aws",
@@ -9158,21 +8877,6 @@
     "description": "Learn how to migrate your SQL workloads to AWS, running on EC2 or managed environments. You will also learn about best practices for storage solutions for your SQL workloads on AWS, and modernizing your SQL server toward Amazon Aurora."
   },
   {
-    "url": "https://ssm-inventory-visualize.workshop.aws",
-    "valid_url": false,
-    "title": "SSM Inventory visualization (Japanese)",
-    "level": "200",
-    "categories": [
-      "Management & Governance"
-    ],
-    "tags": [
-      "AWS Systems Manager",
-      "QuickSight"
-    ],
-    "schedule": "1 hour",
-    "description": "This workshop is designed to help you to get familiar with SSM Inventory and learn how to visualize inventory data using Amazon QuickSight. You will be working with SSM Inventory and Amazon QuickSight to collect inventory data in your environment and to understand visualize inventory data easily."
-  },
-  {
     "url": "https://storage-on-aws.workshop.aws",
     "valid_url": true,
     "title": "AWS Storage Workshop",
@@ -9194,45 +8898,6 @@
     ],
     "schedule": "4 hours",
     "description": "An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup."
-  },
-  {
-    "url": "https://tao.workshop.aws",
-    "valid_url": false,
-    "title": "TAO Workshop",
-    "level": "200",
-    "categories": [
-      "QuickSight",
-      "Trusted Advisor"
-    ],
-    "tags": [
-      "QuickSight",
-      "Trusted Advisor"
-    ],
-    "schedule": "4 hours",
-    "description": "Trusted Advisor Organizational View (TAO) Dashboard is a set of visualizations in QuickSight which provides comprehensive details and trends on top of Trusted Advisor (TA) reports across whole customer organization."
-  },
-  {
-    "url": "https://tf-eks-workshop.workshop.aws",
-    "valid_url": true,
-    "title": "Terraform EKS Workshop",
-    "level": "300",
-    "categories": [
-      "Containers",
-      "Compute",
-      "Networking"
-    ],
-    "tags": [
-      "EKS",
-      "ECR",
-      "Terraform",
-      "Kubernetes",
-      "CodeBuild",
-      "CodePipeline",
-      "CodeCommit",
-      "ELB"
-    ],
-    "schedule": "6 hours",
-    "description": "In the workshop, EKS is deployed as a private cluster using Terraform. Other features such as customised managed node groups, advanced networking, a sample application with an internal load balancer, and a CI/CD pipeline are all deployed using Terraform."
   },
   {
     "url": "https://track-and-trace-blockchain.workshop.aws",

@@ -16,10 +16,8 @@ https://appstream2.workshop.aws
 https://appsync-immersionday.workshop.aws
 https://athena-in-action.workshop.aws
 https://aurora-pg-lab.workshop.aws
-https://aws-ci-cd.workshop.aws
 https://aws-dataengineering-day.workshop.aws
 https://aws-eks-web-application.workshop.aws
-https://aws-emp.workshop.aws
 https://aws-glue-hands-on-labs.workshop.aws
 https://aws-incident-response-playbooks.workshop.aws
 https://aws-iot-analytics-for-beginners.workshop.aws
@@ -125,7 +123,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/590f8439-42c7-46a1-8e70-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/5947f74f-c896-48ff-85bc-e822bc5e5ead
 https://catalog.us-east-1.prod.workshops.aws/workshops/595ee110-a12e-4645-b629-cbf6b6dd6dd0
 https://catalog.us-east-1.prod.workshops.aws/workshops/5ae871d2-4b4d-41c8-9a1c-046426c8b090
-https://catalog.us-east-1.prod.workshops.aws/workshops/5c093162-c9ce-4203-ab35-0b94ca950ee8
 https://catalog.us-east-1.prod.workshops.aws/workshops/5dd24891-5a0d-467b-9117-1fd65ccf54d0
 https://catalog.us-east-1.prod.workshops.aws/workshops/5ecc2416-f956-4273-b729-d0d30556013f
 https://catalog.us-east-1.prod.workshops.aws/workshops/5eef6b5e-7cf0-427b-85fc-1c6ad173db14
@@ -247,6 +244,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/ea9c0361-001f-4194-963e-0
 https://catalog.us-east-1.prod.workshops.aws/workshops/eb222e73-eea3-4038-8248-e386bbb51f26
 https://catalog.us-east-1.prod.workshops.aws/workshops/eb89c4d5-7c9a-40e0-b0bc-1cde2df1cb97
 https://catalog.us-east-1.prod.workshops.aws/workshops/ec86887c-5a1f-4b43-8d69-cf7c95ba132d
+https://catalog.us-east-1.prod.workshops.aws/workshops/ed1a8610-c721-43be-b8e7-0f300f74684e
 https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d
 https://catalog.us-east-1.prod.workshops.aws/workshops/ed82a5d4-6630-41f0-a6a1-9345898fa6ec
 https://catalog.us-east-1.prod.workshops.aws/workshops/f36e426f-e8a6-467e-97d3-2223bd5f0c49
@@ -362,7 +360,6 @@ https://catalog.workshops.aws/s3-data-protection
 https://catalog.workshops.aws/saas-microservices
 https://catalog.workshops.aws/safeguarding-payments-fraud-detection-ai-ml-and-data-insights
 https://catalog.workshops.aws/sagemaker-emr-glue
-https://catalog.workshops.aws/sagemaker-fraud-detection
 https://catalog.workshops.aws/sagemaker-hyperpod
 https://catalog.workshops.aws/sagemaker-hyperpod-eks
 https://catalog.workshops.aws/sagemaker-studio-emr
@@ -394,15 +391,11 @@ https://catalog.workshops.aws/workshops/cf2ecaa4-e4be-4f40-b93f-e9fe3b1c1f64
 https://catalog.workshops.aws/wyld-pets-cognito
 https://cfd-on-pcluster.workshop.aws
 https://cfn101.workshop.aws
-https://cicd-pipeline-cfn-ecs-fargate-bluegreen.workshop.aws
 https://client-vpn-basic.workshop.aws
-https://cloudtrail-with-cloudwatch.workshop.aws
 https://codequality.workshop.aws
-https://containers-immersionday.workshop.aws
 https://data-expert-path.workshop.aws
 https://data-perimeter.workshop.aws
 https://databrew.workshop.aws
-https://disaster-recovery.workshop.aws
 https://documentdb-immersionday.workshop.aws
 https://dotnet-app-modernization.workshop.aws
 https://dotnet-developer-dojo.workshop.aws
@@ -417,7 +410,6 @@ https://emr-on-eks.workshop.aws
 https://encryption-ws.workshop.aws
 https://filestreaming.workshop.aws
 https://fpga-development-on-ec2.workshop.aws
-https://fraud-detection.workshop.aws
 https://gametech-workshop.workshop.aws
 https://genomics-nf.workshop.aws
 https://gitflow-codetools.workshop.aws
@@ -430,7 +422,6 @@ https://hands-on-network-firewall.workshop.aws
 https://intro-to-analytics-on-aws.workshop.aws
 https://iot-device-defender.workshop.aws
 https://iot-device-management.workshop.aws
-https://iot-esp32.workshop.aws
 https://iot-freertos.workshop.aws
 https://iot-sitewise-edge.workshop.aws
 https://iot-sitewise.workshop.aws
@@ -441,8 +432,6 @@ https://kendra-essentials.workshop.aws
 https://kms-encryption-at-rest.workshop.aws
 https://lakeformation.workshop.aws
 https://learn-to-code.workshop.aws
-https://lookout-for-vision.workshop.aws
-https://lookoutformetrics.workshop.aws
 https://managing-iotgreengrass.workshop.aws
 https://migration-immersionday.workshop.aws
 https://mng.workshop.aws
@@ -454,7 +443,6 @@ https://observability.workshop.aws
 https://operational-machine-learning-pipeline.workshop.aws
 https://personalization-immersionday.workshop.aws
 https://pinpoint-jumpstart.workshop.aws
-https://qldb-immersionday.workshop.aws
 https://quicksight-security-dashboard.workshop.aws
 https://rdsora.workshop.aws
 https://rdspg-monitoring.workshop.aws
@@ -463,9 +451,7 @@ https://rdssms.workshop.aws
 https://real-time-streaming-with-kinesis.workshop.aws
 https://redshift-deepdive.workshop.aws
 https://redshift-immersion.workshop.aws
-https://reinforce-tdr254.workshop.aws
 https://rekognition-immersionday.workshop.aws
-https://research-fits-datalake.workshop.aws
 https://risk-compliance.workshop.aws
 https://s12d.com/aws-idp-scale-workshop
 https://sagemaker-101-workshop.workshop.aws
@@ -477,10 +463,7 @@ https://serverless-bi-system-from-scratch.workshop.aws
 https://serverless-data-lake-immersionday.workshop.aws
 https://serverless-observability.workshop.aws
 https://sql-immersionday.workshop.aws
-https://ssm-inventory-visualize.workshop.aws
 https://storage-on-aws.workshop.aws
-https://tao.workshop.aws
-https://tf-eks-workshop.workshop.aws
 https://track-and-trace-blockchain.workshop.aws
 https://volume-gateway-performance.workshop.aws
 https://wellarchitectedlabs.com/reliability/300_labs/300_health_checks_and_dependencies
