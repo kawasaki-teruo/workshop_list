@@ -2447,6 +2447,26 @@
     "description": "In this workshop, we will build a Security Information and Event Management (SIEM) system and security log analysis platform on Amazon OpenSearch Service and get started with building a cost-efficient solution for log ingestion, analysis and dashboarding."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/63250ecc-20e7-451c-b376-90997d4f8d02",
+    "valid_url": true,
+    "title": "Onboarding & optimizing AI/ML workloads on AWS with Amazon S3 and EKS",
+    "level": "400",
+    "categories": [
+      "Containers",
+      "Compute",
+      "Machine Learning (ML/AI)",
+      "Storage",
+      "Amazon S3"
+    ],
+    "tags": [
+      "EC2",
+      "Amazon Simple Storage Service (Amazon S3)",
+      "EKS"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop presents a holistic solution for efficiently onboarding and optimizing ML workloads to the AWS Cloud. Learn to leverage the power of Amazon S3 as a scalable storage platform for different types of ML training workloads, and harness the orchestration capabilities of Amazon EKS. Enable Kubernetes applications to access S3 objects through a file system interface, and explore the efficient data loading and model checkpointing capabilities of Mountpoint for Amazon S3 and the S3 Connector for PyTorch."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb",
     "valid_url": true,
     "title": "Building event-driven architectures on AWS",

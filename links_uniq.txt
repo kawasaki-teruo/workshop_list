@@ -127,6 +127,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/5dd24891-5a0d-467b-9117-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/5ecc2416-f956-4273-b729-d0d30556013f
 https://catalog.us-east-1.prod.workshops.aws/workshops/5eef6b5e-7cf0-427b-85fc-1c6ad173db14
 https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72
+https://catalog.us-east-1.prod.workshops.aws/workshops/63250ecc-20e7-451c-b376-90997d4f8d02
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb
 https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8
 https://catalog.us-east-1.prod.workshops.aws/workshops/66a0984a-ad2b-481f-a1cf-e7896ea9595b
@@ -1377,6 +1378,7 @@ https://workshops.aws/categories/Amazon%20Q
 https://workshops.aws/categories/Amazon%20QuickSight
 https://workshops.aws/categories/Amazon%20RDS
 https://workshops.aws/categories/Amazon%20Redshift
+https://workshops.aws/categories/Amazon%20S3
 https://workshops.aws/categories/Amazon%20SageMaker
 https://workshops.aws/categories/Amazon%20Simple%20Notification%20Service%20%28SNS%29
 https://workshops.aws/categories/Amazon%20Textract

@@ -27,6 +27,17 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Onboarding & optimizing AI/ML workloads on AWS with Amazon S3 and EKS
+Level: 400
+checkmark
+Categories: Containers, Compute, Machine Learning (ML/AI), Storage, Amazon S3
+checkmark
+Tags: EC2, Amazon Simple Storage Service (Amazon S3), EKS
+schedule
+2 hours
+This workshop presents a holistic solution for efficiently onboarding and optimizing ML workloads to the AWS Cloud. Learn to leverage the power of Amazon S3 as a scalable storage platform for different types of ML training workloads, and harness the orchestration capabilities of Amazon EKS. Enable Kubernetes applications to access S3 objects through a file system interface, and explore the efficient data loading and model checkpointing capabilities of Mountpoint for Amazon S3 and the S3 Connector for PyTorch.
+Get Started
+arrow_forward
 Aurora DSQL Immersion Day
 Level: 400
 checkmark

@@ -57,6 +57,7 @@ https://workshops.aws/categories/Amazon%20Q
 https://workshops.aws/categories/Amazon%20QuickSight
 https://workshops.aws/categories/Amazon%20RDS
 https://workshops.aws/categories/Amazon%20Redshift
+https://workshops.aws/categories/Amazon%20S3
 https://workshops.aws/categories/Amazon%20SageMaker
 https://workshops.aws/categories/Amazon%20Simple%20Notification%20Service%20%28SNS%29
 https://workshops.aws/categories/Amazon%20Textract
@@ -320,6 +321,15 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Containers
+https://workshops.aws/categories/Compute
+https://workshops.aws/categories/Machine%20Learning%20%28ML%2FAI%29
+https://workshops.aws/categories/Storage
+https://workshops.aws/categories/Amazon%20S3
+https://workshops.aws/?tag=EC2
+https://workshops.aws/?tag=Amazon%20Simple%20Storage%20Service%20(Amazon%20S3)
+https://workshops.aws/?tag=EKS
+https://catalog.us-east-1.prod.workshops.aws/workshops/63250ecc-20e7-451c-b376-90997d4f8d02
 https://workshops.aws/categories/Databases
 https://workshops.aws/?tag=Aurora
 https://workshops.aws/?tag=Aurora%20DSQL
