@@ -293,6 +293,7 @@ https://catalog.workshops.aws/awsiotforautomotive
 https://catalog.workshops.aws/bedrockguard
 https://catalog.workshops.aws/build-a-knowledge-graph
 https://catalog.workshops.aws/build-and-integrate-amazon-connect-ivr
+https://catalog.workshops.aws/build-apps
 https://catalog.workshops.aws/build-real-time-features-legacy-apps
 https://catalog.workshops.aws/build-sms-program
 https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws
@@ -320,6 +321,7 @@ https://catalog.workshops.aws/ecs-finhack
 https://catalog.workshops.aws/ecs-immersion-day
 https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/eks-blueprints-for-cdk
+https://catalog.workshops.aws/eks-fleet-management
 https://catalog.workshops.aws/eks-immersionday
 https://catalog.workshops.aws/eks-saas-gitops
 https://catalog.workshops.aws/firewall-manager
@@ -473,6 +475,7 @@ https://workshops.aws/?tag=
 https://workshops.aws/?tag=%20Amazon%20Cognito
 https://workshops.aws/?tag=.NET
 https://workshops.aws/?tag=.NET%20Core
+https://workshops.aws/?tag=ACK
 https://workshops.aws/?tag=ACM
 https://workshops.aws/?tag=AD
 https://workshops.aws/?tag=AI
@@ -673,11 +676,13 @@ https://workshops.aws/?tag=App%20Runner
 https://workshops.aws/?tag=AppConfig
 https://workshops.aws/?tag=AppFlow
 https://workshops.aws/?tag=AppStream%202.0
+https://workshops.aws/?tag=AppStudio
 https://workshops.aws/?tag=AppSync
 https://workshops.aws/?tag=Application%20Discovery%20Services
 https://workshops.aws/?tag=Application%20Security
 https://workshops.aws/?tag=Application%20Streaming
 https://workshops.aws/?tag=Architecture
+https://workshops.aws/?tag=Argo
 https://workshops.aws/?tag=ArgoCD
 https://workshops.aws/?tag=Artificial%20Intelligence
 https://workshops.aws/?tag=Asset%20Tracking
@@ -815,6 +820,7 @@ https://workshops.aws/?tag=DeepRacer
 https://workshops.aws/?tag=DevOps
 https://workshops.aws/?tag=DevOps%20Guru
 https://workshops.aws/?tag=DevSecOps
+https://workshops.aws/?tag=Developer%20tools
 https://workshops.aws/?tag=Development
 https://workshops.aws/?tag=Device%20Farm
 https://workshops.aws/?tag=DeviceManagement
@@ -1008,6 +1014,7 @@ https://workshops.aws/?tag=Log%20Analytics
 https://workshops.aws/?tag=Logs
 https://workshops.aws/?tag=Logstash
 https://workshops.aws/?tag=Low%20code
+https://workshops.aws/?tag=Low-code
 https://workshops.aws/?tag=LowCode
 https://workshops.aws/?tag=M%26E
 https://workshops.aws/?tag=M2
@@ -1077,6 +1084,7 @@ https://workshops.aws/?tag=Neural%20Search
 https://workshops.aws/?tag=Next%20Generation%20of%20Amazon%20SageMaker
 https://workshops.aws/?tag=Nextflow
 https://workshops.aws/?tag=No%20Code
+https://workshops.aws/?tag=No-code
 https://workshops.aws/?tag=NoSQL
 https://workshops.aws/?tag=Notebooks
 https://workshops.aws/?tag=Nova
@@ -1291,6 +1299,7 @@ https://workshops.aws/?tag=distributed%20map
 https://workshops.aws/?tag=eks_blueprints_terraform
 https://workshops.aws/?tag=eksctl
 https://workshops.aws/?tag=elasticsearch
+https://workshops.aws/?tag=fleet
 https://workshops.aws/?tag=fsx
 https://workshops.aws/?tag=full%20text%20search
 https://workshops.aws/?tag=fullstack
@@ -1300,6 +1309,7 @@ https://workshops.aws/?tag=helm
 https://workshops.aws/?tag=in-app,%20web,%20and%20video%20calling
 https://workshops.aws/?tag=kNN
 https://workshops.aws/?tag=kibana
+https://workshops.aws/?tag=kro
 https://workshops.aws/?tag=machine-learning
 https://workshops.aws/?tag=machinelearning
 https://workshops.aws/?tag=mobile

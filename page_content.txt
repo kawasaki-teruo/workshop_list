@@ -27,6 +27,28 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+EKS Fleet Management
+Level: 300
+checkmark
+Categories: Containers, Compute
+checkmark
+Tags: EKS, GitOps, Terraform, ACK, kro, Argo, fleet
+schedule
+2 hours
+Use IaC (Terraform, kro/ACK) and GitOps (Argo CD), to manage fleet of EKS clusters in different accounts/region
+Get Started
+arrow_forward
+AWS App Studio Workshop
+Level: 200
+checkmark
+Categories: AI/ML, GenAI
+checkmark
+Tags: AppStudio, Low-code, No-code, Developer tools, GenAI
+schedule
+2 hours
+AWS App Studio is a generative AI-powered service that uses natural language to create enterprise-grade applications. App Studio opens up application development to technical professionals without software development skills, such as IT project managers, data engineers, and enterprise architects, empowering them to quickly build applications that are secure and fully managed by AWS, eliminating the need for operational expertise.
+Get Started
+arrow_forward
 Onboarding & optimizing AI/ML workloads on AWS with Amazon S3 and EKS
 Level: 400
 checkmark

@@ -5532,6 +5532,25 @@
     "description": "Workshop attendees learn how an existing IVR solution is migrated to a speech conversational IVR powered by Amazon Connect and Amazon Lex. You get to know concepts that are used to design personal and dynamic customer experience for audio and text conversations. As conversational IVRs require continuous improvements, you are tasked to integrate personalized greetings, high speech recognization, sentiment-based routing and guided workflows to display options and use this knowledge for your job."
   },
   {
+    "url": "https://catalog.workshops.aws/build-apps",
+    "valid_url": true,
+    "title": "AWS App Studio Workshop",
+    "level": "200",
+    "categories": [
+      "AI/ML",
+      "GenAI"
+    ],
+    "tags": [
+      "AppStudio",
+      "Low-code",
+      "No-code",
+      "Developer tools",
+      "GenAI"
+    ],
+    "schedule": "2 hours",
+    "description": "AWS App Studio is a generative AI-powered service that uses natural language to create enterprise-grade applications. App Studio opens up application development to technical professionals without software development skills, such as IT project managers, data engineers, and enterprise architects, empowering them to quickly build applications that are secure and fully managed by AWS, eliminating the need for operational expertise."
+  },
+  {
     "url": "https://catalog.workshops.aws/build-real-time-features-legacy-apps",
     "valid_url": true,
     "title": "Build near-real-time LLM powered features for legacy application",
@@ -6058,6 +6077,27 @@
     ],
     "schedule": "3 hours",
     "description": "In this workshop, you will learn how to build and deploy applications leveraging the EKS Blueprints for AWS CDK Framework. We will also learn about how to define our infrastructure and application dependencies using the AWS CDK."
+  },
+  {
+    "url": "https://catalog.workshops.aws/eks-fleet-management",
+    "valid_url": true,
+    "title": "EKS Fleet Management",
+    "level": "300",
+    "categories": [
+      "Containers",
+      "Compute"
+    ],
+    "tags": [
+      "EKS",
+      "GitOps",
+      "Terraform",
+      "ACK",
+      "kro",
+      "Argo",
+      "fleet"
+    ],
+    "schedule": "2 hours",
+    "description": "Use IaC (Terraform, kro/ACK) and GitOps (Argo CD), to manage fleet of EKS clusters in different accounts/region"
   },
   {
     "url": "https://catalog.workshops.aws/eks-immersionday",

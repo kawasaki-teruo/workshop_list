@@ -293,6 +293,7 @@ https://catalog.workshops.aws/awsiotforautomotive
 https://catalog.workshops.aws/bedrockguard
 https://catalog.workshops.aws/build-a-knowledge-graph
 https://catalog.workshops.aws/build-and-integrate-amazon-connect-ivr
+https://catalog.workshops.aws/build-apps
 https://catalog.workshops.aws/build-real-time-features-legacy-apps
 https://catalog.workshops.aws/build-sms-program
 https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws
@@ -320,6 +321,7 @@ https://catalog.workshops.aws/ecs-finhack
 https://catalog.workshops.aws/ecs-immersion-day
 https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/eks-blueprints-for-cdk
+https://catalog.workshops.aws/eks-fleet-management
 https://catalog.workshops.aws/eks-immersionday
 https://catalog.workshops.aws/eks-saas-gitops
 https://catalog.workshops.aws/firewall-manager
