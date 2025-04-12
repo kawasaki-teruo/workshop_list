@@ -2778,7 +2778,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/75a20314-5e15-4246-9352-3643d9dafc43",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Use Generative AI to build a DevSecOps Chatbot",
     "level": "300",
     "categories": [
