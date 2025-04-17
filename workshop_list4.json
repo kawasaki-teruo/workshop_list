@@ -2630,7 +2630,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/6dc3124a-6bd4-46eb-b5c4-be438a82ba3d",
-    "valid_url": false,
+    "valid_url": true,
     "title": "IAM policy evaluation workshop",
     "level": "400",
     "categories": [
