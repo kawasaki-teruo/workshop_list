@@ -1588,7 +1588,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/327375b8-425b-49d4-b0da-241da0595ecf",
-    "valid_url": true,
+    "valid_url": false,
     "title": "SageMaker Data Wrangler Deep Dive Workshop",
     "level": "400",
     "categories": [
