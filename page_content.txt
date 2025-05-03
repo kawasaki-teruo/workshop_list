@@ -27,6 +27,28 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Building Agents with Amazon Nova Act and MCP
+Level: 300
+checkmark
+Categories: Generative AI, Agents, Nova Act, MCP
+checkmark
+Tags: Generative AI, Agents, Nova Act, MCP
+schedule
+2 hours
+Discover how to build agents by combining Amazon Nova Act with the Model Context Protocol (MCP). Learn to create agents that navigate websites and perform complex tasks through Nova Act's browser automation capabilities. Explore how MCP connects Agents to data sources, and APIs. Through hands-on exercises, you'll integrate these technologies to build agents that can both retrieve data and take action across web applications, all through natural language interactions.
+Get Started
+arrow_forward
+Amazon Nova Sonic S2S (Speech-to-Speech) workshop
+Level: 400
+checkmark
+Categories: Generative AI, Bedrock
+checkmark
+Tags: Nova, Generative AI, Agentic workflow, Speech-to-speech
+schedule
+2 hours
+Amazon Nova Sonic Speech-to-Speech (S2S) model and APIs have been designed and optimized for real-time, conversational interactions through an open bi-directional audio stream or channel (e.g. open mic) configuration. This workshop will focus on getting you familiarized with the basic concepts and API usage patterns.
+Get Started
+arrow_forward
 EKS Fleet Management
 Level: 300
 checkmark

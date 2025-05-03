@@ -2198,6 +2198,24 @@
     "description": "In this workshop, you will enrich Security Hub findings with the corresponding resource metadata, export findings to Amazon S3 and build a security & compliance leaderboard with Amazon Athena and Amazon QuickSight. the leaderboard helps business, SecOps and technical teams to scale by providing an effective way to understand the current state of security and compliance as well as identifying the outliers that require immediate attention."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5238419f-1337-4e0f-8cd7-02239486c40d",
+    "valid_url": true,
+    "title": "Amazon Nova Sonic S2S (Speech-to-Speech) workshop",
+    "level": "400",
+    "categories": [
+      "Generative AI",
+      "Bedrock"
+    ],
+    "tags": [
+      "Nova",
+      "Generative AI",
+      "Agentic workflow",
+      "Speech-to-speech"
+    ],
+    "schedule": "2 hours",
+    "description": "Amazon Nova Sonic Speech-to-Speech (S2S) model and APIs have been designed and optimized for real-time, conversational interactions through an open bi-directional audio stream or channel (e.g. open mic) configuration. This workshop will focus on getting you familiarized with the basic concepts and API usage patterns."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26",
     "valid_url": true,
     "title": "SMART on FHIR with AWS HealthLake: Secure with Amazon Cognito or Keycloak",
@@ -2792,6 +2810,26 @@
     ],
     "schedule": "2 hours",
     "description": "Due to lack of time/resources, DevSecOps Engineers are often not able to triage quickly enough. What if you had a chatbot customized for your environment’s use case? This would help you find a solution quickly and give you back valuable development hours. With more time on your hands, you can rapidly innovate for your business. In this workshop, we will demonstrate how you can create a chatbot using AI-powered AWS services that will help engineers solve common challenges like how to securely store your application’s secrets or how to create a new Disaster Recovery environment."
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/76c0e7e3-72c0-4781-a90d-5cfa494032e5",
+    "valid_url": true,
+    "title": "Building Agents with Amazon Nova Act and MCP",
+    "level": "300",
+    "categories": [
+      "Generative AI",
+      "Agents",
+      "Nova Act",
+      "MCP"
+    ],
+    "tags": [
+      "Generative AI",
+      "Agents",
+      "Nova Act",
+      "MCP"
+    ],
+    "schedule": "2 hours",
+    "description": "Discover how to build agents by combining Amazon Nova Act with the Model Context Protocol (MCP). Learn to create agents that navigate websites and perform complex tasks through Nova Act's browser automation capabilities. Explore how MCP connects Agents to data sources, and APIs. Through hands-on exercises, you'll integrate these technologies to build agents that can both retrieve data and take action across web applications, all through natural language interactions."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/77e1a011-98a4-42e0-af4c-9ed30e7a8dc5",

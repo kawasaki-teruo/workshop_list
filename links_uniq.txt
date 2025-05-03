@@ -114,6 +114,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/4eba7957-dfde-44d3-9997-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/50cf2fdb-1972-4e79-814f-12d2e6fb0dab
 https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-775300717f42
 https://catalog.us-east-1.prod.workshops.aws/workshops/51c37f4d-f2be-441b-b30f-5fa17b10042e
+https://catalog.us-east-1.prod.workshops.aws/workshops/5238419f-1337-4e0f-8cd7-02239486c40d
 https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26
 https://catalog.us-east-1.prod.workshops.aws/workshops/578da574-492d-439f-8f20-f14a782e3701
 https://catalog.us-east-1.prod.workshops.aws/workshops/57b6024b-0dba-4d45-a0f2-6662a2dbbdef
@@ -145,6 +146,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/741835d3-a2bf-4cb6-81f0-d
 https://catalog.us-east-1.prod.workshops.aws/workshops/749b7207-f290-4c8a-a135-f0bff25cae51
 https://catalog.us-east-1.prod.workshops.aws/workshops/752fd04a-f7c3-49a0-a9a0-c9b5ed40061b
 https://catalog.us-east-1.prod.workshops.aws/workshops/75a20314-5e15-4246-9352-3643d9dafc43
+https://catalog.us-east-1.prod.workshops.aws/workshops/76c0e7e3-72c0-4781-a90d-5cfa494032e5
 https://catalog.us-east-1.prod.workshops.aws/workshops/77e1a011-98a4-42e0-af4c-9ed30e7a8dc5
 https://catalog.us-east-1.prod.workshops.aws/workshops/78554b88-0cd8-45a1-b9ee-2c1078aa6995
 https://catalog.us-east-1.prod.workshops.aws/workshops/7b8b2c07-b91b-4403-92cc-7d3d65fdb485
@@ -1019,6 +1021,7 @@ https://workshops.aws/?tag=LowCode
 https://workshops.aws/?tag=M%26E
 https://workshops.aws/?tag=M2
 https://workshops.aws/?tag=MAS
+https://workshops.aws/?tag=MCP
 https://workshops.aws/?tag=MGN
 https://workshops.aws/?tag=ML
 https://workshops.aws/?tag=MLOps
@@ -1088,6 +1091,7 @@ https://workshops.aws/?tag=No-code
 https://workshops.aws/?tag=NoSQL
 https://workshops.aws/?tag=Notebooks
 https://workshops.aws/?tag=Nova
+https://workshops.aws/?tag=Nova%20Act
 https://workshops.aws/?tag=OCR
 https://workshops.aws/?tag=OT
 https://workshops.aws/?tag=Object%20Lock
@@ -1221,6 +1225,7 @@ https://workshops.aws/?tag=Smart%20Contracts
 https://workshops.aws/?tag=SmartManufacturing
 https://workshops.aws/?tag=Software%20Development%20Kits
 https://workshops.aws/?tag=Spark
+https://workshops.aws/?tag=Speech-to-speech
 https://workshops.aws/?tag=Spot
 https://workshops.aws/?tag=Spring%20Boot
 https://workshops.aws/?tag=Startups
@@ -1551,6 +1556,7 @@ https://workshops.aws/categories/LeanDailyManagement
 https://workshops.aws/categories/Local%20Zones
 https://workshops.aws/categories/Low-Code%2FNo-Code
 https://workshops.aws/categories/LowCode
+https://workshops.aws/categories/MCP
 https://workshops.aws/categories/ML
 https://workshops.aws/categories/ML%20pipelines
 https://workshops.aws/categories/MLOps
@@ -1582,6 +1588,7 @@ https://workshops.aws/categories/Network%20Load%20Balancer
 https://workshops.aws/categories/Networking
 https://workshops.aws/categories/NoSQL
 https://workshops.aws/categories/Notebook
+https://workshops.aws/categories/Nova%20Act
 https://workshops.aws/categories/Observability
 https://workshops.aws/categories/Open%20Source
 https://workshops.aws/categories/OpenCost
