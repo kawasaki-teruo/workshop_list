@@ -3012,7 +3012,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8313464b-578d-4894-bea8-43227c04e4a3",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Accelerate your Mainframe Modernization journey with Amazon Q Developer Transform",
     "level": "300",
     "categories": [
