@@ -323,6 +323,7 @@ https://catalog.workshops.aws/ecs-finhack
 https://catalog.workshops.aws/ecs-immersion-day
 https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/eks-blueprints-for-cdk
+https://catalog.workshops.aws/eks-blueprints-terraform
 https://catalog.workshops.aws/eks-fleet-management
 https://catalog.workshops.aws/eks-immersionday
 https://catalog.workshops.aws/eks-saas-gitops
@@ -685,6 +686,7 @@ https://workshops.aws/?tag=Application%20Security
 https://workshops.aws/?tag=Application%20Streaming
 https://workshops.aws/?tag=Architecture
 https://workshops.aws/?tag=Argo
+https://workshops.aws/?tag=Argo%20CD
 https://workshops.aws/?tag=ArgoCD
 https://workshops.aws/?tag=Artificial%20Intelligence
 https://workshops.aws/?tag=Asset%20Tracking

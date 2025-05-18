@@ -27,6 +27,17 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+EKS Blueprints for Terraform and Argo CD
+Level: 400
+checkmark
+Categories: Containers, Compute
+checkmark
+Tags: EKS, GitOps, Argo CD, Terraform
+schedule
+6 hours
+The purpose of this workshop is to guide a user from zero, to deploy clusters using EKS blueprint for Terraform and Gitops Bridge with ArgoCD. The workshop is managed on Github : https://github.com/aws-samples/eks-blueprints-for-terraform-workshop
+Get Started
+arrow_forward
 Building Agents with Amazon Nova Act and MCP
 Level: 300
 checkmark

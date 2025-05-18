@@ -323,6 +323,13 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Containers
+https://workshops.aws/categories/Compute
+https://workshops.aws/?tag=EKS
+https://workshops.aws/?tag=GitOps
+https://workshops.aws/?tag=Argo%20CD
+https://workshops.aws/?tag=Terraform
+https://catalog.workshops.aws/eks-blueprints-terraform
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/categories/Agents
 https://workshops.aws/categories/Nova%20Act

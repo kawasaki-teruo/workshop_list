@@ -323,6 +323,7 @@ https://catalog.workshops.aws/ecs-finhack
 https://catalog.workshops.aws/ecs-immersion-day
 https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/eks-blueprints-for-cdk
+https://catalog.workshops.aws/eks-blueprints-terraform
 https://catalog.workshops.aws/eks-fleet-management
 https://catalog.workshops.aws/eks-immersionday
 https://catalog.workshops.aws/eks-saas-gitops

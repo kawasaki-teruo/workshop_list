@@ -6117,6 +6117,24 @@
     "description": "In this workshop, you will learn how to build and deploy applications leveraging the EKS Blueprints for AWS CDK Framework. We will also learn about how to define our infrastructure and application dependencies using the AWS CDK."
   },
   {
+    "url": "https://catalog.workshops.aws/eks-blueprints-terraform",
+    "valid_url": true,
+    "title": "EKS Blueprints for Terraform and Argo CD",
+    "level": "400",
+    "categories": [
+      "Containers",
+      "Compute"
+    ],
+    "tags": [
+      "EKS",
+      "GitOps",
+      "Argo CD",
+      "Terraform"
+    ],
+    "schedule": "6 hours",
+    "description": "The purpose of this workshop is to guide a user from zero, to deploy clusters using EKS blueprint for Terraform and Gitops Bridge with ArgoCD. The workshop is managed on Github : https://github.com/aws-samples/eks-blueprints-for-terraform-workshop"
+  },
+  {
     "url": "https://catalog.workshops.aws/eks-fleet-management",
     "valid_url": true,
     "title": "EKS Fleet Management",
