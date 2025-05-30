@@ -5760,7 +5760,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/buildweb3",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build Web3 Workshop",
     "level": "400",
     "categories": [
