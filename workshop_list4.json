@@ -1987,7 +1987,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS IoT Events basic workshop (Japanese)",
     "level": "300",
     "categories": [
