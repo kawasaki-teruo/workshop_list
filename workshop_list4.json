@@ -4945,6 +4945,26 @@
     "description": "This workshop simulates unauthorized data deletion events on an Amazon S3 bucket and walks through some of the detection mechanisms employed by the AWS CIRT (Customer Incident Response Team) to respond to such security events."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/fda82638-2464-49f9-b6af-0e72b157d1a9",
+    "valid_url": true,
+    "title": "Building MCP Powered Agents with Claude on Amazon Bedrock",
+    "level": "300",
+    "categories": [
+      "Generative AI",
+      "Amazon Bedrock",
+      "MCP",
+      "Strands Agents"
+    ],
+    "tags": [
+      "Generative AI",
+      "Amazon Bedrock",
+      "MCP",
+      "Strands Agents"
+    ],
+    "schedule": "1 hour",
+    "description": "Learn how to leverage Amazon Bedrock and Claude to build an AI-powered AWS Solutions Architect agent. This specialized agent will demonstrate how foundation models can be enhanced with targeted capabilities to assist cloud architects in accessing AWS documentation and automatically generating architectural diagrams from natural language descriptions."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/fdf5673a-d606-4876-ab14-9a1d25545895",
     "valid_url": true,
     "title": "Troubleshoot in the Cloud",

@@ -27,6 +27,17 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Building MCP Powered Agents with Claude on Amazon Bedrock
+Level: 300
+checkmark
+Categories: Generative AI, Amazon Bedrock, MCP, Strands Agents
+checkmark
+Tags: Generative AI, Amazon Bedrock, MCP, Strands Agents
+schedule
+1 hour
+Learn how to leverage Amazon Bedrock and Claude to build an AI-powered AWS Solutions Architect agent. This specialized agent will demonstrate how foundation models can be enhanced with targeted capabilities to assist cloud architects in accessing AWS documentation and automatically generating architectural diagrams from natural language descriptions.
+Get Started
+arrow_forward
 EKS Blueprints for Terraform and Argo CD
 Level: 400
 checkmark

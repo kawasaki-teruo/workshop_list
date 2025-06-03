@@ -297,6 +297,7 @@ https://workshops.aws/categories/Spot
 https://workshops.aws/categories/Startups
 https://workshops.aws/categories/Storage
 https://workshops.aws/categories/StorageGateway
+https://workshops.aws/categories/Strands%20Agents
 https://workshops.aws/categories/Streaming
 https://workshops.aws/categories/Supply%20Chain%20Management
 https://workshops.aws/categories/Sustainability
@@ -323,6 +324,15 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Generative%20AI
+https://workshops.aws/categories/Amazon%20Bedrock
+https://workshops.aws/categories/MCP
+https://workshops.aws/categories/Strands%20Agents
+https://workshops.aws/?tag=Generative%20AI
+https://workshops.aws/?tag=Amazon%20Bedrock
+https://workshops.aws/?tag=MCP
+https://workshops.aws/?tag=Strands%20Agents
+https://catalog.us-east-1.prod.workshops.aws/workshops/fda82638-2464-49f9-b6af-0e72b157d1a9/en-US
 https://workshops.aws/categories/Containers
 https://workshops.aws/categories/Compute
 https://workshops.aws/?tag=EKS
