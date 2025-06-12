@@ -8359,7 +8359,7 @@
   },
   {
     "url": "https://ivs-streaming.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Live Streaming with Amazon Interactive Video Service",
     "level": "200",
     "categories": [
