@@ -6030,7 +6030,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/deep-dive-on-roles-anywhere",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Deep dive on AWS IAM Roles Anywhere",
     "level": "300",
     "categories": [
@@ -6177,7 +6177,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/eks-immersionday",
-    "valid_url": true,
+    "valid_url": false,
     "title": "EKS Immersion Workshop",
     "level": "200",
     "categories": [
