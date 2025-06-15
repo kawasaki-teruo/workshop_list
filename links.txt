@@ -26,6 +26,7 @@ https://workshops.aws/categories/AWS%20Private%20Link
 https://workshops.aws/categories/AWS%20Secrets%20Manager
 https://workshops.aws/categories/AWS%20Step%20Functions
 https://workshops.aws/categories/AWS%20Systems%20Manager%20%28SSM%29%20-%20Patch%20Manager
+https://workshops.aws/categories/AWS%20Transform
 https://workshops.aws/categories/AWS%20Transit%20Gateway
 https://workshops.aws/categories/AWS%20Verified%20Access
 https://workshops.aws/categories/AWS%20Wavelength
@@ -324,6 +325,14 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Generative%20AI
+https://catalog.us-east-1.prod.workshops.aws/workshops/4b60df1c-f594-4728-8683-be2f7598a60f/en-US
+https://workshops.aws/categories/AWS%20Mainframe%20Modernization
+https://workshops.aws/categories/AWS%20Transform
+https://workshops.aws/?tag=Mainframe%20Modernization
+https://workshops.aws/?tag=Refactor
+https://workshops.aws/?tag=Transform
+https://catalog.us-east-1.prod.workshops.aws/workshops/c98b7f6f-c79b-41ca-8450-ca2e80774427
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/categories/Amazon%20Bedrock
 https://workshops.aws/categories/MCP

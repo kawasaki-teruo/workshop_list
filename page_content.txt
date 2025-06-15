@@ -27,6 +27,28 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Agentic AI with MCP & Strands SDK
+Level: 300
+checkmark
+Categories: Generative AI
+checkmark
+Tags:
+schedule
+3 hours
+Learn to build intelligent AI agents for real-world applications using Strands SDK and Model Context Protocol (MCP). Compared with complex frameworks, Strands simplifies agent development by embracing the state-of-the-art models to plan, chain thoughts, call tools, and reflect. In this workshop , learn to create agents across use cases from performing calculations, fetch weather data, maintain conversation memory, conduct research, manage knowledge bases, and collaborate in multi-agent systems.
+Get Started
+arrow_forward
+Accelerate your Mainframe Modernization journey with AWS Transform
+Level: 300
+checkmark
+Categories: AWS Mainframe Modernization, AWS Transform
+checkmark
+Tags: Mainframe Modernization, Refactor, Transform
+schedule
+3 hours
+Accelerate your mainframe modernization journey using AWS Transform. In this workshop, you will learn how to refactor mainframe applications using AWS Transform service.
+Get Started
+arrow_forward
 Building MCP Powered Agents with Claude on Amazon Bedrock
 Level: 300
 checkmark
