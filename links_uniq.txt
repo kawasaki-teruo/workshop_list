@@ -6,7 +6,6 @@ https://amazon-mq-intro.workshop.aws
 https://amazon-mwaa-for-analytics.workshop.aws
 https://amazon-rds-purpose-built.workshop.aws
 https://amazonmsk-labs.workshop.aws
-https://amplify-photo-sharing.workshop.aws
 https://app-int-with-amazonmq.workshop.aws
 https://app-modernization.workshop.aws
 https://app2container.workshop.aws
@@ -42,6 +41,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/06f17ada-6ae0-4be7-a771-8a37ab7ca3bb
 https://catalog.us-east-1.prod.workshops.aws/workshops/070a93a2-3373-4736-8af0-f7a08c9eb08a
 https://catalog.us-east-1.prod.workshops.aws/workshops/0720c7c4-fb23-4e43-aa9f-036fc07f46b2
+https://catalog.us-east-1.prod.workshops.aws/workshops/0c09992f-9f51-4ed3-b683-c60458730c80
 https://catalog.us-east-1.prod.workshops.aws/workshops/0c7e49a5-b5c4-4f6d-b26b-9b2d8b5cbd2f
 https://catalog.us-east-1.prod.workshops.aws/workshops/0cd5851b-5253-4a65-b351-70d0d80a7fb5
 https://catalog.us-east-1.prod.workshops.aws/workshops/0d92c778-50be-4e40-bc2c-53095d921690
@@ -85,6 +85,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/327375b8-425b-49d4-b0da-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/329ca80d-a33a-43fe-8aaf-d996a258adfe
 https://catalog.us-east-1.prod.workshops.aws/workshops/32f3e732-d67d-4c63-b967-c8c5eabd9ebf
 https://catalog.us-east-1.prod.workshops.aws/workshops/33e6d0e7-f927-4531-abb1-f28a86ba0872
+https://catalog.us-east-1.prod.workshops.aws/workshops/33f099a6-45a2-47d7-9e3c-a23a6568821e
 https://catalog.us-east-1.prod.workshops.aws/workshops/373a8112-5432-4d40-bff9-bafcb3203d58
 https://catalog.us-east-1.prod.workshops.aws/workshops/377bafee-4f96-4d5f-b8cc-ef24e8d080e0
 https://catalog.us-east-1.prod.workshops.aws/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c
@@ -132,6 +133,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4
 https://catalog.us-east-1.prod.workshops.aws/workshops/63250ecc-20e7-451c-b376-90997d4f8d02
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb
 https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8
+https://catalog.us-east-1.prod.workshops.aws/workshops/650f50d9-ca18-486d-a7e0-edda5e0416ce
 https://catalog.us-east-1.prod.workshops.aws/workshops/66a0984a-ad2b-481f-a1cf-e7896ea9595b
 https://catalog.us-east-1.prod.workshops.aws/workshops/6743cde7-2471-46fc-863f-5830b98f3d36
 https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
@@ -219,7 +221,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/d44644b5-a9f3-4a77-a45a-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/d58d8989-b91c-4c5c-8f4d-3838a051fc59
 https://catalog.us-east-1.prod.workshops.aws/workshops/d6c7ecdc-c75f-4ad1-910f-fdd994cc4aed
 https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2320f17af14b
-https://catalog.us-east-1.prod.workshops.aws/workshops/d82f18b5-cf4d-4a83-b840-d7c445026615
 https://catalog.us-east-1.prod.workshops.aws/workshops/d903ff2b-f043-4126-a4f5-64a7cc2922ec
 https://catalog.us-east-1.prod.workshops.aws/workshops/d9c9f028-ee0d-4186-a976-41948c61024f
 https://catalog.us-east-1.prod.workshops.aws/workshops/dab69e1d-1a81-476f-8653-1d36dabbea7b
@@ -324,7 +325,9 @@ https://catalog.workshops.aws/deep-dive-on-roles-anywhere
 https://catalog.workshops.aws/dynamodb-labs
 https://catalog.workshops.aws/ecs-finhack
 https://catalog.workshops.aws/ecs-immersion-day
+https://catalog.workshops.aws/ecs-networking
 https://catalog.workshops.aws/ecs-solution-blueprints
+https://catalog.workshops.aws/ecs-troubleshooting
 https://catalog.workshops.aws/eks-blueprints-for-cdk
 https://catalog.workshops.aws/eks-blueprints-terraform
 https://catalog.workshops.aws/eks-fleet-management
@@ -359,6 +362,7 @@ https://catalog.workshops.aws/opensearch-generative-ai
 https://catalog.workshops.aws/opensource-with-redshift
 https://catalog.workshops.aws/performance-tuning
 https://catalog.workshops.aws/personalize-101-ecommerce
+https://catalog.workshops.aws/q-dev-secure-code
 https://catalog.workshops.aws/quicksight
 https://catalog.workshops.aws/rancher
 https://catalog.workshops.aws/realtime-genai
@@ -739,6 +743,7 @@ https://workshops.aws/?tag=CPG
 https://workshops.aws/?tag=CUDOS
 https://workshops.aws/?tag=Cedar
 https://workshops.aws/?tag=Centralized%20Operations%20Management
+https://workshops.aws/?tag=Certificate%20Manager
 https://workshops.aws/?tag=Chaos%20Engineering
 https://workshops.aws/?tag=Chaos%20engineering
 https://workshops.aws/?tag=Chart
@@ -866,6 +871,7 @@ https://workshops.aws/?tag=ElastiCache
 https://workshops.aws/?tag=Elastic%20Container%20Registry
 https://workshops.aws/?tag=Elastic%20Container%20Service
 https://workshops.aws/?tag=Elastic%20Load%20Balancer
+https://workshops.aws/?tag=Elastic%20Load%20Balancing%20(ELB)
 https://workshops.aws/?tag=Elasticsearch
 https://workshops.aws/?tag=Elemental%20Link
 https://workshops.aws/?tag=Elemental%20Live
@@ -1224,6 +1230,7 @@ https://workshops.aws/?tag=Sensors
 https://workshops.aws/?tag=Serverless
 https://workshops.aws/?tag=Serverless%20Patterns
 https://workshops.aws/?tag=Service%20Cloud%20Voice
+https://workshops.aws/?tag=Service%20Connect
 https://workshops.aws/?tag=ServiceNow
 https://workshops.aws/?tag=SiteWise
 https://workshops.aws/?tag=Smart%20Contracts
@@ -1248,6 +1255,7 @@ https://workshops.aws/?tag=Sustainability
 https://workshops.aws/?tag=System%20for%20Cross-domain%20Identity%20Management(SCIM)
 https://workshops.aws/?tag=Systems%20Manager
 https://workshops.aws/?tag=TGW
+https://workshops.aws/?tag=TLS
 https://workshops.aws/?tag=Tag%20Editor
 https://workshops.aws/?tag=Tagging
 https://workshops.aws/?tag=Tags
@@ -1265,12 +1273,14 @@ https://workshops.aws/?tag=TransferFamily
 https://workshops.aws/?tag=Transform
 https://workshops.aws/?tag=Transit%20Gateway
 https://workshops.aws/?tag=Translate
+https://workshops.aws/?tag=Troubleshooting
 https://workshops.aws/?tag=Trusted%20Advisor
 https://workshops.aws/?tag=TwinMaker
 https://workshops.aws/?tag=Unused%20Access%20Analyzer
 https://workshops.aws/?tag=VDI
 https://workshops.aws/?tag=VPC
 https://workshops.aws/?tag=VPC%20Endpoints
+https://workshops.aws/?tag=VPC%20Lattice
 https://workshops.aws/?tag=VPN
 https://workshops.aws/?tag=Vector%20Search
 https://workshops.aws/?tag=Verified%20Access
@@ -1314,7 +1324,6 @@ https://workshops.aws/?tag=fleet
 https://workshops.aws/?tag=fsx
 https://workshops.aws/?tag=full%20text%20search
 https://workshops.aws/?tag=fullstack
-https://workshops.aws/?tag=graphql
 https://workshops.aws/?tag=graviton
 https://workshops.aws/?tag=helm
 https://workshops.aws/?tag=in-app,%20web,%20and%20video%20calling
@@ -1505,7 +1514,6 @@ https://workshops.aws/categories/Firewalls
 https://workshops.aws/categories/Flux
 https://workshops.aws/categories/Forecast
 https://workshops.aws/categories/FreeRTOS
-https://workshops.aws/categories/Front%20End
 https://workshops.aws/categories/Front%20End%20Web%20and%20Mobile
 https://workshops.aws/categories/Front-End%20Web%20&%20Mobile
 https://workshops.aws/categories/Front-end%20wed%20hosting
@@ -1545,6 +1553,7 @@ https://workshops.aws/categories/Incident%20Response
 https://workshops.aws/categories/Industrial
 https://workshops.aws/categories/Inferentia2
 https://workshops.aws/categories/Infrastructure%20as%20Code
+https://workshops.aws/categories/Insurance
 https://workshops.aws/categories/Internet%20of%20Things
 https://workshops.aws/categories/Internet%20of%20Things%20%28IoT%29
 https://workshops.aws/categories/IoT
@@ -1631,6 +1640,7 @@ https://workshops.aws/categories/Security
 https://workshops.aws/categories/Security%20Hub
 https://workshops.aws/categories/Security,%20Identity%20and%20compliance
 https://workshops.aws/categories/Security,%20Identity,%20and%20Compliance
+https://workshops.aws/categories/Security,Identity,%20and%20Compliance
 https://workshops.aws/categories/Serverless
 https://workshops.aws/categories/Serverless%20Compute
 https://workshops.aws/categories/Serverless%2FDevOps
@@ -1652,6 +1662,7 @@ https://workshops.aws/categories/TransferFamily
 https://workshops.aws/categories/Transformation
 https://workshops.aws/categories/Trusted%20Identity%20Propagation
 https://workshops.aws/categories/TwinMaker
+https://workshops.aws/categories/Underwriting
 https://workshops.aws/categories/Unused%20Access%20Analyzer
 https://workshops.aws/categories/VPC
 https://workshops.aws/categories/VPC%20Network%20Access%20Analyzer

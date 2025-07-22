@@ -6,7 +6,6 @@ https://amazon-mq-intro.workshop.aws
 https://amazon-mwaa-for-analytics.workshop.aws
 https://amazon-rds-purpose-built.workshop.aws
 https://amazonmsk-labs.workshop.aws
-https://amplify-photo-sharing.workshop.aws
 https://app-int-with-amazonmq.workshop.aws
 https://app-modernization.workshop.aws
 https://app2container.workshop.aws
@@ -42,6 +41,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/06f17ada-6ae0-4be7-a771-8a37ab7ca3bb
 https://catalog.us-east-1.prod.workshops.aws/workshops/070a93a2-3373-4736-8af0-f7a08c9eb08a
 https://catalog.us-east-1.prod.workshops.aws/workshops/0720c7c4-fb23-4e43-aa9f-036fc07f46b2
+https://catalog.us-east-1.prod.workshops.aws/workshops/0c09992f-9f51-4ed3-b683-c60458730c80
 https://catalog.us-east-1.prod.workshops.aws/workshops/0c7e49a5-b5c4-4f6d-b26b-9b2d8b5cbd2f
 https://catalog.us-east-1.prod.workshops.aws/workshops/0cd5851b-5253-4a65-b351-70d0d80a7fb5
 https://catalog.us-east-1.prod.workshops.aws/workshops/0d92c778-50be-4e40-bc2c-53095d921690
@@ -85,6 +85,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/327375b8-425b-49d4-b0da-2
 https://catalog.us-east-1.prod.workshops.aws/workshops/329ca80d-a33a-43fe-8aaf-d996a258adfe
 https://catalog.us-east-1.prod.workshops.aws/workshops/32f3e732-d67d-4c63-b967-c8c5eabd9ebf
 https://catalog.us-east-1.prod.workshops.aws/workshops/33e6d0e7-f927-4531-abb1-f28a86ba0872
+https://catalog.us-east-1.prod.workshops.aws/workshops/33f099a6-45a2-47d7-9e3c-a23a6568821e
 https://catalog.us-east-1.prod.workshops.aws/workshops/373a8112-5432-4d40-bff9-bafcb3203d58
 https://catalog.us-east-1.prod.workshops.aws/workshops/377bafee-4f96-4d5f-b8cc-ef24e8d080e0
 https://catalog.us-east-1.prod.workshops.aws/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c
@@ -132,6 +133,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4
 https://catalog.us-east-1.prod.workshops.aws/workshops/63250ecc-20e7-451c-b376-90997d4f8d02
 https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb
 https://catalog.us-east-1.prod.workshops.aws/workshops/638d00f5-2248-488f-b7ca-903e8b966bf8
+https://catalog.us-east-1.prod.workshops.aws/workshops/650f50d9-ca18-486d-a7e0-edda5e0416ce
 https://catalog.us-east-1.prod.workshops.aws/workshops/66a0984a-ad2b-481f-a1cf-e7896ea9595b
 https://catalog.us-east-1.prod.workshops.aws/workshops/6743cde7-2471-46fc-863f-5830b98f3d36
 https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
@@ -219,7 +221,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/d44644b5-a9f3-4a77-a45a-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/d58d8989-b91c-4c5c-8f4d-3838a051fc59
 https://catalog.us-east-1.prod.workshops.aws/workshops/d6c7ecdc-c75f-4ad1-910f-fdd994cc4aed
 https://catalog.us-east-1.prod.workshops.aws/workshops/d7cb3d98-11db-4553-967a-2320f17af14b
-https://catalog.us-east-1.prod.workshops.aws/workshops/d82f18b5-cf4d-4a83-b840-d7c445026615
 https://catalog.us-east-1.prod.workshops.aws/workshops/d903ff2b-f043-4126-a4f5-64a7cc2922ec
 https://catalog.us-east-1.prod.workshops.aws/workshops/d9c9f028-ee0d-4186-a976-41948c61024f
 https://catalog.us-east-1.prod.workshops.aws/workshops/dab69e1d-1a81-476f-8653-1d36dabbea7b
@@ -324,7 +325,9 @@ https://catalog.workshops.aws/deep-dive-on-roles-anywhere
 https://catalog.workshops.aws/dynamodb-labs
 https://catalog.workshops.aws/ecs-finhack
 https://catalog.workshops.aws/ecs-immersion-day
+https://catalog.workshops.aws/ecs-networking
 https://catalog.workshops.aws/ecs-solution-blueprints
+https://catalog.workshops.aws/ecs-troubleshooting
 https://catalog.workshops.aws/eks-blueprints-for-cdk
 https://catalog.workshops.aws/eks-blueprints-terraform
 https://catalog.workshops.aws/eks-fleet-management
@@ -359,6 +362,7 @@ https://catalog.workshops.aws/opensearch-generative-ai
 https://catalog.workshops.aws/opensource-with-redshift
 https://catalog.workshops.aws/performance-tuning
 https://catalog.workshops.aws/personalize-101-ecommerce
+https://catalog.workshops.aws/q-dev-secure-code
 https://catalog.workshops.aws/quicksight
 https://catalog.workshops.aws/rancher
 https://catalog.workshops.aws/realtime-genai
