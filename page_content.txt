@@ -27,6 +27,17 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Serverless Security: Advanced Lambda Protection
+Level: 300
+checkmark
+Categories: Security,Identity and Compliance, Serverless
+checkmark
+Tags: Amazon Lambda
+schedule
+2 hours
+Build comprehensive security controls for Lambda functions using the latest AWS features. Implement runtime protection, configure secure authentication patterns. Learn to integrate new Lambda security capabilities while maintaining operational efficiency
+Get Started
+arrow_forward
 Securing Data Lakes: From Ingestion to AI Analysis
 Level: 300
 checkmark
@@ -3809,17 +3820,6 @@ Tags: Security, Startups, GuardDuty, IAM, Resource Policies, VPC Endpoints, WAF
 schedule
 2 hours
 This workshop covers techniques for protecting web applications from common threats without changing code. Learn how these techniques can be applied to your AWS environment and how they align to common security compliance frameworks (SOC 2, ISO 27001, PCI DSS, etc.).
-Get Started
-arrow_forward
-Amazon Connect Voice ID
-Level: 300
-checkmark
-Categories: Communication Applications, Contact Center
-checkmark
-Tags: Amazon Connect, Amazon Connect Voice ID
-schedule
-3 hours
-In this workshop you will learn how to launch and set up a modernized cloud based Call Center through a series of hands-on labs. You will set up Amazon Connect Voice ID to start authenticating your callers with their voice, detect fraudsters, and explore the different features of Amazon Connect Voice ID.
 Get Started
 arrow_forward
 Amazon SageMaker Canvas Immersion Day

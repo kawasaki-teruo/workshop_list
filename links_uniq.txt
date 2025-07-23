@@ -46,6 +46,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/0c7e49a5-b5c4-4f6d-b26b-9
 https://catalog.us-east-1.prod.workshops.aws/workshops/0cd5851b-5253-4a65-b351-70d0d80a7fb5
 https://catalog.us-east-1.prod.workshops.aws/workshops/0d92c778-50be-4e40-bc2c-53095d921690
 https://catalog.us-east-1.prod.workshops.aws/workshops/0e5810f1-99fa-40d2-b8f9-fbfaca896e43
+https://catalog.us-east-1.prod.workshops.aws/workshops/0f031bd6-2a06-4788-b5da-bc887a7a97b9
 https://catalog.us-east-1.prod.workshops.aws/workshops/0f9013f4-3960-426d-a445-dc3519b8e3d4
 https://catalog.us-east-1.prod.workshops.aws/workshops/116df80f-46d0-4e83-8a9d-ce62d905af42
 https://catalog.us-east-1.prod.workshops.aws/workshops/11959269-3506-4bcb-aa2a-f257709cb8ca
@@ -251,7 +252,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/eb222e73-eea3-4038-8248-e
 https://catalog.us-east-1.prod.workshops.aws/workshops/eb89c4d5-7c9a-40e0-b0bc-1cde2df1cb97
 https://catalog.us-east-1.prod.workshops.aws/workshops/ec86887c-5a1f-4b43-8d69-cf7c95ba132d
 https://catalog.us-east-1.prod.workshops.aws/workshops/ed1a8610-c721-43be-b8e7-0f300f74684e
-https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d
 https://catalog.us-east-1.prod.workshops.aws/workshops/ed82a5d4-6630-41f0-a6a1-9345898fa6ec
 https://catalog.us-east-1.prod.workshops.aws/workshops/f36e426f-e8a6-467e-97d3-2223bd5f0c49
 https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02
@@ -613,7 +613,6 @@ https://workshops.aws/?tag=Amazon%20Comprehend
 https://workshops.aws/?tag=Amazon%20Connect
 https://workshops.aws/?tag=Amazon%20Connect%20APIs
 https://workshops.aws/?tag=Amazon%20Connect%20Profiles
-https://workshops.aws/?tag=Amazon%20Connect%20Voice%20ID
 https://workshops.aws/?tag=Amazon%20Detective
 https://workshops.aws/?tag=Amazon%20DocumentDB
 https://workshops.aws/?tag=Amazon%20DynamoDB
@@ -639,6 +638,7 @@ https://workshops.aws/?tag=Amazon%20Kendra
 https://workshops.aws/?tag=Amazon%20Kinesis
 https://workshops.aws/?tag=Amazon%20Kinesis%20Video%20Streams
 https://workshops.aws/?tag=Amazon%20Kinesis%20data%20streams
+https://workshops.aws/?tag=Amazon%20Lambda
 https://workshops.aws/?tag=Amazon%20Lex
 https://workshops.aws/?tag=Amazon%20Lightsail
 https://workshops.aws/?tag=Amazon%20Location%20Service
@@ -1640,6 +1640,7 @@ https://workshops.aws/categories/Security
 https://workshops.aws/categories/Security%20Hub
 https://workshops.aws/categories/Security,%20Identity%20and%20compliance
 https://workshops.aws/categories/Security,%20Identity,%20and%20Compliance
+https://workshops.aws/categories/Security,Identity%20and%20Compliance
 https://workshops.aws/categories/Security,Identity,%20and%20Compliance
 https://workshops.aws/categories/Serverless
 https://workshops.aws/categories/Serverless%20Compute

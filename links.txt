@@ -289,6 +289,7 @@ https://workshops.aws/categories/Security
 https://workshops.aws/categories/Security%20Hub
 https://workshops.aws/categories/Security,%20Identity%20and%20compliance
 https://workshops.aws/categories/Security,%20Identity,%20and%20Compliance
+https://workshops.aws/categories/Security,Identity%20and%20Compliance
 https://workshops.aws/categories/Security,Identity,%20and%20Compliance
 https://workshops.aws/categories/Serverless
 https://workshops.aws/categories/Serverless%20Compute
@@ -327,6 +328,10 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Security,Identity%20and%20Compliance
+https://workshops.aws/categories/Serverless
+https://workshops.aws/?tag=Amazon%20Lambda
+https://catalog.us-east-1.prod.workshops.aws/workshops/0f031bd6-2a06-4788-b5da-bc887a7a97b9/en-US
 https://workshops.aws/categories/Analytics
 https://workshops.aws/categories/Security,Identity,%20and%20Compliance
 https://workshops.aws/categories/Machine%20Learning%20%28ML%2FAI%29
@@ -2934,11 +2939,6 @@ https://workshops.aws/?tag=Resource%20Policies
 https://workshops.aws/?tag=VPC%20Endpoints
 https://workshops.aws/?tag=WAF
 https://catalog.workshops.aws/startup-security-stay-secure-while-building-quickly/en-US
-https://workshops.aws/categories/Communication%20Applications
-https://workshops.aws/categories/Contact%20Center
-https://workshops.aws/?tag=Amazon%20Connect
-https://workshops.aws/?tag=Amazon%20Connect%20Voice%20ID
-https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d
 https://workshops.aws/categories/AI%2FML
 https://workshops.aws/?tag=machine-learning
 https://workshops.aws/?tag=AIML
