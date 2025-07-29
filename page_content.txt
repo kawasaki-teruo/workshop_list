@@ -27,6 +27,28 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Introduction to Model Context Protocol on AWS
+Level: 200
+checkmark
+Categories: Amazon Bedrock, AI/ML
+checkmark
+Tags: Anthropic, Claude, MCP
+schedule
+2 hours
+This course provides comprehensive coverage of the Model Context Protocol (MCP) on AWS, focusing on building both MCP servers and clients using the Python SDK. You'll learn about MCP's three core primitives—tools, resources, and prompts—and understand how they integrate with Claude AI to create powerful applications in your AWS environment without writing extensive integration code.
+Get Started
+arrow_forward
+Argo CD on EKS
+Level: 400
+checkmark
+Categories: Containers, Compute
+checkmark
+Tags: EKS, GitOps, Argo CD, Terraform
+schedule
+6 hours
+This workshop covers the deployment and management of applications and add-ons on an EKS cluster using Argo CD. It demonstrates standalone and hub-spoke Argo CD deployment strategies, allowing centralized management of apps and add-ons following GitOps principles. This reduces developer friction by enabling self-service deployment. Participants will learn to configure Argo CD, manage Git repos, and deploy a “Webstore” workload with six microservices to dev and staging environments.
+Get Started
+arrow_forward
 Serverless Security: Advanced Lambda Protection
 Level: 300
 checkmark
@@ -157,17 +179,6 @@ Tags: Generative AI, Amazon Bedrock, MCP, Strands Agents
 schedule
 1 hour
 Learn how to leverage Amazon Bedrock and Claude to build an AI-powered AWS Solutions Architect agent. This specialized agent will demonstrate how foundation models can be enhanced with targeted capabilities to assist cloud architects in accessing AWS documentation and automatically generating architectural diagrams from natural language descriptions.
-Get Started
-arrow_forward
-EKS Blueprints for Terraform and Argo CD
-Level: 400
-checkmark
-Categories: Containers, Compute
-checkmark
-Tags: EKS, GitOps, Argo CD, Terraform
-schedule
-6 hours
-The purpose of this workshop is to guide a user from zero, to deploy clusters using EKS blueprint for Terraform and Gitops Bridge with ArgoCD. The workshop is managed on Github : https://github.com/aws-samples/eks-blueprints-for-terraform-workshop
 Get Started
 arrow_forward
 Building Agents with Amazon Nova Act and MCP
@@ -1422,17 +1433,6 @@ Tags: Security, Incident Response, AWS Lambda
 schedule
 2 hours
 In this workshop you will learn how can you automate incident response tasks using AWS Lambda.
-Get Started
-arrow_forward
-ECS Blueprints Workshop
-Level: 300
-checkmark
-Categories: Containers, Compute, Fargate, ECS, Modernization
-checkmark
-Tags: Fargate, ECS, Containers
-schedule
-2 hours
-A workshop to help users build a well architected Infrastructure as Code stack using Terraform and CDK, and ECS Blueprints to provision and deploy complete ECS solutions following best practices. We walk you through the baseline setup of an ECS cluster and gradually add load balancing, auto-scaling, self-healing, observability, security, and cost efficiency.
 Get Started
 arrow_forward
 Amazon CodeWhisperer Workshop - Build enterprise Java application with Spring Boot
@@ -2841,17 +2841,6 @@ Tags: AWS Amplify, AWS AppSync, AWS Step Functions, Amazon S3, Amazon DynamoDB, 
 schedule
 2 hours
 This workshop shows how you can use Terraform and the Amplify Client Libraries to deploy and manage full stack Amplify Apps at scale.
-Get Started
-arrow_forward
-EKS Blueprints for Terraform
-Level: 300
-checkmark
-Categories: Compute, Containers, EKS, Modernization
-checkmark
-Tags: eks_blueprints_terraform
-schedule
-4 hours
-This workshop helps you build a shared platform (Kubernetes multi-tenant) where multiple developer groups at an organization can consume and deploy workloads freely without the platform team being the bottleneck. We walk through the baseline setup of an EKS cluster, and gradually add add-ons to easily enhance its capabilities such as enabling ArgoCD, Rollouts, GitOps and other common open-source add-ons. We then deploy a static website with proper SSL and domain via GitOps using ArgoCD
 Get Started
 arrow_forward
 AWS Control Tower Workshop

@@ -158,6 +158,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/7b8d42aa-f005-44e0-b6f0-d
 https://catalog.us-east-1.prod.workshops.aws/workshops/7c41ed45-0120-4af8-bd23-420f9f0f5eb1
 https://catalog.us-east-1.prod.workshops.aws/workshops/7d2d52a0-7568-4b24-be49-08dab4bfa128
 https://catalog.us-east-1.prod.workshops.aws/workshops/7d9bda36-2208-484d-a721-e1266cfdce25
+https://catalog.us-east-1.prod.workshops.aws/workshops/7e5a3b66-1e87-45cd-bfaa-025c3d5f28ac
 https://catalog.us-east-1.prod.workshops.aws/workshops/7f1e393b-c2fd-4cc4-b4f9-8e75db2326eb
 https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071
 https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f
@@ -217,7 +218,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/d088ea5e-3c48-4fff-bcc5-0
 https://catalog.us-east-1.prod.workshops.aws/workshops/d0f163d8-d0df-4d21-931d-7946a00f2c51
 https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660
 https://catalog.us-east-1.prod.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069
-https://catalog.us-east-1.prod.workshops.aws/workshops/d2b662ae-e9d7-4b31-b68b-64ade19d5dcc
 https://catalog.us-east-1.prod.workshops.aws/workshops/d44644b5-a9f3-4a77-a45a-8486bf64120c
 https://catalog.us-east-1.prod.workshops.aws/workshops/d58d8989-b91c-4c5c-8f4d-3838a051fc59
 https://catalog.us-east-1.prod.workshops.aws/workshops/d6c7ecdc-c75f-4ad1-910f-fdd994cc4aed
@@ -326,7 +326,6 @@ https://catalog.workshops.aws/dynamodb-labs
 https://catalog.workshops.aws/ecs-finhack
 https://catalog.workshops.aws/ecs-immersion-day
 https://catalog.workshops.aws/ecs-networking
-https://catalog.workshops.aws/ecs-solution-blueprints
 https://catalog.workshops.aws/ecs-troubleshooting
 https://catalog.workshops.aws/eks-blueprints-for-cdk
 https://catalog.workshops.aws/eks-blueprints-terraform
@@ -1317,7 +1316,6 @@ https://workshops.aws/?tag=data
 https://workshops.aws/?tag=data%20catalog
 https://workshops.aws/?tag=dcv
 https://workshops.aws/?tag=distributed%20map
-https://workshops.aws/?tag=eks_blueprints_terraform
 https://workshops.aws/?tag=eksctl
 https://workshops.aws/?tag=elasticsearch
 https://workshops.aws/?tag=fleet
@@ -1491,7 +1489,6 @@ https://workshops.aws/categories/Digital%20Twins
 https://workshops.aws/categories/Disaster%20Recovery
 https://workshops.aws/categories/EBS
 https://workshops.aws/categories/EC2
-https://workshops.aws/categories/ECS
 https://workshops.aws/categories/EKS
 https://workshops.aws/categories/EMR
 https://workshops.aws/categories/ETL
@@ -1508,7 +1505,6 @@ https://workshops.aws/categories/Energy&Utilities
 https://workshops.aws/categories/Enterprise%20Applications
 https://workshops.aws/categories/Events
 https://workshops.aws/categories/Face%20Detection
-https://workshops.aws/categories/Fargate
 https://workshops.aws/categories/Financial%20Services
 https://workshops.aws/categories/Firewalls
 https://workshops.aws/categories/Flux
