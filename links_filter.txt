@@ -165,6 +165,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1
 https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f
 https://catalog.us-east-1.prod.workshops.aws/workshops/8313464b-578d-4894-bea8-43227c04e4a3
 https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b
+https://catalog.us-east-1.prod.workshops.aws/workshops/850fcd5c-fd1f-48d7-932c-ad9babede979
 https://catalog.us-east-1.prod.workshops.aws/workshops/85510359-c3c2-4200-b0a8-8020d4473875
 https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36
 https://catalog.us-east-1.prod.workshops.aws/workshops/8753317a-de66-4bd9-8767-c86e3f6dfc9f
@@ -240,8 +241,8 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/e0b7a071-a7f1-485b-a1c2-a
 https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e
 https://catalog.us-east-1.prod.workshops.aws/workshops/e2873015-ae1e-43cc-9ab7-4c87cf28aa30
 https://catalog.us-east-1.prod.workshops.aws/workshops/e31afbdf-ee40-41fa-a6c9-6ba2cb55fc1e
-https://catalog.us-east-1.prod.workshops.aws/workshops/e36277ba-4094-4df4-b62f-d1e655800123
 https://catalog.us-east-1.prod.workshops.aws/workshops/e4a4aa26-fb17-45eb-9edf-77b7f8b6035f
+https://catalog.us-east-1.prod.workshops.aws/workshops/e4ceabe4-2701-4e5b-986f-f40d945dc8e8
 https://catalog.us-east-1.prod.workshops.aws/workshops/e5122482-ded0-4259-94f0-c373f23c5257
 https://catalog.us-east-1.prod.workshops.aws/workshops/e5548031-3004-49ad-89be-a13e8cd616f6
 https://catalog.us-east-1.prod.workshops.aws/workshops/e801f943-aad8-4d9e-aa8a-3bcc2913340f
@@ -315,7 +316,6 @@ https://catalog.workshops.aws/certificatemanager
 https://catalog.workshops.aws/cidforazure
 https://catalog.workshops.aws/cognito-jwt-deep-dive
 https://catalog.workshops.aws/connect-lex-voice-id-and-task-automation
-https://catalog.workshops.aws/contact-flow-deployment-workshop
 https://catalog.workshops.aws/control-design
 https://catalog.workshops.aws/control-tower
 https://catalog.workshops.aws/data-protection-eda

@@ -27,6 +27,28 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Vibe Coding Production Ready Agents with Kiro
+Level: 300
+checkmark
+Categories: Generative AI, MCP, Agents
+checkmark
+Tags: Amazon Bedrock, Amazon Bedrock AgentCore, MCP, Kiro, Strands Agents
+schedule
+2 hours
+Learn how to build AI agents from rapid prototype to production deployment using Kiro. You'll learn to create powerful agents that can access AWS documentation, generate architectural diagrams, and provide expert guidance through integration with Model Context Protocol (MCP) servers and the Strands Agents SDK. The workshop culminates in deploying your agent to Amazon Bedrock AgentCore for scalable, enterprise-grade operation with built-in monitoring and security.
+Get Started
+arrow_forward
+Getting started with Bedrock AgentCore
+Level: 300
+checkmark
+Categories: AgentCore, Bedrock AgentCore, Strands Agents
+checkmark
+Tags: Generative AI, AgentCore, Memory, Gateway, Runtime, Tool, Agents, Observability, Identity, Production-ready, AI Agents, Strands Agents, Bedrock
+schedule
+1 hour
+Getting started on AgentCore: Let's progressively build a Customer Support Agent, securely host it, personalize it, give it MCP tools from existing APIs and observe it end-to-end using Bedrock AgentCore and Strands Agents
+Get Started
+arrow_forward
 Diving Deep into Bedrock AgentCore
 Level: 300
 checkmark
@@ -1941,17 +1963,6 @@ schedule
 Build a bespoke web application from scratch to visualise IoT SiteWise data using AWS IoT AppKit.
 Get Started
 arrow_forward
-Application deployment in Amazon EKS using ArgoCD and ACK
-Level: 400
-checkmark
-Categories: Containers, Compute
-checkmark
-Tags: EKS, GitOps, ArgoCD
-schedule
-2 hours
-This workshop covers Application deployment (both runtime and infrastructure services) and Addons management in a multi-cluster scenario, where a single Argo CD (hub) cluster manages the deployment to all other workload clusters (spokes) in the organization
-Get Started
-arrow_forward
 Leveraging AWS Nitro Enclaves for Secure Blockchain Key Management
 Level: 400
 checkmark
@@ -3479,17 +3490,6 @@ Tags: AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, Secure Coding, Ethical Ha
 schedule
 3 hours
 Security is everyones responsibility. The earlier you can build the appropriate configuration into your applications the easier it is to achieve the goal of shipping securely AND swiftly. The techniques you’ll learn in this workshop will help you raise the bar for the security of the applications you build. This will help you spend more time building software that delights your customers & less time on rework after security reviews
-Get Started
-arrow_forward
-Amazon Connect Contact Flow Deployment Workshop
-Level: 400
-checkmark
-Categories: Contact Center, Communication Applications
-checkmark
-Tags: Amazon Connect, AWS CloudFormation, AWS Lambda, Amazon Lex, AWS CodeCommit, AWS CodePipeline
-schedule
-8 hours
-In this Workshop, we demonstrate how you can implement CICD Deployment pipeline for your Amazon Connect Contact Flow. This workshop walks you through how you can deploy Amazon Connect Contact Flows that consist of Lambda functions, Lex bots, Connect Queue, etc. across various environments (Dev, QA, STG, Prod) through CICD pipeline leveraging CloudFormation, Code Commit repository, CodePipeline, etc.
 Get Started
 arrow_forward
 Accelerate Serverless Java with GraalVM
