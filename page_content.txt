@@ -156,7 +156,7 @@ checkmark
 Tags: ECS, Amazon ECS, AWS Fargate, Fargate, VPC Lattice, TLS, Certificate Manager, Service Connect
 schedule
 4 hours
-A public-facing description of the workshop. In this case, it's still an introduction to the features and usage of AWS Elastic Clownshoes
+This workshop provides a modular approach to understanding Amazon ECS networking, covering topics such as the available networking configurations, application networking options for service-to-service communication, VPC lattice integration, and guidance on advanced features like ECS Service Connect TLS configuration
 Get Started
 arrow_forward
 Amazon ECS Troubleshooting Workshop
