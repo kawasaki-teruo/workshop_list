@@ -258,6 +258,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/ed82a5d4-6630-41f0-a6a1-9
 https://catalog.us-east-1.prod.workshops.aws/workshops/f36e426f-e8a6-467e-97d3-2223bd5f0c49
 https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02
 https://catalog.us-east-1.prod.workshops.aws/workshops/f6b4587e-b8a5-4a43-be87-26bd85a70aba
+https://catalog.us-east-1.prod.workshops.aws/workshops/f795222d-a4e1-4610-8ffa-170319c282c0
 https://catalog.us-east-1.prod.workshops.aws/workshops/f81841e0-b033-4355-8b6c-b2a404d544a4
 https://catalog.us-east-1.prod.workshops.aws/workshops/f866d059-8d90-49fa-bf15-15676cc9a74f
 https://catalog.us-east-1.prod.workshops.aws/workshops/f8d2c175-634d-4c5d-94cb-d83bbc656c6a
@@ -385,6 +386,7 @@ https://catalog.workshops.aws/serverless-developer-experience
 https://catalog.workshops.aws/serverless-patterns
 https://catalog.workshops.aws/service-catalog
 https://catalog.workshops.aws/sitewise-anomaly-detection
+https://catalog.workshops.aws/spandri-cost-allocation
 https://catalog.workshops.aws/startup-security-baseline
 https://catalog.workshops.aws/startup-security-stay-secure-while-building-quickly
 https://catalog.workshops.aws/suse-linux-on-aws
@@ -1187,6 +1189,7 @@ https://workshops.aws/?tag=Reliability
 https://workshops.aws/?tag=Replication
 https://workshops.aws/?tag=Reporting
 https://workshops.aws/?tag=Research
+https://workshops.aws/?tag=Reserved%20Instances
 https://workshops.aws/?tag=Resilency
 https://workshops.aws/?tag=Resilience
 https://workshops.aws/?tag=Resiliency
@@ -1257,6 +1260,7 @@ https://workshops.aws/?tag=StepFunctions
 https://workshops.aws/?tag=Storage
 https://workshops.aws/?tag=Storage%20Gateway
 https://workshops.aws/?tag=StorageGateway
+https://workshops.aws/?tag=Strands
 https://workshops.aws/?tag=Strands%20Agents
 https://workshops.aws/?tag=Strangler
 https://workshops.aws/?tag=Stream%20Processing

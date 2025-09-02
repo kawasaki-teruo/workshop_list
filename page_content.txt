@@ -27,6 +27,28 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Handling Savings Plan (SP) and Reserved Instance (RI) Chargeback, Showback, and Cost Allocation
+Level: 300
+checkmark
+Categories: AWS Cost Management
+checkmark
+Tags: Savings Plans, Reserved Instances, AWS Cost and Usage Report, Cloud Financial Management, FinOps, Cloud Operations
+schedule
+2 hours
+AWS customers who have consistent workloads can purchase Savings Plans (SPs) and Reserved Instances (RIs) to reduce their total costs. These offerings apply across multiple accounts in an AWS Organization when benefit sharing is enabled, leading to complexities linking billed spend to consumption. This hands-on lab will guide you through the steps to develop a chargeback or show back strategy for SPs and RIs shared within your AWS Organization using AWS Cost and Usage Report (CUR) data.
+Get Started
+arrow_forward
+AI Agents on EKS Workshop
+Level: 300
+checkmark
+Categories: Containers, Machine Learning, Gen AI, Strands Agents
+checkmark
+Tags: Generative AI, AgentCore, EKS, MCP, Strands, Tool, Agents, AI Agents, Strands Agents, Bedrock
+schedule
+2 hours
+This workshop demonstrates how to build and deploy AI agents on Amazon Elastic Kubernetes Service (EKS). You'll learn to create intelligent, autonomous systems that can interact with various AWS services, process natural language requests, and execute complex workflows using containerized applications running on Kubernetes.
+Get Started
+arrow_forward
 Vibe Coding Production Ready Agents with Kiro
 Level: 300
 checkmark
