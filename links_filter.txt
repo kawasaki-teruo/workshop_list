@@ -74,6 +74,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/276faf92-bffc-4843-8a8e-8
 https://catalog.us-east-1.prod.workshops.aws/workshops/27ded505-ce93-4f5f-8f5b-cc72242f70b6
 https://catalog.us-east-1.prod.workshops.aws/workshops/27eb3134-4f33-4689-bb73-269e4273947a
 https://catalog.us-east-1.prod.workshops.aws/workshops/28e7066a-b0bb-42ad-a0e9-8e8eeeb51133
+https://catalog.us-east-1.prod.workshops.aws/workshops/29ba8587-827c-4a9f-bef9-effea3979088
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a22e604-2f2e-4d7b-85a8-33b38c999234
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a54eaaf-51ee-4373-a3da-2bf4e8bb6dd3
 https://catalog.us-east-1.prod.workshops.aws/workshops/2b03e299-c30f-4144-b452-483356cc5267
@@ -90,6 +91,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/33e6d0e7-f927-4531-abb1-f
 https://catalog.us-east-1.prod.workshops.aws/workshops/33f099a6-45a2-47d7-9e3c-a23a6568821e
 https://catalog.us-east-1.prod.workshops.aws/workshops/373a8112-5432-4d40-bff9-bafcb3203d58
 https://catalog.us-east-1.prod.workshops.aws/workshops/377bafee-4f96-4d5f-b8cc-ef24e8d080e0
+https://catalog.us-east-1.prod.workshops.aws/workshops/3a6e6657-1bf5-4da8-8ab3-291c32668ec5
 https://catalog.us-east-1.prod.workshops.aws/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c
 https://catalog.us-east-1.prod.workshops.aws/workshops/3ac9c80a-20b4-4a39-a744-b1cae9020733
 https://catalog.us-east-1.prod.workshops.aws/workshops/3be7b9f7-146c-4112-94bd-444dd7cc5556
@@ -334,6 +336,7 @@ https://catalog.workshops.aws/eks-blueprints-terraform
 https://catalog.workshops.aws/eks-fleet-management
 https://catalog.workshops.aws/eks-immersionday
 https://catalog.workshops.aws/eks-saas-gitops
+https://catalog.workshops.aws/everyday-productivity-accelerators
 https://catalog.workshops.aws/firewall-manager
 https://catalog.workshops.aws/genai-for-sap
 https://catalog.workshops.aws/genai-on-aws
@@ -342,6 +345,7 @@ https://catalog.workshops.aws/gwlb-networking
 https://catalog.workshops.aws/hsm-on-aws
 https://catalog.workshops.aws/hybrid-and-edge-generative-ai
 https://catalog.workshops.aws/iam-policy-types
+https://catalog.workshops.aws/increase-resilience-with-cutover-automated-runbooks
 https://catalog.workshops.aws/ipv6-on-aws
 https://catalog.workshops.aws/java-on-aws-lambda
 https://catalog.workshops.aws/java-on-aws-lambda/en-US/02-accelerate

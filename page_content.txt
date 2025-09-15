@@ -27,6 +27,50 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Building Simple GenAI Tools with MCP
+Level: 200
+checkmark
+Categories: Generative AI, Amazon Bedrock, MCP, Strands Agents
+checkmark
+Tags: Generative AI, Amazon Bedrock, MCP, Strands Agents
+schedule
+1 hour
+Learn to build productivity tools with AWS's generative AI services to streamline your daily work. This hands-on session guides technical professionals through using GenAI for creating assistants that help with meeting preparation, automated scheduling, and tool interactions using Model Context Protocol (MCP). Gain practical skills to develop time-saving solutions using AWS's comprehensive GenAI capabilities.
+Get Started
+arrow_forward
+Increase Resilience with Cutover Automated Runbooks
+Level: 300
+checkmark
+Categories: Disaster Recovery, Resilience
+checkmark
+Tags: ARC, Disaster Recovery, EC2, FIS, Multi-Region, RDS, Resilience, Route 53, Cutover Automated Runbooks
+schedule
+4 hours
+This workshop is designed to explore the capabilities of Cutover Automated Runbooks, focusing on the growing challenges around multi-region disaster recovery (DR) faced by many large organizations like detecting and resolving potential issues and gaps during DR rehearsals, preparing for unannounced DR simulations and live events, and demonstrating recovery capabilities to regulators while reducing manual efforts which are prone to errors. This workshop addresses these challenges by creating and executing automated runbooks in Cutover that simulate a network connectivity disruption using AWS Fault Injection Service (FIS) affecting a critical three-tier web application in a primary region and orchestrate the application failover to a secondary region using Amazon Application Recovery Controller (ARC) and Amazon Relational Database Service (RDS). For this workshop participants need access to Cutover instances. Please reach out to the Cutover team at awssales@cutover.com.
+Get Started
+arrow_forward
+Protect your GenAI Application from Prompt Injections
+Level: 300
+checkmark
+Categories: Security, Identity, and Compliance, Generative AI
+checkmark
+Tags: GenAI, Prompt Injection, Bedrock Guardrails
+schedule
+2 hours
+Learn to secure generative AI applications against real-world threats in this comprehensive hands-on workshop. Using a realistic banking chatbot scenario, you'll execute progressive prompt injection attacks—including direct injection, jailbreaking methods, and various bypass strategies—to understand how attackers exploit AI vulnerabilities. Then flip to defense mode by implementing Amazon Bedrock Guardrails with custom security policies, content filters, and PII protection, while building comprehensive monitoring dashboards through CloudWatch to detect and prevent future attacks. Perfect for developers, security professionals, and AI practitioners who need practical skills to build secure, production-ready AI applications.
+Get Started
+arrow_forward
+Build cyber recovery resilience strategies using AWS Backup
+Level: 400
+checkmark
+Categories: Data Protection, Storage, Security
+checkmark
+Tags: AWS Backup, Recovery Resilience
+schedule
+2 hours
+This hands-on workshop demonstrates the critical intersection of backup management and security validation through the powerful combination of AWS Backup and elastio.com's advanced security solutions. Participants will experience firsthand how to leverage AWS Backup's capabilities to create and manage comprehensive backup strategies across their AWS environment. The workshop deeply explores AWS Backup's restore testing functionality, showcasing how organizations can verify both the integrity and recoverability of their backup assets. A key highlight of this workshop is the integration with elastio.com's sophisticated malware and ransomware scanning solution. This integration enables participants to conduct thorough security assessments of their backup contents, simulating real-world malware and ransomware scenarios to ensure backup integrity. Through practical exercises, attendees will learn how to validate their backups against modern cyber threats, ensuring their recovery points are not just restorable, but also secure from potential security compromises. By the conclusion of this workshop, participants will be equipped with the knowledge to implement a robust backup validation strategy that combines AWS Backup's native capabilities with advanced security testing features, enabling them to protect their organizations against data loss and cyber threats.
+Get Started
+arrow_forward
 Handling Savings Plan (SP) and Reserved Instance (RI) Chargeback, Showback, and Cost Allocation
 Level: 300
 checkmark
