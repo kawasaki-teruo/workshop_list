@@ -27,6 +27,39 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Using Claude Code with AWS Bedrock
+Level: 300
+checkmark
+Categories: Generative AI
+checkmark
+Tags: GenAI
+schedule
+2 hours
+This class teaches you how to install Claude Code and integrate it with Amazon Bedrock Anthropic Claude models. This class walks through the basics of Claude Code, setting it up, integrating with the AWS Bedrock API, and project setup. It additionally covers Model Context Protocol servers (MCPs) that extend the capability of Claude Code and demonstrates this through the use of AWS provided MCP servers. Lastly it covers a new addition to Claude Code - the sub-agent.
+Get Started
+arrow_forward
+Building application deception system using AWS WAF Bot Control
+Level: 400
+checkmark
+Categories: Security, Identity, and Compliance, Networking & Content Delivery, Financial Services
+checkmark
+Tags: AWS WAF, AWS WAF Bot Control, Bot Control
+schedule
+4 hours
+This L400 workshop will guide you how to build a bot deception system including random timeout, shadow banning, providing fake contents, and luring to unimportant contents labyrinth.
+Get Started
+arrow_forward
+GenAI Powered Log Analysis for AWS Session Manager
+Level: 200
+checkmark
+Categories: Amazon Bedrock, AWS Systems Manager
+checkmark
+Tags: Generative AI, Security, Incident Response
+schedule
+2 hours
+Learn how to gain security insights from your Session Manager logs using the power of GenAI
+Get Started
+arrow_forward
 Building Simple GenAI Tools with MCP
 Level: 200
 checkmark
