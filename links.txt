@@ -330,6 +330,12 @@ https://workshops.aws/categories/search
 https://workshops.aws/categories/Analytics
 https://workshops.aws/?tag=Redshift
 https://catalog.us-east-1.prod.workshops.aws/workshops/4b2fb166-b467-461b-bd30-782dd2a2265c/en-US
+https://workshops.aws/categories/Amazon%20Bedrock
+https://workshops.aws/categories/AI%2FML
+https://workshops.aws/?tag=Anthropic
+https://workshops.aws/?tag=Claude
+https://workshops.aws/?tag=Claude%20Code
+https://catalog.us-east-1.prod.workshops.aws/workshops/d29b91fd-2b56-4dca-b0c0-42223a6e2c33
 https://workshops.aws/categories/Generative%20AI
 https://workshops.aws/?tag=GenAI
 https://catalog.us-east-1.prod.workshops.aws/workshops/a048d013-f4cf-46e4-a4b0-f2b1d424ae5a

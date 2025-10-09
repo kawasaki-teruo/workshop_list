@@ -27,6 +27,17 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+Claude Code in Action on AWS
+Level: 200
+checkmark
+Categories: Amazon Bedrock, AI/ML
+checkmark
+Tags: Anthropic, Claude, Claude Code
+schedule
+3 hours
+This course provides comprehensive training on using Claude Code for software development tasks, covering the underlying architecture of AI coding assistants, practical implementation techniques, and advanced integration strategies. You'll learn about Claude Code's context management approaches, and how to extend functionality through MCP servers and GitHub integration.
+Get Started
+arrow_forward
 Using Claude Code with AWS Bedrock
 Level: 300
 checkmark
