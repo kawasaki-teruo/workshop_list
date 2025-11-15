@@ -82,40 +82,75 @@ try:
 
         list1 = []
         for title, href, links, text in link_details:
-            href = re.sub('\n','',href)
-            href = re.sub('/en-US/*$','',href)
-            href = re.sub('/ja-JP/*$','',href)
-            href = re.sub('/*$','',href)
+            try:
+                href = re.sub('\n','',href)
+                href = re.sub('/en-US/*$','',href)
+                href = re.sub('/ja-JP/*$','',href)
+                href = re.sub('/*$','',href)
 
-            pattern1='Level: (\d\d\d)'
-            res1 = re.search(pattern1, text)
-            level = res1.group(1)
+                # Level の抽出
+                pattern1='Level: (\d\d\d)'
+                res1 = re.search(pattern1, text)
+                if res1:
+                    level = res1.group(1)
+                else:
+                    print(f"Warning: Level not found for '{title}'")
+                    level = "000"  # デフォルト値
 
-            pattern2='Categories: (.+)'
-            res2 = re.search(pattern2, text)
-            categories = [x.strip() for x in res2.group(1).split(',')]
+                # Categories の抽出
+                pattern2='Categories: (.+)'
+                res2 = re.search(pattern2, text)
+                if res2:
+                    categories = [x.strip() for x in res2.group(1).split(',')]
+                else:
+                    print(f"Warning: Categories not found for '{title}'")
+                    categories = []  # デフォルト値
 
-            pattern3='Tags: (.+)'
-            res3 = re.search(pattern3, text)
-            tags = [x.strip() for x in res3.group(1).split(',')]
+                # Tags の抽出
+                pattern3='Tags: (.+)'
+                res3 = re.search(pattern3, text)
+                if res3:
+                    tags = [x.strip() for x in res3.group(1).split(',')]
+                else:
+                    print(f"Warning: Tags not found for '{title}'")
+                    tags = []  # デフォルト値
 
-            line = text.split('\n')
-            schedule = line[7].strip()
-            description = line[8].strip()
+                line = text.split('\n')
+                
+                # schedule と description の安全な取得
+                if len(line) > 7:
+                    schedule = line[7].strip()
+                else:
+                    print(f"Warning: Schedule not found for '{title}'")
+                    schedule = ""
+                    
+                if len(line) > 8:
+                    description = line[8].strip()
+                else:
+                    print(f"Warning: Description not found for '{title}'")
+                    description = ""
 
-            valid_url = checkURL(href)
-            list1.append(
-                {
-                    "url": href,
-                    "valid_url": valid_url,
-                    "title": title,
-                    "level": level,
-                    "categories": categories,
-                    "tags": tags,
-                    "schedule": schedule,
-                    "description": description
-                }
-            )
+                valid_url = checkURL(href)
+                
+                list1.append(
+                    {
+                        "url": href,
+                        "valid_url": valid_url,
+                        "title": title,
+                        "level": level,
+                        "categories": categories,
+                        "tags": tags,
+                        "schedule": schedule,
+                        "description": description
+                    }
+                )
+            except Exception as e:
+                print(f"Error processing card: {title}")
+                print(f"Error: {e}")
+                print(f"Card text: {text}")
+                print(traceback.format_exc())
+                # エラーが発生してもスキップして続行
+                continue
 
         sorted_list = sorted(list1 , key=get_list , reverse=False)
 
