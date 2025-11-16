@@ -6719,7 +6719,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/java-on-aws-lambda/en-US/02-accelerate",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Accelerate Serverless Java with GraalVM",
     "level": "400",
     "categories": [
