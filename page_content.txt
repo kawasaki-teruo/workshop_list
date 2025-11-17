@@ -27,6 +27,72 @@ schedule
 Organizations today with multiple groups across business using Data warehousing solutions are looking at easy way to share data with each other. With data sharing, customers can now share the data across multiple redshift clusters without copying data through ETL jobs. Data sharing, provides instant, granular, and high performance access to the clusters data. In this workshop, we will discuss and implement different business use cases that can be solved with Amazon Redshift Data sharing
 Get Started
 arrow_forward
+AWS 101 Workshop - Containers
+Level: 200
+checkmark
+Categories: Containers, Beginner, Compute, Refactor
+checkmark
+Tags: ECS, EC2, EFS, XRay, Fargate, Terraform, Infrastructure as Code, DevOps, GitOps, Monolith, Microservices, Python, Amazon Q CLI
+schedule
+3 hours
+This entry-level workshop explores containerization in Amazon Web Services. Participants will gain hands-on experience containerizing a web application and deploying it using Amazon Elastic Container Service (ECS). Learn to create container images and deploy to ECS. Covers container fundamentals, ECS concepts, and best practices. No prior container or ECS experience needed, though basic AWS familiarity is helpful.
+Get Started
+arrow_forward
+Vibin' with Claude on Amazon Bedrock
+Level: 200
+checkmark
+Categories: Amazon Bedrock, AI/ML
+checkmark
+Tags: Anthropic, Claude, Claude Code
+schedule
+3 hours
+Learn to build production software by describing what you want instead of coding every line yourself. In 60 minutes, you'll build and deploy a real technical blog to AWS using vibe coding—a development approach where you focus on creative vision while Claude Code handles technical implementation. You'll master the EPCC methodology (Explore → Plan → Code → Commit) and deploy production-ready infrastructure. No prior CDK knowledge required.
+Get Started
+arrow_forward
+Building embedded Linux devices with AWS IoT Greengrass nucleus lite
+Level: 400
+checkmark
+Categories: AWS IoT, AWS IoT Greengrass, Greengrass, IoT, Internet of Things
+checkmark
+Tags: AWS IoT, AWS IoT Greengrass, Greengrass, IoT, Internet of Things
+schedule
+4 hours
+Learn how to bake your embedded Linux distribution, flash and provision your devices at scale, perform OS image updates using A/B partitions, manage your device fleet and application updates, efficiently iterate and debug, and use Amazon Q Developer to accelerate your development process
+Get Started
+arrow_forward
+Cloud Hello World - Launch a Web Server from Scratch with AWS
+Level: 100
+checkmark
+Categories: Compute, Web
+checkmark
+Tags: EC2, VPC, Amplify, Beginner
+schedule
+1 hour
+This "Cloud Hello World" workshop offers a gentle introduction to the world of AWS, designed specifically for beginners taking their very first steps into cloud computing. In just one hour, you'll experience the satisfaction of building something real - launching your own web server using Amazon EC2 and watching it come to life in your browser. The workshop is crafted with beginners in mind, providing clear, step-by-step guidance that makes even complex concepts feel approachable.
+Get Started
+arrow_forward
+Earth Observation with Strands Agents
+Level: 200
+checkmark
+Categories: Aerospace, Generative AI, Geospatial, Machine Learning
+checkmark
+Tags: Amazon Bedrock, Amazon Location Service, AWS Lambda, Model Context Protocol, Strands Agents
+schedule
+2 hours
+This workshop demonstrates a geospatial analysis agent built with Strands Agents framework and Claude Sonnet. The agent can analyze satellite imagery, compute vegetation indices (NDVI), compare vegetation changes and do satellite imagery object detection.
+Get Started
+arrow_forward
+Generative Translation with Bedrock
+Level: 200
+checkmark
+Categories: ArtificialIntelligence
+checkmark
+Tags: AgentsforAmazonBedrock, AmazonBedrock
+schedule
+4 hours
+Learn how to leverage LLMs to perform generative translation that meets your organization's standards.
+Get Started
+arrow_forward
 Claude Code in Action on AWS
 Level: 200
 checkmark

@@ -2365,6 +2365,27 @@
     "description": "SMART-on-FHIR enabled AWS HealthLake data store allows FHIR compliant applications to access data stored in a HealthLake data store. HealthLake data is accessed by authenticating and authorizing requests using an authorization server. In this workshop, we showcase how to secure the FHIR API access to a SMART-on-FHIR enabled HealthLake data store with two IdP solutions: native AWS service - Amazon Cognito user pool - and an open source solution - Keycloak."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/55d44a45-78d8-4515-b231-ce1282d81af4",
+    "valid_url": true,
+    "title": "Earth Observation with Strands Agents",
+    "level": "200",
+    "categories": [
+      "Aerospace",
+      "Generative AI",
+      "Geospatial",
+      "Machine Learning"
+    ],
+    "tags": [
+      "Amazon Bedrock",
+      "Amazon Location Service",
+      "AWS Lambda",
+      "Model Context Protocol",
+      "Strands Agents"
+    ],
+    "schedule": "2 hours",
+    "description": "This workshop demonstrates a geospatial analysis agent built with Strands Agents framework and Claude Sonnet. The agent can analyze satellite imagery, compute vegetation indices (NDVI), compare vegetation changes and do satellite imagery object detection."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/578da574-492d-439f-8f20-f14a782e3701",
     "valid_url": true,
     "title": "Enhance security in machine learning workflows",
@@ -3857,6 +3878,23 @@
     "description": "Learn how GitHub Actions can automatically validate and analyze IAM policies when permitting developer policy authoring abilities without compromising security."
   },
   {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b5989140-ccfd-467c-bd01-35c11178ec38",
+    "valid_url": true,
+    "title": "Vibin' with Claude on Amazon Bedrock",
+    "level": "200",
+    "categories": [
+      "Amazon Bedrock",
+      "AI/ML"
+    ],
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "Claude Code"
+    ],
+    "schedule": "3 hours",
+    "description": "Learn to build production software by describing what you want instead of coding every line yourself. In 60 minutes, you'll build and deploy a real technical blog to AWS using vibe coding—a development approach where you focus on creative vision while Claude Code handles technical implementation. You'll master the EPCC methodology (Explore → Plan → Code → Commit) and deploy production-ready infrastructure. No prior CDK knowledge required."
+  },
+  {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b6713449-71c5-4199-a9f8-ac1f584fc1c7",
     "valid_url": true,
     "title": "Threat Detection and Response [Arabic] (اكتشاف التهديدات والاستجابة لها)",
@@ -4241,6 +4279,21 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop learn how customers can rapidly set up a compliant payment gateway that connects to multiple processors just in few minutes. With Hyperswitch, customers can quickly integrate and manage over 50 payment processors, eliminating the need for time-consuming individual integrations and reducing development effort by up to 90%. This unified platform allows businesses to start processing payments securely and efficiently across various processors, while also providing features like intelligent routing, seamless failover, and a customizable checkout experience, all within a PCI-compliant framework"
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d11f4041-f94d-47c5-a785-bae993f0f4a7",
+    "valid_url": true,
+    "title": "Generative Translation with Bedrock",
+    "level": "200",
+    "categories": [
+      "ArtificialIntelligence"
+    ],
+    "tags": [
+      "AgentsforAmazonBedrock",
+      "AmazonBedrock"
+    ],
+    "schedule": "4 hours",
+    "description": "Learn how to leverage LLMs to perform generative translation that meets your organization's standards."
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660",
@@ -5705,6 +5758,35 @@
     "description": "This introductory AWS workshop provides hands-on learning for beginners, using the setup of a private web server as a teaching tool to cover core AWS concepts. Participants will configure the server to interact with public resources like external APIs and Amazon S3 storage, gaining practical experience with fundamental AWS services and architecture, such as EC2 instances and VPC."
   },
   {
+    "url": "https://catalog.workshops.aws/aws101-containers",
+    "valid_url": true,
+    "title": "AWS 101 Workshop - Containers",
+    "level": "200",
+    "categories": [
+      "Containers",
+      "Beginner",
+      "Compute",
+      "Refactor"
+    ],
+    "tags": [
+      "ECS",
+      "EC2",
+      "EFS",
+      "XRay",
+      "Fargate",
+      "Terraform",
+      "Infrastructure as Code",
+      "DevOps",
+      "GitOps",
+      "Monolith",
+      "Microservices",
+      "Python",
+      "Amazon Q CLI"
+    ],
+    "schedule": "3 hours",
+    "description": "This entry-level workshop explores containerization in Amazon Web Services. Participants will gain hands-on experience containerizing a web application and deploying it using Amazon Elastic Container Service (ECS). Learn to create container images and deploy to ECS. Covers container fundamentals, ECS concepts, and best practices. No prior container or ECS experience needed, though basic AWS familiarity is helpful."
+  },
+  {
     "url": "https://catalog.workshops.aws/awscff",
     "valid_url": true,
     "title": "Cloud Financial Framework (CFF)",
@@ -6092,6 +6174,24 @@
     ],
     "schedule": "2 hours",
     "description": "In this workshop we introduce you to the Cloud Intelligence Dashboard for Azure, a solution that allows you to create Azure cost visualizations and reports using Amazon QuickSight's intuitive drag-and-drop functionality. We’ll provide an overview of the solution and step by step instructions so you can test it out in your own AWS account."
+  },
+  {
+    "url": "https://catalog.workshops.aws/cloud-hello-world",
+    "valid_url": true,
+    "title": "Cloud Hello World - Launch a Web Server from Scratch with AWS",
+    "level": "100",
+    "categories": [
+      "Compute",
+      "Web"
+    ],
+    "tags": [
+      "EC2",
+      "VPC",
+      "Amplify",
+      "Beginner"
+    ],
+    "schedule": "1 hour",
+    "description": "This \"Cloud Hello World\" workshop offers a gentle introduction to the world of AWS, designed specifically for beginners taking their very first steps into cloud computing. In just one hour, you'll experience the satisfaction of building something real - launching your own web server using Amazon EC2 and watching it come to life in your browser. The workshop is crafted with beginners in mind, providing clear, step-by-step guidance that makes even complex concepts feel approachable."
   },
   {
     "url": "https://catalog.workshops.aws/cognito-jwt-deep-dive",
@@ -6575,6 +6675,28 @@
     ],
     "schedule": "3 hours",
     "description": "A one-day General Immersion Day which guides to build an Highly-Available and scalable web sites using AWS basic services such as EC2, S3, ELB, and Aurora."
+  },
+  {
+    "url": "https://catalog.workshops.aws/greengrass-nucleus-lite",
+    "valid_url": true,
+    "title": "Building embedded Linux devices with AWS IoT Greengrass nucleus lite",
+    "level": "400",
+    "categories": [
+      "AWS IoT",
+      "AWS IoT Greengrass",
+      "Greengrass",
+      "IoT",
+      "Internet of Things"
+    ],
+    "tags": [
+      "AWS IoT",
+      "AWS IoT Greengrass",
+      "Greengrass",
+      "IoT",
+      "Internet of Things"
+    ],
+    "schedule": "4 hours",
+    "description": "Learn how to bake your embedded Linux distribution, flash and provision your devices at scale, perform OS image updates using A/B partitions, manage your device fleet and application updates, efficiently iterate and debug, and use Amazon Q Developer to accelerate your development process"
   },
   {
     "url": "https://catalog.workshops.aws/gwlb-networking",

@@ -123,6 +123,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/5195ab7c-5ded-4ee2-a1c5-7
 https://catalog.us-east-1.prod.workshops.aws/workshops/51c37f4d-f2be-441b-b30f-5fa17b10042e
 https://catalog.us-east-1.prod.workshops.aws/workshops/5238419f-1337-4e0f-8cd7-02239486c40d
 https://catalog.us-east-1.prod.workshops.aws/workshops/542c1a0f-7bd2-4f2f-8da9-699e953c7b26
+https://catalog.us-east-1.prod.workshops.aws/workshops/55d44a45-78d8-4515-b231-ce1282d81af4
 https://catalog.us-east-1.prod.workshops.aws/workshops/578da574-492d-439f-8f20-f14a782e3701
 https://catalog.us-east-1.prod.workshops.aws/workshops/57b6024b-0dba-4d45-a0f2-6662a2dbbdef
 https://catalog.us-east-1.prod.workshops.aws/workshops/58bb4740-5fb1-4470-8314-0debad44930e,%20300%20leveln%204hours
@@ -202,6 +203,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/b28f3502-ca9f-4e12-8b84-5
 https://catalog.us-east-1.prod.workshops.aws/workshops/b2ca0de0-3117-4024-9bed-3326a2baeae9
 https://catalog.us-east-1.prod.workshops.aws/workshops/b4121556-d9b0-4c59-99e1-7effffa729a1
 https://catalog.us-east-1.prod.workshops.aws/workshops/b5083f86-f4e1-4712-8015-ae1549eb2971
+https://catalog.us-east-1.prod.workshops.aws/workshops/b5989140-ccfd-467c-bd01-35c11178ec38
 https://catalog.us-east-1.prod.workshops.aws/workshops/b6713449-71c5-4199-a9f8-ac1f584fc1c7
 https://catalog.us-east-1.prod.workshops.aws/workshops/b73124ff-306f-49b8-a367-08383aa1c892
 https://catalog.us-east-1.prod.workshops.aws/workshops/b7702b59-acbf-4cef-8f14-921350830cba
@@ -223,6 +225,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/cf45bce8-f0a0-4c0d-83e6-a
 https://catalog.us-east-1.prod.workshops.aws/workshops/d03316be-3c29-49db-8dc3-eb196c1778c9
 https://catalog.us-east-1.prod.workshops.aws/workshops/d088ea5e-3c48-4fff-bcc5-0806035aba98
 https://catalog.us-east-1.prod.workshops.aws/workshops/d0f163d8-d0df-4d21-931d-7946a00f2c51
+https://catalog.us-east-1.prod.workshops.aws/workshops/d11f4041-f94d-47c5-a785-bae993f0f4a7
 https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660
 https://catalog.us-east-1.prod.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069
 https://catalog.us-east-1.prod.workshops.aws/workshops/d29b91fd-2b56-4dca-b0c0-42223a6e2c33
@@ -301,6 +304,7 @@ https://catalog.workshops.aws/aws-local-zones-immersion-day
 https://catalog.workshops.aws/aws-openshift-workshop
 https://catalog.workshops.aws/aws-sdk
 https://catalog.workshops.aws/aws101
+https://catalog.workshops.aws/aws101-containers
 https://catalog.workshops.aws/awscff
 https://catalog.workshops.aws/awscid
 https://catalog.workshops.aws/awsgamebackendframework
@@ -321,6 +325,7 @@ https://catalog.workshops.aws/buildweb3
 https://catalog.workshops.aws/cedar-policy-language-in-action
 https://catalog.workshops.aws/certificatemanager
 https://catalog.workshops.aws/cidforazure
+https://catalog.workshops.aws/cloud-hello-world
 https://catalog.workshops.aws/cognito-jwt-deep-dive
 https://catalog.workshops.aws/connect-lex-voice-id-and-task-automation
 https://catalog.workshops.aws/control-design
@@ -345,6 +350,7 @@ https://catalog.workshops.aws/firewall-manager
 https://catalog.workshops.aws/genai-for-sap
 https://catalog.workshops.aws/genai-on-aws
 https://catalog.workshops.aws/general-immersionday
+https://catalog.workshops.aws/greengrass-nucleus-lite
 https://catalog.workshops.aws/gwlb-networking
 https://catalog.workshops.aws/hsm-on-aws
 https://catalog.workshops.aws/hybrid-and-edge-generative-ai
@@ -619,6 +625,7 @@ https://workshops.aws/?tag=Agentic%20AI
 https://workshops.aws/?tag=Agentic%20workflow
 https://workshops.aws/?tag=Agents
 https://workshops.aws/?tag=Agents%20for%20Amazon%20Bedrock
+https://workshops.aws/?tag=AgentsforAmazonBedrock
 https://workshops.aws/?tag=Airflow
 https://workshops.aws/?tag=Alerting
 https://workshops.aws/?tag=Amazon%20API%20Gateway
@@ -673,6 +680,7 @@ https://workshops.aws/?tag=Amazon%20OpenSearch%20Service
 https://workshops.aws/?tag=Amazon%20Pinpoint
 https://workshops.aws/?tag=Amazon%20Polly
 https://workshops.aws/?tag=Amazon%20Q
+https://workshops.aws/?tag=Amazon%20Q%20CLI
 https://workshops.aws/?tag=Amazon%20Q%20Developer
 https://workshops.aws/?tag=Amazon%20Q%20for%20Connect
 https://workshops.aws/?tag=Amazon%20QuickSight
@@ -745,6 +753,7 @@ https://workshops.aws/?tag=Bedrock
 https://workshops.aws/?tag=Bedrock%20Agent
 https://workshops.aws/?tag=Bedrock%20AgentCore
 https://workshops.aws/?tag=Bedrock%20Guardrails
+https://workshops.aws/?tag=Beginner
 https://workshops.aws/?tag=Big%20Data
 https://workshops.aws/?tag=BigData
 https://workshops.aws/?tag=Bill
@@ -1099,6 +1108,7 @@ https://workshops.aws/?tag=Microsoft%20SQL%20Server
 https://workshops.aws/?tag=Migration%20Hub
 https://workshops.aws/?tag=Migrations
 https://workshops.aws/?tag=Mobile
+https://workshops.aws/?tag=Model%20Context%20Protocol
 https://workshops.aws/?tag=Model%20Monitor
 https://workshops.aws/?tag=Modern%20Data
 https://workshops.aws/?tag=Modernization
@@ -1334,6 +1344,7 @@ https://workshops.aws/?tag=Wordpress
 https://workshops.aws/?tag=WorkSpaces
 https://workshops.aws/?tag=Workflows
 https://workshops.aws/?tag=X-Ray
+https://workshops.aws/?tag=XRay
 https://workshops.aws/?tag=Zendesk
 https://workshops.aws/?tag=Zero%20Code
 https://workshops.aws/?tag=Zero%20Trust
@@ -1417,6 +1428,7 @@ https://workshops.aws/categories/AWS%20Wavelength
 https://workshops.aws/categories/AWS%20X-Ray
 https://workshops.aws/categories/AWS%20for%20Industrial
 https://workshops.aws/categories/Active%20Directory
+https://workshops.aws/categories/Aerospace
 https://workshops.aws/categories/AgentCore
 https://workshops.aws/categories/Agents
 https://workshops.aws/categories/Agents%20for%20Amazon%20Bedrock
@@ -1459,6 +1471,7 @@ https://workshops.aws/categories/Applied%20AI
 https://workshops.aws/categories/Apps%20and%20Api
 https://workshops.aws/categories/Architecture
 https://workshops.aws/categories/Artificial%20Intelligence
+https://workshops.aws/categories/ArtificialIntelligence
 https://workshops.aws/categories/Automation
 https://workshops.aws/categories/Automotive
 https://workshops.aws/categories/BCSI%20Compliance
@@ -1656,6 +1669,7 @@ https://workshops.aws/categories/RAG
 https://workshops.aws/categories/RDS
 https://workshops.aws/categories/Rancher
 https://workshops.aws/categories/Red%20Hat%20OpenShift%20Service%20on%20AWS
+https://workshops.aws/categories/Refactor
 https://workshops.aws/categories/Reliability
 https://workshops.aws/categories/Replatform
 https://workshops.aws/categories/Research
