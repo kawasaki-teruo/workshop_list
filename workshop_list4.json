@@ -2476,7 +2476,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5947f74f-c896-48ff-85bc-e822bc5e5ead",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Automated code conversion from Assembler to COBOL",
     "level": "300",
     "categories": [
