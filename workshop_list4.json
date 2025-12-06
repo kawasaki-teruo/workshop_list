@@ -599,7 +599,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/kinesis-video-streams",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Amazon Kinesis Video Streams Workshop",
     "level": "300",
     "categories": [
