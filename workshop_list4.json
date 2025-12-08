@@ -4627,7 +4627,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e04c0885-830a-479b-844b-4c7af79697f8",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon EKS SaaS Workshop",
     "level": "400",
     "categories": [
