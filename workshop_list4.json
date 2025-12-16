@@ -1016,7 +1016,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/152946ba-494a-44d0-b66c-693c70c3ff81",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Unleashing LLMs at the Edge with AWS IoT",
     "level": "200",
     "categories": [
@@ -1823,7 +1823,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Secure Hybrid Access to S3 using VPC Endpoints",
     "level": "300",
     "categories": [
@@ -1855,7 +1855,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3be7b9f7-146c-4112-94bd-444dd7cc5556",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build a Serverless Text-to-Speech Application with Amazon Polly",
     "level": "200",
     "categories": [
@@ -1890,7 +1890,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/3d206271-b841-481d-9c40-ab186ff5e900",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS Mainframe Modernization Data Replication with Precisely",
     "level": "400",
     "categories": [
@@ -2014,7 +2014,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/446304b7-b946-4c40-b78f-08bf0025d8f6",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS IoT Robot",
     "level": "400",
     "categories": [
@@ -3479,7 +3479,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/972fd252-36e5-4eed-8608-743e84957f8e",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Generative AI on Amazon SageMaker Workshop",
     "level": "300",
     "categories": [
@@ -3618,7 +3618,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a1575309-1f43-4945-a5fa-a4d62d5e821d",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon FinSpace With Managed kdb Insights Foundations Workshop",
     "level": "300",
     "categories": [
@@ -3666,7 +3666,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a549739b-1680-4e97-b55e-94cd0d4d2542",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building a Multi-Tenant Architecture with AWS IoT Core",
     "level": "200",
     "categories": [
@@ -3683,7 +3683,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/a5e4d4c2-9a7c-4753-8af5-c89cff42cc32",
-    "valid_url": true,
+    "valid_url": false,
     "title": "KMS Workshop",
     "level": "300",
     "categories": [
@@ -3758,7 +3758,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ac24b387-1a9f-4f8a-bd19-c2be81ea2390",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build a Thales CipherTrust Tokenization with AWS",
     "level": "300",
     "categories": [
@@ -3896,7 +3896,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/b6713449-71c5-4199-a9f8-ac1f584fc1c7",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Threat Detection and Response [Arabic] (اكتشاف التهديدات والاستجابة لها)",
     "level": "300",
     "categories": [
@@ -3967,7 +3967,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/bbc63046-2f56-4d59-917b-d5ebc63bdcee",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Developing cost allocation strategies for your AWS workloads",
     "level": "200",
     "categories": [
@@ -4365,7 +4365,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/d58d8989-b91c-4c5c-8f4d-3838a051fc59",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build a cloud- and AI-powered dancing robot",
     "level": "300",
     "categories": [
@@ -4459,7 +4459,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dab69e1d-1a81-476f-8653-1d36dabbea7b",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Automated Incident management of modern workloads using ChatOps",
     "level": "300",
     "categories": [
@@ -4493,7 +4493,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/dba98fc9-0cac-4498-9d5a-c001b08ea27f",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building Portable Multicloud Applications Without Containers",
     "level": "300",
     "categories": [
@@ -4646,7 +4646,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e0b7a071-a7f1-485b-a1c2-aa468f2599ef",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Operational excellence through automated Trusted Advisor remediations",
     "level": "300",
     "categories": [
@@ -4666,7 +4666,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Developer Experience - Amazon Q Developer - Deep Dive",
     "level": "400",
     "categories": [
@@ -4941,7 +4941,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ec86887c-5a1f-4b43-8d69-cf7c95ba132d",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building Matter PKI leverage AWS Private Certificate Authority",
     "level": "200",
     "categories": [
@@ -4957,7 +4957,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/ec86887c-5a1f-4b43-8d69-cf7c95ba132d",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building Matter PKI leverage AWS Private Certificate Authority",
     "level": "200",
     "categories": [
@@ -5026,7 +5026,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/f560a788-af64-4e5a-a02c-a6c88516ab02",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS Machine Learning - Low-Code / No-Code ML for Data Scientists",
     "level": "400",
     "categories": [
@@ -5406,7 +5406,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/amazon-connect-contact-survey",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Building a contact survey solution for Amazon Connect",
     "level": "300",
     "categories": [
@@ -5422,7 +5422,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/amazon-connect-evaluation-forms",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon Connect Evaluation Forms",
     "level": "200",
     "categories": [
@@ -5472,7 +5472,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/amazon-connect-inapp-calling",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Amazon Connect in-app, web, and video calling",
     "level": "300",
     "categories": [
@@ -5604,7 +5604,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/architecting-edge-applications",
-    "valid_url": true,
+    "valid_url": false,
     "title": "HYB-302: Architecting and deploying applications at the edge",
     "level": "300",
     "categories": [
@@ -5723,7 +5723,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/aws-sdk",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS SDK Workshop",
     "level": "100",
     "categories": [
@@ -5967,7 +5967,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/build-well-architected-mainframe-applications-on-aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "AWS Mainframe Modernization: Build well-architected mainframe applications on the AWS Cloud",
     "level": "300",
     "categories": [
@@ -6216,7 +6216,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/connect-lex-voice-id-and-task-automation",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Build a Task Automated Contact Center with Amazon Connect and Machine Learning",
     "level": "300",
     "categories": [
@@ -6918,7 +6918,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/low-latency-high-throughput-inference-on-amazon-eks",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Best Practices for Generative AI & Machine Learning Inference Architecture on Amazon EKS",
     "level": "400",
     "categories": [
@@ -7081,7 +7081,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/nitrowallet",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Leveraging AWS Nitro Enclaves for Secure Blockchain Key Management",
     "level": "400",
     "categories": [
@@ -7098,7 +7098,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/omnichannel-fallback-messaging",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Implement Resilient Omni-Channel Notifications with AWS",
     "level": "300",
     "categories": [
@@ -7385,7 +7385,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/saas-microservices",
-    "valid_url": true,
+    "valid_url": false,
     "title": "SaaS Microservices Workshop",
     "level": "400",
     "categories": [
@@ -7475,7 +7475,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/sagemaker-studio-emr",
-    "valid_url": true,
+    "valid_url": false,
     "title": "SageMaker Studio Integration with EMR Workshop",
     "level": "300",
     "categories": [
@@ -8024,7 +8024,7 @@
   },
   {
     "url": "https://catalog.workshops.aws/workshops/06e0fca9-b0c4-4ff8-add5-4f27b55aadab",
-    "valid_url": true,
+    "valid_url": false,
     "title": "EMR Observability",
     "level": "300",
     "categories": [
@@ -8267,7 +8267,7 @@
   },
   {
     "url": "https://dotnet-developer-dojo.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": ".NET Developer Dojo",
     "level": "200",
     "categories": [
@@ -8471,7 +8471,7 @@
   },
   {
     "url": "https://filestreaming.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Filestreaming on AWS",
     "level": "100",
     "categories": [
@@ -8894,7 +8894,7 @@
   },
   {
     "url": "https://learn-to-code.workshop.aws",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Learn to Code",
     "level": "300",
     "categories": [
