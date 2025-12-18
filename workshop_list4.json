@@ -9604,7 +9604,7 @@
   },
   {
     "url": "https://www.hpcworkshops.com",
-    "valid_url": false,
+    "valid_url": true,
     "title": "HPC Workshops",
     "level": "300",
     "categories": [
