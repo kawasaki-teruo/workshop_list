@@ -2509,7 +2509,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/5ae871d2-4b4d-41c8-9a1c-046426c8b090",
-    "valid_url": true,
+    "valid_url": false,
     "title": "D2E Immersion Day - Customer Sentiment",
     "level": "200",
     "categories": [
