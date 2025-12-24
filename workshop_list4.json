@@ -9544,7 +9544,7 @@
   },
   {
     "url": "https://wellarchitectedlabs.com/reliability/300_labs/300_health_checks_and_dependencies",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Implementing health checks and managing dependencies to improve reliability",
     "level": "300",
     "categories": [
