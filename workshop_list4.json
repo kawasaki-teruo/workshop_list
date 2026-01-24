@@ -635,7 +635,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/secure-windows",
-    "valid_url": true,
+    "valid_url": false,
     "title": "Securing Microsoft Windows Workloads on AWS",
     "level": "300",
     "categories": [
@@ -3359,7 +3359,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/8c8f65e2-3d33-443d-9865-6d8f1d6d1a91",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Amazon Connect CTI Adapter for Salesforce Series: Prerequisites and Preparation",
     "level": "300",
     "categories": [
