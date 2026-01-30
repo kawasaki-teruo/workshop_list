@@ -3426,7 +3426,7 @@
   },
   {
     "url": "https://catalog.us-east-1.prod.workshops.aws/workshops/93d77bd0-073e-445f-82f8-db877beb9d7a",
-    "valid_url": false,
+    "valid_url": true,
     "title": "Renewable energy assets in the smart home",
     "level": "300",
     "categories": [
