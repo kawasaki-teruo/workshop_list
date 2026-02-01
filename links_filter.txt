@@ -20,6 +20,7 @@ https://builder.aws.com/connect?trk=5de77e66-f2a2-42a0-b3e6-6d8aea538bc0
 https://builder.aws.com/faq
 https://builder.aws.com/learn/topics?trk=007b2b45-45ee-4cfa-85f8-0c7f28183b9b
 https://builder.aws.com/learn?trk=f646ceea-7026-42b3-ab6c-94dc9b9f1701
+https://builder.aws.com/settings
 https://builder.aws.com/start
 https://builder.aws.com/support
 https://builder.aws.com/terms
