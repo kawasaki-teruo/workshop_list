@@ -1,12 +1,5 @@
-https://aws.amazon.com/legal/cookies/
-https://aws.amazon.com/legal/cookies/
-https://pulse.aws/application/ZRPLWLL6?p=0
-https://aws.amazon.com/privacy/
 https://builder.aws.com/
-https://builder.aws.com/settings
-https://builder.aws.com/settings
 https://builder.aws.com/
-https://builder.aws.com/settings
 https://builder.aws.com/
 https://builder.aws.com/?trk=51c55948-e65d-40f8-a29c-8d123da1d2bb
 https://builder.aws.com/learn?trk=f646ceea-7026-42b3-ab6c-94dc9b9f1701
