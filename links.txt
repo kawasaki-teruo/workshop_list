@@ -1,7 +1,3 @@
-https://aws.amazon.com/legal/cookies/
-https://aws.amazon.com/legal/cookies/
-https://pulse.aws/application/ZRPLWLL6?p=0
-https://aws.amazon.com/privacy/
 https://builder.aws.com/
 https://builder.aws.com/
 https://builder.aws.com/
