@@ -1,4 +1,5 @@
 https://aws.amazon.com/accessibility
+https://aws.amazon.com/legal/cookies
 https://aws.amazon.com/new
 https://aws.amazon.com/opensource
 https://aws.amazon.com/privacy
@@ -23,6 +24,7 @@ https://builder.aws.com/support
 https://builder.aws.com/terms
 https://builder.aws.com/wishlist
 https://kiro.dev
+https://pulse.aws/application/ZRPLWLL6?p=0
 https://repost.aws/channels/aws-support-official
 https://skillbuilder.aws
 https://startups.aws
