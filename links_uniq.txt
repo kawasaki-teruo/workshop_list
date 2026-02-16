@@ -19,7 +19,6 @@ https://builder.aws.com/connect/spaces
 https://builder.aws.com/faq
 https://builder.aws.com/learn
 https://builder.aws.com/learn/topics
-https://builder.aws.com/settings
 https://builder.aws.com/start
 https://builder.aws.com/support
 https://builder.aws.com/terms
