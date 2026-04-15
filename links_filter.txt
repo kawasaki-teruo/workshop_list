@@ -20,6 +20,7 @@ https://builder.aws.com/faq
 https://builder.aws.com/faq#workshops
 https://builder.aws.com/learn
 https://builder.aws.com/learn/topics
+https://builder.aws.com/settings
 https://builder.aws.com/start
 https://builder.aws.com/support
 https://builder.aws.com/terms
@@ -32,6 +33,7 @@ https://catalog.workshops.aws/workshops/015a2de4-9522-4532-b2eb-639280dc31d8
 https://catalog.workshops.aws/workshops/02696107-09ac-4313-a6cb-3798048b07d7
 https://catalog.workshops.aws/workshops/026f84fd-f589-4a59-a4d1-81dc543fcd30
 https://catalog.workshops.aws/workshops/029d6c4e-4775-41c9-85ff-9f5360f32a15
+https://catalog.workshops.aws/workshops/0326bf7e-f586-408b-a509-0b17c27aa5d9
 https://catalog.workshops.aws/workshops/05554d54-07cc-483e-b810-d69f7d99b2ab
 https://catalog.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-18c7f85788d4
 https://catalog.workshops.aws/workshops/093c6055-093f-4928-ba16-83a79874e2fe
@@ -62,6 +64,7 @@ https://catalog.workshops.aws/workshops/2300137e-f2ac-4eb9-a4ac-3d25026b235f
 https://catalog.workshops.aws/workshops/2437ee74-38ed-4817-94b9-45b920cb168a
 https://catalog.workshops.aws/workshops/24d19e6d-0c60-4732-8861-343f20ef2b7f
 https://catalog.workshops.aws/workshops/25286efc-5ab4-45b2-a654-bc31f00e0426
+https://catalog.workshops.aws/workshops/296c402e-cadd-43f5-956b-116895a050f9
 https://catalog.workshops.aws/workshops/2a5fc82d-2b5f-4105-83c2-91a1b4d7abfe
 https://catalog.workshops.aws/workshops/2a9bf1b1-82cd-4519-b756-4d519fbb4350
 https://catalog.workshops.aws/workshops/2ae99bf2-10df-444f-a21f-8ad0537a9bdd
@@ -150,6 +153,7 @@ https://catalog.workshops.aws/workshops/a007780e-1086-421b-a7e3-b7ac63e37089
 https://catalog.workshops.aws/workshops/a11f0f32-cc23-4c95-b243-43c53bdc7177
 https://catalog.workshops.aws/workshops/a28c032c-1454-4872-aae0-bae0876283ff
 https://catalog.workshops.aws/workshops/a36f32ee-83b5-49c2-b750-85c91318d9c6
+https://catalog.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518
 https://catalog.workshops.aws/workshops/a6519899-8d64-407f-9bef-a24dc6957a3b
 https://catalog.workshops.aws/workshops/a8629414-0870-414d-96b1-718317d32a0e
 https://catalog.workshops.aws/workshops/aadbd25d-43fa-4ac3-ae88-32d729af8ed4
@@ -159,6 +163,7 @@ https://catalog.workshops.aws/workshops/ace21ec3-c22b-484d-8e0d-4b497eadfc66
 https://catalog.workshops.aws/workshops/ae291640-10fe-4c0b-982f-9b9a61dbad26
 https://catalog.workshops.aws/workshops/b0f59e29-cd5b-4613-b00e-2f4556565c3e
 https://catalog.workshops.aws/workshops/b3fc5f7a-ff34-41fa-a9f2-4cd9e093e6ff
+https://catalog.workshops.aws/workshops/b4a4be0e-d4f9-4ff5-af82-ebfb86dbe46a
 https://catalog.workshops.aws/workshops/b85843d4-a5e4-40fc-9a96-de0a99312a4b
 https://catalog.workshops.aws/workshops/bb62b5d7-313f-4733-88cd-9c1aa41c724d
 https://catalog.workshops.aws/workshops/bb9e9a14-4313-475e-9f49-17b7402b40c1
@@ -182,11 +187,11 @@ https://catalog.workshops.aws/workshops/cec80d03-1df1-4ec5-b623-3cdcdd13710c
 https://catalog.workshops.aws/workshops/cf795253-d458-4381-8307-3900f43b3334
 https://catalog.workshops.aws/workshops/d1f03aa4-9605-4925-aa18-e82819feb069
 https://catalog.workshops.aws/workshops/d1f2d09f-5aae-4c90-82d1-c70def1fc8bd
-https://catalog.workshops.aws/workshops/d22296c4-ea47-4774-9570-03c72e94184f
 https://catalog.workshops.aws/workshops/d40750d7-a330-49be-9945-cde864610de9
 https://catalog.workshops.aws/workshops/d6323be2-38f4-457e-aaf5-08af211f3681
 https://catalog.workshops.aws/workshops/d806c678-7a11-4aa0-8a42-c15f0d9fbb33
 https://catalog.workshops.aws/workshops/d9c9f028-ee0d-4186-a976-41948c61024f
+https://catalog.workshops.aws/workshops/dcac6f7a-3c61-4978-8344-7535526bf743
 https://catalog.workshops.aws/workshops/dd3e45f1-5366-4819-97e3-2a79740b64f9
 https://catalog.workshops.aws/workshops/de3c344e-5cee-48a9-84e9-0292b7708734
 https://catalog.workshops.aws/workshops/e02d9cba-c586-45e9-af8b-2a80bb63579d
@@ -208,6 +213,7 @@ https://catalog.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a
 https://catalog.workshops.aws/workshops/f4734fd8-d4ca-4926-a211-ac57679acfb4
 https://catalog.workshops.aws/workshops/f9401cd0-3343-43de-8ab3-34a9db87d256
 https://catalog.workshops.aws/workshops/f9ac85ca-1bd2-4a01-a936-a76a4c0811c8
+https://catalog.workshops.aws/workshops/fbf2898b-0692-402c-a1c2-03268a838866
 https://catalog.workshops.aws/workshops/ff8849a5-859f-424a-abf4-7b8cdfcb99b2
 https://catalog.workshops.aws/workshops/fff8e490-f397-43d2-ae26-737a6dc4ac68
 https://kiro.dev

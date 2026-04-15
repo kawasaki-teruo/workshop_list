@@ -15,6 +15,674 @@ Categories
 Choose categories
 AWS Services and Features
 Choose services and features
+Application Modernization Lab
+Get started 
+The Application Modernization Lab covers common cloud migration drivers, benefits and challenges. This includes patterns such as the strangler that can be utilized to break down monolith applications and incrementally modernize it through re-architecture while leveraging cloud native services to tap into the full value provided by the cloud. Participants get hands-on with standing up a monolithic application and breaking it apart into microservices.
+AWS Lambda
+AWS Migration Hub
+Migration & Transfer
+English, 日本語
+6 hours
+300 - Advanced
+Amazon Bedrock Workshop
+Get started 
+The Amazon Bedrock Workshop is a hands-on introduction to the Amazon Bedrock service covering Prompt Engineering, Text Generation, KnowledgeBase and RAG, Model Customization, Image and Multimodal models, Agents, and Open Source integrations
+Amazon Bedrock
+Generative AI
+Machine Learning (ML/AI)
+English
+4 hours
+300 - Advanced
+Building with Amazon Bedrock
+Get started 
+Now featuring Strands SDK, Amazon Bedrock AgentCore, and Anthropic Claude 4.5 models! Workshop participants build simple generative AI demo applications while learning key concepts. There are non-technical options with PartyRock and the Amazon Bedrock Playground. Labs include prompt engineering, security and guardrails, chatbots, retrieval-augmented generation (RAG), image generation & editing, multimodal, and Streamlit.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Generative AI
+English
+4 hours
+200 - Intermediate
+Migration and Modernization Pathways - Lab 3
+Get started 
+The Migration and Modernization Pathways – Lab 3 is designed for technical audiences exploring the different pathways, including: Move to Managed Databases, Move to Modern Analytics, and Move to Open Source. This workshop is part of a series, check the "Migration and Modernization Pathways – Lab 2" for other pathways and the "Migration and Modernization - Rehost and Tagging - Lab 1" for Application Migration Service and tagging.
+Amazon Redshift
+Amazon Relational Database Service (Amazon RDS)
+AWS Database Migration Service
+English, 한국어
+8 hours
+300 - Advanced
+Nova customization on AWS
+Get started 
+This workshop provides hands-on experience customizing Amazon Nova models on AWS. Attendees will learn to fine-tune Nova using Amazon Bedrock, SageMaker Training Jobs with the Nova Customization SDK, and SageMaker HyperPod with EKS — covering SFT, DPO, and RL with LoRA, deploying custom models, and evaluating them using LLM-as-a Judge.
+Amazon Bedrock
+Amazon SageMaker
+Generative AI
+English
+4 hours
+300 - Advanced
+One Media Workshop
+Get started 
+One Media Workshop provides a prescriptive, 100-400 level modular learning experience focusing on AWS Media Services, solutions for popular workloads, and advanced modules covering complex use cases.
+AWS Elemental MediaConvert
+AWS Elemental MediaLive
+AWS Elemental MediaTailor
+English
+6 hours
+300 - Advanced
+Amazon Data Firehose Workshop
+Get started 
+An Amazon Data Firehose Workshop provides our customers with hands-on experience to capture, transform, and deliver streaming data into data lakes, data stores, and analytics services using Amazon Data Firehose.
+Amazon Kinesis Data Firehose
+Analytics
+English
+4 hours
+300 - Advanced
+AWS Marketplace Seller Workshop
+Get started 
+This workshop guides sellers through onboarding to AWS Marketplace, listing and integrating each product type, and working with the Marketplace APIs. It also includes end-to-end listing labs for common seller use cases.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+AWS Marketplace
+English, 한국어
+8 hours
+300 - Advanced
+Automate Cloud Operations with AI agents
+Get started 
+Join this technical workshop to build automated cloud operations solutions using AI agents. Get hands-on experience implementing Amazon CloudWatch Investigations and Amazon Bedrock Agents for streamlined debugging and intelligent analysis. Practice using synthetic monitoring and traffic analysis tools while working through real-world operational scenarios. Learn to reduce incident resolution times through practical exercises.
+Amazon Bedrock
+Amazon CloudWatch
+Amazon Q
+English
+2 hours
+400 - Expert
+Migration and Modernization Pathways – Lab 2
+Get started 
+The Migration and Modernization Pathways – Lab Day 2 is designed for technical audiences exploring the different pathways, including: Move to Modern DevOps, Move to AI, and Move to Containers. This workshop is part of a series, check the “Migration and Modernization Pathways – Lab 3” for other pathways and the "Migration and Modernization - Rehost and Tagging - Lab 1" for Application Migration Service and tagging.
+Amazon Bedrock
+Amazon Elastic Kubernetes Service (Amazon EKS)
+AWS CodePipeline
+English
+8 hours
+300 - Advanced
+AWS Control Tower Workshop
+Get started 
+This workshop takes you through how you can create an AWS Control Tower environment on AWS. AWS Control Tower is a secure multi-account environment built to AWS best practices.
+AWS Control Tower
+AWS Service Catalog
+AWS Organizations
+English, 日本語
+6 hours
+300 - Advanced
+Amazon MSK Replicator
+Get started 
+Amazon MSK Replicator is a feature of Amazon Managed Streaming for Apache Kafka (Amazon MSK) that enables customers to reliably replicate data across Amazon MSK clusters in same or different AWS regions, without writing code or managing infrastructure. Note: To support MSK Replicator for cross-region replication (CRR), select 2 different regions under Accessible regions while creating a event for this Amazon MSK Replicator workshop.
+Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+Analytics
+Migration & Transfer
+English
+2 hours
+400 - Expert
+Foundational Security, Identity, and Governance Workshop
+Get started 
+Hands-on AWS workshop covering foundational security, identity, and governance services. Learn to implement compliance monitoring, IAM controls, data encryption, threat detection, and network security through guided exercises. Designed for IT professionals, cloud engineers, and security analysts new to AWS security.
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+Aurora DSQL Workshop
+Get started 
+Amazon Aurora DSQL is a serverless distributed SQL database with virtually unlimited scale, the highest availability, and zero infrastructure management. In this workshop, we will dive deep into how DSQL works, how it is different from traditional relational databases, and how you can leverage its design and features to help grow your application.
+Amazon Aurora
+Databases
+English, 日本語, 한국어
+4 hours
+400 - Expert
+Dedicated Host and License Manager Workshop
+Get started 
+Learn to manage Microsoft Windows licenses on AWS using License Manager and Dedicated Hosts. This hands-on workshop covers automated host deployment, license tracking, CloudFormation integration, and tenancy conversion simplifying BYOL compliance and cost optimization. This Level 300 workshop takes approximately 3 hours and targets IT managers, DevOps teams, and system administrators who want to learn best practices for managing licensing on AWS.
+AWS License Manager
+Compute
+English
+3 hours
+300 - Advanced
+Babelfish App Modernization Workshop
+Get started 
+This is a 100% hands-on bootcamp to learn how to migrate Microsoft SQL Server-based applications to Amazon Aurora PostgreSQL using Babelfish. You will learn the Babelfish internal wiring & debugging techniques, and we will show you the avenues to Migrate away from Microsoft SQL Server. Our focus is on real world applications. We will migrate two complex real-world applications in this workshop.
+Amazon Aurora
+Amazon RDS for PostgreSQL
+Business Applications
+English, 한국어, français, português, 简体中文
+3 hours
+400 - Expert
+CFM TIPs Optimization Workshop
+Get started 
+This hands-on cost optimization workshop uses CFM TIPs playbooks to teach practical strategies for optimizing AWS infrastructure across EC2, RDS, S3, and EBS. Through interactive exercises and real-world scenarios, participants discover actionable techniques to right-size compute instances, optimize databases, implement intelligent storage tiering, and eliminate unused volumes.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon RDS for MySQL
+AWS CloudTrail
+English
+4 hours
+200 - Intermediate
+RDS MariaDB Workshop
+Get started 
+This workshop covers the essential concepts required to effectively set up and manage databases on Amazon RDS for MariaDB. Key sessions include high availability and disaster recovery (HA/DR), IAM authentication, RDS Proxy, and a deep dive into the MariaDB audit plugin. It also explores RDS Blue/Green Deployments and RDS Optimized Reads/Writes to enhance performance.
+Amazon RDS for MariaDB
+Databases
+English
+7 hours
+300 - Advanced
+Build Your First Graph Application with Amazon Neptune
+Get started 
+Learn everything you need to know to get started with graph databases on Amazon Neptune. This includes how to set up, configure, and manage a Neptune Database cluster according to operational best practices, how to write graph queries, and how to integrate Neptune Database into a full end-to-end solution with a user interface.
+Amazon Neptune
+Databases
+English
+3 hours
+200 - Intermediate
+Video Understanding with Generative AI on AWS
+Get started 
+Unlock the power of generative and agentic AI to transform video understanding on AWS. This hands-on workshop teaches developers to extract deep context from video using Amazon Bedrock Data Automation, Amazon Nova models, Bedrock AgentCore, and AWS AI services like Rekognition and Transcribe. Participants build scalable pipelines for media operations and live video scenarios, improving searchability, personalization, and ad placement through time-based and multi-modal metadata analysis.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Amazon Rekognition
+English, 日本語, 한국어
+8 hours
+400 - Expert
+CI/CD on AWS Workshop
+Get started 
+CI/CD workshop to offer prescriptive guidance on how to build automation pipelines for * Continuous Integration * Continuous Deployment * Continuous Delivery
+Amazon Elastic Container Service (Amazon ECS)
+AWS Cloud Development Kit (AWS CDK)
+AWS CodePipeline
+English, 日本語
+4 hours
+300 - Advanced
+Amazon EKS Auto Mode Workshop
+Get started 
+This workshop guides you through the features of EKS Auto Mode and how it simplifies application deployment into your Amazon EKS clusters. Participants will learn to enable EKS Auto Mode and deploy applications that use it's different capabilities. The workshop covers compute optimization, autoscaling, networking, storage, cluster upgrades, and workload migration. Upon completion participants will be able to effectively launch and manage Kubernetes applications on AWS using EKS Auto Mode.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Containers
+English, español, 繁體中文, 한국어, 日本語
+2 hours
+300 - Advanced
+Running Microsoft Workloads on AWS Workshop
+Get started 
+In this workshop, learn best practices and approaches for managing your Microsoft Windows-based infrastructure on AWS. In these sets of labs, we will introduce you to some AWS Services that will help you manage your windows workloads on AWS. The approximate duration of the workshop is 3-4 hours.
+Amazon CloudWatch
+AWS Systems Manager
+Builder Experience
+English
+4 hours
+300 - Advanced
+Active Directory on AWS workshop
+Get started 
+A guide to deploying Active Directory (AD) on AWS, set up hybrid solutions, and set up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered.
+Amazon CloudWatch Logs
+Amazon Route 53
+AWS Directory Service
+English
+4 hours
+300 - Advanced
+Amazon RDS for MySQL Workshop
+Get started 
+This workshop covers the essential concepts required to effectively set up and manage databases on Amazon RDS for MySQL. Key sessions include high availability and disaster recovery (HA/DR), RDS Proxy, and a deep dive into configuring an active-active cluster using MySQL Group Replication. It also explores the Amazon Athena Federated Query feature, enabling you to run SQL queries across data stored in RDS for MySQL as well as data lakes hosted on Amazon S3.
+Amazon RDS for MySQL
+Databases
+English
+8 hours
+300 - Advanced
+.NET on AWS workshop
+Get started 
+The purpose of this set of labs and exercises is to introduce you to tools and services that you can use to develop, build and deploy .NET applications on AWS.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Toolkit for Visual Studio
+AWS Tools and SDKs
+English
+8 hours
+300 - Advanced
+Amazon MWAA for Analytics Workshop
+Get started 
+[Current] In this workshop, you will learn to build and orchestrate data and ML pipelines that include many of the AWS Analytics and ML services, and with that you will gain familiarity and a better understanding of the hooks and operators available as part of Airflow to manage your pipelines/workflows on AWS. [Work in progress] Airflow 3 MWAA Workshop
+Amazon Managed Workflows for Apache Airflow
+Amazon SageMaker
+AWS Glue
+English
+2 hours
+300 - Advanced
+Cloud Intelligence Dashboards Discovery & Customizations Workshop
+Get started 
+This workshop teaches cost optimization tracking using KPIs and Cloud Intelligence Dashboards. Learn to define unit costs for EC2, EBS, and S3, measure optimization impact across compute and storage, and maximize AWS value while scaling your business
+Amazon Athena
+Amazon QuickSight
+AWS Cost and Usage Report
+English
+3 hours
+300 - Advanced
+AWS Partner CRM Integration (Consolidated)
+Get started 
+These workshops helps AWS Partners on APN to automate their co-sell operation by integrating their Customer Relationship Management environment with AWS Partner central and AWS marketplace services.
+AWS Management Console
+AWS Marketplace
+Builder Experience
+English
+3 hours
+300 - Advanced
+Kiro Express
+Get started 
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+English
+1 hours
+200 - Intermediate
+One Observability Workshop
+Get started 
+This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
+Amazon CloudWatch
+Amazon Managed Service for Prometheus (AMP)
+AWS X-Ray
+English, 한국어, 日本語
+3 hours
+300 - Advanced
+Data EDU Student Data Lake Workshop
+Get started 
+This workshop teaches how to use AWS services to construct a data lake consisting of multiple demo data sets related to students and then to use that data for analytical use cases.
+Amazon Athena
+Amazon QuickSight
+AWS Glue
+English, français, 日本語
+8 hours
+200 - Intermediate
+Research Computing Workshop
+Get started 
+This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+AWS DMS workshop for customers (AWS Database Migration service workshop)
+Get started 
+In this workshop, we will explore how you can migrate your data to and from the most widely used commercial and open-source databases as well as non-database sources & targets like Amazon S3, Kafka, etc using the AWS Database Migration Service (DMS) and AWS Schema Conversion(SC) with GenAI or classic SCT download tool. In 2025, we added java application embedded SQL conversion with Amazon Q. There is also advanced schema conversion for Oracle/SQL Server to PostgreSQL.
+Amazon Aurora
+Amazon Relational Database Service (Amazon RDS)
+AWS Database Migration Service
+English
+6 hours
+300 - Advanced
+AWS Local Zones Workshop: Run low-latency applications at the edge
+Get started 
+Welcome to AWS Local Zones Workshop! This hands-on AWS Local Zones Workshop is designed to give customers and partners practical experience with AWS Local Zones. In this workshop, join AWS experts in deploying an object detector application closer to your on premises location.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Virtual Private Cloud (Amazon VPC)
+AWS Local Zones
+English
+2 hours
+200 - Intermediate
+Agentic SecOps workflows with Amazon Bedrock - Security Automation
+Get started 
+This workshop is intended to help candidates mitigate Security at scale with agentic security workflow playbooks. this workflow contains agentic Incident response integrated with Amazon GuardDuty, IAM operations automation, Agentic Vulnerability management remediation workflow integrated with Amazon inspector, and Automated Posture violation remediation integration with aws security hub
+Amazon Bedrock
+Amazon Inspector
+AWS Security Hub
+English
+3 hours
+400 - Expert
+Amazon S3 Workshop
+Get started 
+Explore Amazon S3 best practices through hands-on labs covering security, data protection, performance optimization, serverless architectures, cost management, data migration, and storage features including S3 Glacier, S3 Tables, and Storage Lens.
+Amazon S3 Glacier
+Amazon Simple Storage Service (Amazon S3)
+Security, Identity, and Compliance
+English
+8 hours
+300 - Advanced
+Building embedded Linux devices with AWS IoT Greengrass nucleus lite
+Get started 
+AWS IoT Greengrass nucleus lite is an edge runtime that helps you build cloud-connected resource-constrained embedded Linux devices. In this workshop, you'll learn how to bake your embedded Linux distribution, flash and provision your devices at scale, perform OS image updates using A/B partitions, manage your device fleet and application updates, efficiently iterate and debug, and use Kiro CLI to accelerate your development process.
+AWS IoT Core
+AWS IoT Greengrass
+Kiro
+English
+6 hours
+400 - Expert
+Architecting GenAI Solutions for Intelligent Video Analysis
+Get started 
+This hands-on workshop teaches you how to evaluate and select optimal GenAI models for video analysis across different use cases. You'll explore a comprehensive framework comparing image understanding, video understanding, and video embedding models while learning to match solutions to specific requirements—from media, entertainment, gaming and sports content to enterprise training videos and advertising campaigns, from social media user-generated content to security camera surveillance systems.
+Amazon Bedrock
+Amazon Simple Storage Service (Amazon S3)
+AWS Lambda
+English, 한국어, 简体中文
+2 hours
+400 - Expert
+AWS Glue Workshop
+Get started 
+Learn AWS Glue through hands-on labs covering data cataloging, ETL development with Glue Studio, job bookmarks, orchestration with Step Functions and EventBridge, monitoring, data quality, and DataBrew. Designed for data engineers and analysts.
+AWS Glue
+Analytics
+English, 日本語, português
+8 hours
+200 - Intermediate
+Generative AI on EKS using NVIDIA GPU
+Get started 
+In this workshop, learn how to get started with Large Language Model (LLM) applications and inference on Amazon EKS. Discover how to deploy and manage production-grade LLM workloads. Through hands-on labs, you'll explore how to leverage Amazon EKS along with AWS services and open-source tools to create robust LLM solutions. The workshop environment provides all the necessary infrastructure and tools, allowing you to focus on learning and implementation.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Containers
+Generative AI
+English, português, 한국어, 日本語
+2 hours
+400 - Expert
+Amazon QuickSight - All aspects [QuickSight Workshops - Author, Admin, Q, Generative BI, Embedding]
+Get started 
+Collection of Workshops covering all aspects of QuickSight - Author, Admin, Q & embedding. Material spans level 100 to 400. Author Workshop - Step by step instructions to grow your dashboard building skills from basic to advanced level. Q Workshop - Learn more about QuickSight's Natural Language Query and GenBI capabilities. Admin Workshop - Dive deep into APIs to manage, secure and operationalize QuickSight environments. Embedding – Learn how to embed QuickSight for open & restricted access.
+Amazon QuickSight
+Analytics
+English
+4 hours
+100 - Foundational
+AWS Marketplace Workshop
+Get started 
+Introduction to the features and usage of AWS Marketplace
+AWS Marketplace
+English
+3 hours
+300 - Advanced
+Amazon ECS Workshop
+Get started 
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, 日本語, 한국어
+4 hours
+200 - Intermediate
+Amazon RDS for SQL Server Workshop
+Get started 
+The Amazon RDS for SQL Server Workshop is a hands-on lab experience for database administrators, developers, and cloud architects. Participants learn to provision and manage SQL Server on Amazon RDS, covering instance creation, high availability with Multi-AZ, backup and restore, security, compute and storage scaling, performance monitoring, and database upgrades. By the end, you'll have practical skills to confidently operate managed SQL Server databases in the cloud.
+Amazon RDS for SQL Server
+Databases
+English
+6 hours
+200 - Intermediate
+Amazon RDS for Oracle Workshop
+Get started 
+A deeper dive into the Amazon RDS for Oracle service, features and migration approach
+Amazon RDS for Oracle
+Amazon Relational Database Service (Amazon RDS)
+Databases
+English
+4 hours
+200 - Intermediate
+RetailGuard: Building Trust with Automated Content Analysis using Q Automate
+Get started 
+Build an intelligent retail website compliance workflow using Amazon Q Business Automate. In this hands-on workshop, you'll automate the entire content review pipeline from web content extraction and analysis to violation detection and case management. Create a workflow that screens content for objectionable material, categorizes violations by severity, and streamlines human review.
+Amazon Q
+Generative AI
+English
+3 hours
+200 - Intermediate
+SageMaker HyperPod EKS for AWS Hosted Events
+Get started 
+SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
+Amazon SageMaker
+Amazon FSx for Lustre
+Amazon Elastic Compute Cloud (Amazon EC2)
+English
+2 hours
+300 - Advanced
+IAM Core Workshop (Formerly: IAM Immersion Day)
+Get started 
+The IAM workshop provides a comprehensive introduction through advanced concepts with AWS Identity and Access Management (AWS IAM). The basic modules help learners get started with some basic concepts, such as users, roles, and policies. The advanced modules provide a much deeper dive into policies, role switching, ABAC, monitoring, and advanced permissions concepts.
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
+Automating Insurance Workflows with Amazon Quick Automate
+Get started 
+This workshop teaches business users how to build AI-powered automations with Amazon Quick Automate. Participants create an insurance claims (FNOL) workflow that uses Textract for document extraction, Bedrock for damage assessment, and browser automation to complete claim forms—no coding required.
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+200 - Intermediate
+AWS Networking Workshop
+Get started 
+This workshop covers the full spectrum of AWS Networking, from the basics of VPC and Subnets to the advanced configurations with Transit Gateway and VPN, including security and monitoring examples
+Amazon Virtual Private Cloud (Amazon VPC)
+AWS Site-to-Site VPN
+AWS Transit Gateway
+English, 한국어
+4 hours
+200 - Intermediate
+Getting Started with Strands Agents
+Get started 
+Getting started with Strands Agents and building 2 usecases using Strands Agents.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Amazon OpenSearch Service
+English, español, 日本語, 한국어, 简体中文
+2 hours
+300 - Advanced
+Amazon RDS for PostgreSQL Workshop
+Get started 
+The RDS PostgreSQL workshop provides customers with hands-on experience using Amazon RDS for PostgreSQL. It uses a modular content format including foundational, intermediate, and advanced labs covering a wide range of RDS features and PostgreSQL topics.
+Amazon RDS for PostgreSQL
+Databases
+English
+8 hours
+300 - Advanced
+Amazon EKS Security Workshop
+Get started 
+Hands-on workshop covering Amazon EKS security best practices. Lab modules include: Identity and Access Management (IRSA, Pod Identity, Access Entries), Pod Security Standards, Network Policies, Amazon GuardDuty for EKS, CloudTrail log analysis, VPC Lattice, mTLS with ALB, Fully Private Clusters, Bottlerocket security, CIS Benchmark compliance, Amazon ECR controls, Amazon Inspector CVE management, DevSecOps pipelines, container image signing with AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+AWS Security Hub
+English
+8 hours
+300 - Advanced
+Amazon RDS for Db2 Workshop
+Get started 
+A deeper dive into the Amazon RDS for Db2 service, exploring its key features, high availability, disaster recovery, automated backups, security, and monitoring capabilities. This session also covers a practical, step-by-step migration approach for Db2 workloads to AWS.
+Amazon Relational Database Service (Amazon RDS)
+Databases
+English
+6 hours
+300 - Advanced
+Timestream Data Lab Day
+Get started 
+Amazon Timestream for InfluxDB is a managed time-series database engine that makes it easy to run InfluxDB databases on AWS for time-series applications using open-source APIs. Labs covers on how to ingest, query and visualize data for both versions of InfluxDB, V3.x and previous version of V2.7.
+Amazon SageMaker
+Amazon Simple Storage Service (Amazon S3)
+Amazon Timestream
+English, 日本語, Deutsch
+5 hours
+300 - Advanced
+Amazon Redshift Hands-on Workshop
+Get started 
+This set of workshops provides a series of exercises which help users get started using the Redshift platform. It also helps demonstrate the many features built into the platform.
+Amazon Redshift
+Analytics
+Serverless
+English, 日本語, 한국어
+4 hours
+200 - Intermediate
+Amazon SageMaker AI Workshop
+Get started 
+Hands-on workshop covering the end-to-end ML lifecycle with Amazon SageMaker AI — from data preparation and model training to deployment, MLOps, and governance across nine guided labs.
+Amazon SageMaker Studio
+Amazon SageMaker
+Amazon SageMaker with MLflow
+English, 日本語
+8 hours
+300 - Advanced
+Building and Scaling Intelligent Document Processing workflows
+Get started 
+This workshop provides you a hands-on experience building Intelligent Document Processing (IDP) workflows using AWS Step Functions, AWS Lambda, and Amazon Bedrock. Learn to scale the solution from 1 to 1M documents.
+Amazon Bedrock
+AWS Lambda
+AWS Step Functions
+English
+2 hours
+300 - Advanced
+Introduction to AWS Backup
+Get started 
+Introduction to AWS Backup This workshop includes 6 labs that are designed to provide you an end-to-end hands-on experience to the AWS Backup fundamental concepts required to design and implement a secure and efficient data protection solution on AWS using AWS Backup. Each lab is independent of the others, and none of them are prerequisites for any of the others.
+AWS Backup
+Storage
+English
+6 hours
+200 - Intermediate
+Amazon DynamoDB Workshop
+Get started 
+The Amazon DynamoDB workshop provides hands-on training for developers. It covers basic table operations and advanced NoSQL data modeling like single-table design. You will learn to manage relationships using primary keys and secondary indexes. The workshop shows how to build multi-region apps with Global Tables and use event-driven patterns with DynamoDB Streams and Lambda. It includes labs for high-scale gaming data and focuses on performance and cost optimization.
+Amazon DynamoDB
+AWS Lambda
+Databases
+English
+4 hours
+300 - Advanced
+Getting Started with DCV
+Get started 
+A 300-level workshop for VDI administrators on architecting solutions with Amazon DCV. Covers core components, streaming methods, authentication, permissions, and reference architectures for AWS and on-premises deployments. For workloads needing flexibility beyond managed AWS EUC services.
+NICE DCV
+Business Applications
+Compute
+English
+4 hours
+300 - Advanced
+Real-Time Streaming with Amazon MSK
+Get started 
+Master real-time data streaming with Amazon MSK through hands-on labs. Learn to provision and scale MSK clusters, implement monitoring with CloudWatch and Prometheus, configure security and encryption, integrate with AWS Lambda and Apache Flink, and migrate from self-managed Kafka. Build production-ready streaming pipelines using MSK Express Brokers for enhanced performance. Ideal for data engineers building real-time applications.
+Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+Analytics
+English
+4 hours
+400 - Expert
+Threat Detection and Response Workshop
+Get started 
+This workshop is designed to get you familiar with the AWS threat detection and response services, best practices, use cases, and then use what you learn to dive deeper into scenarios. All of this is designed to prepare you and help you operate more securely on AWS. This workshop goes though overviews and operationalization of Amazon GuardDuty and Amazon Detective.
+Amazon Detective
+Amazon GuardDuty
+Security, Identity, and Compliance
+English
+4 hours
+300 - Advanced
+AWS CloudFormation Workshop
+Get started 
+AWS CloudFormation Workshop covering levels 100 through 400. Learn to create, manage, and deploy infrastructure as code on AWS using CloudFormation templates, stacks, changesets, and best practices for real-world cloud environments.
+AWS CloudFormation
+Management & Governance
+English, 日本語
+8 hours
+100 - Foundational
+Amazon Aurora PostgreSQL Workshop
+Get started 
+A curated set of hands-on workshop labs designed to enhance your understanding of Amazon Aurora PostgreSQL features and advanced capabilities.
+Amazon Aurora
+Databases
+English
+8 hours
+400 - Expert
+Karpenter Workshop
+Get started 
+Explore using Karpenter with Amazon EKS to express workload requirements, and observe Karpenter automatically provisioning and consolidating EC2 instances. Through a series of hands-on labs, participants will explore advanced topics including instance type selection, spot interruption handling, bin-packing and consolidation policies, and cost optimization strategies.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Compute
+Containers
+English, 日本語
+4 hours
+400 - Expert
+Aurora MySQL Deep Dive Workshop
+Get started 
+This workshop covers all essential concepts required to appropriately set up your databases on Aurora MySQL. Some of the important sessions include testing Aurora Failovers, RDS Proxy, Deep dive into Aurora monitoring and setting up disaster recovery with Aurora Global Databases. This workshop was previously named Aurora MySQL Immersion Day.
+Amazon Aurora
+AWS Lambda
+Databases
+English, 한국어, 日本語
+4 hours
+300 - Advanced
+GenAI/ML Standardization with SageMaker AI
+Get started 
+Build a standardized ML environment on Amazon SageMaker AI covering security controls, MLOps pipelines, CI/CD automation, experiment tracking, deployment and observability.
+Amazon CloudWatch
+Amazon SageMaker Studio
+Amazon SageMaker
+English
+2 hours
+300 - Advanced
+Amazon Cognito Workshop
+Get started 
+This workshop provides a deep dive into Amazon Cognito and Customer Identity and Access Management (CIAM). Participants will create a Cognito User Pool from scratch, integrate a custom application, setup custom authentication and authorization flows, learn how to migrate to Cognito (with a password migration), enable core security features, and provide observability into Cognito (and user) operations.
+Amazon Cognito
+Security, Identity, and Compliance
+English
+6 hours
+300 - Advanced
+Getting Started with AWS Outposts Servers
+Get started 
+Learn how to deploy and operate AWS Outposts Servers through a hands-on workshop model. This session blends guided instruction with practical labs, giving you real experience extending AWS infrastructure and services to on-premises environments.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Virtual Private Cloud (Amazon VPC)
+AWS Outposts
+English
+1 hours
+200 - Intermediate
+Java on AWS - Containers
+Get started 
+Explore modern Java on AWS containers: deploy to Amazon EKS Auto Mode and ECS Express Mode for simplified operations. Achieve faster startup times using Java 25 AOT cache, CRaC checkpoint/restore, and Class Data Sharing. Build optimized images with Jib and lazy-load with SOCI. Run on AWS Graviton for up to 40% better price-performance. Leverage Amazon Bedrock to automatically analyze JVM thread dumps and async-profiler flamegraphs, generating AI-powered optimization insights.
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+4 hours
+300 - Advanced
+SQL Server on AWS Workshop
+Get started 
+Learn how to migrate your SQL workloads to AWS, running on EC2 or managed environments. You will also learn about best practices for storage solutions for your SQL workloads on AWS, and modernizing your SQL server toward Amazon Aurora.
+Amazon RDS for SQL Server
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Aurora
+English
+2 hours
+300 - Advanced
+AWS Managed Services (AMS) - Self paced labs
+Get started 
+AWS Managed Services - Immersion trainings and labs
+AWS Managed Services
+Management & Governance
+English
+8 hours
+200 - Intermediate
+GenAIOps Obervability and Evaluations with Langfuse
+Get started 
+Discover how to effectively implement generative AI in your business operations using Amazon Bedrock with Langfuse on AWS. While many organizations are enthusiastic about large language models (LLMs), successful integration into daily operations requires strategic planning and proper implementation.
+Amazon Bedrock
+Amazon SageMaker Studio
+Generative AI
+English, 日本語, 한국어, 简体中文
+3 hours
+300 - Advanced
+Gen AI Use Cases leveraging Amazon Q Business and Connectors
+Get started 
+This workshop focuses on showcasing customer use cases based on different data source connectors.
+Amazon Kendra
+Amazon Q
+Business Applications
+English
+8 hours
+300 - Advanced
+Amazon DocumentDB (with MongoDB compatibility) workshop
+Get started 
+Amazon DocumentDB workshop is a on demand set of hands-on labs categorized as independent self-service modules.You can select either one or a set of modules, as needed and complete them at your own pace
+Amazon DocumentDB (with MongoDB compatibility)
+Databases
+English
+6 hours
+300 - Advanced
 Amazon Connect AI Agents
 Get started 
 Build action-oriented customer experiences with Amazon Connect AI Agents. Configure Orchestration AI Agents that invoke tools via MCP to automate interactions. Two tracks: Self-Service (voice/chat automation with escalation) and Agent Assistance (real-time recommendations, note-taking). Covers knowledge bases, AgentCore Gateway, contact flows, Cases AI, Customer Profiles, and Email AI capabilities.
@@ -33,15 +701,6 @@ Migration & Transfer
 English, 한국어
 4 hours
 400 - Expert
-AWS Local Zones Immersion Day - Run low-latency applications at the edge
-Get started 
-Welcome to AWS Local Zones Immersion Day! AWS Local Zones Immersion Day helps customers and partners by providing hands-on experience, allowing attendees to get familiar with the service. The Immersion Day provides opportunities to try out features such as networking and security, automation, and hybrid architecture. In this workshop, join AWS experts in deploying an object detector application closer to your on premises location.
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Virtual Private Cloud (Amazon VPC)
-Compute
-English
-2 hours
-200 - Intermediate
 Kinesis Data Streams Workshop
 Get started 
 The Kinesis Data Streams workshop will guide you through interacting with your Kinesis Data Streams in many different ways--Create a Kinesis Data Stream, write to it in various ways and read from it in various ways as well to fulfill virtually any real-time streaming needs for your business.
@@ -68,42 +727,6 @@ Builder Experience
 English, 日本語
 8 hours
 200 - Intermediate
-AWS Partner CRM Integration (Consolidated)
-Get started 
-These workshops helps AWS Partners on APN to automate their co-sell operation by integrating their Customer Relationship Management environment with AWS Partner central and AWS marketplace services.
-AWS Management Console
-AWS Marketplace
-Builder Experience
-English
-3 hours
-300 - Advanced
-Generative AI on EKS using NVIDIA GPU
-Get started 
-In this workshop, learn how to get started with Large Language Model (LLM) applications and inference on Amazon EKS. Discover how to deploy and manage production-grade LLM workloads. Through hands-on labs, you'll explore how to leverage Amazon EKS along with AWS services and open-source tools to create robust LLM solutions. The workshop environment provides all the necessary infrastructure and tools, allowing you to focus on learning and implementation.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Containers
-Generative AI
-English, português, 한국어, 日本語
-2 hours
-400 - Expert
-CI/CD on AWS Workshop
-Get started 
-CI/CD workshop to offer prescriptive guidance on how to build automation pipelines for * Continuous Integration * Continuous Deployment * Continuous Delivery
-Amazon Elastic Container Service (Amazon ECS)
-AWS Cloud Development Kit (AWS CDK)
-AWS CodePipeline
-English, 日本語
-4 hours
-300 - Advanced
-Migration and Modernization Pathways - Immersion Day 3
-Get started 
-The Migration and Modernization Pathways – Immersion Day 3 is designed for technical audiences exploring the different pathways, including: Move to Managed Databases, Move to Modern Analytics, and Move to Open Source. This workshop is part of a series, check the “Migration and Modernization Pathways – Immersion Day 2” for other pathways and the "Migration and Modernization - Rehost and Tagging - Immersion Day 1" for Application Migration Service and tagging.
-Amazon Redshift
-Amazon Relational Database Service (Amazon RDS)
-AWS Database Migration Service
-English, 한국어
-8 hours
-300 - Advanced
 Serverless Model Customization with Amazon SageMaker AI
 Get started 
 This workshop provides hands-on experience with serverless model customization on Amazon SageMaker AI. Attendees will learn to prepare datasets, run serverless fine-tuning with LoRA across SFT, DPO, RLVR, and RLAIF, deploy fine-tuned models, and evaluate them using LLM-as-a-Judge.
@@ -112,15 +735,6 @@ Machine Learning (ML/AI)
 English
 4 hours
 300 - Advanced
-Building embedded Linux devices with AWS IoT Greengrass nucleus lite
-Get started 
-AWS IoT Greengrass nucleus lite is an edge runtime that helps you build cloud-connected resource-constrained embedded Linux devices. In this workshop, you'll learn how to bake your embedded Linux distribution, flash and provision your devices at scale, perform OS image updates using A/B partitions, manage your device fleet and application updates, efficiently iterate and debug, and use Kiro CLI to accelerate your development process.
-AWS IoT Core
-AWS IoT Greengrass
-Kiro
-English
-6 hours
-400 - Expert
 Getting started with Amazon Connect
 Get started 
 In this series of labs, we’ll build cloud based contact center using AWS Amazon Connect service and explore integration with other AWS services such as Amazon DynamoDB, Amazon Lex and AWS Lambda to build modern and robust contact center.
@@ -155,15 +769,6 @@ Generative AI
 English
 2 hours
 300 - Advanced
-Getting Started with Strands Agents
-Get started 
-Getting started with Strands Agents and building 2 usecases using Strands Agents.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Amazon OpenSearch Service
-English, español, 日本語, 한국어, 简体中文
-2 hours
-300 - Advanced
 RAG workshop using Amazon Bedrock Knowledge Bases
 Get started 
 RAG workshop using Amazon Bedrock. This workshop will focus on various design patterns including standard RAG concepts, advance RAG concepts and observability.
@@ -181,15 +786,6 @@ Machine Learning (ML/AI)
 English, español, 한국어
 1 hours
 300 - Advanced
-Architecting GenAI Solutions for Intelligent Video Analysis
-Get started 
-This hands-on workshop teaches you how to evaluate and select optimal GenAI models for video analysis across different use cases. You'll explore a comprehensive framework comparing image understanding, video understanding, and video embedding models while learning to match solutions to specific requirements—from media, entertainment, gaming and sports content to enterprise training videos and advertising campaigns, from social media user-generated content to security camera surveillance systems.
-Amazon Bedrock
-Amazon Simple Storage Service (Amazon S3)
-AWS Lambda
-English, 한국어, 简体中文
-2 hours
-400 - Expert
 Nova 2 Sonic workshop - including RAG, Strands Agents, AgentCore multi-agent
 Get started 
 This workshop covers new Sonic 2 features (new languages, multilingual support, async tool calling, turn-taking config). It helps builders, engineers, and tech leaders learn Nova Sonic via a customized UI with minimal coding. It includes two labs: Intro to key concepts & capabilities Explore RAG & agentic workflows (Strands, MCP, Bedrock Agents, AgentCore) in a multi-agent architecture
@@ -216,14 +812,6 @@ Amazon SageMaker
 English
 3 hours
 300 - Advanced
-Kiro Express
-Get started 
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
-English
-1 hours
-200 - Intermediate
 Agentic AI-Powered anomaly detection: Spotting anomalies in real-time
 Get started 
 This hands-on workshop demonstrates how to implement real-time data processing using AWS data streaming services, combining Apache Kafka (MSK), Apache Flink (MSF), and Amazon Bedrock for Agentic AI integration.
@@ -286,15 +874,6 @@ Builder Experience
 English, 한국어
 1 hours
 400 - Expert
-Spec-Driven Development with Kiro
-Get started 
-Get introduced to Kiro and the exciting new world of Spec-Driven Development available in Kiro. Participants will get to walk through the download and installation process, configuring context and steering documents, building an application with spec-driven development, and configuring agent hooks.
-Kiro
-Builder Experience
-Generative AI
-English, 日本語
-2 hours
-200 - Intermediate
 AI-DLC Workshop
 Get started 
 The AI-DLC workshop is a 2-day program transforming teams to AI-native development through four stages: Align: Work with executives to finalize use cases, identify cross-functional champion teams, and set up Amazon Q Developer.
@@ -303,12 +882,6 @@ Amazon Q Developer
 Kiro
 English, español
 4 hours
-300 - Advanced
-SQL Server on AWS Workshop
-Get started 
-Learn how to migrate your SQL workloads to AWS, running on EC2 or managed environments. You will also learn about best practices for storage solutions for your SQL workloads on AWS, and modernizing your SQL server toward Amazon Aurora.
-English
-2 hours
 300 - Advanced
 Amazon SageMaker MLOps - from idea to production
 Get started 
@@ -328,37 +901,12 @@ Compute
 English, 한국어, 简体中文, 日本語, العربية
 1 hours
 200 - Intermediate
-AWS Glue Immersion day
-Get started 
-This is for Glue Immersion day
-AWS Glue
-Analytics
-English, 日本語, português
-8 hours
-200 - Intermediate
 Appsync Workshop
 Get started 
 The AWS AppSync workshop provides an introduction to implementing serverless GraphQl APIs connected to multiple data sources with AppSync (a managed GraphQl service on AWS)
 Amazon DynamoDB
 AWS AppSync
 AWS Lambda
-English
-2 hours
-300 - Advanced
-Amazon RDS for SQL Server Workshop
-Get started 
-A deep dive into the Amazon RDS for SQL Server service and features
-Amazon RDS for SQL Server
-Databases
-English
-6 hours
-200 - Intermediate
-Amazon MWAA for Analytics Workshop
-Get started 
-[Current] In this workshop, you will learn to build and orchestrate data and ML pipelines that include many of the AWS Analytics and ML services, and with that you will gain familiarity and a better understanding of the hooks and operators available as part of Airflow to manage your pipelines/workflows on AWS. [Work in progress] Airflow 3 MWAA Workshop
-Amazon Managed Workflows for Apache Airflow
-Amazon SageMaker
-AWS Glue
 English
 2 hours
 300 - Advanced
@@ -370,42 +918,6 @@ Amazon Athena
 Amazon CloudWatch
 English
 2 hours
-300 - Advanced
-Building with Amazon Bedrock
-Get started 
-Now featuring Strands SDK, Amazon Bedrock AgentCore, and Anthropic Claude 4.5 models! Workshop participants build simple generative AI demo applications while learning key concepts. There are non-technical options with PartyRock and the Amazon Bedrock Playground. Labs include prompt engineering, security and guardrails, chatbots, retrieval-augmented generation (RAG), image generation & editing, multimodal, and Streamlit.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Generative AI
-English
-4 hours
-200 - Intermediate
-AWS DMS workshop for immersion days(AWS database migration workshop)
-Get started 
-In this workshop, we will explore how you can migrate your data to and from the most widely used commercial and open-source databases as well as non-database sources & targets like Amazon S3, Kafka, etc using the AWS Database Migration Service (DMS) and AWS Schema Conversion(SC) with GenAI or classic SCT download tool. In 2025, we added java application embedded SQL conversion with Amazon Q. There is also advanced schema conversion for Oracle/SQL Server to PostgreSQL.
-Amazon Aurora
-Amazon Relational Database Service (Amazon RDS)
-AWS Database Migration Service
-English
-6 hours
-300 - Advanced
-Agentic SecOps workflows with Amazon Bedrock - Security Automation
-Get started 
-This workshop is intended to help candidates mitigate Security at scale with agentic security workflow playbooks. this workflow contains agentic Incident response integrated with Amazon GuardDuty, IAM operations automation, Agentic Vulnerability management remediation workflow integrated with Amazon inspector, and Automated Posture violation remediation integration with aws security hub
-Amazon Bedrock
-Amazon Inspector
-AWS Security Hub
-English
-3 hours
-400 - Expert
-One Observability Workshop
-Get started 
-This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
-Amazon CloudWatch
-Amazon Managed Service for Prometheus (AMP)
-AWS X-Ray
-English, 한국어, 日本語
-3 hours
 300 - Advanced
 AWS Payments Security
 Get started 
@@ -443,41 +955,6 @@ Agriculture
 English, 日本語, español, português, 简体中文, 한국어, Deutsch, italiano, français
 4 hours
 200 - Intermediate
-Amazon SageMaker AI Immersion Day
-Get started 
-Amazon SageMaker AI Immersion Day
-Amazon SageMaker Studio
-Amazon SageMaker
-Machine Learning (ML/AI)
-English, 日本語
-8 hours
-300 - Advanced
-AWS Marketplace Seller Workshop
-Get started 
-AWS Marketplace Seller Workshop
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-AWS Marketplace
-English, 한국어
-8 hours
-300 - Advanced
-RDS MariaDB Immersion Day Labs
-Get started 
-MariaDB Immersion Day Labs
-Amazon RDS for MariaDB
-Databases
-English
-7 hours
-300 - Advanced
-Foundational Security, Identity, and Governance Workshop
-Get started 
-This workshop supports the Foundational Security, Identity and Governance Immersion Day
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
-100 - Foundational
 Getting Started With Multicloud on AWS
 Get started 
 A hands-on level 300 workshop helping AWS customers manage and govern multicloud environments. Addresses operational challenges from M&A, leveraging differentiated CSP capabilities, or managing portfolio companies. Covers centralized operations, observability, security, compliance, authorization, and networking across multiple Cloud Service Providers using AWS services.
@@ -486,40 +963,6 @@ AWS IAM Identity Center
 AWS Systems Manager
 English
 4 hours
-200 - Intermediate
-Migration and Modernization Pathways – Immersion Day 2
-Get started 
-The Migration and Modernization Pathways – Immersion Day 2 is designed for technical audiences exploring the different pathways, including: Move to Modern DevOps, Move to AI, and Move to Containers. This workshop is part of a series, check the “Migration and Modernization Pathways – Immersion Day 3” for other pathways and the "Migration and Modernization - Rehost and Tagging - Immersion Day 1" for Application Migration Service and tagging.
-Amazon Bedrock
-Amazon Elastic Kubernetes Service (Amazon EKS)
-AWS CodePipeline
-English
-8 hours
-300 - Advanced
-GenAI/ML Standardization with SageMaker AI
-Get started 
-GenAI/ML Standardization with SageMaker AI
-Amazon SageMaker
-Generative AI
-Machine Learning (ML/AI)
-English
-2 hours
-300 - Advanced
-Automating Insurance Workflows with Amazon Quick Automate
-Get started 
-Automating Insurance Workflows with Amazon Quick Automate
-Amazon Q
-Generative AI
-English
-4 hours
-200 - Intermediate
-RetailGuard: Building Trust with Automated Content Analysis using Q Automate
-Get started 
-Creating Automated Retail Website Content Analysis using Amazon Q Automate
-Amazon Q
-Generative AI
-English
-3 hours
 200 - Intermediate
 A Complete Guide to Amazon Quick Suite: The Unified AI-Powered Business Workspace
 Get started 
@@ -536,15 +979,6 @@ This immersive, hands-on workshop is designed to equip developers with the skill
 Amazon Q
 Generative AI
 Modernization
-English
-2 hours
-300 - Advanced
-SageMaker HyperPod EKS for AWS Hosted Events
-Get started 
-SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
-Amazon SageMaker
-Amazon FSx for Lustre
-Amazon Elastic Compute Cloud (Amazon EC2)
 English
 2 hours
 300 - Advanced
@@ -565,15 +999,6 @@ Machine Learning (ML/AI)
 English
 2 hours
 300 - Advanced
-GenAIOps Obervability and Evaluations with Langfuse
-Get started 
-Discover how to effectively implement generative AI in your business operations using Amazon Bedrock with Langfuse on AWS. While many organizations are enthusiastic about large language models (LLMs), successful integration into daily operations requires strategic planning and proper implementation.
-Amazon Bedrock
-Amazon SageMaker Studio
-Generative AI
-English, 日本語, 한국어, 简体中文
-3 hours
-300 - Advanced
 Deploy large Generative AI models with high performance and scale using SageMaker AI
 Get started 
 This workshop provides 400 level guidance and best practices in deploying ML and FM models to Amazon SageMaker AI.
@@ -583,15 +1008,6 @@ Machine Learning (ML/AI)
 English
 8 hours
 400 - Expert
-Gen AI Use Cases leveraging Amazon Q Business and Connectors
-Get started 
-This workshop focuses on showcasing customer use cases based on different data source connectors.
-Amazon Kendra
-Amazon Q
-Business Applications
-English
-8 hours
-300 - Advanced
 Diving Deep into Bedrock AgentCore (Official Workshop)
 Get started 
 Comprehensive deep-dive into Amazon Bedrock AgentCore. This workshop consists of tutorials to give you a deep understanding of AgentCore Services. All the labs are independent, so you can pick-and-choose the Services you want a deeper dive into.
@@ -609,15 +1025,6 @@ Analytics
 English
 2 hours
 200 - Intermediate
-AWS Control Tower Workshop
-Get started 
-AWS Control Tower Workshop Studio
-AWS Control Tower
-AWS Service Catalog
-Management & Governance
-English, 日本語
-6 hours
-300 - Advanced
 Lift-and-Shift Migration of Microsoft Workloads using AWS Application Migration Service (MGN)
 Get started 
 The Microsoft Workloads Migration guides customers through the process of Lift-and-shift migrating their Microsoft workloads to AWS.
@@ -627,14 +1034,6 @@ AWS Application Migration Service
 English
 4 hours
 300 - Advanced
-AWS Backup ImmersionDay
-Get started 
-AWS Backup ImmersionDay Workshop This workshop includes 6 labs that are designed to provide you an end-to-end hands-on experience to the AWS Backup fundamental concepts required to design and implement a secure and efficient data protection solution on AWS using AWS Backup. Each lab is independent of the others, and none of them are prerequisites for any of the others.
-AWS Backup
-Storage
-English
-6 hours
-200 - Intermediate
 Serverless Patterns
 Get started 
 In this workshop, you will learn serverless best practices by building production-ready code for an application.
@@ -653,22 +1052,6 @@ Amazon Verified Permissions
 English
 4 hours
 300 - Advanced
-Amazon Aurora PostgreSQL Immersion Day
-Get started 
-A curated set of hands-on workshop labs designed to enhance your understanding of Amazon Aurora PostgreSQL features and advanced capabilities.
-Amazon Aurora
-Databases
-English
-8 hours
-400 - Expert
-IAM Immersion Day
-Get started 
-100-400 level content for IAM
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
 AWS Analytics Experience for FSI Insurance with SageMaker Next Gen
 Get started 
 Experience how the next generation of SageMaker and AWS analytics services come together to drive data insights across your insurance organization. In this workshop, you choose from 4 personas and follow their data journey though discovery, preparation, insights, and communication. This workshop opens with SageMaker Unified Studio deployed alongside InsuranceLake. Workshop users will use the AWS Console to start the experience and complete the journey in SageMaker Unified Studio and Quick Suite.
@@ -723,14 +1106,6 @@ AWS Glue
 English, português, 简体中文, 日本語, 한국어
 5 hours
 400 - Expert
-Amazon Data Firehose Immersion Day
-Get started 
-An Amazon Data Firehose Immersion Day provides our customers with hands-on experience to capture, transform, and deliver streaming data into data lakes, data stores, and analytics services using Amazon Data Firehose.
-Amazon Kinesis Data Firehose
-Analytics
-English
-4 hours
-300 - Advanced
 Amazon MSK Connect
 Get started 
 Amazon MSK Connect lab is a Lab designed to gain hands-on experience with running popular open-source connectors on a serverless infrastructure, created and managed by Amazon MSK Connect. Learn how to replicate data for synchronization use-cases and more through data streams managed by Amazon MSK.
@@ -757,56 +1132,6 @@ Networking & Content Delivery
 English, 简体中文, 日本語, 한국어, português
 2 hours
 200 - Intermediate
-Aurora MySQL Immersion Day
-Get started 
-Aurora MySQL Immersion Day
-Amazon Aurora
-AWS Lambda
-Databases
-English, 한국어, 日本語
-4 hours
-300 - Advanced
-Amazon ECS Immersion Day
-Get started 
-An ECS Workshop ImmersionDay provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
-Amazon Elastic Container Service (Amazon ECS)
-AWS Fargate
-AWS Auto Scaling
-English, 日本語, 한국어
-4 hours
-200 - Intermediate
-Threat Detection and Response Workshop
-Get started 
-This workshop is designed to get you familiar with the AWS threat detection and response services, best practices, use cases, and then use what you learn to dive deeper into scenarios. All of this is designed to prepare you and help you operate more securely on AWS. This workshop goes though overviews and operationalization of Amazon GuardDuty and Amazon Detective.
-Amazon Detective
-Amazon GuardDuty
-Security, Identity, and Compliance
-English
-4 hours
-300 - Advanced
-Amazon QuickSight - All aspects [QuickSight Workshops - Author, Admin, Q, Generative BI, Embedding]
-Get started 
-Collection of Workshops covering all aspects of QuickSight - Author, Admin, Q & embedding. Material spans level 100 to 400. Author Workshop - Step by step instructions to grow your dashboard building skills from basic to advanced level. Q Workshop - Learn more about QuickSight's Natural Language Query and GenBI capabilities. Admin Workshop - Dive deep into APIs to manage, secure and operationalize QuickSight environments. Embedding – Learn how to embed QuickSight for open & restricted access.
-Amazon QuickSight
-Analytics
-English
-4 hours
-100 - Foundational
-AWS Marketplace Workshop
-Get started 
-Introduction to the features and usage of AWS Marketplace
-AWS Marketplace
-English
-3 hours
-300 - Advanced
-Amazon RDS for PostgreSQL - Immersion Day
-Get started 
-The RDS PostgreSQL workshop provides customers with hands-on experience using Amazon RDS for PostgreSQL. It uses a modular content format including foundational, intermediate, and advanced labs covering a wide range of RDS features and PostgreSQL topics.
-Amazon RDS for PostgreSQL
-Databases
-English
-8 hours
-300 - Advanced
 How to run an AWS Well-Architected Framework Review
 Get started 
 There are three phases to running a successful and efficient Well-Architected Framework Review (WAFR): Prepare, Review, Improve. This workshop will step through the three phases ensuring you have sufficient preparation in place to get the most value from the review phase, and will guide you into turning the findings into actionable improvements for the workload.
@@ -824,24 +1149,6 @@ Builder Experience
 English, 한국어, 日本語
 4 hours
 300 - Advanced
-Amazon RDS for Oracle Immersion Day
-Get started 
-A deeper dive into the Amazon RDS for Oracle service, features and migration approach
-Amazon RDS for Oracle
-Amazon Relational Database Service (Amazon RDS)
-Databases
-English
-4 hours
-200 - Intermediate
-Redshift Immersion Day
-Get started 
-This set of workshops provides a series of exercises which help users get started using the Redshift platform. It also helps demonstrate the many features built into the platform.
-Amazon Redshift
-Analytics
-Serverless
-English, 日本語, 한국어
-4 hours
-200 - Intermediate
 Building Modern Resilient Applications using Amazon EKS and Amazon EFS
 Get started 
 A highly available application deployed in a multi-AZ active active deployment that has a DR region with hot standby resources where if there is a failure in primary region, you can easily cut-over to secondary region while keeping your application available.
@@ -904,33 +1211,6 @@ Security, Identity, and Compliance
 English, 한국어
 2 hours
 300 - Advanced
-Java on AWS Immersion Day - Containers
-Get started 
-Explore modern Java on AWS containers: deploy to Amazon EKS Auto Mode and ECS Express Mode for simplified operations. Achieve faster startup times using Java 25 AOT cache, CRaC checkpoint/restore, and Class Data Sharing. Build optimized images with Jib and lazy-load with SOCI. Run on AWS Graviton for up to 40% better price-performance. Leverage Amazon Bedrock to automatically analyze JVM thread dumps and async-profiler flamegraphs, generating AI-powered optimization insights.
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon Elastic Container Registry (Amazon ECR)
-English
-4 hours
-300 - Advanced
-.NET Immersion Day
-Get started 
-Contains labs related to .NET track of Microsoft on AWS Immersion Day. New topics for using AI were added.
-Amazon Elastic Container Service (Amazon ECS)
-AWS Toolkit for Visual Studio
-AWS Tools and SDKs
-English
-8 hours
-300 - Advanced
-Automate Cloud Operations with AI agents
-Get started 
-Join this technical workshop to build automated cloud operations solutions using AI agents. Get hands-on experience implementing Amazon CloudWatch Investigations and Amazon Bedrock Agents for streamlined debugging and intelligent analysis. Practice using synthetic monitoring and traffic analysis tools while working through real-world operational scenarios. Learn to reduce incident resolution times through practical exercises.
-Amazon Bedrock
-Amazon CloudWatch
-Amazon Q
-English
-2 hours
-400 - Expert
 AWS Cost and Usage Report (CUR) Query Library
 Get started 
 The AWS CUR Query Library (CQL) is a collection of curated SQL queries to get you started with analyzing your Cost and Usage Report (CUR) data. Cost analysis is unique to each business and these queries are intended to be modified to suit your specific needs. The library will be updated periodically as we build new queries and receive feedback from customers.
@@ -939,14 +1219,6 @@ AWS Cost Management
 English
 2 hours
 300 - Advanced
-AWS Managed Services (AMS) - Self paced labs
-Get started 
-AWS Managed Services - Immersion trainings and labs
-AWS Managed Services
-Management & Governance
-English
-8 hours
-200 - Intermediate
 AWS Service Catalog Workshop
 Get started 
 In this workshop, you will learn how to use AWS Service Catalog to build and develop your workloads and standardized patterns on AWS.
@@ -965,15 +1237,6 @@ AWS Systems Manager
 English, 日本語
 5 hours
 200 - Intermediate
-CFM TIPs - Immersion Day
-Get started 
-CFM TIPs - Immersion Day
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon RDS for MySQL
-AWS CloudTrail
-English
-4 hours
-200 - Intermediate
 Cloud Compliance and Assurance in AWS
 Get started 
 In this hands-on workshop, learn how to assess and manage compliance and security drift in the cloud. Explore how to map the three lines of defense to automated compliance management, continuous oversight, continuous assessment, and automated evidence gathering and reporting. Also, receive guidance on how to break down silos between business owners, operations, security, compliance, and audit teams using services related to cloud compliance and assurance.
@@ -982,15 +1245,6 @@ AWS Systems Manager
 Management & Governance
 English
 2 hours
-300 - Advanced
-Cloud Intelligence Dashboards Discovery & Customizations - Immersion Day
-Get started 
-Cloud Intelligence Dashboards Discovery & Customizations - Immersion Day Workshop
-Amazon Athena
-Amazon QuickSight
-AWS Cost and Usage Report
-English
-3 hours
 300 - Advanced
 Exploring Multi-tenant Cost Allocation for Container Workloads
 Get started 
@@ -1036,14 +1290,6 @@ Amazon CloudWatch Logs
 Amazon CloudWatch Events
 English
 2 hours
-300 - Advanced
-Amazon Cognito Workshop
-Get started 
-Deep dive into Cognito
-Amazon Cognito
-Security, Identity, and Compliance
-English
-6 hours
 300 - Advanced
 Data Perimeter Workshop
 Get started 
@@ -1095,15 +1341,6 @@ Get started
 This workshop provides a hands-on experience for implementing agentic AI patterns using Amazon Bedrock, Step Functions, and Lambda. Learn about different ways to implement agentic AI, compare and contrast the approaches and choose the one for your use case
 AWS Lambda
 Amazon Bedrock
-AWS Step Functions
-English
-2 hours
-300 - Advanced
-Building and Scaling Intelligent Document Processing workflows
-Get started 
-This workshop provides you a hands-on experience building Intelligent Document Processing (IDP) workflows using AWS Step Functions, AWS Lambda, and Amazon Bedrock. Learn to scale the solution from 1 to 1M documents. Last Updated on Dec-19th.
-Amazon Bedrock
-AWS Lambda
 AWS Step Functions
 English
 2 hours
@@ -1171,14 +1408,6 @@ AWS AppSync
 English, 日本語
 2 hours
 200 - Intermediate
-AWS CloudFormation Workshop
-Get started 
-AWS CloudFormation Workshop - Level 100 - 400
-AWS CloudFormation
-Management & Governance
-English, 日本語
-8 hours
-100 - Foundational
 Automating your workload deployments in AWS Local Zones
 Get started 
 Workshop to be run as part of the Local Zone Immersion Days.
@@ -1206,15 +1435,6 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 300 - Advanced
-Getting Started with AWS Outposts Servers
-Get started 
-Getting Started with AWS Outposts Servers
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Virtual Private Cloud (Amazon VPC)
-AWS Outposts
-English
-1 hours
-200 - Intermediate
 Facies Classification with Well Logs
 Get started 
 In this workshop, we will utilize machine learning to classify facies from well logs data. We will use Amazon SageMaker for exploratory data analysis, training and tuning a model and deployment of the best model as an endpoint for future predictions. We will use the deployed endpoint to classify facies for a new well log data in a Jupyter notebook and visualize the results. We will use Amazon QuickSight and Amazon Q to generate business insights from well-logs.
@@ -1233,41 +1453,6 @@ AWS Glue
 English, 日本語
 4 hours
 300 - Advanced
-Amazon EKS Security Immersion Day
-Get started 
-This workshop covers various security features on Amazon EKS. This will be used as part of a dedicated Immersion day focused only on EKS Security. It contains a dedicated module for each of the Amazon EKS Security features under different Sections such as : Authentication and Authorization, Cluster End point Security, Basic and Advanced Image Scanning, Runtime Pod Security, Network policies, Amazon GuardDuty Integration, CIS Benchmark Image Hardening, Bottle rocket OS, IRSA, Secrets Management
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Containers
-Security, Identity, and Compliance
-English
-8 hours
-300 - Advanced
-Amazon EKS Auto Mode Workshop
-Get started 
-This Workshop guides you through the features of EKS Auto Mode and how it simplify app deployment into your Amazon EKS cluster. Participants will learn to enable EKS Auto Mode, deploy applications that uses the different capabilities of EKS Auto Mode. The workshop covers compute optimization, autoscaling, networking, storage, cluster upgrades, and workload migration. Upon completion, participants can effectively launch and manage Kubernetes applications on AWS using EKS Auto Mode.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Containers
-English, español, 繁體中文, 한국어, 日本語
-2 hours
-300 - Advanced
-Karpenter Workshop (Immersion Day)
-Get started 
-This is an advanced 300-400 level workshop to showcase advanced for Karpenter, If you want a 200-300 level of Karpenter usecases then please use EKS Immersion workshop https://catalog.workshops.aws/eks-immersionday/en-US.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Compute
-Containers
-English, 日本語
-4 hours
-400 - Expert
-Video Understanding with Generative AI on AWS
-Get started 
-re:Invent 2024 MAE 302 Generative AI scene detection and intelligent media workflows Unlock the power of AI/ML and generative AI using Media2Cloud guidance on AWS to streamline media workflows through intelligent automation. Learn how to decrease the manual work involved in monetizing your content and improve its accessibility for a larger audience.
-Amazon Bedrock
-Amazon Rekognition
-Amazon Transcribe
-English, 日本語, 한국어
-2 hours
-300 - Advanced
 GenAI RAG using Amazon FSx for NetApp ONTAP and Amazon Q Business
 Get started 
 In this Gen AI RAG solution, take enterprise files shares more to produce relevant, context-specific, and accurate responses while also ensuring only authorized users access to that data, using Amazon FSx for NetApp ONTAP and Amazon Q Business.
@@ -1276,15 +1461,6 @@ Amazon FSx for NetApp ONTAP
 Amazon Q Business
 English
 1 hours
-300 - Advanced
-Getting Started with DCV
-Get started 
-Getting started with DCV
-NICE DCV
-Compute
-End User Computing (EUC)
-English
-4 hours
 300 - Advanced
 NetApp FlexCache and IBM LSF for EDA / HPC on AWS
 Get started 
@@ -1322,15 +1498,6 @@ AWS Backup
 English
 6 hours
 300 - Advanced
-S3 Immersion Day
-Get started 
-S3 Immersion Day.
-Amazon S3 Glacier
-Amazon Simple Storage Service (Amazon S3)
-Security, Identity, and Compliance
-English
-8 hours
-300 - Advanced
 .NET - DotNet AIML workshop
 Get started 
 .NET - DotNet AIML workshop covers how to use AWS AIML services using .NET SDK
@@ -1358,14 +1525,6 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 300 - Advanced
-Dedicated Host and License Manager Workshop
-Get started 
-In this workshop , you will learn about AWS License Manager and Dedicated host.
-AWS License Manager
-Compute
-English
-3 hours
-300 - Advanced
 Migrate Microsoft Servers to EC2 with Application Migration Service - Activation Day
 Get started 
 In this workshop, we'll introduce you to the Application Migration service and how to migrate servers from your on-premises environment to AWS Elastic Cloud Compute. We are going to analyze migration methodologies using AWS services.
@@ -1375,15 +1534,6 @@ Compute
 English
 4 hours
 200 - Intermediate
-Running Microsoft Workloads on AWS Immersion Day
-Get started 
-In this workshop, learn best practices and approaches for managing your Microsoft Windows-based infrastructure on AWS. In these sets of labs, we will introduce you to some AWS Services that will help you manage your windows workloads on AWS. The approximate duration of the workshop is 3-4 hours.
-Amazon CloudWatch
-AWS Systems Manager
-Builder Experience
-English
-4 hours
-300 - Advanced
 Windows Containers on AWS
 Get started 
 In this workshop, you will learn how to deploy and manage an Amazon EKS cluster for Windows containers, handling different Windows versions in the same cluster, setting up gMSA for Kerberos authentication on Windows containers, and persistent storage through EBS volumes.
@@ -1392,15 +1542,6 @@ Amazon Elastic Container Service (Amazon ECS)
 Containers
 English
 3 hours
-300 - Advanced
-Application Modernization Immersion Day
-Get started 
-The Application Modernization Immersion Day covers common cloud migration drivers, benefits and challenges. This includes patterns such as the strangler that can be utilized to break down monolith applications and incrementally modernize it through re-architecture while leveraging cloud native services to tap into the full value provided by the cloud. Participants get hands-on with standing up a monolithic application and breaking it apart into microservices.
-AWS Lambda
-AWS Migration Hub
-AWS App Runner
-English, 日本語
-6 hours
 300 - Advanced
 CCoE Workshop
 Get started 
@@ -1411,47 +1552,6 @@ AWS Systems Manager
 English
 8 hours
 200 - Intermediate
-Amazon DynamoDB Immersion Day
-Get started 
-The official immersion day for DynamoDB
-Amazon DynamoDB
-Databases
-English
-4 hours
-300 - Advanced
-Amazon Neptune Immersion Day
-Get started 
-The Neptune Immersion Day helps customers that are both new to graph databases and those with prior experience. The content in this Immersion Day touches on the operational aspects of Neptune as well as the knowledge necessary to build graph data models, write graph queries, and integrate a graph database into a full end-to-end solution.
-Amazon Neptune
-Databases
-English
-3 hours
-200 - Intermediate
-Aurora DSQL Immersion Day
-Get started 
-Amazon Aurora DSQL is a serverless distributed SQL database with virtually unlimited scale, the highest availability, and zero infrastructure management. In this workshop, we will dive deep into how DSQL works, how it is different from traditional relational databases, and how you can leverage its design and features to help grow your application.
-Amazon Aurora
-Databases
-English, 日本語, 한국어
-4 hours
-400 - Expert
-Babelfish App Modernization Immersion Day
-Get started 
-This is a 100% hands-on bootcamp to learn how to migrate Microsoft SQL Server-based applications to Amazon Aurora PostgreSQL using Babelfish. You will learn the Babelfish internal wiring & debugging techniques, and we will show you the avenues to Migrate away from Microsoft SQL Server. Our focus is on real world applications. We will migrate two complex real-world applications in this workshop.
-Amazon Aurora
-Amazon RDS for PostgreSQL
-Business Applications
-English, 한국어, français, português, 简体中文
-3 hours
-400 - Expert
-RDS for MySQL Immersion Day
-Get started 
-RDS for MySQL Immersion Day
-Amazon RDS for MySQL
-Databases
-English
-8 hours
-300 - Advanced
 SAP ASE (Sybase) to Amazon RDS for SQL Server Migration Workshop
 Get started 
 SAP ASE (Sybase) to Amazon RDS for SQL Server Migration Workshop
@@ -1461,27 +1561,11 @@ AWS Database Migration Service
 English
 8 hours
 300 - Advanced
-Amazon DocumentDB (with MongoDB compatibility) workshop
-Get started 
-Amazon DocumentDB workshop is a on demand set of hands-on labs categorized as independent self-service modules.You can select either one or a set of modules, as needed and complete them at your own pace
-Amazon DocumentDB (with MongoDB compatibility)
-Databases
-English
-6 hours
-300 - Advanced
 Amazon Keyspaces Workshop (for Apache Cassandra)
 Get started 
 An introduction to the features and usage of Amazon Keyspaces (for Apache Cassandra)
 Amazon Keyspaces (for Apache Cassandra)
 Amazon Managed Apache Cassandra Service (Amazon MCS)
-Databases
-English
-4 hours
-300 - Advanced
-Amazon RDS for Db2 - Immersion Day
-Get started 
-This will be Immersion Day for Amazon RDS for Db2
-Amazon Relational Database Service (Amazon RDS)
 Databases
 English
 4 hours
@@ -1503,24 +1587,6 @@ AWS Database Migration Service
 English
 8 hours
 300 - Advanced
-Timestream Immersion Day
-Get started 
-Amazon Timestream for InfluxDB is a managed time-series database engine that makes it easy to run InfluxDB databases on AWS for time-series applications using open-source APIs. Labs covers on how to ingest, query and visualize data for both versions of InfluxDB, V3.x and previous version of V2.7.
-Amazon SageMaker
-Amazon Simple Storage Service (Amazon S3)
-Amazon Timestream
-English, 日本語, Deutsch
-5 hours
-300 - Advanced
-AWS Networking Immersion Day Workshop
-Get started 
-This workshop covers the full spectrum of AWS Networking, from the basics of VPC and Subnets to the advanced configurations with Transit Gateway and VPN, including security and monitoring examples
-Amazon Virtual Private Cloud (Amazon VPC)
-AWS Site-to-Site VPN
-AWS Transit Gateway
-English, 한국어
-4 hours
-200 - Intermediate
 Digital Twin Framework - Simulation
 Get started 
 Workshop for simulation pipelines following the digital twin framework
@@ -1574,15 +1640,6 @@ Amazon OpenSearch Service
 English, 한국어
 5 hours
 400 - Expert
-Amazon MSK Replicator
-Get started 
-Amazon MSK Replicator is a feature of Amazon Managed Streaming for Apache Kafka (Amazon MSK) that enables customers to reliably replicate data across Amazon MSK clusters in same or different AWS regions, without writing code or managing infrastructure. Note: To support MSK Replicator for cross-region replication (CRR), select 2 different regions under Accessible regions while creating a event for this Amazon MSK Replicator workshop.
-Amazon Managed Streaming for Apache Kafka (Amazon MSK)
-Analytics
-Migration & Transfer
-English
-2 hours
-400 - Expert
 Data Governance Workshop
 Get started 
 Data Governance Workshop
@@ -1609,14 +1666,6 @@ Analytics
 English
 4 hours
 300 - Advanced
-MSK Labs
-Get started 
-Labs that cover the common operations of running an MSK Cluster on AWS
-Amazon Managed Streaming for Apache Kafka (Amazon MSK)
-Analytics
-English
-4 hours
-400 - Expert
 Open Table Formats (Iceberg) on AWS
 Get started 
 This workshop dives deep into the main functionalities of Open Table Formats. The initial version of the workshop will concentrate on hands-on labs with Apache Iceberg. Subsequent releases will incorporate Apache Hudi and Delta Lake.
