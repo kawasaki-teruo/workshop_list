@@ -1,4 +1,3 @@
-Sign in
 Builder Center
 AWS Builder Center
 Build
@@ -6,7 +5,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (191)
+Find workshops (207)
 Sort by
 Newest
 Level
@@ -19,17 +18,38 @@ AWS Services and Features
 Choose services and features
 Duration
 All durations
-Application Modernization Lab
-Get started 
-The Application Modernization Lab covers common cloud migration drivers, benefits and challenges. This includes patterns such as the strangler that can be utilized to break down monolith applications and incrementally modernize it through re-architecture while leveraging cloud native services to tap into the full value provided by the cloud. Participants get hands-on with standing up a monolithic application and breaking it apart into microservices.
+Getting started with Bedrock AgentCore (Official Workshop)
+Getting started on AgentCore: Let's build an End-to-End usecase using Bedrock AgentCore Services and Strands Agents
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English, 한국어, 简体中文, 日本語, العربية
+1 hours
+200 - Intermediate
+Diving Deep into Bedrock AgentCore (Official Workshop)
+Comprehensive deep-dive into Amazon Bedrock AgentCore. This workshop consists of tutorials to give you a deep understanding of AgentCore Services. All the labs are independent, so you can pick-and-choose the Services you want a deeper dive into.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English, 한국어, 简体中文, español, 日本語
+3 hours
+300 - Advanced
+Evaluation in generative AI with Amazon Bedrock
+This workshop teaches systematic approaches to evaluating Generative AI workloads for production use. Focused to build evaluation frameworks that go beyond basic metrics to ensure reliable model performance while optimizing cost and performance.
+Amazon Bedrock
+Machine Learning (ML/AI)
+English
+3 hours
+400 - Expert
+Building and scaling Agentic AI workflows
+This workshop provides a hands-on experience for implementing agentic AI patterns using Amazon Bedrock, Step Functions, and Lambda. Learn about different ways to implement agentic AI, compare and contrast the approaches and choose the one for your use case
 AWS Lambda
-AWS Migration Hub
-Migration & Transfer
-English, 日本語
-6 hours
+Amazon Bedrock
+AWS Step Functions
+English
+2 hours
 300 - Advanced
 Amazon Bedrock Workshop
-Get started 
 The Amazon Bedrock Workshop is a hands-on introduction to the Amazon Bedrock service covering Prompt Engineering, Text Generation, KnowledgeBase and RAG, Model Customization, Image and Multimodal models, Agents, and Open Source integrations
 Amazon Bedrock
 Generative AI
@@ -37,78 +57,45 @@ Machine Learning (ML/AI)
 English
 4 hours
 300 - Advanced
-Building with Amazon Bedrock
-Get started 
-Now featuring Strands SDK, Amazon Bedrock AgentCore, and Anthropic Claude 4.5 models! Workshop participants build simple generative AI demo applications while learning key concepts. There are non-technical options with PartyRock and the Amazon Bedrock Playground. Labs include prompt engineering, security and guardrails, chatbots, retrieval-augmented generation (RAG), image generation & editing, multimodal, and Streamlit.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Generative AI
-English
-4 hours
-200 - Intermediate
-Migration and Modernization Pathways - Lab 3
-Get started 
-The Migration and Modernization Pathways – Lab 3 is designed for technical audiences exploring the different pathways, including: Move to Managed Databases, Move to Modern Analytics, and Move to Open Source. This workshop is part of a series, check the "Migration and Modernization Pathways – Lab 2" for other pathways and the "Migration and Modernization - Rehost and Tagging - Lab 1" for Application Migration Service and tagging.
-Amazon Redshift
-Amazon Relational Database Service (Amazon RDS)
-AWS Database Migration Service
-English, 한국어
+Getting Started with Apache Spark - A Hands-on Foundation and Spark Optimization Workshop
+A hands-on introduction to Apache Spark, the leading distributed data processing framework. Master fundamental concepts including Spark architecture, RDDs, DataFrames, SparkSQL, and Spark Streaming through practical exercises. Ideal for ETL developers, data analysts, and BI engineers beginning their big data journey. Learn the fundamentals and develop efficient and optimized Spark applications.
+Amazon Elastic Map Reduce (Amazon EMR)
+AWS Glue
+Analytics
+English, 日本語
 8 hours
-300 - Advanced
-Nova customization on AWS
-Get started 
-This workshop provides hands-on experience customizing Amazon Nova models on AWS. Attendees will learn to fine-tune Nova using Amazon Bedrock, SageMaker Training Jobs with the Nova Customization SDK, and SageMaker HyperPod with EKS — covering SFT, DPO, and RL with LoRA, deploying custom models, and evaluating them using LLM-as-a Judge.
-Amazon Bedrock
-Amazon SageMaker
-Generative AI
-English
-4 hours
-300 - Advanced
-One Media Workshop
-Get started 
-One Media Workshop provides a prescriptive, 100-400 level modular learning experience focusing on AWS Media Services, solutions for popular workloads, and advanced modules covering complex use cases.
-AWS Elemental MediaConvert
-AWS Elemental MediaLive
-AWS Elemental MediaTailor
+200 - Intermediate
+Amazon Cognito Workshop
+This workshop provides a deep dive into Amazon Cognito and Customer Identity and Access Management (CIAM). Participants will create a User Pool from scratch and build authentication for a fictional pet shop, covering Managed Login with OAuth 2.0, SDK-based auth, machine-to-machine authorization, SAML federation, custom Lambda auth flows, user migration, security features, and observability.
+Amazon Cognito
+Security, Identity, and Compliance
 English
 6 hours
 300 - Advanced
-Amazon Data Firehose Workshop
-Get started 
-An Amazon Data Firehose Workshop provides our customers with hands-on experience to capture, transform, and deliver streaming data into data lakes, data stores, and analytics services using Amazon Data Firehose.
-Amazon Kinesis Data Firehose
-Analytics
+Building with Amazon Bedrock featuring Claude Code, Kiro, AgentCore, and Strands Agents
+Now featuring Strands SDK, Amazon Bedrock AgentCore, Kiro, and Claude Code on Amazon Bedrock! Workshop participants build simple generative AI demo applications while learning key concepts. Labs include agentic fundamentals, security and guardrails, chatbots, retrieval-augmented generation (RAG), MCP, agent skills, and Streamlit.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Kiro
+English
+4 hours
+200 - Intermediate
+Dive Deep into AWS DevOps Agent
+Learn how AWS DevOps Agent resolves and proactively prevents incidents, continuously improving reliability/performance of your application. Reduce MTTR, automate root cause analysis, and implement proactive improvements to AWS infrastructure and observability. Features modular format allowing participants to choose relevant modules for their specific needs. To fix transient deployment failures: Login with ops role →CloudFormation →Update workshop-team-stack →Wait 30min →Revalidate deployment.
+AWS DevOps Agent
+Cloud Operations
+English, 日本語, 한국어, 简体中文
+2 hours
+300 - Advanced
+Active Directory on AWS workshop
+A guide to deploying Active Directory (AD) on AWS, set up hybrid solutions, and set up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered.
+Amazon CloudWatch Logs
+Amazon Route 53
+AWS Directory Service
 English
 4 hours
 300 - Advanced
-AWS Marketplace Seller Workshop
-Get started 
-This workshop guides sellers through onboarding to AWS Marketplace, listing and integrating each product type, and working with the Marketplace APIs. It also includes end-to-end listing labs for common seller use cases.
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-AWS Marketplace
-English, 한국어
-8 hours
-300 - Advanced
-Automate Cloud Operations with AI agents
-Get started 
-Join this technical workshop to build automated cloud operations solutions using AI agents. Get hands-on experience implementing Amazon CloudWatch Investigations and Amazon Bedrock Agents for streamlined debugging and intelligent analysis. Practice using synthetic monitoring and traffic analysis tools while working through real-world operational scenarios. Learn to reduce incident resolution times through practical exercises.
-Amazon Bedrock
-Amazon CloudWatch
-Amazon Q
-English
-2 hours
-400 - Expert
-Migration and Modernization Pathways – Lab 2
-Get started 
-The Migration and Modernization Pathways – Lab Day 2 is designed for technical audiences exploring the different pathways, including: Move to Modern DevOps, Move to AI, and Move to Containers. This workshop is part of a series, check the “Migration and Modernization Pathways – Lab 3” for other pathways and the "Migration and Modernization - Rehost and Tagging - Lab 1" for Application Migration Service and tagging.
-Amazon Bedrock
-Amazon Elastic Kubernetes Service (Amazon EKS)
-AWS CodePipeline
-English
-8 hours
-300 - Advanced
-Load 181 more
+Load 197 more
 About
 FAQs
 Support
