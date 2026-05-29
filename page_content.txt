@@ -1,4 +1,3 @@
-Sign in
 Builder Center
 AWS Builder Center
 Build
