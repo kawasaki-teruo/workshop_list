@@ -1,9 +1,7 @@
-https://aws.amazon.com/accessibility
 https://aws.amazon.com/legal/cookies
 https://aws.amazon.com/new
 https://aws.amazon.com/opensource
 https://aws.amazon.com/privacy
-https://aws.amazon.com/terms
 https://builder.aws.com
 https://builder.aws.com/build
 https://builder.aws.com/build/capabilities
@@ -16,14 +14,9 @@ https://builder.aws.com/community/user-groups
 https://builder.aws.com/connect
 https://builder.aws.com/connect/events
 https://builder.aws.com/connect/spaces
-https://builder.aws.com/faq
 https://builder.aws.com/faq#workshops
 https://builder.aws.com/learn
 https://builder.aws.com/learn/topics
-https://builder.aws.com/settings
-https://builder.aws.com/start
-https://builder.aws.com/support
-https://builder.aws.com/terms
 https://builder.aws.com/wishlist
 https://catalog.us-east-1.prod.workshops.aws/workshops/015a2de4-9522-4532-b2eb-639280dc31d8
 https://catalog.us-east-1.prod.workshops.aws/workshops/850fcd5c-fd1f-48d7-932c-ad9babede979

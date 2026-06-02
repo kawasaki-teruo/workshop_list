@@ -3,10 +3,7 @@ https://aws.amazon.com/legal/cookies/
 https://pulse.aws/application/ZRPLWLL6?p=0
 https://aws.amazon.com/privacy/
 https://builder.aws.com/
-https://builder.aws.com/settings
-https://builder.aws.com/settings
 https://builder.aws.com/
-https://builder.aws.com/settings
 https://builder.aws.com/
 https://builder.aws.com/
 https://builder.aws.com/learn
@@ -44,10 +41,3 @@ https://catalog.workshops.aws/workshops/137bc34c-33d9-43a8-bf8f-2d4f6c22c333
 https://catalog.workshops.aws/workshops/cdbce152-b193-43df-8099-908ee2d1a6e4
 https://catalog.workshops.aws/workshops/767d3081-b4fa-4e08-81da-17e5c94a1a08
 https://catalog.workshops.aws/workshops/b4a4be0e-d4f9-4ff5-af82-ebfb86dbe46a
-https://builder.aws.com/start
-https://builder.aws.com/faq
-https://builder.aws.com/support
-https://builder.aws.com/terms
-https://aws.amazon.com/accessibility/
-https://aws.amazon.com/privacy/
-https://aws.amazon.com/terms/
