@@ -1,3 +1,4 @@
+Sign in
 Builder Center
 AWS Builder Center
 Build
@@ -5,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (207)
 Sort by
 Newest
 Level
@@ -18,8 +19,94 @@ AWS Services and Features
 Choose services and features
 Duration
 All durations
-No results found.
-Clear filter
+Getting started with Bedrock AgentCore (Official Workshop)
+Get started 
+Getting started on AgentCore: Let's build an End-to-End usecase using Bedrock AgentCore Services and Strands Agents
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English, 한국어, 简体中文, 日本語, العربية
+1 hours
+200 - Intermediate
+Diving Deep into Bedrock AgentCore (Official Workshop)
+Get started 
+Comprehensive deep-dive into Amazon Bedrock AgentCore. This workshop consists of tutorials to give you a deep understanding of AgentCore Services. All the labs are independent, so you can pick-and-choose the Services you want a deeper dive into.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English, 한국어, 简体中文, español, 日本語
+3 hours
+300 - Advanced
+Evaluation in generative AI with Amazon Bedrock
+Get started 
+This workshop teaches systematic approaches to evaluating Generative AI workloads for production use. Focused to build evaluation frameworks that go beyond basic metrics to ensure reliable model performance while optimizing cost and performance.
+Amazon Bedrock
+Machine Learning (ML/AI)
+English
+3 hours
+400 - Expert
+Building and scaling Agentic AI workflows
+Get started 
+This workshop provides a hands-on experience for implementing agentic AI patterns using Amazon Bedrock, Step Functions, and Lambda. Learn about different ways to implement agentic AI, compare and contrast the approaches and choose the one for your use case
+AWS Lambda
+Amazon Bedrock
+AWS Step Functions
+English
+2 hours
+300 - Advanced
+Amazon Bedrock Workshop
+Get started 
+The Amazon Bedrock Workshop is a hands-on introduction to the Amazon Bedrock service covering Prompt Engineering, Text Generation, KnowledgeBase and RAG, Model Customization, Image and Multimodal models, Agents, and Open Source integrations
+Amazon Bedrock
+Generative AI
+Machine Learning (ML/AI)
+English
+4 hours
+300 - Advanced
+Getting Started with Apache Spark - A Hands-on Foundation and Spark Optimization Workshop
+Get started 
+A hands-on introduction to Apache Spark, the leading distributed data processing framework. Master fundamental concepts including Spark architecture, RDDs, DataFrames, SparkSQL, and Spark Streaming through practical exercises. Ideal for ETL developers, data analysts, and BI engineers beginning their big data journey. Learn the fundamentals and develop efficient and optimized Spark applications.
+Amazon Elastic Map Reduce (Amazon EMR)
+AWS Glue
+Analytics
+English, 日本語
+8 hours
+200 - Intermediate
+Amazon Cognito Workshop
+Get started 
+This workshop provides a deep dive into Amazon Cognito and Customer Identity and Access Management (CIAM). Participants will create a User Pool from scratch and build authentication for a fictional pet shop, covering Managed Login with OAuth 2.0, SDK-based auth, machine-to-machine authorization, SAML federation, custom Lambda auth flows, user migration, security features, and observability.
+Amazon Cognito
+Security, Identity, and Compliance
+English
+6 hours
+300 - Advanced
+Building with Amazon Bedrock featuring Claude Code, Kiro, AgentCore, and Strands Agents
+Get started 
+Now featuring Strands SDK, Amazon Bedrock AgentCore, Kiro, and Claude Code on Amazon Bedrock! Workshop participants build simple generative AI demo applications while learning key concepts. Labs include agentic fundamentals, security and guardrails, chatbots, retrieval-augmented generation (RAG), MCP, agent skills, and Streamlit.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Kiro
+English
+4 hours
+200 - Intermediate
+Dive Deep into AWS DevOps Agent
+Get started 
+Learn how AWS DevOps Agent resolves and proactively prevents incidents, continuously improving reliability/performance of your application. Reduce MTTR, automate root cause analysis, and implement proactive improvements to AWS infrastructure and observability. Features modular format allowing participants to choose relevant modules for their specific needs. To fix transient deployment failures: Login with ops role →CloudFormation →Update workshop-team-stack →Wait 30min →Revalidate deployment.
+AWS DevOps Agent
+Cloud Operations
+English, 日本語, 한국어, 简体中文
+2 hours
+300 - Advanced
+Active Directory on AWS workshop
+Get started 
+A guide to deploying Active Directory (AD) on AWS, set up hybrid solutions, and set up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered.
+Amazon CloudWatch Logs
+Amazon Route 53
+AWS Directory Service
+English
+4 hours
+300 - Advanced
+Load 197 more
 About
 FAQs
 Support
