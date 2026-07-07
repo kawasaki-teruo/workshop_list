@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (216)
+Find workshops (0)
 Sort by
 Newest
 Level
@@ -19,94 +19,10 @@ AWS Services and Features
 Choose services and features
 Duration
 All durations
-Agentic model customization using Amazon SageMakerAI with agent skills and Kiro
-Get started 
-Amazon SageMaker AI agent-guided model customization transforms the way developers fine-tune foundation models. Using purpose-built Agent Skills with Kiro or ClaudeCode directly within SageMaker AI Studio JupyterLab, you'll customize LLMs through agentic chat — no deep ML expertise required. The agent guides you through the complete customization lifecycle: from use case definition and data preparation through technique selection, serverless training, LLM-as-Judge evaluation, and deployment.
-Amazon Bedrock
-Amazon SageMaker Studio
-Kiro
-English
-2 hours
-400 - Expert
-Dive Deep into AWS DevOps Agent
-Get started 
-Learn how AWS DevOps Agent resolves and proactively prevents incidents, continuously improving reliability/performance of your application. Reduce MTTR, automate root cause analysis, and implement proactive improvements to AWS infrastructure and observability. Features modular format allowing participants to choose relevant modules for their specific needs. To fix transient deployment failures: Login with ops role →CloudFormation →Update workshop-team-stack →Wait 30min →Revalidate deployment.
-AWS DevOps Agent
-Cloud Operations
-English, 日本語, 한국어, 简体中文
-2 hours
-300 - Advanced
-SageMaker HyperPod EKS for AWS Hosted Events
-Get started 
-SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
-Amazon SageMaker
-Amazon FSx for Lustre
-Amazon Elastic Compute Cloud (Amazon EC2)
-English
-2 hours
-300 - Advanced
-Generative AI on EKS using NVIDIA GPU
-Get started 
-In this workshop, learn how to get started with Large Language Model (LLM) applications and inference on Amazon EKS. Discover how to deploy and manage production-grade LLM workloads. Through hands-on labs, you'll explore how to leverage Amazon EKS along with AWS services and open-source tools to create robust LLM solutions. The workshop environment provides all the necessary infrastructure and tools, allowing you to focus on learning and implementation.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Containers
-Generative AI
-English, português, 한국어, 日本語
-2 hours
-400 - Expert
-AWS HealthOmics: Modernizing Genomics from Storage to GenAI
-Get started 
-Learn to modernize genomics workloads using AWS HealthOmics. This hands-on workshop covers genomic data storage with Reference and Sequence Stores, running WDL/Nextflow workflows, migrating nf-core pipelines, querying variant data with S3 Tables and Athena, and leveraging Kiro CLI for AI-assisted workflow development. Build production-ready genomics pipelines from storage to analysis.
-AWS HealthOmics
-Amazon S3 Tables
-Kiro
-English, 한국어
-4 hours
-300 - Advanced
-AWS Marketplace Seller Workshop
-Get started 
-This workshop guides sellers through onboarding to AWS Marketplace, listing and integrating each product type, and working with the Marketplace APIs. It also includes end-to-end listing labs for common seller use cases.
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-AWS Marketplace
-English, 한국어
-8 hours
-300 - Advanced
-Real-Time Streaming with Amazon MSK
-Get started 
-Master real-time data streaming with Amazon MSK through hands-on labs. Learn to provision and scale MSK clusters, implement monitoring with CloudWatch and Prometheus, configure security and encryption, integrate with AWS Lambda and Apache Flink, and migrate from self-managed Kafka. Build production-ready streaming pipelines using MSK Express Brokers for enhanced performance. Ideal for data engineers building real-time applications.
-Amazon Managed Streaming for Apache Kafka (Amazon MSK)
-Analytics
-English
-4 hours
-400 - Expert
-AWS Cloud WAN Workshop
-Get started 
-This workshop provides setup instruction and several labs for AWS Cloud WAN workshop.
-AWS Transit Gateway
-Amazon Virtual Private Cloud (Amazon VPC)
-AWS Network Firewall
-English, 한국어
-2 hours
-300 - Advanced
-Approaches to layered security on Amazon VPC
-Get started 
-In this workshop, discover practical guidance that can help you build a secure Amazon Virtual Private Cloud (Amazon VPC). Using a hands-on approach, review Amazon VPC features such as subnets, security groups, flow logs, and routing. Then, learn how you can add on additional layers of security and how to securely ingress and egress VPC traffic with other services, such as Amazon Route 53 Resolver DNS Firewall, AWS Network Firewall, Gateway Load Balancer, Traffic Mirroring, AWS WAF, and more.
-Amazon Route 53
-Amazon Virtual Private Cloud (Amazon VPC)
-AWS Network Firewall
-English
-2 hours
-300 - Advanced
-AWS Direct Connect Resiliency Workshop
-Get started 
-In this workshop, you will gain hands-on experience ordering connections, configuring AWS networking and on-premises routers, and establishing resilient connectivity using AWS Direct Connect, Direct Connect Gateway, and AWS Transit Gateway.
-AWS Direct Connect
-Networking & Content Delivery
-English
-2 hours
-300 - Advanced
-Load 206 more
+Access
+All access types
+No results found.
+Clear filter
 About
 FAQs
 Support
