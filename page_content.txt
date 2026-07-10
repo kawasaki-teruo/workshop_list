@@ -1,3 +1,4 @@
+Sign in
 Builder Center
 AWS Builder Center
 Build
@@ -18,6 +19,8 @@ AWS Services and Features
 Choose services and features
 Duration
 All durations
+Access
+All access types
 No results found.
 Clear filter
 About
