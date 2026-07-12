@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (228)
+Find workshops (0)
 Sort by
 Newest
 Level
@@ -21,125 +21,8 @@ Duration
 All durations
 Access
 All access types
-Free AWS environment available
-Request free sandbox environment
-Claude Code on Amazon Bedrock
-In this hands-on workshop, you will learn how to accelerate team development and scale Claude Code deployments on Amazon Bedrock. You'll discover how to configure team environments, establish standards and workflows, and maximize Claude Code's capabilities to transform coding workflows. The workshop emphasizes best practices from Anthropic and Amazon to help teams get the most out of this powerful AI coding assistant.
-Amazon Bedrock
-Generative AI
-English, 한국어, 日本語
-3 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-Storytelling based AI-powered insights and automation using Amazon Quick
-In this workshop, participants will learn Amazon Quick's powerful AI capabilities through a storytelling approach. Participants will learn how to derive insights from data based on real business scenarios and automate repetitive tasks.
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
-100 - Foundational
-AWS Transform for VMware Migrations
-In this workshop, you will gain hands-on experience with AWS Transform capabilities to perform Assessment and Discovery of your on-premises environment and create a Total Cost of Ownership (TCO) analysis to build a compelling business case for cloud adoption. You will also learn how to quickly migrate applications running on VMware environments to AWS — leveraging the power of Agentic AI tools
-Amazon Elastic Compute Cloud (Amazon EC2)
-AWS Application Migration Service
-Generative AI
-English, 日本語, 한국어
-3 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-Building with Amazon Bedrock featuring Claude Code, Kiro, AgentCore, and Strands Agents
-Now featuring Strands SDK, Amazon Bedrock AgentCore, Kiro, and Claude Code on Amazon Bedrock! Workshop participants build simple generative AI demo applications while learning key concepts. Labs include agentic fundamentals, security and guardrails, chatbots, retrieval-augmented generation (RAG), MCP, agent skills, and Streamlit.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Kiro
-English
-4 hours
-200 - Intermediate
-Build with Amazon OpenSearch Service (Official Workshop)
-Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
-Amazon OpenSearch Ingestion
-Amazon OpenSearch Service
-AWS Distro for OpenTelemetry
-English
-4 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-Getting started with Amazon Connect
-In this series of labs, we’ll build cloud based contact center using AWS Amazon Connect service and explore integration with other AWS services such as Amazon DynamoDB, Amazon Lex and AWS Lambda to build modern and robust contact center.
-Amazon Connect
-Communication Applications
-Contact Center
-English, français
-4 hours
-200 - Intermediate
-Amazon Quick for Research
-Amazon Quick workshop targeting research use-cases covering all the core capabilities.
-Amazon Quick Suite
-Amazon QuickSight
-Business Applications
-English
-4 hours
-200 - Intermediate
-Migrate with AWS Application Migration Service (MGN)
-In this workshop you will learn how to configure and use MGN. This is 300-level 2-hours workshop covering in depth how to set up MGN service from scratch, configure default templates (Replication, Launch, Post-Launch), update servers EC2 LTs, and complete the migration. Unlike the "Migration Journey with MGN" workshop, this one does NOT focus on post-launch actions like DRS and custom SSM document creation, it's focused on understanding MGN initial concepts and service configuration options.
-AWS Application Migration Service
-Migration & Transfer
-English, 日本語
-2 hours
-300 - Advanced
-ENT325 | The Migration Journey with AWS Application Migration Service (MGN)
-In this workshop, you will use learn how to use MGN throughout the migration journey. You will start by using discovery data to create your inventory in the MGN console, then you will group your servers into applications and waves, and finish by testing and orchestrating the cutover. Unlike "Migrate with MGN" workshop, this one is skipping the MGN configuration steps and is focused on further modernization steps using existing (DRS) or custom (create your own) post-launch actions.
-AWS Application Migration Service
-Migration & Transfer
-English
-2 hours
-300 - Advanced
-IAM Core Workshop (Formerly: IAM Immersion Day)
-The IAM workshop provides a comprehensive introduction through advanced concepts with AWS Identity and Access Management (AWS IAM). The basic modules help learners get started with some basic concepts, such as users, roles, and policies. The advanced modules provide a much deeper dive into policies, role switching, ABAC, monitoring, and advanced permissions concepts.
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
-Load 218 more
-Foundational workshops
-Amazon QuickSight - All aspects [QuickSight Workshops - Author, Admin, Q, Generative BI, Embedding]
-Amazon QuickSight
-Analytics
-English
-4 hours
-100 - Foundational
-RetailGuard: Building Trust with Automated Content Analysis using Q Automate
-Amazon Quick Suite
-Generative AI
-English
-2 hours
-100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
-100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-2 hours
-100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
-6 hours
-100 - Foundational
+No results found.
+Clear filter
 About
 FAQs
 Support
