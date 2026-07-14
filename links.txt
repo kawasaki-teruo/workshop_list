@@ -3,10 +3,7 @@ https://aws.amazon.com/legal/cookies/
 https://pulse.aws/application/ZRPLWLL6?p=0
 https://aws.amazon.com/privacy/
 https://builder.aws.com/
-https://builder.aws.com/settings
-https://builder.aws.com/settings
 https://builder.aws.com/
-https://builder.aws.com/settings
 https://builder.aws.com/
 https://builder.aws.com/
 https://builder.aws.com/learn
@@ -34,10 +31,3 @@ https://builder.aws.com/build
 https://builder.aws.com/
 https://builder.aws.com/build
 https://builder.aws.com/faq#workshops
-https://builder.aws.com/start
-https://builder.aws.com/faq
-https://builder.aws.com/support
-https://builder.aws.com/terms
-https://aws.amazon.com/accessibility/
-https://aws.amazon.com/privacy/
-https://aws.amazon.com/terms/
