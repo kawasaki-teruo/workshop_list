@@ -14,6 +14,7 @@ https://builder.aws.com/community/user-groups
 https://builder.aws.com/connect
 https://builder.aws.com/connect/events
 https://builder.aws.com/connect/spaces
+https://builder.aws.com/faq#workshops
 https://builder.aws.com/learn
 https://builder.aws.com/learn/topics
 https://builder.aws.com/wishlist

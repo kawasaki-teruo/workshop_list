@@ -1,3 +1,4 @@
+Sign in
 Builder Center
 AWS Builder Center
 Build
@@ -5,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (228)
 Sort by
 Newest
 Level
@@ -18,8 +19,124 @@ AWS Services and Features
 Choose services and features
 Duration
 All durations
-No results found.
-Clear filter
+Access
+All access types
+Serverless Model Customization with Amazon SageMaker AI
+This workshop provides hands-on experience with serverless model customization on Amazon SageMaker AI. Attendees will learn to prepare datasets, run serverless fine-tuning with LoRA across SFT, DPO, RLVR, and RLAIF, deploy fine-tuned models, and evaluate them using LLM-as-a-Judge.
+Amazon SageMaker
+Machine Learning (ML/AI)
+English
+4 hours
+300 - Advanced
+Amazon S3 Workshop
+Explore Amazon S3 best practices through hands-on labs covering security, data protection, performance optimization, serverless architectures, cost management, data migration, and storage features including S3 Glacier, S3 Tables, and Storage Lens.
+Amazon S3 Glacier
+Amazon Simple Storage Service (Amazon S3)
+Security, Identity, and Compliance
+English
+8 hours
+300 - Advanced
+Diving Deep into Bedrock AgentCore (Official Workshop)
+This workshop is functional during the transition period and we're currently working on refreshing the content with a Claude Code, AgentCore CLI and Skills based format in July 2026. Recommendation: The Starter Toolkit CLI is no longer supported. You may notice updates rolling in as we improve the material to make it more developer friendly. Thanks for bearing with us! Please familiarise yourself with https://github.com/awslabs/agentcore-samples/tree/main/01-features
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English, 한국어, 简体中文, español, 日本語
+3 hours
+300 - Advanced
+Agentic SecOps workflows with Amazon Bedrock - Security Automation
+This workshop is intended to help candidates mitigate Security at scale with agentic security workflow playbooks. this workflow contains agentic Incident response integrated with Amazon GuardDuty, IAM operations automation, Agentic Vulnerability management remediation workflow integrated with Amazon inspector, and Automated Posture violation remediation integration with aws security hub
+Amazon Bedrock
+Amazon Inspector
+AWS Security Hub
+English
+3 hours
+400 - Expert
+AWS Direct Connect & Hybrid DNS Workshop
+In this workshop, participants implement and configure AWS Direct Connect with DXGW/TGW, and connect an on-premises data center to AWS. They also implement hybrid DNS using Amazon Route 53 Resolver Endpoints. The target audience for this workshop is networking and infrastructure teams. This workshop expects a basic level of networking knowledge.
+Amazon Route 53
+AWS Direct Connect
+AWS PrivateLink
+English, 한국어
+2 hours
+300 - Advanced
+Amazon SageMaker AI MLOps - from idea to production
+This workshop takes you through the process of development a machine learning (ML) solution. You create a ML project in Amazon SageMaker Studio and go through all stages of implementation such as data exploration, interactive experimentation, using SageMaker jobs, setting up MLOps pipelines, and finally deliver the project into production. You learn how to work with SageMaker MLOps building blocks. The target audience are data scientists, ML, MLOps, and DevOps engineers, and technical managers.
+Amazon SageMaker Studio
+Amazon SageMaker
+Amazon SageMaker with MLflow
+English, 한국어
+4 hours
+300 - Advanced
+Amazon SageMaker AI Workshop
+Hands-on workshop covering the end-to-end ML lifecycle with Amazon SageMaker AI — from data preparation and model training to deployment, MLOps, and governance across nine guided labs.
+Amazon SageMaker Studio
+Amazon SageMaker
+Amazon SageMaker with MLflow
+English
+8 hours
+300 - Advanced
+Build with Amazon OpenSearch Service (Official Workshop)
+Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
+Amazon OpenSearch Ingestion
+Amazon OpenSearch Service
+AWS Distro for OpenTelemetry
+English
+4 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+Claude Code on Amazon Bedrock
+In this hands-on workshop, you will learn how to accelerate team development and scale Claude Code deployments on Amazon Bedrock. You'll discover how to configure team environments, establish standards and workflows, and maximize Claude Code's capabilities to transform coding workflows. The workshop emphasizes best practices from Anthropic and Amazon to help teams get the most out of this powerful AI coding assistant.
+Amazon Bedrock
+Generative AI
+English, 한국어, 日本語
+3 hours
+300 - Advanced
+AWS IoT Greengrass V2 - Workshop
+AWS IoT Greengrass v2 is an Internet of Things (IoT) open source edge runtime and cloud service that helps you build, deploy, and manage device software. You can learn basic knowledge to use AWS IoT Greengrass V2 through this workshop.
+AWS IoT Core
+AWS IoT Device Management
+AWS IoT Greengrass
+English, 日本語, 한국어
+3 hours
+400 - Expert
+Load 218 more
+Foundational workshops
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
 Start
 FAQs
 Support
