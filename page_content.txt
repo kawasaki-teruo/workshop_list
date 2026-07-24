@@ -1,3 +1,4 @@
+Sign in
 Builder Center
 AWS Builder Center
 Build
@@ -5,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (230)
 Sort by
 Newest
 Level
@@ -18,8 +19,119 @@ AWS Services and Features
 Choose services and features
 Duration
 All durations
-No results found.
-Clear filter
+Access
+All access types
+One Media Workshop
+One Media Workshop provides a prescriptive, 100-400 level modular learning experience focusing on AWS Media Services, solutions for popular workloads, and advanced modules covering complex use cases.
+AWS Elemental MediaConvert
+AWS Elemental MediaLive
+AWS Elemental MediaTailor
+English
+6 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+Building and scaling Agentic AI workflows
+This workshop provides a hands-on experience for implementing agentic AI patterns using Amazon Bedrock, Step Functions, and Lambda. Learn about different ways to implement agentic AI, compare and contrast the approaches and choose the one for your use case
+AWS Lambda
+Amazon Bedrock
+AWS Step Functions
+English
+2 hours
+300 - Advanced
+AWS Transform for SQL Server
+AWS Transform for SQL Server
+AWS Transform
+Databases
+English
+2 hours
+300 - Advanced
+Getting started with AgentCore (Official Workshop)
+Getting started on AgentCore: Let's build an end-to-end use case using Amazon Bedrock AgentCore. Updated on July 16th - Provisioned VS Code Server Setup in workshop studio environment with Claude Code
+Amazon Bedrock AgentCore
+Generative AI
+English
+3 hours
+300 - Advanced
+Dive Deep into AWS DevOps Agent
+Learn how AWS DevOps Agent resolves and proactively prevents incidents, continuously improving reliability/performance of your application. Reduce MTTR, automate root cause analysis, and implement proactive improvements to AWS infrastructure and observability. Features modular format allowing participants to choose relevant modules for their specific needs. To fix transient deployment failures: Login with ops role →CloudFormation →Update workshop-team-stack →Wait 30min →Revalidate deployment.
+AWS DevOps Agent
+Cloud Operations
+English, 日本語, 한국어, 简体中文, español
+3 hours
+300 - Advanced
+Pre-Bid Server Workshop
+Pre-Bid Server Workshop
+Amazon CloudFront
+Amazon Elastic Container Service (Amazon ECS)
+AWS Lambda
+English
+2 hours
+200 - Intermediate
+Research Computing Workshop
+This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+Amazon Cognito Workshop
+This workshop provides a deep dive into Amazon Cognito and Customer Identity and Access Management (CIAM). Participants will create a User Pool from scratch and build authentication for a fictional pet shop, covering Managed Login with OAuth 2.0, SDK-based auth, machine-to-machine authorization, SAML federation, custom Lambda auth flows, user migration, security features, multi-Region replication (MRR) and observability.
+Amazon Cognito
+Security, Identity, and Compliance
+English
+6 hours
+300 - Advanced
+AWS Analytics Experience for FSI Insurance with SageMaker Next Gen
+Experience how the next generation of SageMaker and AWS analytics services come together to drive data insights across your insurance organization. In this workshop, you choose from 4 personas and follow their data journey though discovery, preparation, insights, and communication. This workshop opens with SageMaker Unified Studio deployed alongside InsuranceLake. Workshop users will use the AWS Console to start the experience and complete the journey in SageMaker Unified Studio and Quick Suite.
+Amazon QuickSight
+Amazon SageMaker
+AWS Glue
+English, español, português
+4 hours
+200 - Intermediate
+Serverless Model Customization with Amazon SageMaker AI
+This workshop provides hands-on experience with serverless model customization on Amazon SageMaker AI. Attendees will learn to prepare datasets, run serverless fine-tuning with LoRA across SFT, DPO, RLVR, and RLAIF, deploy fine-tuned models, and evaluate them using LLM-as-a-Judge.
+Amazon SageMaker
+Machine Learning (ML/AI)
+English
+4 hours
+300 - Advanced
+Load 220 more
+Foundational workshops
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Amazon QuickSight - All aspects [QuickSight Workshops - Author, Admin, Q, Generative BI, Embedding]
+Amazon QuickSight
+Analytics
+English
+4 hours
+100 - Foundational
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
+100 - Foundational
 Start
 FAQs
 Support
