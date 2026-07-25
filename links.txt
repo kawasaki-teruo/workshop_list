@@ -3,11 +3,15 @@ https://aws.amazon.com/legal/cookies/
 https://pulse.aws/application/ZRPLWLL6?p=0
 https://aws.amazon.com/privacy/
 https://builder.aws.com/
+https://builder.aws.com/settings
+https://builder.aws.com/settings
 https://builder.aws.com/
+https://builder.aws.com/settings
 https://builder.aws.com/
 https://builder.aws.com/
 https://builder.aws.com/learn
 https://builder.aws.com/learn/topics
+https://builder.aws.com/learn/students
 https://builder.aws.com/build
 https://builder.aws.com/build/capabilities
 https://builder.aws.com/build/tools
