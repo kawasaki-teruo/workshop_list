@@ -1,3 +1,4 @@
+Sign in
 Builder Center
 AWS Builder Center
 Build
@@ -5,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (230)
 Sort by
 Newest
 Level
@@ -20,8 +21,118 @@ Duration
 All durations
 Access
 All access types
-No results found.
-Clear filter
+Building an Agentic AI Platform on Amazon Bedrock AgentCore
+This hands-on workshop teaches customers and partners how to establish solid foundations for building and operating Agentic AI applications on AWS at scale. Participants will learn a 3-module framework covering platform infrastructure setup, agent development with reusable patterns, and production deployment lifecycle management. The workshop uses AgentCore and follows AWS Well-Architected best practices for security, governance, and operational excellence.
+Amazon Bedrock AgentCore
+Generative AI
+Machine Learning (ML/AI)
+English
+4 hours
+300 - Advanced
+Amazon Quick for Research
+Amazon Quick workshop targeting research use-cases covering all the core capabilities.
+Amazon Quick Suite
+Amazon QuickSight
+Business Applications
+English
+4 hours
+200 - Intermediate
+Getting started with AgentCore (Official Workshop)
+Getting started on AgentCore: Let's build an end-to-end use case using Amazon Bedrock AgentCore. Updated on July 16th - Provisioned VS Code Server Setup in workshop studio environment with Claude Code
+Amazon Bedrock AgentCore
+Generative AI
+English, 简体中文
+3 hours
+300 - Advanced
+Amazon ECS Workshop
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, español, português, 日本語, 한국어
+4 hours
+200 - Intermediate
+CFM TIPs Optimization Workshop
+This hands-on cost optimization workshop uses CFM TIPs playbooks to teach practical strategies for optimizing AWS infrastructure across EC2, RDS, S3, and EBS. Through interactive exercises and real-world scenarios, participants discover actionable techniques to right-size compute instances, optimize databases, implement intelligent storage tiering, and eliminate unused volumes.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon RDS for MySQL
+AWS CloudTrail
+English
+4 hours
+200 - Intermediate
+Build with Amazon OpenSearch Service (Official Workshop)
+Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
+Amazon OpenSearch Ingestion
+Amazon OpenSearch Service
+AWS Distro for OpenTelemetry
+English
+4 hours
+300 - Advanced
+Building Modern Resilient Applications using Amazon EKS and Amazon EFS
+A highly available application deployed in a multi-AZ active active deployment that has a DR region with hot standby resources where if there is a failure in primary region, you can easily cut-over to secondary region while keeping your application available.
+Amazon CloudWatch
+Amazon Elastic File System (Amazon EFS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
+300 - Advanced
+Diving Deep into Bedrock AgentCore (Official Workshop)
+This workshop is functional during the transition period and we're currently working on refreshing the content with a Claude Code, AgentCore CLI and Skills based format in end of July 2026. Recommendation: The Starter Toolkit CLI is no longer supported. Thanks for bearing with us! Please familiarise yourself with https://github.com/awslabs/agentcore-samples/tree/main/01-features. Getting started with AgentCore workshop is a prerequisite.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English, 한국어, 简体中文, español, 日本語
+3 hours
+300 - Advanced
+AWS Transform for SQL Server
+AWS Transform for SQL Server
+AWS Transform
+Databases
+English
+2 hours
+300 - Advanced
+One Media Workshop
+One Media Workshop provides a prescriptive, 100-400 level modular learning experience focusing on AWS Media Services, solutions for popular workloads, and advanced modules covering complex use cases.
+AWS Elemental MediaConvert
+AWS Elemental MediaLive
+AWS Elemental MediaTailor
+English
+6 hours
+300 - Advanced
+Load 220 more
+Foundational workshops
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+English, 日本語
+8 hours
+100 - Foundational
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
+100 - Foundational
+Amazon QuickSight - All aspects [QuickSight Workshops - Author, Admin, Q, Generative BI, Embedding]
+Amazon QuickSight
+Analytics
+English
+4 hours
+100 - Foundational
 Start
 FAQs
 Support
