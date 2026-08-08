@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (233)
 Sort by
 Newest
 Level
@@ -21,8 +21,122 @@ Duration
 All durations
 Access
 All access types
-No results found.
-Clear filter
+One Observability Workshop
+This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
+Amazon CloudWatch
+Amazon Managed Service for Prometheus (AMP)
+AWS X-Ray
+English, 한국어, 日本語
+3 hours
+300 - Advanced
+Manage, monitor and operate Microsoft workload securely on AWS
+In this hands-on workshop, discover how to efficiently manage and secure Microsoft Windows fleets on AWS through key services like EC2 Image Builder, AWS Systems Manager, and CloudWatch. Learn to build and deploy secure Windows images, automate patching, configure settings, and implement monitoring solutions. Explore best practices with Amazon Inspector and AWS Config to enhance security while reducing operational overhead.
+Amazon CloudWatch
+AWS Systems Manager
+EC2 Image Builder
+English
+4 hours
+300 - Advanced
+Once Upon Agentic AI: A Developer's Epic Journey
+Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
+Amazon Bedrock
+Amazon Bedrock AgentCore
+AWS Tools and SDKs
+English, français, Deutsch, 한국어
+2 hours
+300 - Advanced
+Diving Deep into Bedrock AgentCore (Official Workshop)
+A new version of this workshop has been published on Aug 6. Getting started with AgentCore workshop is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English
+4 hours
+400 - Expert
+Building Modern Resilient Applications using Amazon EKS and Amazon EFS
+A highly available application deployed in a multi-AZ active active deployment that has a DR region with hot standby resources where if there is a failure in primary region, you can easily cut-over to secondary region while keeping your application available.
+Amazon CloudWatch
+Amazon Elastic File System (Amazon EFS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+AWS Transform custom - Automate your code transformations and retire tech debt at scale
+This hands-on workshop will enable you to automate a wide range of code maintenance and evolution tasks using AWS Transform custom. Attendees will learn real-world use cases demonstrating significant time and cost savings compared to manual approaches. Whether you're looking to streamline API upgrades, migrate frameworks, or enforce coding standards, this workshop will provide a glimpse into the future of scalable, automated code transformations.
+AWS Identity & Access Management (IAM)
+AWS Transform
+Builder Experience
+English, 한국어, 日本語
+1 hours
+300 - Advanced
+Platform Engineering on EKS
+We build production-ready IDP platforms on Amazon EKS, combining CNCF tools with AWS services. Explore hands-on experience with Amazon Q Developer, managed databases, Backstage, ArgoCD, Crossplane, and OAM. Learn to accelerate platform adoption using GenAI-powered tools and automated delivery pipelines. Built on EKS Blueprints and CNOE, our solution enables modern cloud-native development on AWS.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Kiro
+Builder Experience
+English, français, 简体中文, español, 日本語, 한국어, português
+2 hours
+400 - Expert
+Serverless Model Customization with Amazon SageMaker AI
+This workshop provides hands-on experience with serverless model customization on Amazon SageMaker AI. Attendees will learn to prepare datasets, run serverless fine-tuning with LoRA across SFT, DPO, RLVR, and RLAIF, deploy fine-tuned models, and evaluate them using LLM-as-a-Judge.
+Amazon SageMaker
+Machine Learning (ML/AI)
+English
+4 hours
+300 - Advanced
+CFM TIPs Optimization Workshop
+This hands-on cost optimization workshop uses CFM TIPs playbooks to teach practical strategies for optimizing AWS infrastructure across EC2, RDS, S3, and EBS. Through interactive exercises and real-world scenarios, participants discover actionable techniques to right-size compute instances, optimize databases, implement intelligent storage tiering, and eliminate unused volumes.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon RDS for MySQL
+AWS CloudTrail
+English
+4 hours
+200 - Intermediate
+IND3328-R - Natural Language to Telco Infrastructure deployment with Amazon Kiro CLI & MCP
+In this hands-on session, learn how Agentic-AI and Model-Context Protocol transform Telco network deployments. AI agents convert network specifications into infrastructure-as-code for automated deployment. Built on Amazon Bedrock, Amazon Kiro CLI, EKS, and CloudWatch, the system allows operators to use natural language for generating production-ready infrastructure code. This solution reduces errors, speeds up deployments, and maintains compliance across Core, IMS, and O-RAN applications.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon Q
+English
+1 hours
+300 - Advanced
+Load 223 more
+Foundational workshops
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+English, 日本語
+8 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
+100 - Foundational
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
 Start
 FAQs
 Support
