@@ -18,6 +18,7 @@ https://builder.aws.com/faq#workshops
 https://builder.aws.com/learn
 https://builder.aws.com/learn/students
 https://builder.aws.com/learn/topics
+https://builder.aws.com/settings
 https://builder.aws.com/wishlist
 https://kiro.dev
 https://pulse.aws/application/ZRPLWLL6?p=0
