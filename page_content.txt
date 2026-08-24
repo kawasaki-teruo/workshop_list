@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (228)
+Find workshops (0)
 Sort by
 Newest
 Level
@@ -21,125 +21,8 @@ Duration
 All durations
 Access
 All access types
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
-English, 日本語, français
-1 hours
-200 - Intermediate
-Free AWS environment available
-Request free sandbox environment
-Claude Code on Amazon Bedrock
-In this hands-on workshop, you will learn how to accelerate team development and scale Claude Code deployments on Amazon Bedrock. You'll discover how to configure team environments, establish standards and workflows, and maximize Claude Code's capabilities to transform coding workflows. The workshop emphasizes best practices from Anthropic and Amazon to help teams get the most out of this powerful AI coding assistant.
-Amazon Bedrock
-Generative AI
-English, 한국어, 日本語
-3 hours
-300 - Advanced
-Modernize .NET apps for Linux using AWS Transform and Kiro
-In this workshop, gain hands-on experience modernizing a .NET Framework application to cross-platform .NET. Use AWS Transform for .NET a modernization service powered by agentic AI that significantly reduces the time to migrate applications from Windows Server to Linux. Then leverage an AI-powered IDE, to identify and fix any residual gaps, giving you full confidence in your modernized application. Together, these tools create a powerful end-to-end modernization accelerators.
-AWS Transform
-Kiro
-Microsoft
-English
-2 hours
-400 - Expert
-One Observability Workshop
-This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
-Amazon CloudWatch
-Amazon Managed Service for Prometheus (AMP)
-AWS X-Ray
-English, 한국어, 日本語
-3 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-The AWS Step Functions Workshop
-The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
-AWS Step Functions
-Compute
-Containers
-English, español, 日本語, português, 繁體中文, 한국어
-3 hours
-200 - Intermediate
-CDK Workshop
-Workshops to learn the AWS CDK.
-AWS Cloud Development Kit (AWS CDK)
-Builder Experience
-English, 日本語
-8 hours
-200 - Intermediate
-Free AWS environment available
-Request free sandbox environment
-Building with Amazon Bedrock featuring Claude Code, Kiro, AgentCore, and Strands Agents
-Now featuring Strands SDK, Amazon Bedrock AgentCore, Kiro, and Claude Code on Amazon Bedrock! Workshop participants build simple generative AI demo applications while learning key concepts. Labs include agentic fundamentals, security and guardrails, chatbots, retrieval-augmented generation (RAG), MCP, agent skills, and Streamlit.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Kiro
-English
-4 hours
-200 - Intermediate
-Running Efficient Kubernetes Clusters on Amazon EC2 with EKS, Karpenter, EC2 Spot, and Graviton
-Learn how to provision, manage, and maintain your efficient Kubernetes clusters with Amazon EKS at any scale using EC2 Spot, Graviton, and Karpenter using EKS Auto Mode. Karpenter is a node lifecycle management solution used to scale your EKS Cluster. It observes incoming pods and launches the right instances for the situation. Instance selection decisions are intent based and driven by the specification of incoming pods, including resource requests and scheduling constraints.
-Amazon EC2 Spot
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-4 hours
-300 - Advanced
-Agentic AI-Powered anomaly detection: Spotting anomalies in real-time
-This hands-on workshop demonstrates how to implement real-time data processing using AWS data streaming services, combining Apache Kafka (MSK), Apache Flink (MSF), and Amazon Bedrock for Agentic AI integration.
-Amazon Bedrock
-Amazon Managed Streaming for Apache Kafka (Amazon MSK)
-Amazon Kinesis Data Analytics
-English, 한국어
-2 hours
-400 - Expert
-Free AWS environment available
-Request free sandbox environment
-AI-DLC Workshop
-Learn AI-Driven Development Life Cycle (AI-DLC), a human-centric methodology where AI drives the workflow and you make the decisions. Using Kiro CLI, go hands-on from inception to operations: guide AI planning sessions, apply Domain-Driven Design, and build a complete application end-to-end. Trade weeks-long cycles for hours. Built for developers, product owners, and technical leaders ready to put human-AI collaboration to work.
-Kiro
-Builder Experience
-Generative AI
-English, español
-4 hours
-300 - Advanced
-Load 218 more
-Foundational workshops
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
-100 - Foundational
-Amazon QuickSight - All aspects [QuickSight Workshops - Author, Admin, Q, Generative BI, Embedding]
-Amazon QuickSight
-Analytics
-English
-4 hours
-100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
-English
-2 hours
-100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
-100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-English, 日本語
-8 hours
-100 - Foundational
+No results found.
+Clear filter
 Start
 FAQs
 Support
