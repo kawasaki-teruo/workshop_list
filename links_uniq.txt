@@ -1,7 +1,5 @@
 https://aws.amazon.com/accessibility
 https://aws.amazon.com/legal/cookies
-https://aws.amazon.com/new
-https://aws.amazon.com/opensource
 https://aws.amazon.com/privacy
 https://aws.amazon.com/terms
 https://builder.aws.com
@@ -21,12 +19,10 @@ https://builder.aws.com/faq#workshops
 https://builder.aws.com/learn
 https://builder.aws.com/learn/students
 https://builder.aws.com/learn/topics
+https://builder.aws.com/settings
 https://builder.aws.com/start
+https://builder.aws.com/student-rewards
 https://builder.aws.com/support
 https://builder.aws.com/terms
 https://builder.aws.com/wishlist
-https://kiro.dev
 https://pulse.aws/application/ZRPLWLL6?p=0
-https://repost.aws/channels/aws-support-official
-https://skillbuilder.aws
-https://startups.aws
