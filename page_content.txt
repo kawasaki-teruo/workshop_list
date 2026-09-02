@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (223)
 Sort by
 Newest
 Level
@@ -21,8 +21,124 @@ Duration
 All durations
 Access
 All access types
-No results found.
-Clear filter
+Deploy large Generative AI models with high performance and scale using SageMaker AI
+This workshop provides 400 level guidance and best practices in deploying ML and FM models to Amazon SageMaker AI.
+Amazon SageMaker Studio
+Amazon SageMaker
+Machine Learning (ML/AI)
+English
+8 hours
+400 - Expert
+Platform Engineering on EKS
+We build production-ready IDP platforms on Amazon EKS, combining CNCF tools with AWS services. Explore hands-on experience with Amazon Q Developer, managed databases, Backstage, ArgoCD, Crossplane, and OAM. Learn to accelerate platform adoption using GenAI-powered tools and automated delivery pipelines. Built on EKS Blueprints and CNOE, our solution enables modern cloud-native development on AWS.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Kiro
+Builder Experience
+English, français, 简体中文, español, 日本語, 한국어, português
+2 hours
+400 - Expert
+AWS Marketplace Seller Workshop
+This workshop guides sellers through onboarding to AWS Marketplace, listing and integrating each product type, and working with the Marketplace APIs. It also includes end-to-end listing labs for common seller use cases.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+AWS Marketplace
+English, 한국어
+8 hours
+300 - Advanced
+A Complete Guide to Amazon Quick: The Agentic AI Business Workspace
+Amazon Quick is an agentic AI workspace that helps enterprise teams automate tasks, analyze data, and conduct research. You interact through conversational AI that accesses your data, the web, documents, knowledge bases, and connected applications. It combines business intelligence, workflow automation, AI-powered research, and app building into a single product where everything works together.
+Amazon Bedrock AgentCore
+Amazon Quick Suite
+Generative AI
+English, 日本語, 한국어, português, español, 简体中文, français
+5 hours
+200 - Intermediate
+Free AWS environment available
+Request free sandbox environment
+The AWS Step Functions Workshop
+The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
+AWS Step Functions
+Compute
+Containers
+English, español, 日本語, português, 繁體中文, 한국어
+3 hours
+200 - Intermediate
+Amazon Quick Suite for Energy & Utilities: Transforming Operations with AI-Powered Intelligence
+Step into the role of a Energy Operations Director and learn Amazon Quick hands-on. Through progressive modules, you'll use AI-powered chat, Spaces, autonomous research, workflow automation, custom agents, and analytics to solve real renewable energy operations challenges, from wind turbine maintenance to solar performance and regulatory compliance. No ML expertise required. Available as an AWS event or self-paced.
+Amazon Quick Suite
+Business Applications
+Energy
+English
+4 hours
+200 - Intermediate
+Amazon Quick for Research
+Amazon Quick workshop targeting research use-cases covering all the core capabilities.
+Amazon Quick Suite
+Amazon QuickSight
+Business Applications
+English
+4 hours
+200 - Intermediate
+Free AWS environment available
+Request free sandbox environment
+Getting started with AgentCore (Official Workshop)
+Getting started on AgentCore: Let's build an end-to-end use case using Amazon Bedrock AgentCore. Prerequisite to Diving Deep With AgentCore
+Amazon Bedrock AgentCore
+Generative AI
+English, 日本語, 简体中文
+3 hours
+300 - Advanced
+Real-Time Streaming with Amazon MSK
+Master real-time data streaming with Amazon MSK through hands-on labs. Learn to provision and scale MSK clusters, implement monitoring with CloudWatch and Prometheus, configure security and encryption, integrate with AWS Lambda and Apache Flink, and migrate from self-managed Kafka. Build production-ready streaming pipelines using MSK Express Brokers for enhanced performance. Ideal for data engineers building real-time applications.
+Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+Analytics
+English
+4 hours
+400 - Expert
+Amazon RDS for Oracle Workshop
+A deeper dive into the Amazon RDS for Oracle service, features and migration approach
+Amazon RDS for Oracle
+Amazon Relational Database Service (Amazon RDS)
+Databases
+English
+4 hours
+200 - Intermediate
+Load 213 more
+Foundational workshops
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
+100 - Foundational
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
 Start
 FAQs
 Support
