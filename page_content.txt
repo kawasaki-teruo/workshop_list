@@ -1,3 +1,4 @@
+Sign in
 Builder Center
 AWS Builder Center
 Build
@@ -25,6 +26,7 @@ Clear filter
 Start
 FAQs
 Support
+Student Rewards
 AWS Builder Terms
 Accessibility 
 Privacy 
