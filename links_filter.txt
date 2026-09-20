@@ -28,12 +28,13 @@ https://builder.aws.com/support
 https://builder.aws.com/terms
 https://builder.aws.com/wishlist
 https://catalog.us-east-1.prod.workshops.aws/workshops/02696107-09ac-4313-a6cb-3798048b07d7
+https://catalog.us-east-1.prod.workshops.aws/workshops/047883b0-0958-410c-bc70-1071f1fb3f52
 https://catalog.us-east-1.prod.workshops.aws/workshops/05554d54-07cc-483e-b810-d69f7d99b2ab
 https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-18c7f85788d4
-https://catalog.us-east-1.prod.workshops.aws/workshops/18b3622c-5d4c-45c9-9834-6a7091109072
 https://catalog.us-east-1.prod.workshops.aws/workshops/6932a032-aeec-4dfd-bad8-7bfbc8dad4c2
 https://catalog.us-east-1.prod.workshops.aws/workshops/70fba2e9-9ef1-4c3f-97df-d9afac1182d4
 https://catalog.us-east-1.prod.workshops.aws/workshops/767d3081-b4fa-4e08-81da-17e5c94a1a08
+https://catalog.us-east-1.prod.workshops.aws/workshops/7aa26276-eea0-4aab-acc6-466454b50706
 https://catalog.us-east-1.prod.workshops.aws/workshops/7e9f67a3-985a-4e9c-b38b-2d54a70d0da7
 https://catalog.us-east-1.prod.workshops.aws/workshops/9ae0382f-c40a-44d4-a604-e1b378866323
 https://catalog.us-east-1.prod.workshops.aws/workshops/9f29cdba-66c0-445e-8cbb-28a092cb5ba7

@@ -21,6 +21,13 @@ Duration
 All durations
 Access
 All access types
+AWS Transform for SQL Server
+AWS Transform for SQL Server Modernization - Offline Source migrating SQL Server to Amazon Aurora PostgreSQL
+AWS Transform
+Databases
+English
+2 hours
+300 - Advanced
 Amazon SageMaker Workshop
 This workshop will navigate through all feature and capabilities of next generation of Amazon SageMaker. The Amazon SageMaker Unified Studio to explore Amazon SageMaker Lakehouse (for Data) and Amazon SageMaker Catalog (for data governance) to solve Analytics, AIML, GenAI application development use-cases.
 Amazon SageMaker
@@ -92,41 +99,21 @@ AWS Directory Service
 English
 4 hours
 300 - Advanced
-IAM Core Workshop (Formerly: IAM Immersion Day)
-The IAM workshop provides a comprehensive introduction through advanced concepts with AWS Identity and Access Management (AWS IAM). The basic modules help learners get started with some basic concepts, such as users, roles, and policies. The advanced modules provide a much deeper dive into policies, role switching, ABAC, monitoring, and advanced permissions concepts.
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
 Load 206 more
 Foundational workshops
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
-100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
-100 - Foundational
-Getting started with Quick Automate
+Storytelling based AI-powered insights and automation using Amazon Quick
 Amazon Quick Suite
+Analytics
 Generative AI
+English, 한국어
+3 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
 English
 2 hours
-100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
-6 hours
 100 - Foundational
 Container Foundations on AWS
 Amazon Elastic Container Registry (Amazon ECR)
@@ -135,15 +122,16 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 100 - Foundational
-Start
-FAQs
-Support
-Student Rewards
-Mobile
-AWS Builder Terms
-Accessibility 
-Privacy 
-Site Terms 
-Your Privacy Choices
-Cookie preferences
-© 2026, Amazon Web Services, Inc. or its affiliates. All rights reserved.
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
