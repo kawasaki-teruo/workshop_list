@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (211)
 Sort by
 Newest
 Level
@@ -21,5 +21,131 @@ Duration
 All durations
 Access
 All access types
-No results found.
-Clear filter
+Amazon SageMaker Workshop
+This workshop will navigate through all feature and capabilities of next generation of Amazon SageMaker. The Amazon SageMaker Unified Studio to explore Amazon SageMaker Lakehouse (for Data) and Amazon SageMaker Catalog (for data governance) to solve Analytics, AIML, GenAI application development use-cases.
+Amazon SageMaker
+AWS Glue
+AWS Lake Formation
+English, 日本語, 한국어, العربية, 简体中文
+8 hours
+300 - Advanced
+AWS Cost and Usage Report (CUR) Query Library
+The AWS CUR Query Library (CQL) is a collection of curated SQL queries to get you started with analyzing your Cost and Usage Report (CUR) data. Cost analysis is unique to each business and these queries are intended to be modified to suit your specific needs. The library will be updated periodically as we build new queries and receive feedback from customers.
+AWS Cost and Usage Report
+AWS Cost Management
+English
+2 hours
+300 - Advanced
+Active Directory on AWS workshop
+A guide to deploying Active Directory (AD) on AWS, set up hybrid solutions, and set up Hybrid DNS. Security and compliance best practices for AD on AWS are also covered.
+Amazon CloudWatch Logs
+Amazon Route 53
+AWS Directory Service
+English
+4 hours
+300 - Advanced
+Centralized Operations Management on AWS
+In this hands-on workshop, you will deep dive into ways in which you can operate your cloud and on-premises environments, including infrastructure and applications. You will go through a hands-on pick your own challenge, to focus on managing and automating infrastructure, application management and governance, and compliance management and assurance.
+Amazon CloudWatch
+AWS Config
+AWS Systems Manager
+English, 日本語
+5 hours
+200 - Intermediate
+AWS Serverless Developer Experience
+This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
+Amazon EventBridge
+AWS Serverless Application Model (AWS SAM)
+AWS Step Functions
+English
+8 hours
+400 - Expert
+Karpenter Workshop
+Explore using Karpenter with Amazon EKS to express workload requirements, and observe Karpenter automatically provisioning and consolidating EC2 instances. Through a series of hands-on labs, participants will explore advanced topics including instance type selection, spot interruption handling, bin-packing and consolidation policies, and cost optimization strategies.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Compute
+Containers
+English, 日本語
+4 hours
+400 - Expert
+Securing AWS Network Traffic: Network Firewall & DNS Firewall Workshop
+A comprehensive workshop demonstrating how to secure AWS network traffic using AWS Network Firewall and Route 53 DNS Firewall. Learn to implement and manage network security controls for VPC and Transit Gateway architectures to protect your cloud workloads.
+AWS Network Firewall
+Amazon Route 53
+AWS Transit Gateway
+English, 한국어
+2 hours
+300 - Advanced
+One Observability Workshop
+This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
+Amazon CloudWatch
+Amazon Managed Service for Prometheus (AMP)
+AWS X-Ray
+English, 한국어, 日本語
+3 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+Amazon Quick for Energy & Utilities
+Step into the role of a Energy Operations Director and learn Amazon Quick hands-on. Through progressive modules, you'll use AI-powered chat, Spaces, autonomous research, workflow automation, custom agents, and analytics to solve real renewable energy operations challenges, from wind turbine maintenance to solar performance and regulatory compliance. No ML expertise required. Available as an AWS event or self-paced.
+Amazon Quick Suite
+Business Applications
+Energy
+English
+3 hours
+200 - Intermediate
+Aurora DSQL Workshop
+Amazon Aurora DSQL is a serverless distributed SQL database with virtually unlimited scale, the highest availability, and zero infrastructure management. In this workshop, we will dive deep into how DSQL works, how it is different from traditional relational databases, and how you can leverage its design and features to help grow your application.
+Amazon Aurora
+Databases
+English, 日本語, 한국어
+4 hours
+400 - Expert
+Load 201 more
+Foundational workshops
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
+2 hours
+100 - Foundational
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
+100 - Foundational
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
+Start
+FAQs
+Support
+Student Rewards
+Mobile
+AWS Builder Terms
+Accessibility 
+Privacy 
+Site Terms 
+Your Privacy Choices
+Cookie preferences
+© 2026, Amazon Web Services, Inc. or its affiliates. All rights reserved.
