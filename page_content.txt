@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (204)
+Find workshops (203)
 Sort by
 Newest
 Level
@@ -21,6 +21,40 @@ Duration
 All durations
 Access
 All access types
+Free AWS environment available
+Request free sandbox environment
+Once Upon Agentic AI: A Developer's Epic Journey
+Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
+Amazon Bedrock
+Amazon Bedrock AgentCore
+AWS Tools and SDKs
+English, français, Deutsch, 한국어
+2 hours
+300 - Advanced
+Build, Test, Optimize: Hands-On with Agentic AI on Amazon Connect Customer
+Stop watching demos. Start building! In this hands-on workshop, you'll build, test, and optimize agentic customer experiences yourself - and see how fast you can go from idea to live deployment. No code. No complexity. Just the power of AI-native tooling in your hands. This is an experience-first workshop where users can step into a prebuilt Amazon Connect environment and easily create a agentic experience using the agentic CX designer (ACXD).
+Amazon Connect
+Communication Applications
+Contact Center
+English, 日本語, español, português
+4 hours
+200 - Intermediate
+Modernize .NET apps for Linux using AWS Transform and Kiro
+In this workshop, gain hands-on experience modernizing a .NET Framework application to cross-platform .NET. Use AWS Transform for .NET a modernization service powered by agentic AI that significantly reduces the time to migrate applications from Windows Server to Linux. Then leverage an AI-powered IDE, to identify and fix any residual gaps, giving you full confidence in your modernized application. Together, these tools create a powerful end-to-end modernization accelerators.
+AWS Transform
+Kiro
+Microsoft
+English, português, español
+2 hours
+400 - Expert
+AWS Storage Workshop
+An AWS Storage focused workshop, that introduces several AWS storage services with a focus on storage security best practices, data migration strategies, storage performance tuning, and backup.
+Amazon Elastic File System (Amazon EFS)
+Amazon Simple Storage Service (Amazon S3)
+AWS Backup
+English
+6 hours
+300 - Advanced
 Container Foundations on AWS
 Container Foundations on AWS is an entry level hands-on workshop for developers and architects who are new to containers. You will move through the full container lifecycle: building secure, optimized images; managing them in a registry with scanning and signing; supporting multiple CPU architectures including AWS Graviton; and deploying onto AWS. Optional modules cover automated build pipelines.
 Amazon Elastic Container Registry (Amazon ECR)
@@ -69,46 +103,27 @@ Kiro
 English
 2 hours
 300 - Advanced
-AWS Serverless Developer Experience
-This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
-Amazon EventBridge
-AWS Serverless Application Model (AWS SAM)
-AWS Step Functions
-English
-8 hours
-400 - Expert
-Platform Engineering on EKS
-We build production-ready IDP platforms on Amazon EKS, combining CNCF tools with AWS services. Explore hands-on experience with Amazon Q Developer, managed databases, Backstage, ArgoCD, Crossplane, and OAM. Learn to accelerate platform adoption using GenAI-powered tools and automated delivery pipelines. Built on EKS Blueprints and CNOE, our solution enables modern cloud-native development on AWS.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Kiro
-Builder Experience
-English, français, 简体中文, español, 日本語, 한국어, português
-2 hours
-400 - Expert
-AWS Partner CRM Integration (Consolidated)
-These workshops helps AWS Partners on APN to automate their co-sell operation by integrating their Customer Relationship Management environment with AWS Partner central and AWS marketplace services.
-AWS Management Console
-AWS Marketplace
-Builder Experience
-English
-3 hours
-300 - Advanced
-Application Modernization Lab
-In this workshop, learn how to use AWS modernization pathways to transform a monolithic workload into a loosely coupled, distributed microservices architecture. Follow a real-world migration scenario, starting with migrating your application, and apply AWS modernization pathways such as Move to Containers, Move to Managed Database, Move to Open Source, Move to Cloud-Native, and Move to AI. Discover how AWS services like Amazon RDS, AWS Lambda, Amazon API Gateway and Kiro enable each pathway.
-AWS Lambda
-AWS Migration Hub
-Migration & Transfer
-English
-6 hours
-300 - Advanced
-Load 194 more
+Load 193 more
 Foundational workshops
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
 100 - Foundational
 Foundational Security, Identity, and Governance Workshop
 AWS Control Tower
@@ -117,26 +132,12 @@ AWS Security Hub
 English
 8 hours
 100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
 English
-2 hours
-100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
-100 - Foundational
-Storytelling based AI-powered insights and automation using Amazon Quick
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
+6 hours
 100 - Foundational
 Start
 FAQs
