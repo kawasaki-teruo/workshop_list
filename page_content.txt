@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (0)
+Find workshops (203)
 Sort by
 Newest
 Level
@@ -21,5 +21,135 @@ Duration
 All durations
 Access
 All access types
-No results found.
-Clear filter
+Karpenter Workshop
+Explore using Karpenter with Amazon EKS to express workload requirements, and observe Karpenter automatically provisioning and consolidating EC2 instances. Through a series of hands-on labs, participants will explore advanced topics including instance type selection, spot interruption handling, bin-packing and consolidation policies, and cost optimization strategies.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Compute
+Containers
+English, 日本語
+4 hours
+400 - Expert
+Free AWS environment available
+Request free sandbox environment
+Once Upon Agentic AI: A Developer's Epic Journey
+Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
+Amazon Bedrock
+Amazon Bedrock AgentCore
+AWS Tools and SDKs
+English, français, Deutsch, 한국어
+2 hours
+300 - Advanced
+SageMaker HyperPod EKS for AWS Hosted Events
+SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
+Amazon SageMaker
+Amazon FSx for Lustre
+Amazon Elastic Compute Cloud (Amazon EC2)
+English
+2 hours
+300 - Advanced
+SageMaker HyperPod Slurm for AWS Hosted Events
+SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
+Amazon FSx for Lustre
+Amazon SageMaker
+Generative AI
+English
+1 hours
+400 - Expert
+Java on AWS
+Explore modern Java on AWS containers: deploy to Amazon EKS Auto Mode and ECS Express Mode for simplified operations. Achieve faster startup times using Java 25 AOT cache, CRaC checkpoint/restore, and Class Data Sharing. Build optimized images with Jib and lazy-load with SOCI. Run on AWS Graviton for up to 40% better price-performance. Leverage Amazon Bedrock to automatically analyze JVM thread dumps and async-profiler flamegraphs, generating AI-powered optimization insights.
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+4 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+The AWS Step Functions Workshop
+The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
+AWS Step Functions
+Compute
+Containers
+English, español, 日本語, português, 繁體中文, 한국어
+3 hours
+200 - Intermediate
+Build, Test, Optimize: Hands-On with Agentic AI with Connect Customer agentic CX Designer (ACXD)
+Stop watching demos. Start building! In this hands-on workshop, you'll build, test, and optimize agentic customer experiences yourself - and see how fast you can go from idea to live deployment. No code. No complexity. Just the power of AI-native tooling in your hands. This is an experience-first workshop where users can step into a prebuilt Amazon Connect environment and easily create a agentic experience using the agentic CX designer (ACXD).
+Amazon Connect
+Communication Applications
+Contact Center
+English, 日本語, español, português
+4 hours
+200 - Intermediate
+AWS Gateway Load Balancer Workshop
+Learn how to use the AWS's Gateway Load Balancer with other third-party firewalls and with open source software. This workshop goes overbuilding your own firewall in the cloud, and shows you the steps to accomplish it along the way.
+Amazon Virtual Private Cloud (Amazon VPC)
+AWS Transit Gateway
+Elastic Load Balancing (ELB)
+English, 한국어, 日本語
+3 hours
+300 - Advanced
+Track and Optimize Generative AI Spend on AWS
+Learn to track and optimize generative AI spend on Amazon Bedrock using multiple cost attribution methods: IAM principal attribution, inference profiles, projects, per-request metadata tagging, and IAM identity log attribution. Apply these across multi-tenant apps, Claude Code, and AgentCore agents. Explore LiteLLM for multi-provider tracking. Build dashboards with Cost Explorer, CUR 2.0, and CUDOS.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+AWS Billing & Cost Management
+English
+3 hours
+300 - Advanced
+Modernize .NET apps for Linux using AWS Transform and Kiro
+In this workshop, gain hands-on experience modernizing a .NET Framework application to cross-platform .NET. Use AWS Transform for .NET a modernization service powered by agentic AI that significantly reduces the time to migrate applications from Windows Server to Linux. Then leverage an AI-powered IDE, to identify and fix any residual gaps, giving you full confidence in your modernized application. Together, these tools create a powerful end-to-end modernization accelerators.
+AWS Transform
+Kiro
+Microsoft
+English, português, español
+2 hours
+400 - Expert
+Load 193 more
+Foundational workshops
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
+100 - Foundational
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+Start
+FAQs
+Support
+Student Rewards
+Mobile
+AWS Builder Terms
+Accessibility 
+Privacy 
+Site Terms 
+Your Privacy Choices
+Cookie preferences
+© 2026, Amazon Web Services, Inc. or its affiliates. All rights reserved.
