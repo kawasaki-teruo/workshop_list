@@ -21,6 +21,29 @@ Duration
 All durations
 Access
 All access types
+AWS DMS workshop for customers (AWS Database Migration service workshop)
+In this workshop, we will explore how you can migrate your data to and from the most widely used commercial (Oracle/SQL Server) and open-source databases (MySQL/Postgres) as well as non-database sources & targets like Amazon S3 using the AWS Database Migration Service (DMS) and AWS Schema Conversion(SC) with GenAI or classic SCT download tool. In 2025, we added java application embedded SQL conversion with Amazon Q. There is also advanced schema conversion for Oracle/SQL Server to PostgreSQL.
+Amazon Aurora
+Amazon Relational Database Service (Amazon RDS)
+AWS Database Migration Service
+English
+6 hours
+300 - Advanced
+MAM406 - Migrate & Modernize Windows to Linux and SQL to PostgreSQL with agentic AI
+Join this Activation Day to migrate and modernize Microsoft Server workloads to Amazon EC2 using AWS Application Migration Service and AWS Transform. This hands-on session leverages Kiro to accelerate planning and execution, covering best practices for rehosting, right-sizing, and optimizing licensing costs. Ideal for IT teams looking to reduce on-premises footprint and unlock cloud benefits.
+Amazon Elastic Compute Cloud (Amazon EC2)
+AWS Application Migration Service
+Compute
+English
+4 hours
+400 - Expert
+How to run an AWS Well-Architected Framework Review
+There are three phases to running a successful and efficient Well-Architected Framework Review (WAFR): Prepare, Review, Improve. This workshop will step through the three phases ensuring you have sufficient preparation in place to get the most value from the review phase, and will guide you into turning the findings into actionable improvements for the workload.
+AWS Well-Architected Tool
+Management & Governance
+English
+4 hours
+200 - Intermediate
 Karpenter Workshop
 Explore using Karpenter with Amazon EKS to express workload requirements, and observe Karpenter automatically provisioning and consolidating EC2 instances. Through a series of hands-on labs, participants will explore advanced topics including instance type selection, spot interruption handling, bin-packing and consolidation policies, and cost optimization strategies.
 Amazon Elastic Kubernetes Service (Amazon EKS)
@@ -81,43 +104,33 @@ Contact Center
 English, 日本語, español, português
 4 hours
 200 - Intermediate
-AWS Gateway Load Balancer Workshop
-Learn how to use the AWS's Gateway Load Balancer with other third-party firewalls and with open source software. This workshop goes overbuilding your own firewall in the cloud, and shows you the steps to accomplish it along the way.
-Amazon Virtual Private Cloud (Amazon VPC)
-AWS Transit Gateway
-Elastic Load Balancing (ELB)
-English, 한국어, 日本語
-3 hours
-300 - Advanced
-Track and Optimize Generative AI Spend on AWS
-Learn to track and optimize generative AI spend on Amazon Bedrock using multiple cost attribution methods: IAM principal attribution, inference profiles, projects, per-request metadata tagging, and IAM identity log attribution. Apply these across multi-tenant apps, Claude Code, and AgentCore agents. Explore LiteLLM for multi-provider tracking. Build dashboards with Cost Explorer, CUR 2.0, and CUDOS.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-AWS Billing & Cost Management
-English
-3 hours
-300 - Advanced
-Modernize .NET apps for Linux using AWS Transform and Kiro
-In this workshop, gain hands-on experience modernizing a .NET Framework application to cross-platform .NET. Use AWS Transform for .NET a modernization service powered by agentic AI that significantly reduces the time to migrate applications from Windows Server to Linux. Then leverage an AI-powered IDE, to identify and fix any residual gaps, giving you full confidence in your modernized application. Together, these tools create a powerful end-to-end modernization accelerators.
-AWS Transform
-Kiro
-Microsoft
-English, português, español
-2 hours
-400 - Expert
 Load 193 more
 Foundational workshops
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
+8 hours
+100 - Foundational
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
+2 hours
+100 - Foundational
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
 AWS 101 - NoSQL Databases
 Amazon DynamoDB
 Amazon DocumentDB (with MongoDB compatibility)
 Amazon ElastiCache
-English
-2 hours
-100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 100 - Foundational
@@ -127,19 +140,6 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 Amazon SageMaker
 English
 6 hours
-100 - Foundational
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
 100 - Foundational
 Start
 FAQs
