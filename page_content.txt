@@ -21,6 +21,54 @@ Duration
 All durations
 Access
 All access types
+Free AWS environment available
+Request free sandbox environment
+Amazon Redshift Hands-on Workshop
+This set of workshops provides a series of exercises which help users get started using the Redshift platform. It also helps demonstrate the many features built into the platform.
+Amazon Redshift
+Analytics
+Serverless
+English, 日本語, 한국어
+4 hours
+200 - Intermediate
+Aurora DSQL Workshop
+Amazon Aurora DSQL is a serverless distributed SQL database with virtually unlimited scale, the highest availability, and zero infrastructure management. In this workshop, we will dive deep into how DSQL works, how it is different from traditional relational databases, and how you can leverage its design and features to help grow your application.
+Amazon Aurora
+Databases
+English, 日本語, 한국어
+4 hours
+400 - Expert
+Amazon Data Firehose Workshop
+An Amazon Data Firehose Workshop provides our customers with hands-on experience to capture, transform, and deliver streaming data into data lakes, data stores, and analytics services using Amazon Data Firehose.
+Amazon Kinesis Data Firehose
+Analytics
+English
+4 hours
+300 - Advanced
+Build with Amazon OpenSearch Service (Official Workshop)
+Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
+Amazon OpenSearch Ingestion
+Amazon OpenSearch Service
+AWS Distro for OpenTelemetry
+English
+4 hours
+300 - Advanced
+Threat Detection and Response Workshop
+This workshop is designed to get you familiar with the AWS threat detection and response services, best practices, use cases, and then use what you learn to dive deeper into scenarios. All of this is designed to prepare you and help you operate more securely on AWS. This workshop goes though overviews and operationalization of Amazon GuardDuty and Amazon Detective.
+Amazon Detective
+Amazon GuardDuty
+Security, Identity, and Compliance
+English, português, 한국어
+4 hours
+300 - Advanced
+Foundational Security, Identity, and Governance Workshop
+Hands-on AWS workshop covering foundational security, identity, and governance services. Learn to implement compliance monitoring, IAM controls, data encryption, threat detection, and network security through guided exercises. Designed for IT professionals, cloud engineers, and security analysts new to AWS security.
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
 AWS DMS workshop for customers (AWS Database Migration service workshop)
 In this workshop, we will explore how you can migrate your data to and from the most widely used commercial (Oracle/SQL Server) and open-source databases (MySQL/Postgres) as well as non-database sources & targets like Amazon S3 using the AWS Database Migration Service (DMS) and AWS Schema Conversion(SC) with GenAI or classic SCT download tool. In 2025, we added java application embedded SQL conversion with Amazon Q. There is also advanced schema conversion for Oracle/SQL Server to PostgreSQL.
 Amazon Aurora
@@ -52,72 +100,19 @@ Containers
 English, 日本語
 4 hours
 400 - Expert
-Free AWS environment available
-Request free sandbox environment
-Once Upon Agentic AI: A Developer's Epic Journey
-Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
-Amazon Bedrock
-Amazon Bedrock AgentCore
-AWS Tools and SDKs
-English, français, Deutsch, 한국어
-2 hours
-300 - Advanced
-SageMaker HyperPod EKS for AWS Hosted Events
-SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
-Amazon SageMaker
-Amazon FSx for Lustre
-Amazon Elastic Compute Cloud (Amazon EC2)
-English
-2 hours
-300 - Advanced
-SageMaker HyperPod Slurm for AWS Hosted Events
-SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
-Amazon FSx for Lustre
-Amazon SageMaker
-Generative AI
-English
-1 hours
-400 - Expert
-Java on AWS
-Explore modern Java on AWS containers: deploy to Amazon EKS Auto Mode and ECS Express Mode for simplified operations. Achieve faster startup times using Java 25 AOT cache, CRaC checkpoint/restore, and Class Data Sharing. Build optimized images with Jib and lazy-load with SOCI. Run on AWS Graviton for up to 40% better price-performance. Leverage Amazon Bedrock to automatically analyze JVM thread dumps and async-profiler flamegraphs, generating AI-powered optimization insights.
+Load 193 more
+Foundational workshops
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
+Container Foundations on AWS
 Amazon Elastic Container Registry (Amazon ECR)
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
 English
-4 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-The AWS Step Functions Workshop
-The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
-AWS Step Functions
-Compute
-Containers
-English, español, 日本語, português, 繁體中文, 한국어
-3 hours
-200 - Intermediate
-Build, Test, Optimize: Hands-On with Agentic AI with Connect Customer agentic CX Designer (ACXD)
-Stop watching demos. Start building! In this hands-on workshop, you'll build, test, and optimize agentic customer experiences yourself - and see how fast you can go from idea to live deployment. No code. No complexity. Just the power of AI-native tooling in your hands. This is an experience-first workshop where users can step into a prebuilt Amazon Connect environment and easily create a agentic experience using the agentic CX designer (ACXD).
-Amazon Connect
-Communication Applications
-Contact Center
-English, 日本語, español, português
-4 hours
-200 - Intermediate
-Load 193 more
-Foundational workshops
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
-100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
 2 hours
 100 - Foundational
 Foundational Security, Identity, and Governance Workshop
@@ -127,19 +122,18 @@ AWS Security Hub
 English
 8 hours
 100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
-English
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
 2 hours
 100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
 English
-6 hours
+2 hours
 100 - Foundational
 Start
 FAQs
