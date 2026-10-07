@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (203)
+Find workshops (201)
 Sort by
 Newest
 Level
@@ -21,6 +21,37 @@ Duration
 All durations
 Access
 All access types
+AWS Partner CRM Integration (Consolidated)
+These workshops helps AWS Partners on APN to automate their co-sell operation by integrating their Customer Relationship Management environment with AWS Partner central and AWS marketplace services.
+AWS Management Console
+AWS Marketplace
+Builder Experience
+English
+3 hours
+300 - Advanced
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
+Kiro Core
+Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
+Kiro
+Builder Experience
+English
+4 hours
+200 - Intermediate
+Build, Test, Optimize: Hands-On with Agentic AI with Connect Customer agentic CX Designer (ACXD)
+Stop watching demos. Start building! In this hands-on workshop, you'll build, test, and optimize agentic customer experiences yourself - and see how fast you can go from idea to live deployment. No code. No complexity. Just the power of AI-native tooling in your hands. This is an experience-first workshop where users can step into a prebuilt Amazon Connect environment and easily create a agentic experience using the agentic CX designer (ACXD).
+Amazon Connect
+Communication Applications
+Contact Center
+English, 日本語, español, português
+4 hours
+200 - Intermediate
 Free AWS environment available
 Request free sandbox environment
 Amazon Redshift Hands-on Workshop
@@ -69,49 +100,33 @@ AWS Security Hub
 English
 8 hours
 100 - Foundational
-AWS DMS workshop for customers (AWS Database Migration service workshop)
-In this workshop, we will explore how you can migrate your data to and from the most widely used commercial (Oracle/SQL Server) and open-source databases (MySQL/Postgres) as well as non-database sources & targets like Amazon S3 using the AWS Database Migration Service (DMS) and AWS Schema Conversion(SC) with GenAI or classic SCT download tool. In 2025, we added java application embedded SQL conversion with Amazon Q. There is also advanced schema conversion for Oracle/SQL Server to PostgreSQL.
-Amazon Aurora
-Amazon Relational Database Service (Amazon RDS)
-AWS Database Migration Service
-English
-6 hours
-300 - Advanced
-MAM406 - Migrate & Modernize Windows to Linux and SQL to PostgreSQL with agentic AI
-Join this Activation Day to migrate and modernize Microsoft Server workloads to Amazon EC2 using AWS Application Migration Service and AWS Transform. This hands-on session leverages Kiro to accelerate planning and execution, covering best practices for rehosting, right-sizing, and optimizing licensing costs. Ideal for IT teams looking to reduce on-premises footprint and unlock cloud benefits.
-Amazon Elastic Compute Cloud (Amazon EC2)
-AWS Application Migration Service
-Compute
-English
-4 hours
-400 - Expert
-How to run an AWS Well-Architected Framework Review
-There are three phases to running a successful and efficient Well-Architected Framework Review (WAFR): Prepare, Review, Improve. This workshop will step through the three phases ensuring you have sufficient preparation in place to get the most value from the review phase, and will guide you into turning the findings into actionable improvements for the workload.
-AWS Well-Architected Tool
-Management & Governance
-English
-4 hours
-200 - Intermediate
-Karpenter Workshop
-Explore using Karpenter with Amazon EKS to express workload requirements, and observe Karpenter automatically provisioning and consolidating EC2 instances. Through a series of hands-on labs, participants will explore advanced topics including instance type selection, spot interruption handling, bin-packing and consolidation policies, and cost optimization strategies.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Compute
-Containers
-English, 日本語
-4 hours
-400 - Expert
-Load 193 more
+Load 191 more
 Foundational workshops
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
+8 hours
 100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
+100 - Foundational
+Research Computing Workshop
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
 English
 2 hours
 100 - Foundational
@@ -121,19 +136,6 @@ AWS Identity & Access Management (IAM)
 AWS Security Hub
 English
 8 hours
-100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
-100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
-English
-2 hours
 100 - Foundational
 Start
 FAQs
