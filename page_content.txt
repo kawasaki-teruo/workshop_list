@@ -21,6 +21,53 @@ Duration
 All durations
 Access
 All access types
+Amazon Connect Global Resiliency
+The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover.
+Amazon Connect
+Contact Center
+English, 日本語
+1 hours
+300 - Advanced
+Build, Test, Optimize: Hands-On with Agentic AI with Connect Customer agentic CX Designer (ACXD)
+Stop watching demos. Start building! In this hands-on workshop, you'll build, test, and optimize agentic customer experiences yourself - and see how fast you can go from idea to live deployment. No code. No complexity. Just the power of AI-native tooling in your hands. This is an experience-first workshop where users can step into a prebuilt Amazon Connect environment and easily create a agentic experience using the agentic CX designer (ACXD).
+Amazon Connect
+Communication Applications
+Contact Center
+English, 日本語, español, português
+4 hours
+200 - Intermediate
+Automate Java Application Upgrades with Generative AI
+Automate Java Application Upgrades with Generative AI - AWS Transform custom
+AWS Transform Custom
+AWS Transform
+Builder Experience
+English
+1 hours
+400 - Expert
+Diving Deep into Bedrock AgentCore (Official Workshop)
+A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English
+4 hours
+400 - Expert
+Accelerating .NET and SQL Server Modernization using Agentic AI
+Accelerate the deployment and operation of your .NET applications and SQL Server workloads with agentic AI-powered experience on AWS. Through hands-on examples, learn how to streamline complex workflows into intuitive, guided steps, reduce manual effort, and improve reliability. See how AWS agentic AI helps you build, deploy, and operate production-ready .NET applications with SQL Server backends efficiently — unlocking better scalability, resilience, and developer productivity.
+Amazon Aurora
+AWS Database Migration Service
+AWS Transform
+English, 한국어, 日本語
+2 hours
+300 - Advanced
+Salesforce Contact Center with Amazon Connect - Generative AI Concepts, Features and Architecture
+This is part of Salesforce Contact Center with Amazon Connect (SCC-AC) workshop series, this module covers Generative AI concepts, features and high level architecture from Amazon Connect perspective.
+Amazon Connect
+Amazon Q
+Contact Center
+English
+2 hours
+200 - Intermediate
 AWS Partner CRM Integration (Consolidated)
 These workshops helps AWS Partners on APN to automate their co-sell operation by integrating their Customer Relationship Management environment with AWS Partner central and AWS marketplace services.
 AWS Management Console
@@ -44,14 +91,6 @@ Builder Experience
 English
 4 hours
 200 - Intermediate
-Build, Test, Optimize: Hands-On with Agentic AI with Connect Customer agentic CX Designer (ACXD)
-Stop watching demos. Start building! In this hands-on workshop, you'll build, test, and optimize agentic customer experiences yourself - and see how fast you can go from idea to live deployment. No code. No complexity. Just the power of AI-native tooling in your hands. This is an experience-first workshop where users can step into a prebuilt Amazon Connect environment and easily create a agentic experience using the agentic CX designer (ACXD).
-Amazon Connect
-Communication Applications
-Contact Center
-English, 日本語, español, português
-4 hours
-200 - Intermediate
 Free AWS environment available
 Request free sandbox environment
 Amazon Redshift Hands-on Workshop
@@ -62,46 +101,15 @@ Serverless
 English, 日本語, 한국어
 4 hours
 200 - Intermediate
-Aurora DSQL Workshop
-Amazon Aurora DSQL is a serverless distributed SQL database with virtually unlimited scale, the highest availability, and zero infrastructure management. In this workshop, we will dive deep into how DSQL works, how it is different from traditional relational databases, and how you can leverage its design and features to help grow your application.
-Amazon Aurora
-Databases
-English, 日本語, 한국어
-4 hours
-400 - Expert
-Amazon Data Firehose Workshop
-An Amazon Data Firehose Workshop provides our customers with hands-on experience to capture, transform, and deliver streaming data into data lakes, data stores, and analytics services using Amazon Data Firehose.
-Amazon Kinesis Data Firehose
-Analytics
-English
-4 hours
-300 - Advanced
-Build with Amazon OpenSearch Service (Official Workshop)
-Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
-Amazon OpenSearch Ingestion
-Amazon OpenSearch Service
-AWS Distro for OpenTelemetry
-English
-4 hours
-300 - Advanced
-Threat Detection and Response Workshop
-This workshop is designed to get you familiar with the AWS threat detection and response services, best practices, use cases, and then use what you learn to dive deeper into scenarios. All of this is designed to prepare you and help you operate more securely on AWS. This workshop goes though overviews and operationalization of Amazon GuardDuty and Amazon Detective.
-Amazon Detective
-Amazon GuardDuty
-Security, Identity, and Compliance
-English, português, 한국어
-4 hours
-300 - Advanced
-Foundational Security, Identity, and Governance Workshop
-Hands-on AWS workshop covering foundational security, identity, and governance services. Learn to implement compliance monitoring, IAM controls, data encryption, threat detection, and network security through guided exercises. Designed for IT professionals, cloud engineers, and security analysts new to AWS security.
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
-100 - Foundational
 Load 191 more
 Foundational workshops
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
+2 hours
+100 - Foundational
 AWS CloudFormation Workshop
 AWS CloudFormation
 Management & Governance
@@ -109,12 +117,11 @@ Builder Experience
 English, 日本語
 8 hours
 100 - Foundational
-Storytelling based AI-powered insights and automation using Amazon Quick
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
 100 - Foundational
 Research Computing Workshop
 Amazon Elastic Container Service (Amazon ECS)
@@ -123,19 +130,11 @@ Amazon SageMaker
 English
 6 hours
 100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
 English
 2 hours
-100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
 100 - Foundational
 Start
 FAQs
