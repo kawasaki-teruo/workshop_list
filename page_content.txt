@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (201)
+Find workshops (200)
 Sort by
 Newest
 Level
@@ -21,6 +21,70 @@ Duration
 All durations
 Access
 All access types
+Diving Deep into Bedrock AgentCore (Official Workshop)
+A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English
+4 hours
+400 - Expert
+Kiro Core
+Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
+Kiro
+Builder Experience
+English
+4 hours
+200 - Intermediate
+One Observability Workshop
+This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
+Amazon CloudWatch
+Amazon Managed Service for Prometheus (AMP)
+AWS X-Ray
+English, 한국어, 日本語
+3 hours
+300 - Advanced
+Manage, monitor and operate Microsoft workload securely on AWS
+In this hands-on workshop, discover how to efficiently manage and secure Microsoft Windows fleets on AWS through key services like EC2 Image Builder, AWS Systems Manager, and CloudWatch. Learn to build and deploy secure Windows images, automate patching, configure settings, and implement monitoring solutions. Explore best practices with Amazon Inspector and AWS Config to enhance security while reducing operational overhead.
+Amazon CloudWatch
+AWS Systems Manager
+EC2 Image Builder
+English
+4 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+Once Upon Agentic AI: A Developer's Epic Journey
+Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
+Amazon Bedrock
+Amazon Bedrock AgentCore
+AWS Tools and SDKs
+English, français, Deutsch, 한국어
+2 hours
+300 - Advanced
+Research Computing Workshop
+This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+Agentic SecOps with Cybersecurity Agent Factory and Amazon Bedrock
+This workshop is intended to help candidates mitigate Security risks at scale with agentic security workflows and custom autonomous agents. this workflow contains agentic Incident response integrated with Amazon GuardDuty, IAM operations automation, Agentic Vulnerability management remediation workflow integrated with Amazon inspector, and Automated Posture violation remediation integration with aws security hub.
+Amazon Bedrock
+Amazon Inspector
+AWS Security Hub
+English, 한국어, 日本語, 简体中文, Deutsch, français, italiano, español
+4 hours
+400 - Expert
+Amazon EKS Auto Mode Workshop
+This workshop guides you through the features of EKS Auto Mode and how it simplifies application deployment into your Amazon EKS clusters. Participants will learn to enable EKS Auto Mode and deploy applications that use it's different capabilities. The workshop covers compute optimization, autoscaling, networking, storage, cluster upgrades, and workload migration. Upon completion participants will be able to effectively launch and manage Kubernetes applications on AWS using EKS Auto Mode.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Containers
+English, español, 繁體中文, 한국어, 日本語
+2 hours
+300 - Advanced
 Amazon Connect Global Resiliency
 The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover.
 Amazon Connect
@@ -36,79 +100,14 @@ Contact Center
 English, 日本語, español, português
 4 hours
 200 - Intermediate
-Automate Java Application Upgrades with Generative AI
-Automate Java Application Upgrades with Generative AI - AWS Transform custom
-AWS Transform Custom
-AWS Transform
-Builder Experience
-English
-1 hours
-400 - Expert
-Diving Deep into Bedrock AgentCore (Official Workshop)
-A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
-Amazon Bedrock
-Amazon CloudWatch
-Compute
-English
-4 hours
-400 - Expert
-Accelerating .NET and SQL Server Modernization using Agentic AI
-Accelerate the deployment and operation of your .NET applications and SQL Server workloads with agentic AI-powered experience on AWS. Through hands-on examples, learn how to streamline complex workflows into intuitive, guided steps, reduce manual effort, and improve reliability. See how AWS agentic AI helps you build, deploy, and operate production-ready .NET applications with SQL Server backends efficiently — unlocking better scalability, resilience, and developer productivity.
-Amazon Aurora
-AWS Database Migration Service
-AWS Transform
-English, 한국어, 日本語
-2 hours
-300 - Advanced
-Salesforce Contact Center with Amazon Connect - Generative AI Concepts, Features and Architecture
-This is part of Salesforce Contact Center with Amazon Connect (SCC-AC) workshop series, this module covers Generative AI concepts, features and high level architecture from Amazon Connect perspective.
-Amazon Connect
-Amazon Q
-Contact Center
-English
-2 hours
-200 - Intermediate
-AWS Partner CRM Integration (Consolidated)
-These workshops helps AWS Partners on APN to automate their co-sell operation by integrating their Customer Relationship Management environment with AWS Partner central and AWS marketplace services.
-AWS Management Console
-AWS Marketplace
-Builder Experience
-English
-3 hours
-300 - Advanced
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
-Generative AI
-English, 日本語, français
-1 hours
-200 - Intermediate
-Kiro Core
-Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
-Kiro
-Builder Experience
-English
-4 hours
-200 - Intermediate
-Free AWS environment available
-Request free sandbox environment
-Amazon Redshift Hands-on Workshop
-This set of workshops provides a series of exercises which help users get started using the Redshift platform. It also helps demonstrate the many features built into the platform.
-Amazon Redshift
-Analytics
-Serverless
-English, 日本語, 한국어
-4 hours
-200 - Intermediate
-Load 191 more
+Load 190 more
 Foundational workshops
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
 100 - Foundational
 AWS CloudFormation Workshop
 AWS CloudFormation
@@ -117,24 +116,25 @@ Builder Experience
 English, 日本語
 8 hours
 100 - Foundational
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
-6 hours
-100 - Foundational
 Getting started with Quick Automate
 Amazon Quick Suite
 Generative AI
 English
 2 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
 100 - Foundational
 Start
 FAQs
