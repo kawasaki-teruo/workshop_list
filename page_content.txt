@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (200)
+Find workshops (198)
 Sort by
 Newest
 Level
@@ -21,6 +21,14 @@ Duration
 All durations
 Access
 All access types
+Build with Amazon OpenSearch Service (Official Workshop)
+Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
+Amazon OpenSearch Ingestion
+Amazon OpenSearch Service
+AWS Distro for OpenTelemetry
+English
+4 hours
+300 - Advanced
 Diving Deep into Bedrock AgentCore (Official Workshop)
 A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
 Amazon Bedrock
@@ -29,6 +37,22 @@ Compute
 English
 4 hours
 400 - Expert
+Platform Engineering on EKS
+We build production-ready IDP platforms on Amazon EKS, combining CNCF tools with AWS services. Explore hands-on experience with Amazon Q Developer, managed databases, Backstage, ArgoCD, Crossplane, and OAM. Learn to accelerate platform adoption using GenAI-powered tools and automated delivery pipelines. Built on EKS Blueprints and CNOE, our solution enables modern cloud-native development on AWS. There is also a 2hour version :Accelerate platform engineering on Amazon EKS (CON401)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Kiro
+Builder Experience
+English, français, 简体中文, español, 日本語, 한국어, português
+2 hours
+400 - Expert
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
 Kiro Core
 Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
 Kiro
@@ -78,36 +102,20 @@ AWS Security Hub
 English, 한국어, 日本語, 简体中文, Deutsch, français, italiano, español
 4 hours
 400 - Expert
-Amazon EKS Auto Mode Workshop
-This workshop guides you through the features of EKS Auto Mode and how it simplifies application deployment into your Amazon EKS clusters. Participants will learn to enable EKS Auto Mode and deploy applications that use it's different capabilities. The workshop covers compute optimization, autoscaling, networking, storage, cluster upgrades, and workload migration. Upon completion participants will be able to effectively launch and manage Kubernetes applications on AWS using EKS Auto Mode.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Containers
-English, español, 繁體中文, 한국어, 日本語
-2 hours
-300 - Advanced
-Amazon Connect Global Resiliency
-The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover.
-Amazon Connect
-Contact Center
-English, 日本語
-1 hours
-300 - Advanced
-Build, Test, Optimize: Hands-On with Agentic AI with Connect Customer agentic CX Designer (ACXD)
-Stop watching demos. Start building! In this hands-on workshop, you'll build, test, and optimize agentic customer experiences yourself - and see how fast you can go from idea to live deployment. No code. No complexity. Just the power of AI-native tooling in your hands. This is an experience-first workshop where users can step into a prebuilt Amazon Connect environment and easily create a agentic experience using the agentic CX designer (ACXD).
-Amazon Connect
-Communication Applications
-Contact Center
-English, 日本語, español, português
-4 hours
-200 - Intermediate
-Load 190 more
+Load 188 more
 Foundational workshops
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
 6 hours
+100 - Foundational
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
 100 - Foundational
 AWS CloudFormation Workshop
 AWS CloudFormation
@@ -128,13 +136,6 @@ Amazon DocumentDB (with MongoDB compatibility)
 Amazon ElastiCache
 English
 2 hours
-100 - Foundational
-Storytelling based AI-powered insights and automation using Amazon Quick
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
 100 - Foundational
 Start
 FAQs
