@@ -21,6 +21,14 @@ Duration
 All durations
 Access
 All access types
+Research Computing Workshop
+This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
 Build with Amazon OpenSearch Service (Official Workshop)
 Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
 Amazon OpenSearch Ingestion
@@ -86,14 +94,6 @@ AWS Tools and SDKs
 English, français, Deutsch, 한국어
 2 hours
 300 - Advanced
-Research Computing Workshop
-This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
-6 hours
-100 - Foundational
 Agentic SecOps with Cybersecurity Agent Factory and Amazon Bedrock
 This workshop is intended to help candidates mitigate Security risks at scale with agentic security workflows and custom autonomous agents. this workflow contains agentic Incident response integrated with Amazon GuardDuty, IAM operations automation, Agentic Vulnerability management remediation workflow integrated with Amazon inspector, and Automated Posture violation remediation integration with aws security hub.
 Amazon Bedrock
@@ -104,12 +104,6 @@ English, 한국어, 日本語, 简体中文, Deutsch, français, italiano, espa�
 400 - Expert
 Load 188 more
 Foundational workshops
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
 Storytelling based AI-powered insights and automation using Amazon Quick
 Amazon Quick Suite
 Analytics
@@ -117,25 +111,32 @@ Generative AI
 English, 한국어
 3 hours
 100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
 100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
-English
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
 2 hours
+100 - Foundational
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
 100 - Foundational
 Start
 FAQs
