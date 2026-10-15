@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (199)
+Find workshops (200)
 Sort by
 Newest
 Level
@@ -21,6 +21,62 @@ Duration
 All durations
 Access
 All access types
+Agentic AI-Powered anomaly detection: Spotting anomalies in real-time
+This hands-on workshop demonstrates how to implement real-time data processing using AWS data streaming services, combining Apache Kafka (MSK), Apache Flink (MSF), and Amazon Bedrock for Agentic AI integration.
+Amazon Bedrock
+Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+Amazon Kinesis Data Analytics
+English, 한국어
+2 hours
+400 - Expert
+AWS 101 - NoSQL Databases
+This entry-level workshop is designed for individuals who are new to Amazon Web Services and want to gain practical experience in setting up and storing data in our variety of NoSQL database services.
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
+100 - Foundational
+Serverlesspresso: The Lambda Durable Functions edition
+In this workshop, discover how to build a complete coffee-ordering serverless web application. Learn about event-driven architectures and how to use services such as AWS Lambda, Amazon EventBridge, AWS Lambda Durable Functions, and more. Create a scalable, serverless web application that allows users to order coffee and baristas to keep track of and fulfill orders.
+Amazon EventBridge
+AWS Lambda
+Serverless
+English
+3 hours
+300 - Advanced
+Generative AI on EKS using NVIDIA GPU
+In this workshop, learn how to get started with Large Language Model (LLM) applications and inference on Amazon EKS. Discover how to deploy and manage production-grade LLM workloads. Through hands-on labs, you'll explore how to leverage Amazon EKS along with AWS services and open-source tools to create robust LLM solutions. The workshop environment provides all the necessary infrastructure and tools, allowing you to focus on learning and implementation.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Containers
+Generative AI
+English, português, 한국어, 日本語
+2 hours
+400 - Expert
+Migration and Modernization - Rehost and Tagging - Lab 1
+This workshop is focused on Rehosting and Tagging activities. It enables participants to perform a complete migration to AWS supported by AWS Application Migration Service. It also offers a tagging playground using different automation methods. This workshop is part of a series, check the “Migration and Modernization Pathways – Lab2” and “Migration and Modernization Pathways – Lab3” for learning about the different modernization pathways.
+Amazon Bedrock
+AWS Application Migration Service
+AWS Resource Explorer
+English
+8 hours
+300 - Advanced
+Migration and Modernization Pathways – Lab 2
+The Migration and Modernization Pathways – Lab Day 2 is designed for technical audiences exploring the different pathways, including: Move to Modern DevOps, Move to AI, and Move to Containers. This workshop is part of a series, check the “Migration and Modernization Pathways – Lab 3” for other pathways and the "Migration and Modernization - Rehost and Tagging - Lab 1" for Application Migration Service and tagging.
+Amazon Bedrock
+Amazon Elastic Kubernetes Service (Amazon EKS)
+AWS CodePipeline
+English
+8 hours
+300 - Advanced
+Diving Deep into Bedrock AgentCore (Official Workshop)
+A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English
+4 hours
+400 - Expert
 GenAIOps Obervability and Evaluations with Langfuse
 Discover how to effectively implement generative AI in your business operations using Amazon Bedrock with Langfuse on AWS. While many organizations are enthusiastic about large language models (LLMs), successful integration into daily operations requires strategic planning and proper implementation.
 Amazon Bedrock
@@ -45,63 +101,22 @@ AWS PrivateLink
 English, 한국어, 日本語
 2 hours
 300 - Advanced
-AWS Serverless Developer Experience
-This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
-Amazon EventBridge
-AWS Serverless Application Model (AWS SAM)
-AWS Step Functions
-English
-8 hours
-400 - Expert
-Diving Deep into Bedrock AgentCore (Official Workshop)
-A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
-Amazon Bedrock
-Amazon CloudWatch
-Compute
-English
-4 hours
-400 - Expert
+Load 190 more
+Foundational workshops
 Research Computing Workshop
-This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
 Amazon SageMaker
 English
 6 hours
 100 - Foundational
-Build with Amazon OpenSearch Service (Official Workshop)
-Hands-on workshop exploring Amazon OpenSearch Service through independent lab modules. Build full-text search queries, use observability tools to troubleshoot a microservices application, and construct AI-powered search experiences using semantic, hybrid, and conversational search with Amazon Bedrock. Each module is self-contained — pick the topics most relevant to you.
-Amazon OpenSearch Ingestion
-Amazon OpenSearch Service
-AWS Distro for OpenTelemetry
-English
-4 hours
-300 - Advanced
-Platform Engineering on EKS
-We build production-ready IDP platforms on Amazon EKS, combining CNCF tools with AWS services. Explore hands-on experience with Amazon Q Developer, managed databases, Backstage, ArgoCD, Crossplane, and OAM. Learn to accelerate platform adoption using GenAI-powered tools and automated delivery pipelines. Built on EKS Blueprints and CNOE, our solution enables modern cloud-native development on AWS. There is also a 2hour version :Accelerate platform engineering on Amazon EKS (CON401)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Kiro
-Builder Experience
-English, français, 简体中文, español, 日本語, 한국어, português
-2 hours
-400 - Expert
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
 Generative AI
-English, 日本語, français
-1 hours
-200 - Intermediate
-Kiro Core
-Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
-Kiro
-Builder Experience
-English
-4 hours
-200 - Intermediate
-Load 189 more
-Foundational workshops
+English, 한국어
+3 hours
+100 - Foundational
 AWS CloudFormation Workshop
 AWS CloudFormation
 Management & Governance
@@ -109,31 +124,17 @@ Builder Experience
 English, 日本語
 8 hours
 100 - Foundational
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
 English
-6 hours
+2 hours
 100 - Foundational
 Container Foundations on AWS
 Amazon Elastic Container Registry (Amazon ECR)
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
 English
-2 hours
-100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
 2 hours
 100 - Foundational
 Start
