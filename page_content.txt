@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (200)
+Find workshops (203)
 Sort by
 Newest
 Level
@@ -21,6 +21,57 @@ Duration
 All durations
 Access
 All access types
+Reduce EKS cluster compute costs with EC2 Flex instances
+EC2 flex instances are a more cost-efficient choice for workloads that don't keep their CPUs busy all the time. In this workshop, you move SnapShelf, an object detection service on Amazon EKS Auto Mode, from 8th generation Intel EC2 instances to flex instances with a single NodePool change. You compare latency, throughput and cost before and after, and learn which node metrics to watch when you run flex instances in production
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Compute
+English
+1 hours
+300 - Advanced
+Kiro Crew: The Autonomous Developer Workflow
+Kiro Crew is an open-source AI agent workspace that runs on your own hardware and keeps working between conversations. In this hands-on workshop you'll learn its workflow engine, define and teach your own agents, and compose a team of specialized agents. You'll give them persistent knowledge and memory, then schedule jobs that run overnight and brief you before your day starts. You leave with a working Kiro Crew setup you'll actually use for daily development.
+Kiro
+Builder Experience
+Open Source Software (OSS)
+English
+3 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+Getting started with AgentCore (Official Workshop)
+Getting started on AgentCore: Let's build an end-to-end use case using Amazon Bedrock AgentCore.
+Amazon Bedrock AgentCore
+Generative AI
+English, 日本語, 简体中文, 繁體中文
+3 hours
+300 - Advanced
+Free AWS environment available
+Request free sandbox environment
+Once Upon Agentic AI: A Developer's Epic Journey
+Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
+Amazon Bedrock
+Amazon Bedrock AgentCore
+AWS Tools and SDKs
+English, français, Deutsch, 한국어
+2 hours
+300 - Advanced
+SageMaker HyperPod EKS for AWS Hosted Events
+SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
+Amazon SageMaker
+Amazon FSx for Lustre
+Amazon Elastic Compute Cloud (Amazon EC2)
+English
+2 hours
+300 - Advanced
+Research Computing Workshop
+This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
 Agentic AI-Powered anomaly detection: Spotting anomalies in real-time
 This hands-on workshop demonstrates how to implement real-time data processing using AWS data streaming services, combining Apache Kafka (MSK), Apache Flink (MSF), and Amazon Bedrock for Agentic AI integration.
 Amazon Bedrock
@@ -53,55 +104,7 @@ Generative AI
 English, português, 한국어, 日本語
 2 hours
 400 - Expert
-Migration and Modernization - Rehost and Tagging - Lab 1
-This workshop is focused on Rehosting and Tagging activities. It enables participants to perform a complete migration to AWS supported by AWS Application Migration Service. It also offers a tagging playground using different automation methods. This workshop is part of a series, check the “Migration and Modernization Pathways – Lab2” and “Migration and Modernization Pathways – Lab3” for learning about the different modernization pathways.
-Amazon Bedrock
-AWS Application Migration Service
-AWS Resource Explorer
-English
-8 hours
-300 - Advanced
-Migration and Modernization Pathways – Lab 2
-The Migration and Modernization Pathways – Lab Day 2 is designed for technical audiences exploring the different pathways, including: Move to Modern DevOps, Move to AI, and Move to Containers. This workshop is part of a series, check the “Migration and Modernization Pathways – Lab 3” for other pathways and the "Migration and Modernization - Rehost and Tagging - Lab 1" for Application Migration Service and tagging.
-Amazon Bedrock
-Amazon Elastic Kubernetes Service (Amazon EKS)
-AWS CodePipeline
-English
-8 hours
-300 - Advanced
-Diving Deep into Bedrock AgentCore (Official Workshop)
-A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
-Amazon Bedrock
-Amazon CloudWatch
-Compute
-English
-4 hours
-400 - Expert
-GenAIOps Obervability and Evaluations with Langfuse
-Discover how to effectively implement generative AI in your business operations using Amazon Bedrock with Langfuse on AWS. While many organizations are enthusiastic about large language models (LLMs), successful integration into daily operations requires strategic planning and proper implementation.
-Amazon Bedrock
-Amazon SageMaker Studio
-Generative AI
-English, 日本語, 한국어, 简体中文
-3 hours
-300 - Advanced
-Container Foundations on AWS
-Container Foundations on AWS is an entry level hands-on workshop for developers and architects who are new to containers. You will move through the full container lifecycle: building secure, optimized images; managing them in a registry with scanning and signing; supporting multiple CPU architectures including AWS Graviton; and deploying onto AWS. Optional modules cover automated build pipelines.
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-2 hours
-100 - Foundational
-AWS Direct Connect & Hybrid DNS Workshop
-In this workshop, participants implement and configure AWS Direct Connect with DXGW/TGW, and connect an on-premises data center to AWS. They also implement hybrid DNS using Amazon Route 53 Resolver Endpoints. The target audience for this workshop is networking and infrastructure teams. This workshop expects a basic level of networking knowledge.
-Amazon Route 53
-AWS Direct Connect
-AWS PrivateLink
-English, 한국어, 日本語
-2 hours
-300 - Advanced
-Load 190 more
+Load 193 more
 Foundational workshops
 Research Computing Workshop
 Amazon Elastic Container Service (Amazon ECS)
@@ -117,12 +120,12 @@ Generative AI
 English, 한국어
 3 hours
 100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
 100 - Foundational
 Getting started with Quick Automate
 Amazon Quick Suite
@@ -130,12 +133,11 @@ Generative AI
 English
 2 hours
 100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-2 hours
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
 100 - Foundational
 Start
 FAQs
