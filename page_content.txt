@@ -21,60 +21,53 @@ Duration
 All durations
 Access
 All access types
+Amazon RDS for Db2 Workshop
+A deeper dive into the Amazon RDS for Db2 service, exploring its key features, high availability, disaster recovery, automated backups, security, and monitoring capabilities. This session also covers a practical, step-by-step migration approach for Db2 workloads to AWS.
+Amazon Relational Database Service (Amazon RDS)
+Databases
+English
+6 hours
+300 - Advanced
+From Prototype to Production with AWS - Agentic AI Evaluation and Observability
+This hands-on workshop guides you through building, evaluating, deploying, and continuously improving a production-ready multi-agent customer service system using AWS services.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Generative AI
+English
+3 hours
+300 - Advanced
 Free AWS environment available
 Request free sandbox environment
 Once Upon Agentic AI: A Developer's Epic Journey
 Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
-Amazon Bedrock
 Amazon Bedrock AgentCore
+Amazon Bedrock
 AWS Tools and SDKs
 English, français, Deutsch, 한국어
-2 hours
-300 - Advanced
-Multi-Agent Backtesting for Quant Developers by Bedrock AgentCore and Strands Agent SDK
-This workshop deploys multiple specialized agents, developed by Strands Agent SDK, deployed to Bedrock AgentCore, to transform trading ideas into backtested strategies from days to minutes: 1, Strategy Generator Agent - on Agentcore Runtime 2, Market Data Tool - Fetches market data on Agentcore Gateway 3, Backtest Tool - Backtests in Code Interpreter 4, Results Summary Agent - on Agentcore Runtime 5, Quant Agent to orchestrate the tools and agents above using Strands Agent SDK
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Financial Services
-English, 简体中文, 繁體中文
 3 hours
 300 - Advanced
-Agent Toolkit for AWS
-Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
-Kiro
-Builder Experience
-English
-1 hours
-200 - Intermediate
-InsuranceLake Quickstart
-InsuranceLake is solution accelerator which helps you deploy ETL processes and data storage resources to create a serverless fit-for-purpose data lake for the Insurance industry. Participants will clone the public Github repository, deploy the CDK stack using Visual Code, and practice performing typical Insurance data transforms on sample written premium data. For a version of this workshop that does not require first deploying the application via CDK, see the InsuranceLake Deep Dive Workshop.
-Amazon QuickSight
-AWS Glue
-AWS Step Functions
-English
-2 hours
-300 - Advanced
-Getting Started with Amazon WorkSpaces applications
-In this lab, you will learn how to deploy and stream desktop applications using Amazon WorkSpaces applications, a fully managed, secure application and desktop streaming service that runs on AWS.
-Amazon AppStream 2.0
-End User Computing (EUC)
-English, 日本語, 한국어
-4 hours
-200 - Intermediate
-Getting Started with Amazon WorkSpaces
-In this lab, you'll learn how to deploy cloud desktops using Amazon WorkSpaces and the AWS Directory Service for your organizations end users.
-Amazon WorkSpaces
-End User Computing (EUC)
-English, 한국어, 日本語, français
-2 hours
-200 - Intermediate
-AWS Partner CRM Integration (Consolidated)
-These workshops helps AWS Partners on APN to automate their co-sell operation by integrating their Customer Relationship Management environment with AWS Partner central and AWS marketplace services.
-AWS Management Console
+AWS Marketplace Seller Workshop
+This workshop guides sellers through onboarding to AWS Marketplace, listing and integrating each product type, and working with the Marketplace APIs. It also includes end-to-end listing labs for common seller use cases.
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
 AWS Marketplace
-Builder Experience
-English
+English, 한국어
+8 hours
+300 - Advanced
+The AWS Step Functions Workshop
+The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
+AWS Step Functions
+Compute
+Containers
+English, español, 日本語, português, 繁體中文, 한국어
 3 hours
+200 - Intermediate
+AWS Transform for SQL Server
+AWS Transform for SQL Server Modernization - Offline Source migrating SQL Server to Amazon Aurora PostgreSQL
+AWS Transform
+Databases
+English
+2 hours
 300 - Advanced
 Amazon ECS Workshop
 An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
@@ -84,35 +77,44 @@ AWS Fargate
 English, español, português, 日本語, 한국어
 4 hours
 200 - Intermediate
-One Observability Workshop
-This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
-Amazon CloudWatch
-Amazon Managed Service for Prometheus (AMP)
-AWS X-Ray
-English, 한국어, 日本語
-3 hours
-300 - Advanced
-Reduce EKS cluster compute costs with EC2 Flex instances
-EC2 flex instances are a more cost-efficient choice for workloads that don't keep their CPUs busy all the time. In this workshop, you move SnapShelf, an object detection service on Amazon EKS Auto Mode, from 8th generation Intel EC2 instances to flex instances with a single NodePool change. You compare latency, throughput and cost before and after, and learn which node metrics to watch when you run flex instances in production
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Compute
-English
-1 hours
-300 - Advanced
-Load 198 more
-Foundational workshops
-Getting started with Quick Automate
-Amazon Quick Suite
+Kiro Core
+Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
+Kiro
+Builder Experience
 Generative AI
 English
-2 hours
-100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
+4 hours
+200 - Intermediate
+Agent Toolkit for AWS
+Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
+Kiro
+AWS Tools and SDKs
+Builder Experience
 English
+1 hours
+200 - Intermediate
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
+Load 198 more
+Foundational workshops
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
+100 - Foundational
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
 8 hours
 100 - Foundational
 Container Foundations on AWS
@@ -122,19 +124,18 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
-English
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
 2 hours
 100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
 100 - Foundational
 Start
 FAQs
