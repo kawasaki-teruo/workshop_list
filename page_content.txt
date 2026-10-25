@@ -21,6 +21,14 @@ Duration
 All durations
 Access
 All access types
+Java on AWS
+Explore modern Java on AWS containers: deploy to Amazon EKS Auto Mode and ECS Express Mode for simplified operations. Achieve faster startup times using Java 25 AOT cache, CRaC checkpoint/restore, and Class Data Sharing. Build optimized images with Jib and lazy-load with SOCI. Run on AWS Graviton for up to 40% better price-performance. Leverage Amazon Bedrock to automatically analyze JVM thread dumps and async-profiler flamegraphs, generating AI-powered optimization insights.
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+4 hours
+300 - Advanced
 Amazon SageMaker AI MLOps - from idea to production
 This workshop takes you through the process of development a machine learning (ML) solution. You create a ML project in Amazon SageMaker Studio and go through all stages of implementation such as data exploration, interactive experimentation, using SageMaker jobs, setting up MLOps pipelines, and finally deliver the project into production. You learn how to work with SageMaker MLOps building blocks. The target audience are data scientists, ML, MLOps, and DevOps engineers, and technical managers.
 Amazon SageMaker Studio
@@ -94,22 +102,28 @@ Financial Services
 English, 简体中文, 繁體中文
 3 hours
 300 - Advanced
-Agentic Fraud Detection
-Build the offline optimization layer for payment fraud detection. Ingest 24M transactions into Apache Iceberg, construct a Neptune knowledge graph revealing fraud rings, and train a unified XGBoost ensemble combining transaction foundation model embeddings, GNN graph embeddings, and traditional features. Deploy AI agents on Amazon Bedrock AgentCore that autonomously investigate patterns, score customers with explainable predictions, and generate detection rules — compressing weeks into minutes.
-Amazon Bedrock
-Amazon SageMaker
-Amazon Simple Storage Service (Amazon S3)
-English
-4 hours
-300 - Advanced
 Load 198 more
 Foundational workshops
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
+2 hours
+100 - Foundational
 Research Computing Workshop
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
 Amazon SageMaker
 English
 6 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
 100 - Foundational
 IAM Core Workshop (Formerly: IAM Immersion Day)
 AWS Identity & Access Management (IAM)
@@ -123,19 +137,6 @@ Analytics
 Generative AI
 English, 한국어
 3 hours
-100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
-English
-2 hours
-100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-2 hours
 100 - Foundational
 Start
 FAQs

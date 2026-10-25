@@ -27,14 +27,14 @@ https://builder.aws.com/student-rewards
 https://builder.aws.com/support
 https://builder.aws.com/terms
 https://builder.aws.com/wishlist
-https://catalog.us-east-1.prod.workshops.aws/workshops/027b661c-4083-431d-8357-147bee42e867
 https://catalog.us-east-1.prod.workshops.aws/workshops/0326bf7e-f586-408b-a509-0b17c27aa5d9
-https://catalog.us-east-1.prod.workshops.aws/workshops/047883b0-0958-410c-bc70-1071f1fb3f52
+https://catalog.us-east-1.prod.workshops.aws/workshops/05554d54-07cc-483e-b810-d69f7d99b2ab
+https://catalog.us-east-1.prod.workshops.aws/workshops/083b80d7-5a90-402b-9bb4-19fb53092808
 https://catalog.us-east-1.prod.workshops.aws/workshops/0a85653e-07e9-41a8-960a-2d1bb592331b
 https://catalog.us-east-1.prod.workshops.aws/workshops/2052c4e9-c0ae-4e2d-bf88-f37bae6502dc
 https://catalog.us-east-1.prod.workshops.aws/workshops/2eff9da8-f655-4930-8131-6cdf97c688d4
 https://catalog.us-east-1.prod.workshops.aws/workshops/31ddd26e-91ae-4ec4-a96a-dec96302b306
-https://catalog.us-east-1.prod.workshops.aws/workshops/50e38ea9-f837-43a3-a04a-094a34558a9a
+https://catalog.us-east-1.prod.workshops.aws/workshops/57398063-b761-45a2-840d-7439a0ffc2f9
 https://catalog.us-east-1.prod.workshops.aws/workshops/741835d3-a2bf-4cb6-81f0-d0bb4a62edca
 https://catalog.us-east-1.prod.workshops.aws/workshops/7aa26276-eea0-4aab-acc6-466454b50706
 https://catalog.us-east-1.prod.workshops.aws/workshops/a6b114eb-4e0a-4d3e-8202-be75589428fe
