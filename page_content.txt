@@ -104,19 +104,19 @@ English, 简体中文, 繁體中文
 300 - Advanced
 Load 198 more
 Foundational workshops
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
+8 hours
 100 - Foundational
-Research Computing Workshop
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
 English
-6 hours
+2 hours
 100 - Foundational
 AWS 101 - NoSQL Databases
 Amazon DynamoDB
@@ -125,18 +125,18 @@ Amazon ElastiCache
 English
 2 hours
 100 - Foundational
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
-Storytelling based AI-powered insights and automation using Amazon Quick
+Getting started with Quick Automate
 Amazon Quick Suite
-Analytics
 Generative AI
-English, 한국어
-3 hours
+English
+2 hours
+100 - Foundational
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
 100 - Foundational
 Start
 FAQs
