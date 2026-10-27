@@ -21,6 +21,46 @@ Duration
 All durations
 Access
 All access types
+Aurora MySQL Deep Dive Workshop
+This workshop covers all essential concepts required to appropriately set up your databases on Aurora MySQL. Some of the important sessions include testing Aurora Failovers, RDS Proxy, Deep dive into Aurora monitoring and setting up disaster recovery with Aurora Global Databases. This workshop was previously named Aurora MySQL Immersion Day.
+Amazon Aurora
+AWS Lambda
+Databases
+English, 한국어, 日本語
+4 hours
+300 - Advanced
+Amazon ECS Workshop
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, español, português, 日本語, 한국어
+4 hours
+200 - Intermediate
+Approaches to layered security on Amazon VPC
+In this workshop, discover practical guidance that can help you build a secure Amazon Virtual Private Cloud (Amazon VPC). Using a hands-on approach, review Amazon VPC features such as subnets, security groups, flow logs, and routing. Then, learn how you can add on additional layers of security and how to securely ingress and egress VPC traffic with other services, such as Amazon Route 53 Resolver DNS Firewall, AWS Network Firewall, Gateway Load Balancer, Traffic Mirroring, AWS WAF, and more.
+Amazon Route 53
+Amazon Virtual Private Cloud (Amazon VPC)
+AWS Network Firewall
+English
+2 hours
+300 - Advanced
+Reduce EKS cluster compute costs with EC2 Flex instances
+EC2 flex instances are a more cost-efficient choice for workloads that don't keep their CPUs busy all the time. In this workshop, you move SnapShelf, an object detection service on Amazon EKS Auto Mode, from 8th generation Intel EC2 instances to flex instances with a single NodePool change. You compare latency, throughput and cost before and after, and learn which node metrics to watch when you run flex instances in production
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Compute
+English
+1 hours
+300 - Advanced
+Amazon Managed Service for Apache Flink workshop
+The Amazon Managed Service for Apache Flink workshop includes various modules that will cover everything from the basics of Flink to its implementation on Amazon Managed Service for Apache Flink. This will provide a comprehensive and consolidated content that will help our customers fully understand and utilize the benefits of Flink on AWS. It will be a workshop style, immersive and hands-on experience that will empower our customers to implement Flink with confidence and ease.
+Amazon Kinesis Data Analytics
+Amazon Kinesis Data Streams
+Amazon OpenSearch Service
+English, 한국어
+5 hours
+400 - Expert
 Java on AWS
 Explore modern Java on AWS containers: deploy to Amazon EKS Auto Mode and ECS Express Mode for simplified operations. Achieve faster startup times using Java 25 AOT cache, CRaC checkpoint/restore, and Class Data Sharing. Build optimized images with Jib and lazy-load with SOCI. Run on AWS Graviton for up to 40% better price-performance. Leverage Amazon Bedrock to automatically analyze JVM thread dumps and async-profiler flamegraphs, generating AI-powered optimization insights.
 Amazon Elastic Container Registry (Amazon ECR)
@@ -62,60 +102,13 @@ Builder Experience
 English
 1 hours
 200 - Intermediate
-Agentic Transformation Workshop
-Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
-AWS Transform Custom
-AWS Transform
-Kiro
-English
-3 hours
-300 - Advanced
-Amazon DynamoDB Workshop
-The Amazon DynamoDB workshop provides hands-on training for developers. It covers basic table operations and advanced NoSQL data modeling like single-table design. You will learn to manage relationships using primary keys and secondary indexes. The workshop shows how to build multi-region apps with Global Tables and use event-driven patterns with DynamoDB Streams and Lambda. It includes labs for high-scale gaming data and focuses on performance and cost optimization.
-Amazon DynamoDB
-AWS Lambda
-Databases
-English
-4 hours
-300 - Advanced
-InsuranceLake Deep Dive
-InsuranceLake is solution accelerator which helps you deploy ETL processes and data storage resources to create a serverless fit-for-purpose data lake for the Insurance industry. This workshop starts with a fully deployed serverless data lake solution in the account. Participants will interact with the ETL pipeline configuration, try out loading and transforming sample data, add transform definitions, visualize data, and configure GenBI tools in Quick Suite to gain insights into the data.
-Amazon QuickSight
-AWS Glue
-AWS Step Functions
-English
-3 hours
-200 - Intermediate
-Serverlesspresso: The Lambda Durable Functions edition
-In this workshop, discover how to build a complete coffee-ordering serverless web application. Learn about event-driven architectures and how to use services such as AWS Lambda, Amazon EventBridge, AWS Lambda Durable Functions, and more. Create a scalable, serverless web application that allows users to order coffee and baristas to keep track of and fulfill orders.
-Amazon EventBridge
-AWS Lambda
-Serverless
-English
-3 hours
-300 - Advanced
-Multi-Agent Backtesting for Quant Developers by Bedrock AgentCore and Strands Agent SDK
-This workshop deploys multiple specialized agents, developed by Strands Agent SDK, deployed to Bedrock AgentCore, to transform trading ideas into backtested strategies from days to minutes: 1, Strategy Generator Agent - on Agentcore Runtime 2, Market Data Tool - Fetches market data on Agentcore Gateway 3, Backtest Tool - Backtests in Code Interpreter 4, Results Summary Agent - on Agentcore Runtime 5, Quant Agent to orchestrate the tools and agents above using Strands Agent SDK
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Financial Services
-English, 简体中文, 繁體中文
-3 hours
-300 - Advanced
 Load 198 more
 Foundational workshops
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
-100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
 2 hours
 100 - Foundational
 AWS 101 - NoSQL Databases
@@ -125,18 +118,26 @@ Amazon ElastiCache
 English
 2 hours
 100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
+8 hours
+100 - Foundational
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
 English
-6 hours
+8 hours
 100 - Foundational
 Start
 FAQs
