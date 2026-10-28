@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (208)
+Find workshops (207)
 Sort by
 Newest
 Level
@@ -21,6 +21,54 @@ Duration
 All durations
 Access
 All access types
+Research Computing Workshop
+This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
+Build an agentic AI system on Amazon EKS with CPU-only inference
+Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
+Amazon Bedrock
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+3 hours
+300 - Advanced
+Add Real-Time Web Search to Your AI Agents on AWS
+Learn how to add real-time web search capabilities to AI agents and applications on AWS. Explore two paths: a managed MCP connector via AgentCore Gateway (works with any model) and the Bedrock built-in web search tool. Build agents using Strands SDK, LangChain, or raw tool-calling, and integrate with developer tools like Claude Code and Codex.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English
+3 hours
+300 - Advanced
+The AWS Step Functions Workshop
+The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
+AWS Step Functions
+Compute
+Containers
+English, español, 日本語, português, 繁體中文, 한국어
+3 hours
+200 - Intermediate
+Kinesis Data Streams Workshop
+The Kinesis Data Streams workshop will guide you through interacting with your Kinesis Data Streams in many different ways--Create a Kinesis Data Stream, write to it in various ways and read from it in various ways as well to fulfill virtually any real-time streaming needs for your business.
+Amazon Kinesis
+Analytics
+Builder Experience
+English
+4 hours
+300 - Advanced
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
 Aurora MySQL Deep Dive Workshop
 This workshop covers all essential concepts required to appropriately set up your databases on Aurora MySQL. Some of the important sessions include testing Aurora Failovers, RDS Proxy, Deep dive into Aurora monitoring and setting up disaster recovery with Aurora Global Databases. This workshop was previously named Aurora MySQL Immersion Day.
 Amazon Aurora
@@ -53,70 +101,21 @@ Compute
 English
 1 hours
 300 - Advanced
-Amazon Managed Service for Apache Flink workshop
-The Amazon Managed Service for Apache Flink workshop includes various modules that will cover everything from the basics of Flink to its implementation on Amazon Managed Service for Apache Flink. This will provide a comprehensive and consolidated content that will help our customers fully understand and utilize the benefits of Flink on AWS. It will be a workshop style, immersive and hands-on experience that will empower our customers to implement Flink with confidence and ease.
-Amazon Kinesis Data Analytics
-Amazon Kinesis Data Streams
-Amazon OpenSearch Service
-English, 한국어
-5 hours
-400 - Expert
-Java on AWS
-Explore modern Java on AWS containers: deploy to Amazon EKS Auto Mode and ECS Express Mode for simplified operations. Achieve faster startup times using Java 25 AOT cache, CRaC checkpoint/restore, and Class Data Sharing. Build optimized images with Jib and lazy-load with SOCI. Run on AWS Graviton for up to 40% better price-performance. Leverage Amazon Bedrock to automatically analyze JVM thread dumps and async-profiler flamegraphs, generating AI-powered optimization insights.
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-4 hours
-300 - Advanced
-Amazon SageMaker AI MLOps - from idea to production
-This workshop takes you through the process of development a machine learning (ML) solution. You create a ML project in Amazon SageMaker Studio and go through all stages of implementation such as data exploration, interactive experimentation, using SageMaker jobs, setting up MLOps pipelines, and finally deliver the project into production. You learn how to work with SageMaker MLOps building blocks. The target audience are data scientists, ML, MLOps, and DevOps engineers, and technical managers.
-Amazon SageMaker Studio
-Amazon SageMaker
-Amazon SageMaker with MLflow
-English, 한국어
-4 hours
-300 - Advanced
-AWS Transform for SQL Server
-AWS Transform for SQL Server Modernization - Offline Source migrating SQL Server to Amazon Aurora PostgreSQL
-AWS Transform
-Databases
-English
-2 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-Once Upon Agentic AI: A Developer's Epic Journey
-Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-AWS Tools and SDKs
-English, français, Deutsch, 한국어
-3 hours
-300 - Advanced
-Agent Toolkit for AWS
-Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
-Kiro
-AWS Tools and SDKs
-Builder Experience
-English
-1 hours
-200 - Intermediate
-Load 198 more
+Load 197 more
 Foundational workshops
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
-100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
 English
-2 hours
+8 hours
+100 - Foundational
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
 100 - Foundational
 Container Foundations on AWS
 Amazon Elastic Container Registry (Amazon ECR)
@@ -132,12 +131,12 @@ Builder Experience
 English, 日本語
 8 hours
 100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
 English
-8 hours
+6 hours
 100 - Foundational
 Start
 FAQs
