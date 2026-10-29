@@ -21,14 +21,45 @@ Duration
 All durations
 Access
 All access types
-Research Computing Workshop
-This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
+Amazon RDS for PostgreSQL Workshop
+The RDS PostgreSQL workshop provides customers with hands-on experience using Amazon RDS for PostgreSQL. It uses a modular content format including foundational, intermediate, and advanced labs covering a wide range of RDS features and PostgreSQL topics.
+Amazon RDS for PostgreSQL
+Databases
 English
-6 hours
-100 - Foundational
+8 hours
+300 - Advanced
+Amazon EKS Workshop
+This is the Amazon Elastic Kubernetes Service workshop as hosted on eksworkshop.com. This workshop covers a breadth of content related to EKS and some related technologies and is designed to cater for customers of a variety of skill and experience levels.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon Elastic Container Registry (Amazon ECR)
+Containers
+English, 日本語
+4 hours
+200 - Intermediate
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
+Agent Toolkit for AWS
+Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
+Kiro
+AWS Tools and SDKs
+Builder Experience
+English
+1 hours
+200 - Intermediate
+AWS Transform for VMware Migrations
+In this workshop, you will gain hands-on experience with AWS Transform capabilities to perform Assessment and Discovery of your on-premises environment and create a Total Cost of Ownership (TCO) analysis to build a compelling business case for cloud adoption. You will also learn how to quickly migrate applications running on VMware environments to AWS — leveraging the power of Agentic AI tools, note this workshop does not support self-paced, only AWS-lead events by using Workshop Studio.
+Amazon Elastic Compute Cloud (Amazon EC2)
+AWS Application Migration Service
+AWS Transform
+English, 日本語, 한국어, 简体中文
+3 hours
+300 - Advanced
 Build an agentic AI system on Amazon EKS with CPU-only inference
 Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
 Amazon Bedrock
@@ -37,6 +68,22 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 3 hours
 300 - Advanced
+Amazon Connect AI Agents
+Build action-oriented customer experiences with Amazon Connect AI Agents. Configure Orchestration AI Agents that invoke tools via MCP to automate interactions. Two tracks: Self-Service (voice/chat automation with escalation) and Agent Assistance (real-time recommendations, note-taking). Covers knowledge bases, AgentCore Gateway, contact flows, Cases AI, Customer Profiles, and Email AI capabilities.
+Amazon Connect
+Amazon Q
+Contact Center
+English, español, 日本語, 한국어
+3 hours
+300 - Advanced
+Research Computing Workshop
+This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
+100 - Foundational
 Add Real-Time Web Search to Your AI Agents on AWS
 Learn how to add real-time web search capabilities to AI agents and applications on AWS. Explore two paths: a managed MCP connector via AgentCore Gateway (works with any model) and the Bedrock built-in web search tool. Build agents using Strands SDK, LangChain, or raw tool-calling, and integrate with developer tools like Claude Code and Codex.
 Amazon Bedrock AgentCore
@@ -53,63 +100,8 @@ Containers
 English, español, 日本語, português, 繁體中文, 한국어
 3 hours
 200 - Intermediate
-Kinesis Data Streams Workshop
-The Kinesis Data Streams workshop will guide you through interacting with your Kinesis Data Streams in many different ways--Create a Kinesis Data Stream, write to it in various ways and read from it in various ways as well to fulfill virtually any real-time streaming needs for your business.
-Amazon Kinesis
-Analytics
-Builder Experience
-English
-4 hours
-300 - Advanced
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
-Generative AI
-English, 日本語, français
-1 hours
-200 - Intermediate
-Aurora MySQL Deep Dive Workshop
-This workshop covers all essential concepts required to appropriately set up your databases on Aurora MySQL. Some of the important sessions include testing Aurora Failovers, RDS Proxy, Deep dive into Aurora monitoring and setting up disaster recovery with Aurora Global Databases. This workshop was previously named Aurora MySQL Immersion Day.
-Amazon Aurora
-AWS Lambda
-Databases
-English, 한국어, 日本語
-4 hours
-300 - Advanced
-Amazon ECS Workshop
-An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
-Amazon Elastic Container Service (Amazon ECS)
-AWS Auto Scaling
-AWS Fargate
-English, español, português, 日本語, 한국어
-4 hours
-200 - Intermediate
-Approaches to layered security on Amazon VPC
-In this workshop, discover practical guidance that can help you build a secure Amazon Virtual Private Cloud (Amazon VPC). Using a hands-on approach, review Amazon VPC features such as subnets, security groups, flow logs, and routing. Then, learn how you can add on additional layers of security and how to securely ingress and egress VPC traffic with other services, such as Amazon Route 53 Resolver DNS Firewall, AWS Network Firewall, Gateway Load Balancer, Traffic Mirroring, AWS WAF, and more.
-Amazon Route 53
-Amazon Virtual Private Cloud (Amazon VPC)
-AWS Network Firewall
-English
-2 hours
-300 - Advanced
-Reduce EKS cluster compute costs with EC2 Flex instances
-EC2 flex instances are a more cost-efficient choice for workloads that don't keep their CPUs busy all the time. In this workshop, you move SnapShelf, an object detection service on Amazon EKS Auto Mode, from 8th generation Intel EC2 instances to flex instances with a single NodePool change. You compare latency, throughput and cost before and after, and learn which node metrics to watch when you run flex instances in production
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Compute
-English
-1 hours
-300 - Advanced
 Load 197 more
 Foundational workshops
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
-100 - Foundational
 Storytelling based AI-powered insights and automation using Amazon Quick
 Amazon Quick Suite
 Analytics
@@ -117,10 +109,23 @@ Generative AI
 English, 한국어
 3 hours
 100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
+2 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
 English
 2 hours
 100 - Foundational
@@ -130,13 +135,6 @@ Management & Governance
 Builder Experience
 English, 日本語
 8 hours
-100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
-6 hours
 100 - Foundational
 Start
 FAQs
