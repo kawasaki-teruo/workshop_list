@@ -21,6 +21,55 @@ Duration
 All durations
 Access
 All access types
+Free AWS environment available
+Request free sandbox environment
+Getting started with AgentCore (Official Workshop)
+Getting started on AgentCore: Let's build an end-to-end use case using Amazon Bedrock AgentCore.
+Amazon Bedrock AgentCore
+Generative AI
+English, 日本語, 简体中文, 繁體中文
+3 hours
+300 - Advanced
+Kiro Core
+Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
+Kiro
+Builder Experience
+Generative AI
+English
+4 hours
+200 - Intermediate
+Agent Toolkit for AWS
+Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
+Kiro
+AWS Tools and SDKs
+Builder Experience
+English
+1 hours
+200 - Intermediate
+Build, Test, Optimize: Hands-On with Amazon Connect Customer agentic CX designer (ACXD)
+In this hands-on workshop, you build, test, and optimize an agentic self-service experience in Amazon Connect Customer using the agentic CX designer (ACXD). You start in a prebuilt Amazon Connect environment, pick one of ten industry scenarios, and take a conversational agent from its first prompt to a tested, deployed experience on chat and voice. No coding is required.
+Amazon Connect
+Communication Applications
+Contact Center
+English, 日本語, español, português, 한국어
+4 hours
+200 - Intermediate
+Track and Optimize Generative AI Spend on AWS
+Learn to track and optimize generative AI spend on Amazon Bedrock using multiple cost attribution methods: IAM principal attribution, inference profiles, projects, per-request metadata tagging, and IAM identity log attribution. Apply these across multi-tenant apps, Claude Code, and AgentCore agents. Explore LiteLLM for multi-provider tracking. Build dashboards with Cost Explorer, CUR 2.0, and CUDOS.
+Amazon Bedrock AgentCore
+Amazon Bedrock
+AWS Billing & Cost Management
+English
+3 hours
+300 - Advanced
+Build an agentic AI system on Amazon EKS with CPU-only inference
+Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
+Amazon Bedrock
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+3 hours
+300 - Advanced
 Amazon RDS for PostgreSQL Workshop
 The RDS PostgreSQL workshop provides customers with hands-on experience using Amazon RDS for PostgreSQL. It uses a modular content format including foundational, intermediate, and advanced labs covering a wide range of RDS features and PostgreSQL topics.
 Amazon RDS for PostgreSQL
@@ -44,14 +93,6 @@ Generative AI
 English, 日本語, français
 1 hours
 200 - Intermediate
-Agent Toolkit for AWS
-Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
-Kiro
-AWS Tools and SDKs
-Builder Experience
-English
-1 hours
-200 - Intermediate
 AWS Transform for VMware Migrations
 In this workshop, you will gain hands-on experience with AWS Transform capabilities to perform Assessment and Discovery of your on-premises environment and create a Total Cost of Ownership (TCO) analysis to build a compelling business case for cloud adoption. You will also learn how to quickly migrate applications running on VMware environments to AWS — leveraging the power of Agentic AI tools, note this workshop does not support self-paced, only AWS-lead events by using Workshop Studio.
 Amazon Elastic Compute Cloud (Amazon EC2)
@@ -60,60 +101,33 @@ AWS Transform
 English, 日本語, 한국어, 简体中文
 3 hours
 300 - Advanced
-Build an agentic AI system on Amazon EKS with CPU-only inference
-Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
-Amazon Bedrock
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
+Load 197 more
+Foundational workshops
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
 English
-3 hours
-300 - Advanced
-Amazon Connect AI Agents
-Build action-oriented customer experiences with Amazon Connect AI Agents. Configure Orchestration AI Agents that invoke tools via MCP to automate interactions. Two tracks: Self-Service (voice/chat automation with escalation) and Agent Assistance (real-time recommendations, note-taking). Covers knowledge bases, AgentCore Gateway, contact flows, Cases AI, Customer Profiles, and Email AI capabilities.
-Amazon Connect
-Amazon Q
-Contact Center
-English, español, 日本語, 한국어
-3 hours
-300 - Advanced
+8 hours
+100 - Foundational
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
 Research Computing Workshop
-This workshop provides hands-on experience in cloud computing basics, containers, High Performance Computing (HPC), and AI/Machine Learning for researchers and research IT staff with little to no cloud computing background.
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
 Amazon SageMaker
 English
 6 hours
 100 - Foundational
-Add Real-Time Web Search to Your AI Agents on AWS
-Learn how to add real-time web search capabilities to AI agents and applications on AWS. Explore two paths: a managed MCP connector via AgentCore Gateway (works with any model) and the Bedrock built-in web search tool. Build agents using Strands SDK, LangChain, or raw tool-calling, and integrate with developer tools like Claude Code and Codex.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English
-3 hours
-300 - Advanced
-The AWS Step Functions Workshop
-The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
-AWS Step Functions
-Compute
-Containers
-English, español, 日本語, português, 繁體中文, 한국어
-3 hours
-200 - Intermediate
-Load 197 more
-Foundational workshops
-Storytelling based AI-powered insights and automation using Amazon Quick
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
-100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
 8 hours
 100 - Foundational
 Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
@@ -122,19 +136,6 @@ Amazon Bedrock
 Machine Learning (ML/AI)
 English, español, português
 2 hours
-100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
-English
-2 hours
-100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
 100 - Foundational
 Start
 FAQs
