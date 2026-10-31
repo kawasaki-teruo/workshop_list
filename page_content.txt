@@ -21,6 +21,30 @@ Duration
 All durations
 Access
 All access types
+AWS Serverless Developer Experience
+This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
+Amazon EventBridge
+AWS Serverless Application Model (AWS SAM)
+AWS Step Functions
+English
+8 hours
+400 - Expert
+Diving Deep into Bedrock AgentCore (Official Workshop)
+A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
+Amazon Bedrock
+Amazon CloudWatch
+Compute
+English, 日本語
+4 hours
+400 - Expert
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
 Free AWS environment available
 Request free sandbox environment
 Getting started with AgentCore (Official Workshop)
@@ -77,51 +101,14 @@ Databases
 English
 8 hours
 300 - Advanced
-Amazon EKS Workshop
-This is the Amazon Elastic Kubernetes Service workshop as hosted on eksworkshop.com. This workshop covers a breadth of content related to EKS and some related technologies and is designed to cater for customers of a variety of skill and experience levels.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon Elastic Container Registry (Amazon ECR)
-Containers
-English, 日本語
-4 hours
-200 - Intermediate
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
-Generative AI
-English, 日本語, français
-1 hours
-200 - Intermediate
-AWS Transform for VMware Migrations
-In this workshop, you will gain hands-on experience with AWS Transform capabilities to perform Assessment and Discovery of your on-premises environment and create a Total Cost of Ownership (TCO) analysis to build a compelling business case for cloud adoption. You will also learn how to quickly migrate applications running on VMware environments to AWS — leveraging the power of Agentic AI tools, note this workshop does not support self-paced, only AWS-lead events by using Workshop Studio.
-Amazon Elastic Compute Cloud (Amazon EC2)
-AWS Application Migration Service
-AWS Transform
-English, 日本語, 한국어, 简体中文
-3 hours
-300 - Advanced
 Load 197 more
 Foundational workshops
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
-100 - Foundational
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
-6 hours
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
+2 hours
 100 - Foundational
 AWS CloudFormation Workshop
 AWS CloudFormation
@@ -130,12 +117,25 @@ Builder Experience
 English, 日本語
 8 hours
 100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
 2 hours
+100 - Foundational
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
 100 - Foundational
 Start
 FAQs

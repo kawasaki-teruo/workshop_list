@@ -3,7 +3,10 @@ https://aws.amazon.com/legal/cookies/
 https://pulse.aws/application/ZRPLWLL6?p=0
 https://aws.amazon.com/privacy/
 https://builder.aws.com/
+https://builder.aws.com/settings
+https://builder.aws.com/settings
 https://builder.aws.com/
+https://builder.aws.com/settings
 https://builder.aws.com/
 https://builder.aws.com/
 https://builder.aws.com/learn
@@ -27,6 +30,9 @@ https://builder.aws.com/build
 https://builder.aws.com/
 https://builder.aws.com/build
 https://builder.aws.com/faq#workshops
+https://catalog.us-east-1.prod.workshops.aws/workshops/9a27e484-7336-4ed0-8f90-f2747e4ac65c
+https://catalog.us-east-1.prod.workshops.aws/workshops/015a2de4-9522-4532-b2eb-639280dc31d8
+https://catalog.us-east-1.prod.workshops.aws/workshops/de3c344e-5cee-48a9-84e9-0292b7708734
 https://catalog.us-east-1.prod.workshops.aws/workshops/c770f35f-90a9-4e02-8985-4ef912bddb77
 https://catalog.us-east-1.prod.workshops.aws/workshops/7aa94656-c586-4ee3-8b5a-5494b3b488b4
 https://catalog.us-east-1.prod.workshops.aws/workshops/2052c4e9-c0ae-4e2d-bf88-f37bae6502dc
@@ -34,13 +40,10 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/dd046ddd-9305-417e-b620-a
 https://catalog.us-east-1.prod.workshops.aws/workshops/e26a7b4a-d8ad-4e99-a205-3c2db176de02
 https://catalog.us-east-1.prod.workshops.aws/workshops/b27726ff-5d62-49e8-bd26-b4e7f539230c
 https://catalog.us-east-1.prod.workshops.aws/workshops/2a5fc82d-2b5f-4105-83c2-91a1b4d7abfe
-https://catalog.us-east-1.prod.workshops.aws/workshops/39146514-f6d5-41cb-86ef-359f9d2f7265
-https://catalog.us-east-1.prod.workshops.aws/workshops/de3c344e-5cee-48a9-84e9-0292b7708734
-https://catalog.us-east-1.prod.workshops.aws/workshops/97a3b199-9414-434d-9f8b-3fe8a82ab10c
+https://catalog.us-east-1.prod.workshops.aws/workshops/05554d54-07cc-483e-b810-d69f7d99b2ab
 https://catalog.us-east-1.prod.workshops.aws/workshops/31ddd26e-91ae-4ec4-a96a-dec96302b306
-https://catalog.us-east-1.prod.workshops.aws/workshops/70fba2e9-9ef1-4c3f-97df-d9afac1182d4
 https://catalog.us-east-1.prod.workshops.aws/workshops/083b80d7-5a90-402b-9bb4-19fb53092808
-https://catalog.workshops.aws/workshops/904d70ab-f747-4b2e-ac6d-88dfd09a03a4
+https://catalog.us-east-1.prod.workshops.aws/workshops/0326bf7e-f586-408b-a509-0b17c27aa5d9
 https://catalog.us-east-1.prod.workshops.aws/workshops/047883b0-0958-410c-bc70-1071f1fb3f52
 https://builder.aws.com/start
 https://builder.aws.com/faq
