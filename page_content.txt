@@ -103,6 +103,12 @@ English
 300 - Advanced
 Load 197 more
 Foundational workshops
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
 Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
 Amazon Bedrock AgentCore
 Amazon Bedrock
@@ -117,25 +123,19 @@ Builder Experience
 English, 日本語
 8 hours
 100 - Foundational
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
+Research Computing Workshop
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
 English
-2 hours
+6 hours
 100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
 100 - Foundational
 Start
 FAQs
