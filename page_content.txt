@@ -21,6 +21,21 @@ Duration
 All durations
 Access
 All access types
+Amazon Connect Global Resiliency
+The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover.
+Amazon Connect
+Contact Center
+English, 日本語
+1 hours
+300 - Advanced
+Amazon ECS Workshop
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, español, português, 日本語, 한국어
+4 hours
+200 - Intermediate
 AWS Serverless Developer Experience
 This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
 Amazon EventBridge
@@ -86,29 +101,8 @@ AWS Billing & Cost Management
 English
 3 hours
 300 - Advanced
-Build an agentic AI system on Amazon EKS with CPU-only inference
-Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
-Amazon Bedrock
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-3 hours
-300 - Advanced
-Amazon RDS for PostgreSQL Workshop
-The RDS PostgreSQL workshop provides customers with hands-on experience using Amazon RDS for PostgreSQL. It uses a modular content format including foundational, intermediate, and advanced labs covering a wide range of RDS features and PostgreSQL topics.
-Amazon RDS for PostgreSQL
-Databases
-English
-8 hours
-300 - Advanced
 Load 197 more
 Foundational workshops
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
-100 - Foundational
 Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
 Amazon Bedrock AgentCore
 Amazon Bedrock
@@ -116,19 +110,25 @@ Machine Learning (ML/AI)
 English, español, português
 2 hours
 100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
 100 - Foundational
-Research Computing Workshop
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
 English
-6 hours
+2 hours
+100 - Foundational
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
 100 - Foundational
 Storytelling based AI-powered insights and automation using Amazon Quick
 Amazon Quick Suite
