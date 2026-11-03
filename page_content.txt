@@ -6,7 +6,7 @@ Workshops
 Workshops
 Accelerate your AWS journey through hands-on workshops crafted by AWS experts to gain practical experience and solve real business challenges.
 How it works
-Find workshops (207)
+Find workshops (208)
 Sort by
 Newest
 Level
@@ -21,6 +21,54 @@ Duration
 All durations
 Access
 All access types
+Agentic Transformation Workshop
+Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
+AWS Transform Custom
+AWS Transform
+Kiro
+English, español, português
+3 hours
+300 - Advanced
+Build a stablecoin payment processor using AWS serverless services
+In this Workshop, you will build a stablecoin payment processing system using AWS serverless architecture. Through hands-on labs, you will implement digital asset workflows using AWS Lambda functions, secure critical transaction data with AWS Key Management Service, and leverage Amazon DynamoDB for high-volume payment processing. This allows you to generate digital asset invoices, detect payments, and sweep funds into a secure treasury wallet.
+AWS Lambda
+Amazon DynamoDB
+Amazon EventBridge
+English
+2 hours
+400 - Expert
+Aurora MySQL Deep Dive Workshop
+This workshop covers all essential concepts required to appropriately set up your databases on Aurora MySQL. Some of the important sessions include testing Aurora Failovers, RDS Proxy, Deep dive into Aurora monitoring and setting up disaster recovery with Aurora Global Databases. This workshop was previously named Aurora MySQL Immersion Day.
+Amazon Aurora
+AWS Lambda
+Databases
+English, 한국어, 日本語
+4 hours
+300 - Advanced
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
+AWS Serverless Developer Experience
+This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
+Amazon EventBridge
+AWS Serverless Application Model (AWS SAM)
+AWS Step Functions
+English
+8 hours
+400 - Expert
+Agentic SecOps with Cybersecurity Agent Factory and Amazon Bedrock
+This workshop is intended to help candidates mitigate Security risks at scale with agentic security workflows and custom autonomous agents. this workflow contains agentic Incident response integrated with Amazon GuardDuty, IAM operations automation, Agentic Vulnerability management remediation workflow integrated with Amazon inspector, and Automated Posture violation remediation integration with aws security hub.
+Amazon Bedrock
+Amazon Inspector
+AWS Security Hub
+English, 한국어, 日本語, 简体中文, Deutsch, français, italiano, español
+4 hours
+400 - Expert
 Amazon Connect Global Resiliency
 The purpose of this workshop is to understand the steps required to enable Amazon Connect Global Resiliency and initiate a failover.
 Amazon Connect
@@ -36,14 +84,6 @@ AWS Fargate
 English, español, português, 日本語, 한국어
 4 hours
 200 - Intermediate
-AWS Serverless Developer Experience
-This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
-Amazon EventBridge
-AWS Serverless Application Model (AWS SAM)
-AWS Step Functions
-English
-8 hours
-400 - Expert
 Diving Deep into Bedrock AgentCore (Official Workshop)
 A new version of this workshop has been published on Aug 6. Basic knowledge of AgentCore fundamentals is a prerequisite. Please complete the pre-work of pre-testing the workshop and identifying the right subset of samples for your audience. Use the materials in the workshop studio - videos, blogs and reading material to prepare before delivering or attending the workshop. Claude Code is configured with AWS documentation MCP servers as your learning partner.
 Amazon Bedrock
@@ -52,14 +92,6 @@ Compute
 English, 日本語
 4 hours
 400 - Expert
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
-Generative AI
-English, 日本語, français
-1 hours
-200 - Intermediate
 Free AWS environment available
 Request free sandbox environment
 Getting started with AgentCore (Official Workshop)
@@ -69,40 +101,22 @@ Generative AI
 English, 日本語, 简体中文, 繁體中文
 3 hours
 300 - Advanced
-Kiro Core
-Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
-Kiro
-Builder Experience
-Generative AI
-English
-4 hours
-200 - Intermediate
-Agent Toolkit for AWS
-Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
-Kiro
-AWS Tools and SDKs
-Builder Experience
-English
-1 hours
-200 - Intermediate
-Build, Test, Optimize: Hands-On with Amazon Connect Customer agentic CX designer (ACXD)
-In this hands-on workshop, you build, test, and optimize an agentic self-service experience in Amazon Connect Customer using the agentic CX designer (ACXD). You start in a prebuilt Amazon Connect environment, pick one of ten industry scenarios, and take a conversational agent from its first prompt to a tested, deployed experience on chat and voice. No coding is required.
-Amazon Connect
-Communication Applications
-Contact Center
-English, 日本語, español, português, 한국어
-4 hours
-200 - Intermediate
-Track and Optimize Generative AI Spend on AWS
-Learn to track and optimize generative AI spend on Amazon Bedrock using multiple cost attribution methods: IAM principal attribution, inference profiles, projects, per-request metadata tagging, and IAM identity log attribution. Apply these across multi-tenant apps, Claude Code, and AgentCore agents. Explore LiteLLM for multi-provider tracking. Build dashboards with Cost Explorer, CUR 2.0, and CUDOS.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-AWS Billing & Cost Management
-English
-3 hours
-300 - Advanced
-Load 197 more
+Load 198 more
 Foundational workshops
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
+100 - Foundational
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
+2 hours
+100 - Foundational
 Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
 Amazon Bedrock AgentCore
 Amazon Bedrock
@@ -117,25 +131,11 @@ Amazon ElastiCache
 English
 2 hours
 100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
-2 hours
-100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
-English
-2 hours
-100 - Foundational
-Storytelling based AI-powered insights and automation using Amazon Quick
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
 100 - Foundational
 Start
 FAQs
