@@ -29,13 +29,13 @@ Compute
 English
 4 hours
 400 - Expert
-Amazon ECS Workshop
-An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
-Amazon Elastic Container Service (Amazon ECS)
-AWS Auto Scaling
-AWS Fargate
-English, español, português, 日本語, 한국어
-4 hours
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+Kiro
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
 200 - Intermediate
 Build an agentic AI system on Amazon EKS with CPU-only inference
 Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
@@ -45,6 +45,30 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 3 hours
 300 - Advanced
+Agent Toolkit for AWS
+Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
+Kiro
+AWS Tools and SDKs
+Builder Experience
+English
+1 hours
+200 - Intermediate
+Agentic Transformation Workshop
+Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
+AWS Transform Custom
+AWS Transform
+Kiro
+English, español, português
+3 hours
+300 - Advanced
+Amazon ECS Workshop
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, español, português, 日本語, 한국어
+4 hours
+200 - Intermediate
 Free AWS environment available
 Request free sandbox environment
 Getting started with AgentCore (Official Workshop)
@@ -80,45 +104,14 @@ AWS Step Functions
 English
 8 hours
 400 - Expert
-Agentic Transformation Workshop
-Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
-AWS Transform Custom
-AWS Transform
-Kiro
-English, español, português
-3 hours
-300 - Advanced
-Build a stablecoin payment processor using AWS serverless services
-In this Workshop, you will build a stablecoin payment processing system using AWS serverless architecture. Through hands-on labs, you will implement digital asset workflows using AWS Lambda functions, secure critical transaction data with AWS Key Management Service, and leverage Amazon DynamoDB for high-volume payment processing. This allows you to generate digital asset invoices, detect payments, and sweep funds into a secure treasury wallet.
-AWS Lambda
-Amazon DynamoDB
-Amazon EventBridge
-English
-2 hours
-400 - Expert
-Aurora MySQL Deep Dive Workshop
-This workshop covers all essential concepts required to appropriately set up your databases on Aurora MySQL. Some of the important sessions include testing Aurora Failovers, RDS Proxy, Deep dive into Aurora monitoring and setting up disaster recovery with Aurora Global Databases. This workshop was previously named Aurora MySQL Immersion Day.
-Amazon Aurora
-AWS Lambda
-Databases
-English, 한국어, 日本語
-4 hours
-300 - Advanced
 Load 198 more
 Foundational workshops
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
 English
-8 hours
-100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
+6 hours
 100 - Foundational
 Storytelling based AI-powered insights and automation using Amazon Quick
 Amazon Quick Suite
@@ -127,16 +120,24 @@ Generative AI
 English, 한국어
 3 hours
 100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-English
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
 2 hours
 100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
 English
 2 hours
 100 - Foundational
