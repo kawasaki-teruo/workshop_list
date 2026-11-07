@@ -22,27 +22,27 @@ All durations
 Access
 All access types
 MAM406 - Migrate & Modernize Windows to Linux and SQL to PostgreSQL with agentic AI
-Join this Activation Day to migrate and modernize Microsoft Server workloads to Amazon EC2 using AWS Application Migration Service and AWS Transform. This hands-on session leverages Kiro to accelerate planning and execution, covering best practices for rehosting, right-sizing, and optimizing licensing costs. Ideal for IT teams looking to reduce on-premises footprint and unlock cloud benefits.
+Facing rising Windows and SQL Server licensing costs? In this hands-on workshop, rehost a Windows IIS and SQL Server app to Amazon EC2 with AWS Transform MGN, then modernize it with agentic AI. Use AWS Transform to convert the schema to Amazon Aurora PostgreSQL and Kiro to convert the PHP code and build the infrastructure, then let AWS Transform containerize the app and deploy it to Amazon EKS. Leave with a repeatable pattern for migrating and modernizing your own Windows workloads.
 Amazon Elastic Compute Cloud (Amazon EC2)
 AWS Application Migration Service
 Compute
 English
 4 hours
 400 - Expert
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
-Kiro
-Builder Experience
-Generative AI
-English, 日本語, français
-1 hours
-200 - Intermediate
-Build an agentic AI system on Amazon EKS with CPU-only inference
-Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
-Amazon Bedrock
-Amazon Elastic Compute Cloud (Amazon EC2)
-Amazon Elastic Kubernetes Service (Amazon EKS)
+GenAI/ML Standardization with SageMaker AI
+Build a standardized ML environment on Amazon SageMaker AI covering security controls, MLOps pipelines, CI/CD automation, experiment tracking, deployment and observability.
+Amazon CloudWatch
+Amazon SageMaker Studio
+Amazon SageMaker
 English
+2 hours
+300 - Advanced
+One Observability Workshop
+This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
+Amazon CloudWatch
+Amazon Managed Service for Prometheus (AMP)
+AWS X-Ray
+English, 한국어, 日本語
 3 hours
 300 - Advanced
 Agent Toolkit for AWS
@@ -53,39 +53,28 @@ Builder Experience
 English
 1 hours
 200 - Intermediate
-Agentic Transformation Workshop
-Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
-AWS Transform Custom
-AWS Transform
+Kiro Express
+Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
 Kiro
-English, español, português
-3 hours
-300 - Advanced
-Amazon ECS Workshop
-An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
-Amazon Elastic Container Service (Amazon ECS)
-AWS Auto Scaling
-AWS Fargate
-English, español, português, 日本語, 한국어
+Builder Experience
+Generative AI
+English, 日本語, français
+1 hours
+200 - Intermediate
+Kiro Core
+Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
+Kiro
+Builder Experience
+Generative AI
+English
 4 hours
 200 - Intermediate
-Free AWS environment available
-Request free sandbox environment
-Getting started with AgentCore (Official Workshop)
-Getting started on AgentCore: Let's build an end-to-end use case using Amazon Bedrock AgentCore. The workshop currently uses AgentCore CLI V0.30.0. The Migration to Agentcore CLI V1 is in progress. Please do not upgrade your AgentCore CLI version.
-Amazon Bedrock AgentCore
-Generative AI
-English, 日本語, 简体中文, 繁體中文
-3 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-Once Upon Agentic AI: A Developer's Epic Journey
-Welcome, brave adventurer, to the ultimate Strands framework quest! This comprehensive workshop will transform you from a coding apprentice into a master of AI agent orchestration. Through five epic chapters, you'll learn to create, equip, and command digital companions that can think, act, and collaborate like a legendary adventuring party.
-Amazon Bedrock AgentCore
+Build an agentic AI system on Amazon EKS with CPU-only inference
+Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
 Amazon Bedrock
-AWS Tools and SDKs
-English, français, Deutsch, 한국어
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+English
 3 hours
 300 - Advanced
 Agentic Fraud Detection
@@ -96,29 +85,36 @@ Amazon Simple Storage Service (Amazon S3)
 English
 4 hours
 300 - Advanced
-AWS Serverless Developer Experience
-This workshop is a hands-on training program to develop serverless skills using AWS SAM and SAM CLI. It focuses on practical, code-centric learning with real-world scenarios, covering distributed event-driven architectures, messaging patterns, orchestration, and observability. Participants will use open-source tools, Powertools for AWS, and CI/CD. Available in Python, TypeScript, Java, or .NET.
-Amazon EventBridge
-AWS Serverless Application Model (AWS SAM)
-AWS Step Functions
-English
-8 hours
-400 - Expert
+Amazon ECS Workshop
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, español, português, 日本語, 한국어
+4 hours
+200 - Intermediate
+Agentic Transformation Workshop
+Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
+AWS Transform Custom
+AWS Transform
+Kiro
+English, español, português
+3 hours
+300 - Advanced
 Load 198 more
 Foundational workshops
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
 Research Computing Workshop
 Amazon Elastic Container Service (Amazon ECS)
 Amazon Elastic Kubernetes Service (Amazon EKS)
 Amazon SageMaker
 English
 6 hours
-100 - Foundational
-Storytelling based AI-powered insights and automation using Amazon Quick
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
 100 - Foundational
 Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
 Amazon Bedrock AgentCore
@@ -127,19 +123,19 @@ Machine Learning (ML/AI)
 English, español, português
 2 hours
 100 - Foundational
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
-100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
+Container Foundations on AWS
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
+100 - Foundational
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
+8 hours
 100 - Foundational
 Start
 FAQs
