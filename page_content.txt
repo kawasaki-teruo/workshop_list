@@ -21,6 +21,14 @@ Duration
 All durations
 Access
 All access types
+Amazon ECS Workshop
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, español, português, 日本語, 한국어
+4 hours
+200 - Intermediate
 MAM406 - Migrate & Modernize Windows to Linux and SQL to PostgreSQL with agentic AI
 Facing rising Windows and SQL Server licensing costs? In this hands-on workshop, rehost a Windows IIS and SQL Server app to Amazon EC2 with AWS Transform MGN, then modernize it with agentic AI. Use AWS Transform to convert the schema to Amazon Aurora PostgreSQL and Kiro to convert the PHP code and build the infrastructure, then let AWS Transform containerize the app and deploy it to Amazon EKS. Leave with a repeatable pattern for migrating and modernizing your own Windows workloads.
 Amazon Elastic Compute Cloud (Amazon EC2)
@@ -85,14 +93,6 @@ Amazon Simple Storage Service (Amazon S3)
 English
 4 hours
 300 - Advanced
-Amazon ECS Workshop
-An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
-Amazon Elastic Container Service (Amazon ECS)
-AWS Auto Scaling
-AWS Fargate
-English, español, português, 日本語, 한국어
-4 hours
-200 - Intermediate
 Agentic Transformation Workshop
 Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
 AWS Transform Custom
@@ -103,25 +103,19 @@ English, español, português
 300 - Advanced
 Load 198 more
 Foundational workshops
-IAM Core Workshop (Formerly: IAM Immersion Day)
-AWS Identity & Access Management (IAM)
-Security, Identity, and Compliance
-English, 한국어, 日本語
-6 hours
+Storytelling based AI-powered insights and automation using Amazon Quick
+Amazon Quick Suite
+Analytics
+Generative AI
+English, 한국어
+3 hours
 100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
-English
-6 hours
-100 - Foundational
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
+AWS CloudFormation Workshop
+AWS CloudFormation
+Management & Governance
+Builder Experience
+English, 日本語
+8 hours
 100 - Foundational
 Container Foundations on AWS
 Amazon Elastic Container Registry (Amazon ECR)
@@ -130,12 +124,18 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 100 - Foundational
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
-8 hours
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
+English
+2 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
 100 - Foundational
 Start
 FAQs
