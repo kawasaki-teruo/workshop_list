@@ -21,62 +21,32 @@ Duration
 All durations
 Access
 All access types
-Amazon ECS Workshop
-An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
-Amazon Elastic Container Service (Amazon ECS)
-AWS Auto Scaling
-AWS Fargate
-English, español, português, 日本語, 한국어
-4 hours
-200 - Intermediate
-MAM406 - Migrate & Modernize Windows to Linux and SQL to PostgreSQL with agentic AI
-Facing rising Windows and SQL Server licensing costs? In this hands-on workshop, rehost a Windows IIS and SQL Server app to Amazon EC2 with AWS Transform MGN, then modernize it with agentic AI. Use AWS Transform to convert the schema to Amazon Aurora PostgreSQL and Kiro to convert the PHP code and build the infrastructure, then let AWS Transform containerize the app and deploy it to Amazon EKS. Leave with a repeatable pattern for migrating and modernizing your own Windows workloads.
-Amazon Elastic Compute Cloud (Amazon EC2)
-AWS Application Migration Service
+Free AWS environment available
+Request free sandbox environment
+The AWS Step Functions Workshop
+The workshop covers the primary features of AWS Step Functions. It contains all the latest changes including JSONata.
+AWS Step Functions
 Compute
-English
-4 hours
-400 - Expert
-GenAI/ML Standardization with SageMaker AI
-Build a standardized ML environment on Amazon SageMaker AI covering security controls, MLOps pipelines, CI/CD automation, experiment tracking, deployment and observability.
-Amazon CloudWatch
-Amazon SageMaker Studio
-Amazon SageMaker
-English
-2 hours
-300 - Advanced
-One Observability Workshop
-This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
-Amazon CloudWatch
-Amazon Managed Service for Prometheus (AMP)
-AWS X-Ray
-English, 한국어, 日本語
+Containers
+English, español, 日本語, português, 繁體中文, 한국어
 3 hours
-300 - Advanced
-Agent Toolkit for AWS
-Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
-Kiro
-AWS Tools and SDKs
-Builder Experience
-English
-1 hours
 200 - Intermediate
-Kiro Express
-Discover Kiro, your IDE build from the ground-up to seamlessly integrate AI agents into the development workflow. Explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution
+AWS HealthOmics: Modernizing Genomics from Storage to GenAI
+Learn to modernize genomics workloads using AWS HealthOmics. This hands-on workshop covers genomic data storage with Reference and Sequence Stores, running WDL/Nextflow workflows, migrating nf-core pipelines, querying variant data with S3 Tables and Athena, and leveraging Kiro CLI for AI-assisted workflow development. Build production-ready genomics pipelines from storage to analysis.
+AWS HealthOmics
+Amazon S3 Tables
 Kiro
-Builder Experience
-Generative AI
-English, 日本語, français
-1 hours
-200 - Intermediate
-Kiro Core
-Turn plain English into specs, working code, and tests — reviewing every step. Build a real app hands-on with Kiro, Amazon's AI-native dev agent, on your surface of choice: IDE, CLI, or IntelliJ. Go from chat-driven edits to full spec-driven development, then steer the agent with skills, MCP, custom agents, and hooks. No backend to deploy — it runs in your browser. ~4 hours, modules stand alone. For developers, from first-timers to automation power users.
-Kiro
-Builder Experience
-Generative AI
-English
+English, 한국어
 4 hours
-200 - Intermediate
+300 - Advanced
+Free .NET apps from Windows licensing with AI-powered portability using AWS Transform and Kiro
+In this workshop, gain hands-on experience modernizing a .NET Framework application to cross-platform .NET. Use AWS Transform for .NET a modernization service powered by agentic AI that significantly reduces the time to migrate applications from Windows Server to Linux. Then leverage an AI-powered IDE, to identify and fix any residual gaps, giving you full confidence in your modernized application. Together, these tools create a powerful end-to-end modernization accelerators.
+AWS Transform
+Kiro
+Microsoft
+English, português, español
+2 hours
+400 - Expert
 Build an agentic AI system on Amazon EKS with CPU-only inference
 Build a multi-agent AI system on Amazon EKS Auto Mode that serves every model on CPU: a fine-tuned intent router and embedding model (ONNX, trained on CPU), a cross-encoder re-ranker, and a quantized generative analyst on llama.cpp grounded by RAG from OpenSearch. Amazon Bedrock generates synthetic training data, judges answers with a faithfulness gate, and handles edge cases small models cannot. A control test puts a frontier LLM in the same seat so you know if the small model is good enough.
 Amazon Bedrock
@@ -85,44 +55,68 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 3 hours
 300 - Advanced
-Agentic Fraud Detection
-Build the offline optimization layer for payment fraud detection. Ingest 24M transactions into Apache Iceberg, construct a Neptune knowledge graph revealing fraud rings, and train a unified XGBoost ensemble combining transaction foundation model embeddings, GNN graph embeddings, and traditional features. Deploy AI agents on Amazon Bedrock AgentCore that autonomously investigate patterns, score customers with explainable predictions, and generate detection rules — compressing weeks into minutes.
-Amazon Bedrock
-Amazon SageMaker
-Amazon Simple Storage Service (Amazon S3)
+MAM406 - Migrate & Modernize Windows to Linux and SQL to PostgreSQL with agentic AI
+Facing rising Windows and SQL Server licensing costs? In this hands-on workshop, rehost a Windows IIS and SQL Server app to Amazon EC2 with AWS Transform MGN, then modernize it with agentic AI. Use AWS Transform to convert the schema to Amazon Aurora PostgreSQL and Kiro to convert the PHP code and build the infrastructure, then let AWS Transform containerize the app and deploy it to Amazon EKS. Leave with a repeatable pattern for migrating and modernizing your own Windows workloads.
+Amazon Elastic Compute Cloud (Amazon EC2)
+AWS Application Migration Service
+Compute
+English
+4 hours
+400 - Expert
+Amazon DynamoDB Workshop
+The Amazon DynamoDB workshop provides hands-on training for developers. It covers basic table operations and advanced NoSQL data modeling like single-table design. You will learn to manage relationships using primary keys and secondary indexes. The workshop shows how to build multi-region apps with Global Tables and use event-driven patterns with DynamoDB Streams and Lambda. It includes labs for high-scale gaming data and focuses on performance and cost optimization.
+Amazon DynamoDB
+AWS Lambda
+Databases
 English
 4 hours
 300 - Advanced
-Agentic Transformation Workshop
-Go from "where should we use agents?" to a deployed agentic use case using AWS Transform end-to-end. Discover business processes with EventStorming, identify where agents add value with Cognitive Complexity Analysis, run Agentic Readiness and Modernization analyses, build a prioritized roadmap, and execute an automated transformation — all with first-party AWS tooling including the atx CLI and Kiro CLI.
-AWS Transform Custom
-AWS Transform
-Kiro
-English, español, português
-3 hours
+CI/CD on AWS Workshop
+CI/CD workshop to offer prescriptive guidance on how to build automation pipelines for * Continuous Integration * Continuous Deployment * Continuous Delivery
+AWS Cloud Development Kit (AWS CDK)
+AWS CodePipeline
+AWS CodeCommit
+English, 日本語
+4 hours
+300 - Advanced
+Data for SaaS : Agentic AI Speedrun !!
+Data for SaaS : Agentic AI Speedrun !!
+Amazon DynamoDB
+Amazon OpenSearch Service
+Amazon RDS for PostgreSQL
+English
+4 hours
+300 - Advanced
+Amazon ECS Workshop
+An ECS Workshop provides an end-to-end application development and deployment experience to demonstrate features of Amazon ECS, using real-world services from an application development perspective in order to educate users about the features of Amazon ECS such as scaling, networking, observability, security and automation.
+Amazon Elastic Container Service (Amazon ECS)
+AWS Auto Scaling
+AWS Fargate
+English, español, português, 日本語, 한국어
+4 hours
+200 - Intermediate
+GenAI/ML Standardization with SageMaker AI
+Build a standardized ML environment on Amazon SageMaker AI covering security controls, MLOps pipelines, CI/CD automation, experiment tracking, deployment and observability.
+Amazon CloudWatch
+Amazon SageMaker Studio
+Amazon SageMaker
+English
+2 hours
 300 - Advanced
 Load 198 more
 Foundational workshops
-Foundational Security, Identity, and Governance Workshop
-AWS Control Tower
-AWS Identity & Access Management (IAM)
-AWS Security Hub
-English
-8 hours
+Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
+Amazon Bedrock AgentCore
+Amazon Bedrock
+Machine Learning (ML/AI)
+English, español, português
+2 hours
 100 - Foundational
-Storytelling based AI-powered insights and automation using Amazon Quick
+Getting started with Quick Automate
 Amazon Quick Suite
-Analytics
 Generative AI
-English, 한국어
-3 hours
-100 - Foundational
-Research Computing Workshop
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon SageMaker
 English
-6 hours
+2 hours
 100 - Foundational
 Container Foundations on AWS
 Amazon Elastic Container Registry (Amazon ECR)
@@ -136,6 +130,13 @@ AWS Identity & Access Management (IAM)
 Security, Identity, and Compliance
 English, 한국어, 日本語
 6 hours
+100 - Foundational
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
+8 hours
 100 - Foundational
 Start
 FAQs
