@@ -21,99 +21,86 @@ Duration
 All durations
 Access
 All access types
-Free AWS environment available
-Request free sandbox environment
-Storytelling based AI-powered insights and automation using AWS Quick
-In this workshop, participants will learn AWS Quick's powerful AI capabilities through a storytelling approach. Participants will learn how to derive insights from data based on real business scenarios and automate repetitive tasks.
-Amazon Quick Suite
-Analytics
-Generative AI
-English, 한국어
-3 hours
-100 - Foundational
-Amazon DynamoDB Workshop
-The Amazon DynamoDB workshop provides hands-on training for developers. It covers basic table operations and advanced NoSQL data modeling like single-table design. You will learn to manage relationships using primary keys and secondary indexes. The workshop shows how to build multi-region apps with Global Tables and use event-driven patterns with DynamoDB Streams and Lambda. It includes labs for high-scale gaming data and focuses on performance and cost optimization.
-Amazon DynamoDB
-AWS Lambda
-Databases
-English
-4 hours
-300 - Advanced
-AWS Transform for SQL Server
-AWS Transform for SQL Server Modernization - Offline Source migrating SQL Server to Amazon Aurora PostgreSQL
-AWS Transform
-Databases
-English
-2 hours
-300 - Advanced
-SageMaker HyperPod EKS for AWS Hosted Events
-SageMaker HyperPod removes the undifferentiated heavy lifting involved in building and optimizing machine learning (ML) infrastructure for training foundation models (FMs), reducing training time by up to 40%. In this builders’ session, learn how to pre-train a large language model (LLM) using Slurm on SageMaker HyperPod. Explore the model pre-training workflow from start to finish, including setting up clusters, troubleshooting convergence issues, and running distributed training.
-Amazon SageMaker
-Amazon FSx for Lustre
+MAM406 - Migrate & Modernize Windows to Linux and SQL to PostgreSQL with agentic AI
+Facing rising Windows and SQL Server licensing costs? In this hands-on workshop, rehost a Windows IIS and SQL Server app to Amazon EC2 with AWS Transform MGN, then modernize it with agentic AI. Use AWS Transform to convert the schema to Amazon Aurora PostgreSQL and Kiro to convert the PHP code and build the infrastructure, then let AWS Transform containerize the app and deploy it to Amazon EKS. Leave with a repeatable pattern for migrating and modernizing your own Windows workloads.
 Amazon Elastic Compute Cloud (Amazon EC2)
+AWS Application Migration Service
+Compute
 English
-2 hours
+4 hours
+400 - Expert
+Amazon EKS Workshop
+This is the Amazon Elastic Kubernetes Service workshop as hosted on eksworkshop.com. This workshop covers a breadth of content related to EKS and some related technologies and is designed to cater for customers of a variety of skill and experience levels.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon Elastic Container Registry (Amazon ECR)
+Containers
+English, 日本語
+4 hours
+200 - Intermediate
+Amazon Cognito Workshop
+This workshop provides a deep dive into Amazon Cognito and Customer Identity and Access Management (CIAM). Participants will create a User Pool from scratch and build authentication for a fictional pet shop, covering Managed Login with OAuth 2.0, SDK-based auth, machine-to-machine authorization, SAML federation, custom Lambda auth flows, user migration, security features, multi-Region replication (MRR) and observability.
+Amazon Cognito
+Security, Identity, and Compliance
+English
+6 hours
 300 - Advanced
-Track and Optimize Generative AI Spend on AWS
-Learn to track and optimize generative AI spend on Amazon Bedrock using multiple cost attribution methods: IAM principal attribution, inference profiles, projects, per-request metadata tagging, and IAM identity log attribution. Apply these across multi-tenant apps, Claude Code, and AgentCore agents. Explore LiteLLM for multi-provider tracking. Build dashboards with Cost Explorer, CUR 2.0, and CUDOS.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-AWS Billing & Cost Management
-English
+Dive Deep into AWS DevOps Agent
+Learn how AWS DevOps Agent resolves and proactively prevents incidents, continuously improving reliability/performance of your application. Reduce MTTR, automate root cause analysis, and implement proactive improvements to AWS infrastructure and observability. Features modular format allowing participants to choose relevant modules for their specific needs. To fix transient deployment failures: Login with ops role →CloudFormation →Update workshop-team-stack →Wait 30min →Revalidate deployment.
+AWS DevOps Agent
+Cloud Operations
+English, 日本語, 한국어, 简体中文, español
 3 hours
 300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Build a production-ready customer service AI agent step by step with the open-source Strands Agents SDK, then take it to production on Amazon Bedrock AgentCore. Seven hands-on modules, one new capability each.
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
+Analytics on EKS
+This advanced workshop teaches you how to optimize Amazon EKS Auto Mode for cost-performance when running Apache Spark analytics jobs. You'll run the same Spark job five times with different infrastructure configurations including Spot instances, NVMe storage, and Graviton, and compare completion times. You'll then monitor and analyze cost per job. By the end, you'll be able to compare infrastructure options and make informed cost-performance decisions for Spark workloads on EKS.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon Simple Storage Service (Amazon S3)
+Amazon Managed Service for Prometheus (AMP)
+English
 2 hours
-100 - Foundational
-AWS HealthOmics: Modernizing Genomics from Storage to GenAI
-Learn to modernize genomics workloads using AWS HealthOmics. This hands-on workshop covers genomic data storage with Reference and Sequence Stores, running WDL/Nextflow workflows, migrating nf-core pipelines, querying variant data with S3 Tables and Athena, and leveraging Kiro CLI for AI-assisted workflow development. Build production-ready genomics pipelines from storage to analysis.
-AWS HealthOmics
-Amazon S3 Tables
+400 - Expert
+Threat Detection and Response Workshop
+This workshop is designed to get you familiar with the AWS threat detection and response services, best practices, use cases, and then use what you learn to dive deeper into scenarios. All of this is designed to prepare you and help you operate more securely on AWS. This workshop goes though overviews and operationalization of Amazon GuardDuty and Amazon Detective.
+Amazon Detective
+Amazon GuardDuty
+Security, Identity, and Compliance
+English, português, 한국어
+4 hours
+300 - Advanced
+One Observability Workshop
+This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
+Amazon CloudWatch
+Amazon Managed Service for Prometheus (AMP)
+AWS X-Ray
+English, 한국어, 日本語
+3 hours
+300 - Advanced
+GenAI/ML Standardization with SageMaker AI
+Build a standardized ML environment on Amazon SageMaker AI covering security controls, MLOps pipelines, CI/CD automation, experiment tracking, deployment and observability.
+Amazon CloudWatch
+Amazon SageMaker Studio
+Amazon SageMaker
+English
+2 hours
+300 - Advanced
+Amazon Connect AI Agents
+Build action-oriented customer experiences with Amazon Connect AI Agents. Configure Orchestration AI Agents that invoke tools via MCP to automate interactions. Two tracks: Self-Service (voice/chat automation with escalation) and Agent Assistance (real-time recommendations, note-taking). Covers knowledge bases, AgentCore Gateway, contact flows, Cases AI, Customer Profiles, and Email AI capabilities.
+Amazon Connect
+Amazon Q
+Contact Center
+English, español, 日本語, 한국어
+3 hours
+300 - Advanced
+Agent Toolkit for AWS
+Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
 Kiro
-English, 한국어
-4 hours
-300 - Advanced
-Free AWS environment available
-Request free sandbox environment
-Amazon Redshift Hands-on Workshop
-This set of workshops provides a series of exercises which help users get started using the Redshift platform. It also helps demonstrate the many features built into the platform.
-Amazon Redshift
-Analytics
-Serverless
-English, 日本語, 한국어
-4 hours
-200 - Intermediate
-AWS Quick for Automotive & Manufacturing: From Data to Decisions
-Welcome! This hands-on workshop guides you through the key features of the AWS Quick using a practical automotive and manufacturing scenario — from Chat and Spaces to Flows and QuickSight analytics, run end-to-end.
-Amazon Quick Suite
-Amazon QuickSight
-Analytics
+AWS Tools and SDKs
+Builder Experience
 English
-3 hours
-200 - Intermediate
-Build Your First Graph Application with Amazon Neptune
-Learn everything you need to know to get started with graph databases on Amazon Neptune. This includes how to set up, configure, and manage a Neptune Database cluster according to operational best practices, how to write graph queries, and how to integrate Neptune Database into a full end-to-end solution with a user interface.
-Amazon Neptune
-Databases
-日本語, English
-3 hours
+1 hours
 200 - Intermediate
 Load 198 more
 Foundational workshops
-Building AI Agents with Strands SDK: From Simple Loops to Multi-Agent Swarms
-Amazon Bedrock AgentCore
-Amazon Bedrock
-Machine Learning (ML/AI)
-English, español, português
-2 hours
-100 - Foundational
 AWS CloudFormation Workshop
 AWS CloudFormation
 Management & Governance
@@ -121,16 +108,15 @@ Builder Experience
 English, 日本語
 8 hours
 100 - Foundational
+IAM Core Workshop (Formerly: IAM Immersion Day)
+AWS Identity & Access Management (IAM)
+Security, Identity, and Compliance
+English, 한국어, 日本語
+6 hours
+100 - Foundational
 Getting started with Quick Automate
 Amazon Quick Suite
 Generative AI
-English
-2 hours
-100 - Foundational
-Container Foundations on AWS
-Amazon Elastic Container Registry (Amazon ECR)
-Amazon Elastic Container Service (Amazon ECS)
-Amazon Elastic Kubernetes Service (Amazon EKS)
 English
 2 hours
 100 - Foundational
@@ -140,6 +126,13 @@ Analytics
 Generative AI
 English, 한국어
 3 hours
+100 - Foundational
+AWS 101 - NoSQL Databases
+Amazon DynamoDB
+Amazon DocumentDB (with MongoDB compatibility)
+Amazon ElastiCache
+English
+2 hours
 100 - Foundational
 Start
 FAQs
