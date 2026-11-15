@@ -29,6 +29,46 @@ Compute
 English
 4 hours
 400 - Expert
+AI for ECS Ops
+Accelerate your cloud development journey with this hands-on builder session demonstrating how to leverage Model Context Protocol (MCP) servers, Kiro CLI, and AI assistance on AWS. Participate live as we showcase how AI can dramatically speed up your PoC development, MVP creation, production infrastructure deployment, and migration of existing workloads using Amazon ECS.
+Amazon Elastic Container Registry (Amazon ECR)
+Amazon Elastic Container Service (Amazon ECS)
+Kiro
+English
+2 hours
+300 - Advanced
+Amazon SageMaker AI MLOps - from idea to production
+This workshop takes you through the process of development a machine learning (ML) solution. You create a ML project in Amazon SageMaker Studio and go through all stages of implementation such as data exploration, interactive experimentation, using SageMaker jobs, setting up MLOps pipelines, and finally deliver the project into production. You learn how to work with SageMaker MLOps building blocks. The target audience are data scientists, ML, MLOps, and DevOps engineers, and technical managers.
+Amazon SageMaker Studio
+Amazon SageMaker
+Amazon SageMaker with MLflow
+English, 한국어
+4 hours
+300 - Advanced
+Free .NET apps from Windows licensing with AI-powered portability using AWS Transform and Kiro
+In this workshop, gain hands-on experience modernizing a .NET Framework application to cross-platform .NET. Use AWS Transform for .NET a modernization service powered by agentic AI that significantly reduces the time to migrate applications from Windows Server to Linux. Then leverage an AI-powered IDE, to identify and fix any residual gaps, giving you full confidence in your modernized application. Together, these tools create a powerful end-to-end modernization accelerators.
+AWS Transform
+Kiro
+Microsoft
+English, português, español
+2 hours
+400 - Expert
+Analytics on EKS
+This advanced workshop teaches you how to optimize Amazon EKS Auto Mode for cost-performance when running Apache Spark analytics jobs. You'll run the same Spark job five times with different infrastructure configurations including Spot instances, NVMe storage, and Graviton, and compare completion times. You'll then monitor and analyze cost per job. By the end, you'll be able to compare infrastructure options and make informed cost-performance decisions for Spark workloads on EKS.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon Simple Storage Service (Amazon S3)
+Amazon Managed Service for Prometheus (AMP)
+English
+2 hours
+400 - Expert
+Kiro Crew: The Autonomous Developer Workflow
+Kiro Crew is an open-source AI agent workspace that runs on your own hardware and keeps working between conversations. In this hands-on workshop you'll learn its workflow engine, define and teach your own agents, and compose a team of specialized agents. You'll give them persistent knowledge and memory, then schedule jobs that run overnight and brief you before your day starts. You leave with a working Kiro Crew setup you'll actually use for daily development.
+Kiro
+Builder Experience
+Open Source Software (OSS)
+English
+3 hours
+300 - Advanced
 Amazon EKS Workshop
 This is the Amazon Elastic Kubernetes Service workshop as hosted on eksworkshop.com. This workshop covers a breadth of content related to EKS and some related technologies and is designed to cater for customers of a variety of skill and experience levels.
 Amazon Elastic Kubernetes Service (Amazon EKS)
@@ -51,14 +91,6 @@ Cloud Operations
 English, 日本語, 한국어, 简体中文, español
 3 hours
 300 - Advanced
-Analytics on EKS
-This advanced workshop teaches you how to optimize Amazon EKS Auto Mode for cost-performance when running Apache Spark analytics jobs. You'll run the same Spark job five times with different infrastructure configurations including Spot instances, NVMe storage, and Graviton, and compare completion times. You'll then monitor and analyze cost per job. By the end, you'll be able to compare infrastructure options and make informed cost-performance decisions for Spark workloads on EKS.
-Amazon Elastic Kubernetes Service (Amazon EKS)
-Amazon Simple Storage Service (Amazon S3)
-Amazon Managed Service for Prometheus (AMP)
-English
-2 hours
-400 - Expert
 Threat Detection and Response Workshop
 This workshop is designed to get you familiar with the AWS threat detection and response services, best practices, use cases, and then use what you learn to dive deeper into scenarios. All of this is designed to prepare you and help you operate more securely on AWS. This workshop goes though overviews and operationalization of Amazon GuardDuty and Amazon Detective.
 Amazon Detective
@@ -67,58 +99,27 @@ Security, Identity, and Compliance
 English, português, 한국어
 4 hours
 300 - Advanced
-One Observability Workshop
-This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.
-Amazon CloudWatch
-Amazon Managed Service for Prometheus (AMP)
-AWS X-Ray
-English, 한국어, 日本語
-3 hours
-300 - Advanced
-GenAI/ML Standardization with SageMaker AI
-Build a standardized ML environment on Amazon SageMaker AI covering security controls, MLOps pipelines, CI/CD automation, experiment tracking, deployment and observability.
-Amazon CloudWatch
-Amazon SageMaker Studio
-Amazon SageMaker
-English
-2 hours
-300 - Advanced
-Amazon Connect AI Agents
-Build action-oriented customer experiences with Amazon Connect AI Agents. Configure Orchestration AI Agents that invoke tools via MCP to automate interactions. Two tracks: Self-Service (voice/chat automation with escalation) and Agent Assistance (real-time recommendations, note-taking). Covers knowledge bases, AgentCore Gateway, contact flows, Cases AI, Customer Profiles, and Email AI capabilities.
-Amazon Connect
-Amazon Q
-Contact Center
-English, español, 日本語, 한국어
-3 hours
-300 - Advanced
-Agent Toolkit for AWS
-Give your coding agent the tools, knowledge, and guardrails to build production-ready infrastructure on AWS.
-Kiro
-AWS Tools and SDKs
-Builder Experience
-English
-1 hours
-200 - Intermediate
 Load 198 more
 Foundational workshops
-AWS CloudFormation Workshop
-AWS CloudFormation
-Management & Governance
-Builder Experience
-English, 日本語
+Foundational Security, Identity, and Governance Workshop
+AWS Control Tower
+AWS Identity & Access Management (IAM)
+AWS Security Hub
+English
 8 hours
+100 - Foundational
+Research Computing Workshop
+Amazon Elastic Container Service (Amazon ECS)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+Amazon SageMaker
+English
+6 hours
 100 - Foundational
 IAM Core Workshop (Formerly: IAM Immersion Day)
 AWS Identity & Access Management (IAM)
 Security, Identity, and Compliance
 English, 한국어, 日本語
 6 hours
-100 - Foundational
-Getting started with Quick Automate
-Amazon Quick Suite
-Generative AI
-English
-2 hours
 100 - Foundational
 Storytelling based AI-powered insights and automation using AWS Quick
 Amazon Quick Suite
@@ -127,10 +128,9 @@ Generative AI
 English, 한국어
 3 hours
 100 - Foundational
-AWS 101 - NoSQL Databases
-Amazon DynamoDB
-Amazon DocumentDB (with MongoDB compatibility)
-Amazon ElastiCache
+Getting started with Quick Automate
+Amazon Quick Suite
+Generative AI
 English
 2 hours
 100 - Foundational
